@@ -1,0 +1,36 @@
+name: Daily Analytics
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # once a day
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  analytics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Collect analytics
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: npm run analytics
+
+      - name: Commit updated analytics
+        run: |
+          git config user.name "crypto-markets-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "analytics: daily snapshot [skip ci]"
+          git push

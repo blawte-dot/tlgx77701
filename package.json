@@ -1,0 +1,23 @@
+{
+  "name": "crypto-and-markets",
+  "version": "1.0.0",
+  "description": "Event-driven automated crypto news system publishing to X and Telegram",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "collect-publish": "node src/pipeline.mjs",
+    "dry-run": "cross-env DRY_RUN=true node src/pipeline.mjs",
+    "analytics": "node src/analytics/collect.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "cross-env": "^7.0.3",
+    "fast-xml-parser": "^4.5.0",
+    "node-fetch": "^3.3.2",
+    "twitter-api-v2": "^1.18.2"
+  }
+}

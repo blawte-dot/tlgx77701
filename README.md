@@ -1,0 +1,123 @@
+# Crypto & Markets — نظام آلي للنشر على X وTelegram
+
+نظام إعلامي آلي يعتمد على الأحداث (Event-driven) وليس على جدول زمني ثابت (Clock-driven).
+يجمع أخبار الكريبتو والأسواق، يتحقق منها، يقيّم أهميتها، يولّد محتوى أصليًا عبر الذكاء
+الاصطناعي، وينشره على X وTelegram — فقط عندما يستحق الأمر النشر.
+
+---
+
+## 1) البنية
+
+```
+sources (RSS + CoinGecko) → dedupe → verify → score
+      → AI content generation → quality gates → publish (X + Telegram)
+      → state (data/*.json) → analytics
+```
+
+- `src/sources/` — جمع الأخبار (RSS) وبيانات السوق (CoinGecko)
+- `src/events/` — إزالة التكرار، التحقق، تسجيل الأهمية
+- `src/ai/` + `src/content/` — توليد المحتوى والتحقق من جودته قبل النشر
+- `src/publish/` — النشر الفعلي على X وTelegram
+- `src/growth/` — محرك اتخاذ قرار CTA (متى نضع رابط Telegram في منشور X)
+- `src/analytics/` — تجميع الإحصاءات المتاحة (اشتراكات القناة)
+- `src/state/` — طبقة تخزين بسيطة عبر ملفات JSON في `data/`
+- `.github/workflows/` — التشغيل الآلي عبر GitHub Actions
+
+---
+
+## 2) التشغيل محليًا (اختياري، للاختبار فقط)
+
+```bash
+npm install
+cp .env.example .env   # ثم املأ القيم
+npm test                # يشغّل كل الاختبارات
+npm run dry-run         # يجمع/يولّد لكن لا ينشر أبدًا
+npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إذا DRY_RUN=false)
+```
+
+---
+
+## 3) متغيرات البيئة / GitHub Secrets المطلوبة
+
+أضفها من: **Settings → Secrets and variables → Actions → New repository secret**
+
+| الاسم | الوصف |
+|---|---|
+| `ANTHROPIC_API_KEY` | مفتاح Anthropic API لتوليد المحتوى |
+| `X_API_KEY` | من X Developer Portal |
+| `X_API_SECRET` | من X Developer Portal |
+| `X_ACCESS_TOKEN` | يُولَّد بعد ضبط الصلاحية Read & Write |
+| `X_ACCESS_TOKEN_SECRET` | يُولَّد بعد ضبط الصلاحية Read & Write |
+| `TELEGRAM_BOT_TOKEN` | من BotFather |
+| `TELEGRAM_CHANNEL_ID` | معرف القناة (رقم سالب مثل `-1001933939672`) |
+
+وأضف من **Settings → Secrets and variables → Actions → Variables** (وليس Secrets، لأنه ليس سرًا):
+
+| الاسم | الوصف |
+|---|---|
+| `TELEGRAM_CHANNEL_USERNAME` | اسم القناة بدون @ (يُستخدم فقط لبناء رابط Telegram في CTA) |
+
+---
+
+## 4) كيفية إنشاء Telegram Bot وربطه بالقناة
+
+1. تحدث مع **@BotFather** → `/newbot` → احصل على التوكن
+2. أنشئ قناة عامة (Public) → أضف البوت كمشرف (Administrator) → فعّل صلاحية "Post Messages"
+3. معرف القناة (Chat ID) هو الرقم الذي يبدأ عادة بـ `-100...`
+
+---
+
+## 5) كيفية إعداد X API
+
+1. **developer.x.com** → إنشاء حساب مطوّر → طلب وصول (Free tier كافٍ للبداية)
+2. إنشاء App → **User authentication settings** → فعّل OAuth 1.0a → **Read and Write**
+3. **Keys and tokens** → ولّد المفاتيح الأربعة **بعد** ضبط الصلاحية على Read and Write
+
+⚠️ الطبقة المجانية من X محدودة بعدد منشورات شهري منخفض. النظام يحتوي على حارس ميزانية
+يومي (`MAX_X_POSTS_PER_DAY` في `.env`) لتجنب تجاوز الحصة تلقائيًا.
+
+---
+
+## 6) تفعيل وضع Dry Run
+
+أضف `DRY_RUN=true` كمتغير بيئة (محليًا في `.env`، أو عند تشغيل workflow يدويًا عبر
+`workflow_dispatch` مع خيار dry_run=true). في هذا الوضع: يتم الجمع والتوليد والتحقق
+بالكامل، لكن **لا يُنشر أي شيء فعليًا** على X أو Telegram.
+
+---
+
+## 7) النشر (Deployment)
+
+لا حاجة لأي خادم (server) أو جهاز مفتوح باستمرار. كل شيء يعمل عبر **GitHub Actions**:
+
+- `collect-publish.yml` — يعمل كل 20 دقيقة تلقائيًا (لكن لا ينشر إلا عند وجود حدث مهم فعلاً)
+- `analytics.yml` — يعمل مرة يوميًا لتجميع إحصاءات القناة
+- `manual-test.yml` — للاختبار اليدوي وفحص الكود عند كل Pull Request
+
+بعد إضافة كل الـ Secrets المذكورة أعلاه، النظام يعمل من تلقاء نفسه.
+
+---
+
+## 8) كيفية التحقق من أول نشر
+
+1. اذهب إلى تبويب **Actions** في المستودع
+2. شغّل `Collect & Publish` يدويًا (**Run workflow**) مع `dry_run=true` أولًا للتأكد أن كل شيء يعمل دون نشر فعلي
+3. راجع الـ Logs — سيظهر فيها JSON كامل يوضح: كم حدثًا تم جمعه، كم بعد التحقق، وماذا كان
+   سيُنشر (`wouldPublish`)
+4. إذا كان كل شيء سليمًا، شغّله مرة أخرى بدون `dry_run` (أو انتظر التشغيل التلقائي التالي)
+5. تحقق من ظهور المنشور فعليًا على حساب X وقناة Telegram
+
+---
+
+## 9) حدود معروفة (Known Limitations)
+
+- **إحصاءات Telegram التفصيلية** (المشاهدات، إعادة التوجيه، التفاعلات لكل منشور) **غير متاحة**
+  عبر Bot API الرسمي — فقط عدد المشتركين الإجمالي متاح. القراءة الكاملة تتطلب وصول
+  MTProto من حساب المالك نفسه، وهذا خارج نطاق هذا التنفيذ الحالي.
+- طبقة تسجيل الأهمية (scoring) تعتمد على كلمات مفتاحية شفافة وليست نموذج ذكاء اصطناعي —
+  قرار بسيط وقابل للتعديل بدل "صندوق أسود".
+- الطبقة المجانية من X API محدودة الحصة الشهرية؛ حارس الميزانية اليومي يمنع تجاوزها لكنه
+  لا يضمن نشر كل حدث مهم إذا كانت الحصة قد استُنفدت مبكرًا في الشهر.
+- لا يوجد اختبار على شبكة حقيقية داخل بيئة التطوير التي بُني بها هذا الكود (RSS/CoinGecko/X/
+  Telegram) بسبب قيود الشبكة في تلك البيئة تحديدًا — لكن الكود اجتاز 16 اختبارًا وحدويًا (unit
+  tests) بنجاح، وGitHub Actions لديه وصول كامل للإنترنت فيعمل بشكل طبيعي هناك.
