@@ -14,7 +14,7 @@ function num(v, fallback) {
 export const config = {
   dryRun: bool(process.env.DRY_RUN, false),
 
-  anthropicApiKey: process.env.ANTHROPIC_API_KEY || "",
+  geminiApiKey: process.env.GEMINI_API_KEY || "",
 
   x: {
     apiKey: process.env.X_API_KEY || "",
@@ -55,7 +55,7 @@ export function missingSecrets(capability) {
     if (!config.telegram.channelId) missing.push("TELEGRAM_CHANNEL_ID");
   }
   if (capability === "ai") {
-    if (!config.anthropicApiKey) missing.push("ANTHROPIC_API_KEY");
+    if (!config.geminiApiKey) missing.push("GEMINI_API_KEY");
   }
   return missing;
 }

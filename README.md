@@ -43,7 +43,7 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 
 | الاسم | الوصف |
 |---|---|
-| `ANTHROPIC_API_KEY` | مفتاح Anthropic API لتوليد المحتوى |
+| `GEMINI_API_KEY` | مفتاح Google Gemini API (مجاني بالكامل) لتوليد المحتوى |
 | `X_API_KEY` | من X Developer Portal |
 | `X_API_SECRET` | من X Developer Portal |
 | `X_ACCESS_TOKEN` | يُولَّد بعد ضبط الصلاحية Read & Write |
@@ -59,7 +59,17 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 
 ---
 
-## 4) كيفية إنشاء Telegram Bot وربطه بالقناة
+## 4) كيفية الحصول على مفتاح Gemini (مجاني بالكامل)
+
+1. اذهب إلى **aistudio.google.com** وسجّل دخول بحساب Google عادي
+2. اضغط **Get API key** → **Create API key**
+3. انسخ المفتاح فورًا (يبدأ عادة بـ `AIza...`)
+
+لا حاجة لبطاقة ائتمان ولا حساب فوترة طالما بقيت ضمن حدود الطبقة المجانية (تكفي هذا
+المشروع بسهولة). ⚠️ لا تفعّل "Billing" على نفس المشروع في Google Cloud لاحقًا إلا إذا
+قررت الدفع عمدًا — تفعيله يلغي الطبقة المجانية بالكامل على ذلك المشروع.
+
+## 5) كيفية إنشاء Telegram Bot وربطه بالقناة
 
 1. تحدث مع **@BotFather** → `/newbot` → احصل على التوكن
 2. أنشئ قناة عامة (Public) → أضف البوت كمشرف (Administrator) → فعّل صلاحية "Post Messages"
@@ -67,7 +77,7 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 
 ---
 
-## 5) كيفية إعداد X API
+## 6) كيفية إعداد X API
 
 1. **developer.x.com** → إنشاء حساب مطوّر → طلب وصول (Free tier كافٍ للبداية)
 2. إنشاء App → **User authentication settings** → فعّل OAuth 1.0a → **Read and Write**
@@ -78,7 +88,7 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 
 ---
 
-## 6) تفعيل وضع Dry Run
+## 7) تفعيل وضع Dry Run
 
 أضف `DRY_RUN=true` كمتغير بيئة (محليًا في `.env`، أو عند تشغيل workflow يدويًا عبر
 `workflow_dispatch` مع خيار dry_run=true). في هذا الوضع: يتم الجمع والتوليد والتحقق
@@ -86,7 +96,7 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 
 ---
 
-## 7) النشر (Deployment)
+## 8) النشر (Deployment)
 
 لا حاجة لأي خادم (server) أو جهاز مفتوح باستمرار. كل شيء يعمل عبر **GitHub Actions**:
 
@@ -98,7 +108,7 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 
 ---
 
-## 8) كيفية التحقق من أول نشر
+## 9) كيفية التحقق من أول نشر
 
 1. اذهب إلى تبويب **Actions** في المستودع
 2. شغّل `Collect & Publish` يدويًا (**Run workflow**) مع `dry_run=true` أولًا للتأكد أن كل شيء يعمل دون نشر فعلي
@@ -109,7 +119,7 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 
 ---
 
-## 9) حدود معروفة (Known Limitations)
+## 10) حدود معروفة (Known Limitations)
 
 - **إحصاءات Telegram التفصيلية** (المشاهدات، إعادة التوجيه، التفاعلات لكل منشور) **غير متاحة**
   عبر Bot API الرسمي — فقط عدد المشتركين الإجمالي متاح. القراءة الكاملة تتطلب وصول

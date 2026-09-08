@@ -14,7 +14,6 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.32.1",
     "cross-env": "^7.0.3",
     "fast-xml-parser": "^4.5.0",
     "node-fetch": "^3.3.2",
