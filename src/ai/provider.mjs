@@ -3,20 +3,37 @@ import { costControl } from "../costControl.mjs";
 import { store } from "../state/store.mjs";
 import fetch from "node-fetch";
 
-// Google frequently renames/retires Gemini model IDs, and the "-latest"
-// alias has been reported (independently, on the free tier) to hit
-// overload/quota errors more often than a pinned version. We try
-// candidates in order and cache whichever one actually works, so a
-// future deprecation or overload self-heals on the next call instead of
+// Google frequently renames/retires Gemini model IDs (e.g. the entire
+// 2.0 and 1.5 generations were shut down in 2026). Instead of hardcoding
+// a name that will eventually 404, we ask the API itself which models
+// currently support generateContent, rank them, and cache the pick —
+// so a future deprecation self-heals on the next call instead of
 // silently failing forever.
-const CANDIDATE_MODELS = [
-  "gemini-2.5-flash",
-  "gemini-flash-latest",
-  "gemini-2.0-flash",
-  "gemini-1.5-flash",
-];
-
 const API_BASE = "https://generativelanguage.googleapis.com/v1beta/models";
+
+// Preference order once we have the live list: cheap/generous-quota
+// "flash-lite" first (best fit for a high-frequency low-cost pipeline),
+// then plain "flash", avoiding "-latest" aliases (reported unstable on
+// the free tier) and anything preview/experimental/pro/vision/embedding.
+function rankModel(name) {
+  const n = name.toLowerCase();
+  if (n.includes("latest") || n.includes("preview") || n.includes("exp")) return 100;
+  if (n.includes("pro") || n.includes("vision") || n.includes("embed") || n.includes("image")) return 90;
+  if (n.includes("flash-lite")) return 0;
+  if (n.includes("flash")) return 1;
+  return 50;
+}
+
+async function discoverModels() {
+  const res = await fetch(`${API_BASE}?key=${config.geminiApiKey}`);
+  if (!res.ok) throw new Error(`Gemini ListModels error (${res.status})`);
+  const data = await res.json();
+  const usable = (data.models || [])
+    .filter((m) => (m.supportedGenerationMethods || []).includes("generateContent"))
+    .map((m) => m.name.replace(/^models\//, ""));
+  usable.sort((a, b) => rankModel(a) - rankModel(b));
+  return usable;
+}
 
 function getCachedModel() {
   const cache = store.getAll("model-cache", null);
@@ -66,25 +83,37 @@ export async function generateText({ system, prompt, maxTokens = 500 }) {
   }
 
   const cached = getCachedModel();
-  const tryOrder = cached ? [cached, ...CANDIDATE_MODELS.filter((m) => m !== cached)] : CANDIDATE_MODELS;
+  let tryOrder = cached ? [cached] : [];
 
   let lastErr = null;
   for (const model of tryOrder) {
     try {
       const text = await callModel(model, { system, prompt, maxTokens });
-      if (model !== cached) setCachedModel(model);
       costControl.recordAiCall();
       return text;
     } catch (err) {
       lastErr = err;
-      // Fall through to the next candidate on "model not found" (404) or
-      // "temporarily overloaded" (503) — both mean "this specific model
-      // isn't usable right now", not "the request itself is bad". Any
-      // other error (bad key, real rate-limit exhaustion, content policy)
-      // surfaces immediately instead of masking itself as "try the next model".
+      if (err.status !== 404 && err.status !== 503) throw err;
+      // cached model no longer works — fall through to live discovery below
+    }
+  }
+
+  // No working cached model (or none cached yet): ask the API what's
+  // actually available right now, and try those candidates in ranked order.
+  const discovered = await discoverModels();
+  for (const model of discovered) {
+    if (model === cached) continue; // already tried and failed above
+    try {
+      const text = await callModel(model, { system, prompt, maxTokens });
+      setCachedModel(model);
+      costControl.recordAiCall();
+      return text;
+    } catch (err) {
+      lastErr = err;
       if (err.status !== 404 && err.status !== 503) throw err;
     }
   }
+
   throw lastErr || new Error("No working Gemini model found");
 }
 
