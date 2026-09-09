@@ -1006,5 +1006,205 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Block Seeks OCC Charter for Uninsured Bitcoin and Stablecoin Custody Bank",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/block-seeks-occ-charter-for-uninsured-bitcoin-and-stablecoin-custody-bank",
+    "summary": "Builders Bank would operate under direct federal supervision without taking deposits or making loans, but the application still requires OCC approval.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/d34d410f83ba967d07fea7a0715ca62588df497a-2048x1152.png",
+    "publishedAt": "2026-09-09T16:58:22.000Z",
+    "collectedAt": "2026-09-09T19:59:12.090Z",
+    "corroboratingSources": 3,
+    "fingerprint": "66f200e81593b50f186f2e2c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-09T19:59:14.851Z",
+    "outcome": {
+      "event": {
+        "title": "Block Seeks OCC Charter for Uninsured Bitcoin and Stablecoin Custody Bank",
+        "fingerprint": "66f200e81593b50f186f2e2c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "How 4,100 stolen Bitcoin bankrolled a life of private jets and supercars",
+    "link": "https://cryptoslate.com/how-4100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars/",
+    "summary": "Prosecutors say the group stole and laundered more than $245 million in crypto, spending proceeds on club parties, private jets and exotic cars.\nThe post How 4,100 stolen Bitcoin bankrolled a life of private jets and supercars appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/malone-lam-luxury-loot.jpg",
+    "publishedAt": "2026-09-09T18:30:07.000Z",
+    "collectedAt": "2026-09-09T19:59:12.090Z",
+    "corroboratingSources": 1,
+    "fingerprint": "567527026e16a27f2fbad24c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-09T19:59:16.537Z",
+    "outcome": {
+      "event": {
+        "title": "How 4,100 stolen Bitcoin bankrolled a life of private jets and supercars",
+        "fingerprint": "567527026e16a27f2fbad24c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Does becoming a federal bank protect crypto from Washington—or give Washington more control?",
+    "link": "https://cryptoslate.com/does-becoming-a-federal-bank-protect-crypto-from-washington-or-give-washington-more-control/",
+    "summary": "Alan Lane’s new Silvergate account raises a question for crypto trust banks: how much protection survives a change in supervisors?\nThe post Does becoming a federal bank protect crypto from Washington—or give Washington more control? appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-custody-control.jpg",
+    "publishedAt": "2026-09-09T10:30:03.000Z",
+    "collectedAt": "2026-09-09T19:59:12.090Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b9d81b20d62e084f85cb6fdd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-09T19:59:18.408Z",
+    "outcome": {
+      "event": {
+        "title": "Does becoming a federal bank protect crypto from Washington—or give Washington more control?",
+        "fingerprint": "b9d81b20d62e084f85cb6fdd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+    "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+    "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
+    "publishedAt": "2026-09-09T18:56:58.000Z",
+    "collectedAt": "2026-09-09T19:59:12.090Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2ce000a819a29e2e221f0f39",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T19:59:19.401Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+        "fingerprint": "2ce000a819a29e2e221f0f39"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Tron Founder Reacts as First TRX ETF Goes Live",
+    "link": "https://u.today/tron-founder-reacts-as-first-trx-etf-goes-live",
+    "summary": "Tron founder Justin Sun confirms the launch of the first-ever U.S. spot ETF, offering investors traditional access to TRX on the Chicago Board Options Exchange, Cboe.",
+    "image": null,
+    "publishedAt": "2026-09-09T15:50:26.000Z",
+    "collectedAt": "2026-09-09T19:59:12.090Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cf171d3e9899f423e513cb94",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T19:59:20.113Z",
+    "outcome": {
+      "event": {
+        "title": "Tron Founder Reacts as First TRX ETF Goes Live",
+        "fingerprint": "cf171d3e9899f423e513cb94"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
   }
 ]
