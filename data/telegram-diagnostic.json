@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T09:58:38.236Z",
+  "checkedAt": "2026-09-09T09:59:30.181Z",
   "configuredChannelId": "-1001933939672",
   "getMe": {
     "ok": true,
@@ -20,9 +20,334 @@
       "supports_join_request_queries": false
     }
   },
-  "getChat": {
+  "getChatById": {
     "ok": false,
     "error_code": 400,
     "description": "Bad Request: chat not found"
+  },
+  "getChatByUsername": {
+    "ok": true,
+    "result": {
+      "id": -1001933939672,
+      "title": "CryptoGlobalBtc",
+      "username": "CryptoGlobalBtc",
+      "type": "channel",
+      "active_usernames": [
+        "CryptoGlobalBtc"
+      ],
+      "description": "A channel interested in the world of digital currencies, trading and Airdrop",
+      "can_send_gift": true,
+      "has_visible_history": true,
+      "can_send_paid_media": true,
+      "accepted_gift_types": {
+        "unlimited_gifts": true,
+        "limited_gifts": true,
+        "unique_gifts": true,
+        "premium_subscription": true,
+        "gifts_from_channels": true
+      },
+      "photo": {
+        "small_file_id": "AQADBAADKcAxG9dciFIACAIAAyhcFbgW____2oVdNGeWz489BA",
+        "small_file_unique_id": "AQADKcAxG9dciFIAAQ",
+        "big_file_id": "AQADBAADKcAxG9dciFIACAMAAyhcFbgW____2oVdNGeWz489BA",
+        "big_file_unique_id": "AQADKcAxG9dciFIB"
+      },
+      "available_reactions": [
+        {
+          "type": "emoji",
+          "emoji": "👍"
+        },
+        {
+          "type": "emoji",
+          "emoji": "👎"
+        },
+        {
+          "type": "emoji",
+          "emoji": "❤"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🔥"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🥰"
+        },
+        {
+          "type": "emoji",
+          "emoji": "👏"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😁"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤔"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤯"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😱"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤬"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😢"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🎉"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤩"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤮"
+        },
+        {
+          "type": "emoji",
+          "emoji": "💩"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🙏"
+        },
+        {
+          "type": "emoji",
+          "emoji": "👌"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🕊"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤡"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🥱"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🥴"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😍"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🐳"
+        },
+        {
+          "type": "emoji",
+          "emoji": "❤‍🔥"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🌚"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🌭"
+        },
+        {
+          "type": "emoji",
+          "emoji": "💯"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤣"
+        },
+        {
+          "type": "emoji",
+          "emoji": "⚡"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🍌"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🏆"
+        },
+        {
+          "type": "emoji",
+          "emoji": "💔"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤨"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😐"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🍓"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🍾"
+        },
+        {
+          "type": "emoji",
+          "emoji": "💋"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🖕"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😈"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😴"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😭"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤓"
+        },
+        {
+          "type": "emoji",
+          "emoji": "👻"
+        },
+        {
+          "type": "emoji",
+          "emoji": "👨‍💻"
+        },
+        {
+          "type": "emoji",
+          "emoji": "👀"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🎃"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🙈"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😇"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😨"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤝"
+        },
+        {
+          "type": "emoji",
+          "emoji": "✍"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤗"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🫡"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🎅"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🎄"
+        },
+        {
+          "type": "emoji",
+          "emoji": "☃"
+        },
+        {
+          "type": "emoji",
+          "emoji": "💅"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤪"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🗿"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🆒"
+        },
+        {
+          "type": "emoji",
+          "emoji": "💘"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🙉"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🦄"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😘"
+        },
+        {
+          "type": "emoji",
+          "emoji": "💊"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🙊"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😎"
+        },
+        {
+          "type": "emoji",
+          "emoji": "👾"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤷‍♂"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤷"
+        },
+        {
+          "type": "emoji",
+          "emoji": "🤷‍♀"
+        },
+        {
+          "type": "emoji",
+          "emoji": "😡"
+        }
+      ],
+      "max_reaction_count": 11,
+      "accent_color_id": 0
+    }
   }
 }
