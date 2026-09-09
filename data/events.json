@@ -804,5 +804,207 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
+    "link": "https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx",
+    "summary": "Bitcoin Magazine\n\nVerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure\nCantor Fitzgerald is the investment banker on the round. The funding facilitates custody at BitGo, listings on tier-one exchanges and Bitcoin lending programs.\nThis post VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-3.jpg",
+    "publishedAt": "2026-09-09T14:36:50.000Z",
+    "collectedAt": "2026-09-09T18:29:19.230Z",
+    "corroboratingSources": 1,
+    "fingerprint": "92bdcb6e99b01a11c47fd463",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-09T18:29:21.432Z",
+    "outcome": {
+      "event": {
+        "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
+        "fingerprint": "92bdcb6e99b01a11c47fd463"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 80,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+    "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
+    "publishedAt": "2026-09-09T16:37:08.000Z",
+    "collectedAt": "2026-09-09T18:29:19.230Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0c0dc4e7a8849e504bbab313",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T18:29:23.847Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+        "fingerprint": "0c0dc4e7a8849e504bbab313"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 82,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+    "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+    "summary": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2023/02/bitcoin-ice-frozen-gID_7.jpeg",
+    "publishedAt": "2026-09-09T17:16:08.000Z",
+    "collectedAt": "2026-09-09T18:29:19.230Z",
+    "corroboratingSources": 1,
+    "fingerprint": "21cff553023a42f3ac61145f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T18:29:25.620Z",
+    "outcome": {
+      "event": {
+        "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+        "fingerprint": "21cff553023a42f3ac61145f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
+    "link": "https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy",
+    "summary": "Bitcoin Magazine\n\nIran Continues Using Bitcoin To Keep Economy Stable: Report\nRumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method. \nThis post Iran Continues Using Bitcoin To Keep Economy Stable: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg",
+    "publishedAt": "2026-09-09T18:23:22.000Z",
+    "collectedAt": "2026-09-09T18:29:19.230Z",
+    "corroboratingSources": 1,
+    "fingerprint": "911360fe6d72e39f0faedb0d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T18:29:27.859Z",
+    "outcome": {
+      "event": {
+        "title": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
+        "fingerprint": "911360fe6d72e39f0faedb0d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+    "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+    "summary": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/777380e065809566f31e83f71a5eab0c67e97d87-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-09T16:11:07.000Z",
+    "collectedAt": "2026-09-09T18:29:19.230Z",
+    "corroboratingSources": 1,
+    "fingerprint": "258c501e3608db2c4fcfa07f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-09T18:29:30.919Z",
+    "outcome": {
+      "event": {
+        "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+        "fingerprint": "258c501e3608db2c4fcfa07f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
   }
 ]

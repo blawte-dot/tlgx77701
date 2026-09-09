@@ -99,5 +99,21 @@
     "hasImage": true,
     "eventFingerprint": "2e273ef7ea76137789347dd5",
     "timestamp": "2026-09-09T15:00:59.833Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 80,
+    "text": "Wall Street advisory muscle is increasingly steering venture capital toward native Bitcoin infrastructure.\n\nVerifiedX has officially initiated a $15 million financing round aimed at scaling institutional-grade Bitcoin products. According to reports from Bitcoin Magazine, Cantor Fitzgerald is acting as the investment banker managing the raise, underscoring the growing integration of traditional financial institutions into the digital asset plumbing.\n\nThe capital allocation targets several core operational pillars designed for institutional participants. Proceeds will facilitate qualified custody arrangements through BitGo, secure listings across major tier-one exchanges, and fund the rollout of structured Bitcoin lending programs. \n\nBy tying together traditional banking advisory via Cantor Fitzgerald with established crypto infrastructure providers like BitGo, the initiative highlights a broader market trend: institutional entrants are moving past simple spot accumulation and are actively building out the foundational debt, custody, and liquidity layers required for large-scale operations.",
+    "hasImage": true,
+    "eventFingerprint": "92bdcb6e99b01a11c47fd463",
+    "timestamp": "2026-09-09T18:29:21.431Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 82,
+    "text": "Is traditional banking finally making peace with public ledgers, or is this just another corporate sandbox? \n\nU.S. Bank has quietly completed a live cross-border transaction using its proprietary stablecoin, USBDC, moving funds directly between its North American and European entities across the public Stellar network. \n\nWhile institutional experimentation with digital assets is hardly a novelty at this point, executing a proprietary stablecoin pilot on a permissionless public chain—rather than a walled-garden private ledger—marks a distinct shift in infrastructure strategy for a major tier-one financial institution. Cross-border settlement has long been cited as the primary pain point for legacy banking, burdened by multi-day delays and heavy intermediary costs. By testing Stellar's public infrastructure for internal liquidity routing, the bank is evaluating whether public-network finality can safely replace SWIFT rails for institutional treasury management. \n\nUnconfirmed industry reports suggest the pilot is part of a broader push by several traditional financial institutions to evaluate public blockchain finality ahead of anticipated regulatory frameworks for tokenized deposits and commercial stablecoins in major jurisdictions. \n\nFurther updates on the bank's long-term deployment timeline are expected as the testnet data is reviewed by compliance teams on both sides of the Atlantic.",
+    "hasImage": true,
+    "eventFingerprint": "0c0dc4e7a8849e504bbab313",
+    "timestamp": "2026-09-09T18:29:23.846Z"
   }
 ]
