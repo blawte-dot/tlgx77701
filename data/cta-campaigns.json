@@ -34,5 +34,14 @@
     "telegramLink": "https://t.me",
     "timestamp": "2026-09-09T09:49:05.619Z",
     "subscribersAfter": null
+  },
+  {
+    "xPostId": null,
+    "eventFingerprint": "3649a4497f071f5b9071c4da",
+    "ctaCategory": "deep_analysis",
+    "ctaText": "Full breakdown on Telegram.",
+    "telegramLink": "https://t.me/CryptoGlobalBtc",
+    "timestamp": "2026-09-09T09:50:22.408Z",
+    "subscribersAfter": null
   }
 ]

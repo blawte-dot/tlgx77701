@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Jack Dorsey’s Block joins rush for federal bank charters from OCC",
+    "link": "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947",
+    "summary": "Jack Dorsey-founded company Block, Inc., is taking its turn in seeking to become a federally regulated national bank.",
+    "publishedAt": "2026-09-08T21:58:33.000Z",
+    "collectedAt": "2026-09-09T09:49:45.960Z",
+    "fingerprint": "3d8785dd97c2144f728f437c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-09T09:50:19.181Z",
+    "outcome": {
+      "event": {
+        "title": "Jack Dorsey’s Block joins rush for federal bank charters from OCC",
+        "fingerprint": "3d8785dd97c2144f728f437c"
+      },
+      "x": {
+        "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      },
+      "telegram": {
+        "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+    "link": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.",
+    "publishedAt": "2026-09-09T07:36:21.000Z",
+    "collectedAt": "2026-09-09T09:49:45.960Z",
+    "fingerprint": "3649a4497f071f5b9071c4da",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-09T09:50:23.867Z",
+    "outcome": {
+      "event": {
+        "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+        "fingerprint": "3649a4497f071f5b9071c4da"
+      },
+      "x": {
+        "format": "thread",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "result": {
+          "published": false,
+          "reason": "api_error",
+          "error": "Request failed with code 402"
+        }
+      },
+      "telegram": {
+        "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+    "link": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
+    "summary": "Bitcoin is defending its golden zone support while the S&#038;P 500 grinds inside its tightest range yet, both waiting on Friday's inflation report before the Fed's September 16 rate call.",
+    "publishedAt": "2026-09-08T18:59:35.000Z",
+    "collectedAt": "2026-09-09T09:49:45.961Z",
+    "fingerprint": "c839c3e840b14ac072ef83b6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T09:50:33.852Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+        "fingerprint": "c839c3e840b14ac072ef83b6"
+      },
+      "x": {
+        "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      },
+      "telegram": {
+        "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      }
+    }
+  }
+]
