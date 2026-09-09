@@ -14,7 +14,8 @@ async function main() {
     checkedAt: new Date().toISOString(),
     configuredChannelId: config.telegram.channelId,
     getMe: await call("getMe"),
-    getChat: await call("getChat", { chat_id: config.telegram.channelId }),
+    getChatById: await call("getChat", { chat_id: config.telegram.channelId }),
+    getChatByUsername: await call("getChat", { chat_id: "@CryptoGlobalBtc" }),
   };
   fs.mkdirSync("data", { recursive: true });
   fs.writeFileSync("data/telegram-diagnostic.json", JSON.stringify(result, null, 2));
