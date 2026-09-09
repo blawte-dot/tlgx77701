@@ -20,6 +20,11 @@ function buildPrompt({ event, platform, format, hookStyle, emojiPolicy, hashtagP
     ? "This is an UNVERIFIED claim — phrase it explicitly as unconfirmed, do not state it as fact."
     : "";
 
+  const trendingNote =
+    (event.corroboratingSources || 1) >= 2
+      ? `This story is being independently reported by ${event.corroboratingSources} different outlets right now — it is genuinely trending. Write with real urgency and relevance; make clear why this matters right now, not just what happened.`
+      : "";
+
   const constraints =
     platform === "x"
       ? "X post. Hard limit 280 characters total. No links unless the source link is essential."
@@ -33,9 +38,12 @@ Summary: ${event.summary || "(no summary available)"}
 Source: ${event.source}
 Kind: ${event.kind}
 ${rumorNote}
+${trendingNote}
 
 Style instructions:
-- Hook style for the opening line: ${hookStyle}
+- The opening line is the single most important line in the post — it must be a genuinely strong,
+  scroll-stopping hook that earns the read, not a generic restatement of the headline. Use this hook
+  style as direction: ${hookStyle}
 - Emoji usage: ${emojiPolicy} (none = zero emojis, single = at most one, light = at most two)
 - Hashtags: ${hashtagPolicy} (none = zero hashtags, one = at most one, only if it adds real value)
 - ${constraints}

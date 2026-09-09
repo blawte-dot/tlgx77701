@@ -2,10 +2,10 @@ name: Collect & Publish
 
 on:
   schedule:
-    # Runs every 20 minutes. The pipeline itself is event-driven — it
-    # only publishes when something scores above the importance
-    # threshold, so frequent runs do NOT mean frequent posts.
-    - cron: "*/20 * * * *"
+    # Checks every hour. The pipeline is still event-driven — it only
+    # posts when something clears the importance threshold — but hourly
+    # is the requested cadence for how often it looks.
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:

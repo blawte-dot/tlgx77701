@@ -28,6 +28,33 @@ export function titleSimilarity(a, b) {
 }
 
 /**
+ * Groups candidates by near-identical titles and tags each with how many
+ * distinct sources are covering the same story right now. Multiple
+ * independent outlets reporting the same thing within one collection
+ * window is a real, honest trending signal — not a guess.
+ */
+export function annotateCorroboration(candidates, { similarityThreshold = 0.6 } = {}) {
+  const groups = [];
+  for (const c of candidates) {
+    let group = groups.find((g) => titleSimilarity(g.items[0].title, c.title) >= similarityThreshold);
+    if (!group) {
+      group = { items: [] };
+      groups.push(group);
+    }
+    group.items.push(c);
+  }
+
+  const annotated = [];
+  for (const group of groups) {
+    const sources = new Set(group.items.map((i) => i.source));
+    for (const item of group.items) {
+      annotated.push({ ...item, corroboratingSources: sources.size });
+    }
+  }
+  return annotated;
+}
+
+/**
  * Filters out candidates that are exact-fingerprint duplicates of
  * already-processed events, or near-duplicates of each other within
  * this same batch (keeps the first occurrence).

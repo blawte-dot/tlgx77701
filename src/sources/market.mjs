@@ -10,7 +10,7 @@ const TRACKED_COINS = ["bitcoin", "ethereum", "solana", "binancecoin", "ripple"]
  */
 export async function collectMarketSnapshot() {
   try {
-    const url = `${config.coingeckoBaseUrl}/coins/markets?vs_currency=usd&ids=${TRACKED_COINS.join(",")}`;
+    const url = `${config.coingeckoBaseUrl}/coins/markets?vs_currency=usd&ids=${TRACKED_COINS.join(",")}&sparkline=true`;
     const res = await fetch(url, { timeout: 15000 });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
@@ -20,6 +20,8 @@ export async function collectMarketSnapshot() {
       price: c.current_price,
       change24h: c.price_change_percentage_24h,
       marketCap: c.market_cap,
+      // Last ~24h of the 7d sparkline, thinned to a manageable point count for the chart.
+      sparkline: (c.sparkline_in_7d?.price || []).slice(-24),
     }));
   } catch (err) {
     return { error: true, source: "CoinGecko", message: err.message };

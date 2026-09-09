@@ -1,9 +1,10 @@
 import { collectAll } from "./sources/index.mjs";
-import { dedupeCandidates } from "./events/dedupe.mjs";
+import { dedupeCandidates, annotateCorroboration } from "./events/dedupe.mjs";
 import { scoreAll, MIN_PUBLISH_SCORE } from "./events/score.mjs";
 import { verifyAll } from "./events/verify.mjs";
 import { generatePost } from "./content/generate.mjs";
 import { validatePost } from "./content/validate.mjs";
+import { resolveImage } from "./content/images.mjs";
 import { publishToX } from "./publish/x.mjs";
 import { publishToTelegram } from "./publish/telegram.mjs";
 import { decideCta, applyCta } from "./growth/telegramGrowthEngine.mjs";
@@ -14,7 +15,7 @@ import { config } from "./config.mjs";
 // How many events this single run is allowed to act on. Kept low and run
 // frequently via GitHub Actions, so the system stays event-driven rather
 // than dumping a burst of posts every invocation.
-const MAX_EVENTS_PER_RUN = 3;
+const MAX_EVENTS_PER_RUN = 5;
 
 async function processEvent(event) {
   const outcome = { event: { title: event.title, fingerprint: event.fingerprint }, x: null, telegram: null };
@@ -44,8 +45,9 @@ async function processEvent(event) {
       const tgPost = await generatePost({ event, platform: "telegram" });
       const tgValidation = validatePost({ platform: "telegram", text: tgPost.text, event });
       if (tgValidation.pass) {
-        const tgResult = await publishToTelegram({ text: tgPost.text, event });
-        outcome.telegram = { format: tgPost.format, validation: tgValidation, result: tgResult };
+        const image = resolveImage(event);
+        const tgResult = await publishToTelegram({ text: tgPost.text, event, image });
+        outcome.telegram = { format: tgPost.format, validation: tgValidation, image: image?.type || null, result: tgResult };
       } else {
         outcome.telegram = { format: tgPost.format, validation: tgValidation, result: { published: false, reason: "failed_quality_gate" } };
       }
@@ -66,7 +68,8 @@ export async function runPipeline() {
   const runLog = { startedAt: new Date().toISOString(), dryRun: config.dryRun };
 
   const { candidates, errors: sourceErrors } = await collectAll();
-  const deduped = dedupeCandidates(candidates);
+  const annotated = annotateCorroboration(candidates);
+  const deduped = dedupeCandidates(annotated);
   const verified = verifyAll(deduped).filter((c) => c.verified);
   const scored = scoreAll(verified).filter((c) => c.importance >= MIN_PUBLISH_SCORE);
 

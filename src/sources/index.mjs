@@ -16,6 +16,7 @@ export async function collectAll() {
     title: item.title,
     link: item.link,
     summary: item.summary,
+    image: item.image || null,
     publishedAt: item.pubDate,
     collectedAt: new Date().toISOString(),
   }));
@@ -26,6 +27,7 @@ export async function collectAll() {
     title: `${m.symbol} ${m.change24h >= 0 ? "up" : "down"} ${Math.abs(m.change24h).toFixed(1)}% in 24h`,
     link: null,
     summary: `${m.symbol} is trading at $${m.price.toLocaleString()}, ${m.change24h >= 0 ? "up" : "down"} ${Math.abs(m.change24h).toFixed(1)}% over the last 24 hours.`,
+    image: null,
     publishedAt: new Date().toISOString(),
     collectedAt: new Date().toISOString(),
     meta: m,

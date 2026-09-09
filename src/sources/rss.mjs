@@ -18,6 +18,30 @@ function toArray(x) {
   return Array.isArray(x) ? x : [x];
 }
 
+function extractImage(item) {
+  // Most feeds expose one of these — never fabricate an image if none exists.
+  const media = item["media:content"];
+  if (media) {
+    const m = Array.isArray(media) ? media[0] : media;
+    const url = m?.["@_url"];
+    if (url) return url;
+  }
+  const thumb = item["media:thumbnail"];
+  if (thumb) {
+    const t = Array.isArray(thumb) ? thumb[0] : thumb;
+    const url = t?.["@_url"];
+    if (url) return url;
+  }
+  const enclosure = item.enclosure;
+  if (enclosure?.["@_url"] && /image/i.test(enclosure?.["@_type"] || "")) {
+    return enclosure["@_url"];
+  }
+  // Fallback: pull the first <img src="..."> out of the raw description HTML.
+  const desc = item.description || "";
+  const match = /<img[^>]+src=["']([^"']+)["']/i.exec(desc);
+  return match ? match[1] : null;
+}
+
 async function fetchFeed(feed) {
   try {
     const res = await fetch(feed.url, {
@@ -34,6 +58,7 @@ async function fetchFeed(feed) {
       link: (item.link || "").toString().trim(),
       pubDate: item.pubDate ? new Date(item.pubDate).toISOString() : null,
       summary: (item.description || "").toString().replace(/<[^>]+>/g, "").trim().slice(0, 500),
+      image: extractImage(item),
     }));
   } catch (err) {
     return { error: true, source: feed.name, message: err.message };

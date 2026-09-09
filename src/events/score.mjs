@@ -40,6 +40,12 @@ export function scoreCandidate(candidate) {
     else if (ageHours > 24) score -= 2; // stale news is rarely worth posting
   }
 
+  // Cross-source corroboration: multiple outlets covering the same story
+  // right now is a genuine trending signal.
+  const corroboration = candidate.corroboratingSources || 1;
+  if (corroboration >= 3) score += 3;
+  else if (corroboration === 2) score += 1.5;
+
   return {
     ...candidate,
     importance: Math.max(0, Math.min(10, score)),
