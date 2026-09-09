@@ -14,6 +14,7 @@ const FILES = {
   ctaCampaigns: "cta-campaigns.json",
   errors: "errors.json",
   budget: "budget.json",
+  "model-cache": "model-cache.json",
 };
 
 function filePath(name) {
