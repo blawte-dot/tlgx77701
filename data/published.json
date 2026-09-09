@@ -1,0 +1,23 @@
+[
+  {
+    "platform": "telegram",
+    "postId": 60,
+    "text": "A significant portion of the Liquid sidechain’s recent drain remains unaccounted for, casting doubt on the narrative that this was a benevolent security exercise.\n\nWhile the attackers have returned 3,400 of the approximately 4,000 BTC seized during the exploit, roughly 600 BTC—valued at nearly $47 million—is still missing. Blockstream, the primary developer behind the Liquid Network, has reportedly engaged with the actors in an attempt to recover the remaining funds. \n\nThe situation has sparked intense debate regarding the true motivations of the hackers. By returning a vast majority of the assets, the actors have attempted to position themselves as \"white hats\"—ethical hackers identifying vulnerabilities. However, many in the security community remain skeptical of this framing. The retention of a substantial $47 million bounty suggests that if this was a test of the network's defenses, the \"testers\" are exacting a heavy price for their services.\n\nThis incident serves as a reminder of the inherent risks present in sidechain architecture and the complexities of negotiating with anonymous entities in the event of a breach. We are tracking the wallet movements closely to see if the outstanding funds are moved or if further communication with Blockstream occurs. ⚠️",
+    "eventFingerprint": "39f057ae58c9a7b41b559bdf",
+    "timestamp": "2026-09-09T10:01:11.659Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 61,
+    "text": "Robinhood is recalibrating its growth strategy by leaning into the prediction markets sector, signaling a clear intent to capture more volume from event-based trading.\n\nAccording to reporting from The Block, the brokerage is expanding its platform capabilities through strategic partnerships with Crypto.com and OG.com. These integrations arrive just in time for the NFL season, a period historically associated with a surge in speculative betting volume.\n\nBeyond the operational integration, Robinhood is deepening its financial ties to the sector. The company has moved to acquire equity stakes in both Crypto.com and OG.com. Notably, the valuation for these stakes is pegged to Crypto.com’s recent $20 billion valuation, underscoring the significant capital being deployed to cement these partnerships.\n\nThis move reflects a broader trend of traditional retail brokerages attempting to consolidate high-frequency, event-driven trading under one roof. By internalizing prediction markets, Robinhood is effectively attempting to prevent its user base from migrating to dedicated betting platforms or specialized crypto-native prediction protocols. While the regulatory landscape for prediction markets remains complex, the company’s willingness to stake equity in its partners suggests a long-term commitment to this asset class.\n\n#Robinhood",
+    "eventFingerprint": "de960d2c8eb580725579e9b4",
+    "timestamp": "2026-09-09T10:01:18.811Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 62,
+    "text": "Are we witnessing the quiet preparation for a massive liquidity exit?\n\nNew data circulating via Cointelegraph points to a potential source of incoming sell-side pressure that traders should be monitoring closely. According to these unconfirmed reports, unrealized gains held by Bitcoin whale speculators reached their highest levels on record last week, based on data sets tracking back to 2016.\n\nIf accurate, this metric suggests that a significant cohort of large-scale holders is sitting on unprecedented profit margins. Historically, when unrealized gains reach these extremes, it often precedes periods of increased distribution as whales look to lock in capital or rebalance their exposure. \n\nWhile these reports remain unverified, the implication is clear: the current market structure is under heavy scrutiny from participants who have the volume to influence price action significantly. When whale cohorts reach such high levels of profitability, the probability of aggressive sell-side liquidity increases, potentially acting as a ceiling for near-term momentum.\n\nWe are tracking whether this translates into actual on-chain movement in the coming sessions. Watch for spikes in exchange inflows from known whale wallets, as these would serve as the primary confirmation that the theoretical risk is moving toward execution.\n\n#Bitcoin",
+    "eventFingerprint": "67482a0963c8ce5a788aa67f",
+    "timestamp": "2026-09-09T10:01:23.063Z"
+  }
+]

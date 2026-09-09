@@ -283,5 +283,116 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+    "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+    "summary": "The hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding—and some doubt the actors' \"white hat\" claims.",
+    "publishedAt": "2026-09-08T20:46:34.000Z",
+    "collectedAt": "2026-09-09T10:00:57.384Z",
+    "fingerprint": "39f057ae58c9a7b41b559bdf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T10:01:11.659Z",
+    "outcome": {
+      "event": {
+        "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+        "fingerprint": "39f057ae58c9a7b41b559bdf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "result": {
+          "published": true,
+          "messageId": 60
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
+    "link": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832",
+    "summary": "Robinhood will also acquire equity stakes in Crypto.com and OG.com, which will be valued based on Crypto.com's recent $20 billion valuation.",
+    "publishedAt": "2026-09-08T15:54:17.000Z",
+    "collectedAt": "2026-09-09T10:00:57.383Z",
+    "fingerprint": "de960d2c8eb580725579e9b4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T10:01:18.811Z",
+    "outcome": {
+      "event": {
+        "title": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
+        "fingerprint": "de960d2c8eb580725579e9b4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "result": {
+          "published": true,
+          "messageId": 61
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+    "link": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.",
+    "publishedAt": "2026-09-08T09:40:26.000Z",
+    "collectedAt": "2026-09-09T10:00:57.383Z",
+    "fingerprint": "67482a0963c8ce5a788aa67f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T10:01:23.063Z",
+    "outcome": {
+      "event": {
+        "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+        "fingerprint": "67482a0963c8ce5a788aa67f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "result": {
+          "published": true,
+          "messageId": 62
+        }
+      }
+    }
   }
 ]
