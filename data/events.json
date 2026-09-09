@@ -100,5 +100,92 @@
         "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+    "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+    "summary": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
+    "publishedAt": "2026-09-09T08:26:08.000Z",
+    "collectedAt": "2026-09-09T09:54:25.400Z",
+    "fingerprint": "065df0818163c47650f27ee9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T09:54:27.878Z",
+    "outcome": {
+      "event": {
+        "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+        "fingerprint": "065df0818163c47650f27ee9"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
+    "link": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
+    "summary": "Itaú, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
+    "publishedAt": "2026-09-07T20:31:03.000Z",
+    "collectedAt": "2026-09-09T09:54:25.400Z",
+    "fingerprint": "845f305e85902c2b5b920aad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T09:54:32.962Z",
+    "outcome": {
+      "event": {
+        "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
+        "fingerprint": "845f305e85902c2b5b920aad"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
+    "link": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
+    "summary": "Data tracked by lending platform Curve data tracked 704 soft-liquidation instances lasting a median 14.5 days, showing how some DeFi loans can survive for weeks after entering the 'danger zone.'",
+    "publishedAt": "2026-09-08T11:06:31.000Z",
+    "collectedAt": "2026-09-09T09:54:25.400Z",
+    "fingerprint": "0f9df2ed3bb06bf4c5a71678",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T09:54:33.977Z",
+    "outcome": {
+      "event": {
+        "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
+        "fingerprint": "0f9df2ed3bb06bf4c5a71678"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (503) on gemini-flash-latest: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      }
+    }
   }
 ]
