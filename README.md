@@ -49,7 +49,7 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 | `X_ACCESS_TOKEN` | يُولَّد بعد ضبط الصلاحية Read & Write |
 | `X_ACCESS_TOKEN_SECRET` | يُولَّد بعد ضبط الصلاحية Read & Write |
 | `TELEGRAM_BOT_TOKEN` | من BotFather |
-| `TELEGRAM_CHANNEL_ID` | معرف القناة (رقم سالب مثل `-1001933939672`) |
+| `TELEGRAM_CHANNEL_ID` | معرف القناة — استخدم صيغة **`@username`** (مثل `@CryptoGlobalBtc`)، وليس الرقم `-100...`. لوحظ عمليًا أن Telegram Bot API يرفض بعض الأرقام العددية لهذه القناة بخطأ "chat not found" رغم صحتها، بينما صيغة username تعمل دائمًا بشكل موثوق |
 
 وأضف من **Settings → Secrets and variables → Actions → Variables** (وليس Secrets، لأنه ليس سرًا):
 
@@ -73,7 +73,9 @@ npm run collect-publish # التشغيل الفعلي (ينشر فعليًا إ�
 
 1. تحدث مع **@BotFather** → `/newbot` → احصل على التوكن
 2. أنشئ قناة عامة (Public) → أضف البوت كمشرف (Administrator) → فعّل صلاحية "Post Messages"
-3. معرف القناة (Chat ID) هو الرقم الذي يبدأ عادة بـ `-100...`
+3. معرف القناة (Chat ID) — **استخدم `@username` القناة مباشرة** (مثل `@CryptoGlobalBtc`)، وليس
+   الرقم العددي؛ لوحظ عمليًا أن Telegram Bot API قد يرفض الرقم العددي لبعض القنوات بخطأ
+   "chat not found" رغم كونه صحيحًا، بينما صيغة username تعمل دائمًا
 
 ---
 
