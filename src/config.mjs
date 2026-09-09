@@ -38,7 +38,7 @@ export const config = {
 
   limits: {
     maxXPostsPerDay: num(process.env.MAX_X_POSTS_PER_DAY, 12),
-    maxTelegramPostsPerDay: num(process.env.MAX_TELEGRAM_POSTS_PER_DAY, 15),
+    maxTelegramPostsPerDay: num(process.env.MAX_TELEGRAM_POSTS_PER_DAY, 30),
     maxAiCallsPerDay: num(process.env.MAX_AI_CALLS_PER_DAY, 120),
   },
 
