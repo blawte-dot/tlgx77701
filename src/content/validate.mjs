@@ -1,3 +1,24 @@
+// Patterns that mean the model broke character and produced a
+// conversational/meta response instead of an actual post — this is the
+// exact failure mode of publishing something like "Could you please
+// provide more context?" as if it were real content. Any match is an
+// automatic reject, no exceptions.
+const AI_META_PATTERNS = [
+  /^(sure|okay|ok|certainly)[,!]\s/i,
+  /please provide/i,
+  /could you (please )?(clarify|specify|provide)/i,
+  /as an ai/i,
+  /i (cannot|can't|am unable to)/i,
+  /it seems (like )?(your|the) (message|request|text) was/i,
+  /(the text|the message) you('d| would) like me to/i,
+  /i('m| am) sorry,? but/i,
+  /\bhere('s| is) (a|the|your) (rewrite|revised|post)/i,
+];
+
+function detectAiMetaLeak(text) {
+  return AI_META_PATTERNS.some((pattern) => pattern.test(text));
+}
+
 /**
  * Runs every quality gate the spec requires before publishing.
  * Returns { pass: boolean, reasons: string[] } — if pass is false,
@@ -8,6 +29,10 @@ export function validatePost({ platform, text, event }) {
 
   if (!text || text.trim().length < 5) {
     reasons.push("empty_or_too_short");
+  }
+
+  if (detectAiMetaLeak(text)) {
+    reasons.push("ai_meta_response_leak");
   }
 
   if (platform === "x" && text.length > 280) {

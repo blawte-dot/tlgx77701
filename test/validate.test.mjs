@@ -36,3 +36,32 @@ test("rejects guaranteed-profit language", () => {
   assert.equal(result.pass, false);
   assert.ok(result.reasons.includes("prohibited_language"));
 });
+
+test("rejects a leaked AI clarification response instead of real content", () => {
+  const result = validatePost({
+    platform: "telegram",
+    text: "It seems like your message was incomplete. Could you please provide more context or specify what you'd like me to rewrite?",
+    event: {},
+  });
+  assert.equal(result.pass, false);
+  assert.ok(result.reasons.includes("ai_meta_response_leak"));
+});
+
+test("rejects another common AI meta-response pattern", () => {
+  const result = validatePost({
+    platform: "telegram",
+    text: "Sure! Please provide the text you'd like me to rewrite.",
+    event: {},
+  });
+  assert.equal(result.pass, false);
+  assert.ok(result.reasons.includes("ai_meta_response_leak"));
+});
+
+test("accepts real content that happens to start with a coincidental word", () => {
+  const result = validatePost({
+    platform: "telegram",
+    text: "Sure enough, Bitcoin held the $70k line through the weekend despite thin volume.",
+    event: {},
+  });
+  assert.equal(result.pass, true);
+});

@@ -34,11 +34,13 @@ function buildMarketChartUrl(symbol, points, changeUp) {
 }
 
 /**
- * Resolves the image to attach to a post for a given event, or null if
- * none is appropriate. Never invents an image — either it's the real
- * source article's image, or a real chart of real market data.
+ * Resolves the image to attach to a post for a given event. Never
+ * invents an image — it's always either the real source article's
+ * image, a real chart of the specific coin the event is about, or (as
+ * a last resort, so every post still gets a real image) a chart of
+ * whichever tracked coin moved the most in the live snapshot right now.
  */
-export function resolveImage(event) {
+export function resolveImage(event, marketSnapshot = []) {
   if (event.kind === "market_move" && event.meta?.sparkline?.length > 1) {
     return {
       type: "chart",
@@ -47,6 +49,19 @@ export function resolveImage(event) {
   }
   if (event.image && /^https?:\/\//.test(event.image)) {
     return { type: "article", url: event.image };
+  }
+  if (Array.isArray(marketSnapshot) && marketSnapshot.length > 0) {
+    const withSparkline = marketSnapshot.filter((c) => c.sparkline?.length > 1);
+    if (withSparkline.length > 0) {
+      const top = withSparkline.reduce(
+        (best, c) => (Math.abs(c.change24h ?? 0) > Math.abs(best.change24h ?? 0) ? c : best),
+        withSparkline[0]
+      );
+      return {
+        type: "chart",
+        url: buildMarketChartUrl(top.symbol, top.sparkline, (top.change24h ?? 0) >= 0),
+      };
+    }
   }
   return null;
 }

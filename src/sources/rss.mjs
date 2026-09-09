@@ -9,6 +9,13 @@ export const RSS_FEEDS = [
   { name: "Cointelegraph", url: "https://cointelegraph.com/rss" },
   { name: "Decrypt", url: "https://decrypt.co/feed" },
   { name: "Bitcoin Magazine", url: "https://bitcoinmagazine.com/feed" },
+  { name: "CryptoSlate", url: "https://cryptoslate.com/feed/" },
+  { name: "NewsBTC", url: "https://www.newsbtc.com/feed/" },
+  { name: "CryptoPotato", url: "https://cryptopotato.com/feed/" },
+  { name: "U.Today", url: "https://u.today/rss" },
+  { name: "AMBCrypto", url: "https://ambcrypto.com/feed/" },
+  { name: "Blockworks", url: "https://blockworks.co/feed" },
+  { name: "The Defiant", url: "https://thedefiant.io/feed" },
 ];
 
 const parser = new XMLParser({ ignoreAttributes: false });

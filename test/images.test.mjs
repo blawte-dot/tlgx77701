@@ -2,9 +2,19 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { resolveImage } from "../src/content/images.mjs";
 
-test("returns null when no article image and not a market move", () => {
-  const result = resolveImage({ kind: "news", image: null });
+test("falls back to null only when no article image AND no market snapshot available", () => {
+  const result = resolveImage({ kind: "news", image: null }, []);
   assert.equal(result, null);
+});
+
+test("falls back to a snapshot chart of the biggest mover when no article image exists", () => {
+  const marketSnapshot = [
+    { symbol: "BTC", change24h: 1.2, sparkline: [60000, 60500, 61000] },
+    { symbol: "SOL", change24h: -8.4, sparkline: [140, 135, 128] },
+  ];
+  const result = resolveImage({ kind: "news", image: null }, marketSnapshot);
+  assert.equal(result.type, "chart");
+  assert.ok(result.url.includes(encodeURIComponent("SOL").slice(0, 3)) || result.url.startsWith("https://quickchart.io/chart"));
 });
 
 test("returns the article image when present", () => {

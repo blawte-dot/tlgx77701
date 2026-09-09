@@ -6,6 +6,7 @@ const HOOK_STYLES = [
 ];
 
 const X_FORMATS = ["short_post", "medium_post", "thread", "chart_commentary", "question", "poll"];
+const TELEGRAM_FORMATS = ["breaking_alert", "meme_take", "engagement_question", "market_alert", "risk_alert"];
 
 function pick(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
@@ -18,11 +19,13 @@ export function chooseXFormat(event) {
   return pick(X_FORMATS);
 }
 
-/** Chooses a Telegram content format — always meant to add depth beyond the X post. */
+/** Chooses a Telegram content format — always meant to add depth beyond the X post.
+ *  meme_take and engagement_question are always grounded in this specific real
+ *  event/price move — never a standalone joke or question with no story behind it. */
 export function chooseTelegramFormat(event) {
   if (event.importance >= 8) return "deep_dive";
-  if (event.kind === "market_move") return "market_alert";
-  return pick(["breaking_alert", "deep_dive", "risk_alert"]);
+  if (event.kind === "market_move") return pick(["market_alert", "meme_take", "engagement_question"]);
+  return pick(TELEGRAM_FORMATS);
 }
 
 export function chooseHookStyle() {
