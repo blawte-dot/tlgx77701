@@ -599,5 +599,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
+    "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
+    "summary": "The fifth-largest U.S. commercial bank said it is exploring USBDC stablecoin for treasury payments, liquidity management and collateral after completing a live transaction.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb51158d2401fd0f50c8f9d1fc6d40475fec48d7-8086x5214.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-09T11:40:44.000Z",
+    "collectedAt": "2026-09-09T15:00:12.125Z",
+    "corroboratingSources": 1,
+    "fingerprint": "519833183556ddd4d901a9b4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T15:00:37.735Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
+        "fingerprint": "519833183556ddd4d901a9b4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 70,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Italy’s central bank orders sanctions screening for crypto transfers",
+    "link": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Banca d’Italia ordered crypto service providers to implement internal controls to screen for crypto transfers tied to sanctioned entities.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22YH8T5P9TFVVDGR0A597KG/hi-bank-of-italy-and-crypto-recap.jpg",
+    "publishedAt": "2026-09-09T12:20:33.000Z",
+    "collectedAt": "2026-09-09T15:00:12.125Z",
+    "corroboratingSources": 1,
+    "fingerprint": "23d176c30dca26946cb12314",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T15:00:44.876Z",
+    "outcome": {
+      "event": {
+        "title": "Italy’s central bank orders sanctions screening for crypto transfers",
+        "fingerprint": "23d176c30dca26946cb12314"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 72,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
+    "link": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Alan Lane said a “coordinated attack” by the Biden administration made Silvergate’s continued operation untenable and prompted its liquidation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22R46XM5HB5F0NP53KDRX9H/bank-run-attack.png",
+    "publishedAt": "2026-09-09T10:05:00.000Z",
+    "collectedAt": "2026-09-09T15:00:12.125Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ef7589450924c78bcd7e84f8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T15:00:51.617Z",
+    "outcome": {
+      "event": {
+        "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
+        "fingerprint": "ef7589450924c78bcd7e84f8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 74,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
+    "link": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
+    "summary": "Privacy-preserving identity verification systems could allow individuals to prove only what a service needs to know while keeping the underlying information under their control, writes Coin Center’s Laz Pieper.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce1b4b2420d91f156631e8de2a1e77167ca19bdb-6048x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-09T13:02:49.000Z",
+    "collectedAt": "2026-09-09T15:00:12.125Z",
+    "corroboratingSources": 1,
+    "fingerprint": "46d62fc7d2af83e668357301",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T15:00:57.426Z",
+    "outcome": {
+      "event": {
+        "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
+        "fingerprint": "46d62fc7d2af83e668357301"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 76,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
+    "summary": "A group of crypto firms has launched Charter Foundation to offer a new framework to help founders reduce the cost of launching tokens.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News_2-1200x675.jpg",
+    "publishedAt": "2026-09-09T14:49:03.000Z",
+    "collectedAt": "2026-09-09T15:00:12.125Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2e273ef7ea76137789347dd5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T15:00:59.834Z",
+    "outcome": {
+      "event": {
+        "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
+        "fingerprint": "2e273ef7ea76137789347dd5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 78,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
