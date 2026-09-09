@@ -34,5 +34,14 @@
     "telegramLink": "https://t.me",
     "timestamp": "2026-09-09T09:49:05.619Z",
     "subscribersAfter": null
+  },
+  {
+    "xPostId": "123",
+    "eventFingerprint": "abc",
+    "ctaCategory": "deep_analysis",
+    "ctaText": "Full breakdown on Telegram.",
+    "telegramLink": "https://t.me",
+    "timestamp": "2026-09-09T09:53:13.314Z",
+    "subscribersAfter": null
   }
 ]

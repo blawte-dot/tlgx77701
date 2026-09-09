@@ -19,8 +19,9 @@ const MAX_EVENTS_PER_RUN = 3;
 async function processEvent(event) {
   const outcome = { event: { title: event.title, fingerprint: event.fingerprint }, x: null, telegram: null };
 
-  // 1) Generate + validate + publish to X
-  if (costControl.canCallAi()) {
+  // 1) Generate + validate + publish to X (skipped cleanly if X is disabled,
+  // e.g. its developer account has no posting credits — see config.platforms.x)
+  if (config.platforms.x && costControl.canCallAi()) {
     try {
       const xPost = await generatePost({ event, platform: "x" });
       const xValidation = validatePost({ platform: "x", text: xPost.text, event });
@@ -38,7 +39,7 @@ async function processEvent(event) {
   }
 
   // 2) Generate + validate + publish to Telegram (independent, adds depth, not a copy of X)
-  if (costControl.canCallAi()) {
+  if (config.platforms.telegram && costControl.canCallAi()) {
     try {
       const tgPost = await generatePost({ event, platform: "telegram" });
       const tgValidation = validatePost({ platform: "telegram", text: tgPost.text, event });

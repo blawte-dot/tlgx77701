@@ -14,6 +14,13 @@ function num(v, fallback) {
 export const config = {
   dryRun: bool(process.env.DRY_RUN, false),
 
+  // Lets a platform be switched off cleanly (e.g. X while its account has
+  // no posting credits) without touching any other part of the pipeline.
+  platforms: {
+    x: bool(process.env.ENABLE_X_PUBLISHING, false),
+    telegram: bool(process.env.ENABLE_TELEGRAM_PUBLISHING, true),
+  },
+
   geminiApiKey: process.env.GEMINI_API_KEY || "",
 
   x: {

@@ -39,6 +39,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_CHANNEL_USERNAME: ${{ vars.TELEGRAM_CHANNEL_USERNAME }}
+          ENABLE_X_PUBLISHING: ${{ vars.ENABLE_X_PUBLISHING || 'false' }}
           DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: npm run collect-publish
 
