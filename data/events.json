@@ -394,5 +394,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+    "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+    "summary": "The deal could grant Circle vital, regulated \"last-mile\" infrastructure, bridging the gap between stablecoins and traditional local banking systems.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-08T14:40:46.000Z",
+    "collectedAt": "2026-09-09T10:10:43.156Z",
+    "corroboratingSources": 2,
+    "fingerprint": "6f4fcba0850384c35de2b53d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4.5,
+    "processedAt": "2026-09-09T10:10:50.136Z",
+    "outcome": {
+      "event": {
+        "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+        "fingerprint": "6f4fcba0850384c35de2b53d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 65,
+          "hasImage": false
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+    "link": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Cronos’s post-mortem put the Tectonic exploit’s affected borrowing at $120.4 million, with 7.6% transferred off-network before validators intervened.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg",
+    "publishedAt": "2026-09-08T08:10:44.000Z",
+    "collectedAt": "2026-09-09T10:10:43.156Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e436c476763bd8ee85046dcd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T10:10:54.208Z",
+    "outcome": {
+      "event": {
+        "title": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+        "fingerprint": "e436c476763bd8ee85046dcd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 66,
+          "hasImage": false
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
+    "link": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The actors returned 85% of the Bitcoin withdrawn from Liquid’s federation wallet following the security incident.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZHYDRMBN9CQ2AV6CCP6WB8/hacky-hack.png",
+    "publishedAt": "2026-09-08T03:46:17.000Z",
+    "collectedAt": "2026-09-09T10:10:43.156Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7f78b52a11781edf314220ef",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T10:10:59.136Z",
+    "outcome": {
+      "event": {
+        "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
+        "fingerprint": "7f78b52a11781edf314220ef"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 67,
+          "hasImage": false
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
+    "link": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Polish prosecutors charged Romana Ż. with organized crime and misappropriation offenses involving $2.1 million in Zondacrypto user funds.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YE3WX83P6A9KHXBC6QXND1/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-2.png",
+    "publishedAt": "2026-09-07T17:58:00.000Z",
+    "collectedAt": "2026-09-09T10:10:43.156Z",
+    "corroboratingSources": 1,
+    "fingerprint": "956100d994b5794defbecffa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T10:11:03.140Z",
+    "outcome": {
+      "event": {
+        "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
+        "fingerprint": "956100d994b5794defbecffa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 68,
+          "hasImage": false
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+    "link": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
+    "summary": "Memos from the NYPD to Homeland Security warn the devices could be used for covert filming inside jails and police facilities.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg",
+    "publishedAt": "2026-09-08T15:28:43.000Z",
+    "collectedAt": "2026-09-09T10:10:43.156Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8e699dda40cbcb3e0339ca23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T10:11:07.424Z",
+    "outcome": {
+      "event": {
+        "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+        "fingerprint": "8e699dda40cbcb3e0339ca23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 69,
+          "hasImage": false
+        }
+      }
+    }
   }
 ]
