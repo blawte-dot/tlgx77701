@@ -8,7 +8,7 @@
     "collect-publish": "node src/pipeline.mjs",
     "dry-run": "cross-env DRY_RUN=true node src/pipeline.mjs",
     "analytics": "node src/analytics/collect.mjs",
-    "test": "node --test test/*.test.mjs"
+    "test": "cross-env NODE_ENV=test node --test test/*.test.mjs"
   },
   "engines": {
     "node": ">=20"
