@@ -23,6 +23,18 @@ async function sendPhotoMessage(imageUrl, caption) {
   return res.json();
 }
 
+/** For posts too long to fit as a photo caption (1024 char cap), the image is
+ *  still sent — with a short caption — followed immediately by the full text
+ *  as its own message, so long/important posts don't lose their image. */
+async function sendPhotoThenText(imageUrl, text) {
+  const shortCaption = text.length > 200 ? `${text.slice(0, 197)}...` : text;
+  const photoResult = await sendPhotoMessage(imageUrl, shortCaption);
+  if (!photoResult.ok) return photoResult;
+  const textResult = await sendTextMessage(text);
+  // Report the photo message as the primary result (it's what gets the fingerprint stored).
+  return textResult.ok ? photoResult : textResult;
+}
+
 /**
  * Publishes a message to the configured Telegram channel via the
  * Bot API. Sends as a photo (with the post text as caption) when a
@@ -43,10 +55,16 @@ export async function publishToTelegram({ text, event, image }) {
   }
 
   try {
-    // Telegram photo captions are capped at 1024 chars — fall back to a
-    // plain text message if the post is longer than that.
-    const canUsePhoto = image?.url && text.length <= 1024;
-    const data = canUsePhoto ? await sendPhotoMessage(image.url, text) : await sendTextMessage(text);
+    // Short posts: image as caption. Long posts (over Telegram's 1024-char
+    // caption cap): image with a short caption, then the full text as its
+    // own message — the image is never silently dropped just because the
+    // post is detailed.
+    const canUsePhoto = Boolean(image?.url);
+    const data = !canUsePhoto
+      ? await sendTextMessage(text)
+      : text.length <= 1024
+        ? await sendPhotoMessage(image.url, text)
+        : await sendPhotoThenText(image.url, text);
     if (!data.ok) throw new Error(data.description || "Telegram API error");
 
     costControl.recordTelegramPost();
