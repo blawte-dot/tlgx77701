@@ -184,5 +184,98 @@
         "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+    "link": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.",
+    "publishedAt": "2026-09-09T07:36:21.000Z",
+    "collectedAt": "2026-09-09T09:23:33.796Z",
+    "fingerprint": "3649a4497f071f5b9071c4da",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-09T09:23:34.070Z",
+    "outcome": {
+      "event": {
+        "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+        "fingerprint": "3649a4497f071f5b9071c4da"
+      },
+      "x": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      },
+      "telegram": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "New York town weighs crypto mining and AI data center ban",
+    "link": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "One of the first towns in the US to ban Bitcoin mining for 18 months is considering another temporary moratorium extending to data centers and other crypto mining operations.",
+    "publishedAt": "2026-09-08T21:33:49.000Z",
+    "collectedAt": "2026-09-09T09:23:33.796Z",
+    "fingerprint": "42748ff71b98ad8def5d46eb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T09:23:34.199Z",
+    "outcome": {
+      "event": {
+        "title": "New York town weighs crypto mining and AI data center ban",
+        "fingerprint": "42748ff71b98ad8def5d46eb"
+      },
+      "x": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      },
+      "telegram": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+    "link": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.",
+    "publishedAt": "2026-09-08T09:40:26.000Z",
+    "collectedAt": "2026-09-09T09:23:33.796Z",
+    "fingerprint": "67482a0963c8ce5a788aa67f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T09:23:34.332Z",
+    "outcome": {
+      "event": {
+        "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+        "fingerprint": "67482a0963c8ce5a788aa67f"
+      },
+      "x": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      },
+      "telegram": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      }
+    }
   }
 ]
