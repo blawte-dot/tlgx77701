@@ -1206,5 +1206,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "US Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act",
+    "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
+    "summary": "Bitcoin Magazine\n\nUS Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act\nSenators will vote on the long-awaited crypto Clarity Act next week. \nThis post US Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg",
+    "publishedAt": "2026-09-09T21:20:51.000Z",
+    "collectedAt": "2026-09-09T21:29:11.476Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6729166d72c99f80fca1fac5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-09T21:29:14.745Z",
+    "outcome": {
+      "event": {
+        "title": "US Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act",
+        "fingerprint": "6729166d72c99f80fca1fac5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 84,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter",
+    "link": "https://bitcoinmagazine.com/news/block-applies-for-banking-charter",
+    "summary": "Bitcoin Magazine\n\nJack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter\nBlock wants the banking license so it can open Builders Bank, which would provide custody and related fiduciary services for bitcoin. \nThis post Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Maxi-Jack-Dorsey-Unveils-Chat-App.jpg",
+    "publishedAt": "2026-09-09T20:35:41.000Z",
+    "collectedAt": "2026-09-09T21:29:11.476Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b850bd887792fc5fbd842584",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-09T21:30:06.119Z",
+    "outcome": {
+      "event": {
+        "title": "Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter",
+        "fingerprint": "b850bd887792fc5fbd842584"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 86,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Calms Below $80K as Fed Hike Odds Climb: Bitfinex Alpha",
+    "link": "https://cryptopotato.com/bitcoin-calms-below-80k-as-fed-hike-odds-climb-bitfinex-alpha/",
+    "summary": "ETF demand remains strong, but inflation data could determine where Bitcoin goes next.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/07/Bitcoin_Federal_Reserve.jpg",
+    "publishedAt": "2026-09-08T22:09:44.000Z",
+    "collectedAt": "2026-09-09T21:29:11.476Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fbb698c1b8d918473c61968a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T21:30:10.710Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Calms Below $80K as Fed Hike Odds Climb: Bitfinex Alpha",
+        "fingerprint": "fbb698c1b8d918473c61968a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 88,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Coinbase Is Building Financial Account for AI, CEO Brian Armstrong Teases",
+    "link": "https://u.today/coinbase-is-building-financial-account-for-ai-ceo-brian-armstrong-teases",
+    "summary": "Coinbase’s head reveals secure sub-accounts giving artificial intelligence  standalone corporate banking features.",
+    "image": null,
+    "publishedAt": "2026-09-09T16:49:05.000Z",
+    "collectedAt": "2026-09-09T21:29:11.476Z",
+    "corroboratingSources": 1,
+    "fingerprint": "335868e9810867a59ba2a12d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T21:30:15.878Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Is Building Financial Account for AI, CEO Brian Armstrong Teases",
+        "fingerprint": "335868e9810867a59ba2a12d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 89,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Stellar (XLM) Lands U.S. Bank's Stablecoin Innovation: CEO Opens Up on Global Cash Strategy",
+    "link": "https://u.today/stellar-xlm-lands-us-banks-stablecoin-innovation-ceo-opens-up-on-global-cash-strategy",
+    "summary": "U.S. Bank deploys its USBDC stablecoin on Stellar for live cross-border payments with built-in compliance controls.",
+    "image": null,
+    "publishedAt": "2026-09-09T14:52:30.000Z",
+    "collectedAt": "2026-09-09T21:29:11.476Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2b02747bfdab777ca35eda1f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T21:30:17.046Z",
+    "outcome": {
+      "event": {
+        "title": "Stellar (XLM) Lands U.S. Bank's Stablecoin Innovation: CEO Opens Up on Global Cash Strategy",
+        "fingerprint": "2b02747bfdab777ca35eda1f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 90,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

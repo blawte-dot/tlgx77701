@@ -100,5 +100,40 @@
     "hasImage": true,
     "eventFingerprint": "0c0dc4e7a8849e504bbab313",
     "timestamp": "2026-09-09T18:29:23.846Z"
+  },
+  {
+    "messageId": 84,
+    "text": "Washington is clearing the runway for digital assets, and the Senate's upcoming vote could change the entire federal footprint on crypto.\n\nUS Treasury Secretary Scott Bessent has formally urged the Senate to pass the long-awaited Clarity Act, signaling a shift toward structured federal oversight as lawmakers prepare for next week's vote. \n\nThe legislation aims to draw firm jurisdictional lines between the SEC and the Commodity Futures Trading Commission, a division the industry has lobbied for through years of enforcement uncertainty and legal gray areas. \n\nBessent’s intervention carries weight. Coming from the Treasury, a strong push for regulatory clarity suggests the executive branch wants clear rules of the road established sooner rather than later, particularly as institutional integration deepens across traditional banking and digital infrastructure.\n\nIf passed, the Clarity Act would provide statutory definitions for digital commodities versus securities, effectively ending the regulation-by-enforcement era that defined much of the previous administration's policy. \n\nThe Senate floor vote is scheduled for next week. Markets are watching to see if bipartisan momentum can push the bill past procedural hurdles before the current legislative window closes.",
+    "hasImage": true,
+    "eventFingerprint": "6729166d72c99f80fca1fac5",
+    "timestamp": "2026-09-09T21:29:14.744Z"
+  },
+  {
+    "messageId": 86,
+    "text": "What happens when a fintech giant stops working around the legacy banking system and decides to build its own from the inside?\n\nJack Dorsey’s Block has officially applied for a federal banking charter, according to reports from Bitcoin Magazine. \n\nThe move is designed to launch an institution provisionally named Builders Bank. \n\nIf approved, the new entity will offer regulated custody and fiduciary services specifically tailored for bitcoin, bridging the gap between traditional banking infrastructure and digital assets. \n\nBlock is following a growing playbook of crypto-native and fintech firms seeking direct access to federal oversight rather than relying entirely on traditional banking partners—a sector that has historically treated digital assets with caution. \n\nA federal charter would allow Block to streamline operations, reduce intermediary costs, and offer institutional-grade security under a unified regulatory framework. \n\nRegulators have not yet signaled a timeline for approval, and the path to securing a federal banking license remains notoriously difficult for crypto-adjacent projects. \n\nWe are tracking how this application moves through the regulatory pipeline. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "b850bd887792fc5fbd842584",
+    "timestamp": "2026-09-09T21:30:06.118Z"
+  },
+  {
+    "messageId": 88,
+    "text": "Macro pressure is meeting spot strength across crypto markets.\n\nBitcoin is consolidating just under the $80,000 threshold this week as traders price in rising odds of a Federal Reserve rate hike. \n\nAccording to the latest Bitfinex Alpha report, underlying ETF demand continues to provide a structural floor. \n\nEven so, upcoming inflation prints will likely dictate the next directional move for the asset.",
+    "hasImage": true,
+    "eventFingerprint": "fbb698c1b8d918473c61968a",
+    "timestamp": "2026-09-09T21:30:10.710Z"
+  },
+  {
+    "messageId": 89,
+    "text": "Silicon Valley may have just given autonomous agents their first corporate treasury.\n\nCoinbase CEO Brian Armstrong has outlined plans for secure sub-accounts designed to give artificial intelligence systems standalone banking capabilities. \n\nThe architecture allows automated software to hold funds, execute transactions, and manage financial operations without human sign-off for every step. \n\nIt points to a future where AI agents operate as independent economic actors, transacting on-chain at machine speed.\n\n#Coinbase",
+    "hasImage": true,
+    "eventFingerprint": "335868e9810867a59ba2a12d",
+    "timestamp": "2026-09-09T21:30:15.877Z"
+  },
+  {
+    "messageId": 90,
+    "text": "Stellar is quietly carving out a corner of traditional banking that most crypto projects never reach. \n\nU.S. Bank has officially deployed its USBDC stablecoin on the network for live cross-border transactions, leaning into Stellar's native compliance controls. \n\nCEO Denelle Dixon notes the integration is built to handle heavy-duty institutional cash flow rather than retail speculation. \n\nTradFi adoption is rarely loud, but infrastructure builds are happening regardless of price action.",
+    "hasImage": true,
+    "eventFingerprint": "2b02747bfdab777ca35eda1f",
+    "timestamp": "2026-09-09T21:30:17.045Z"
   }
 ]
