@@ -135,5 +135,40 @@
     "hasImage": true,
     "eventFingerprint": "2b02747bfdab777ca35eda1f",
     "timestamp": "2026-09-09T21:30:17.045Z"
+  },
+  {
+    "messageId": 91,
+    "text": "What happens when the tool you trust to secure your crypto becomes the target of a phishing campaign?\n\nHardware wallet manufacturer Trezor is currently managing the aftermath of a security breach affecting its third-party email service provider. \n\nThe incident unfolded when unauthorized actors gained access to the provider's database, allowing them to dispatch fraudulent security alerts directly to subscribers. \n\nThese messages falsely claimed that a critical hardware flaw could expose users' seed phrases, directing recipients to a malicious landing page designed to harvest sensitive recovery credentials.\n\nTrezor has confirmed that the underlying firmware and physical devices remain uncompromised, and no internal systems or user databases were directly breached in the attack. \n\nEven so, the incident highlights a persistent vulnerability in the broader crypto ecosystem: human-centric attack vectors via trusted communication channels. \n\nWhen official notification systems are hijacked, even experienced users face sophisticated social engineering attempts that mimic legitimate security warnings. \n\nThe firm is urging all recipients of the fraudulent emails to ignore the alerts and verify that no recovery phrases have been entered into external sites.",
+    "hasImage": true,
+    "eventFingerprint": "717440d985cbb873ba111f8c",
+    "timestamp": "2026-09-09T23:48:40.666Z"
+  },
+  {
+    "messageId": 93,
+    "text": "Your hardware wallet isn't compromised, but your inbox might be. \n\nTrezor is warning users to ignore a wave of phishing emails currently circulating after a third-party email service provider suffered a data breach. \n\nDo not click any links or enter your seed phrase, regardless of how official the message appears. \n\n#Trezor",
+    "hasImage": true,
+    "eventFingerprint": "bc9beac9b42449a72590853d",
+    "timestamp": "2026-09-09T23:48:42.334Z"
+  },
+  {
+    "messageId": 94,
+    "text": "Don't sleep on the capital rotation happening beneath the surface right now.\n\nWhile heavy outflows hit Bitcoin, Ethereum, and Solana in the latest trading session, XRP managed to stand alone as the only ETF product pulling in fresh capital. \n\nAre institutional flows starting to shift focus, or is this just a brief anomaly against the broader market trend?",
+    "hasImage": true,
+    "eventFingerprint": "56a008c57ef9842885eb9945",
+    "timestamp": "2026-09-09T23:48:43.268Z"
+  },
+  {
+    "messageId": 95,
+    "text": "Check your bingo cards carefully today.\n\nWhile the rest of the spot ETF complex bled red, XRP funds quietly pulled in net positive inflows—outpacing Bitcoin, Solana, and Hyperliquid products for the daily session. \n\nNot exactly the script crypto Twitter was writing this morning.",
+    "hasImage": true,
+    "eventFingerprint": "f7dcad16349e2dee3b206dc2",
+    "timestamp": "2026-09-09T23:48:44.191Z"
+  },
+  {
+    "messageId": 96,
+    "text": "Charles Schwab's latest regulatory filing shows nearly $4.8 million in XRP ETF shares locked up as collateral. \n\nWe are finally seeing traditional institutional plumbing integrate spot altcoin products behind the scenes. \n\nDoes this kind of balance-sheet utility signal that institutional risk desks are getting increasingly comfortable with XRP, or is this just routine treasury management? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "6ec07fcb5f6ce34547f564aa",
+    "timestamp": "2026-09-09T23:48:48.486Z"
   }
 ]

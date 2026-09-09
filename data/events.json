@@ -1411,5 +1411,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+    "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+    "summary": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-09-09T23:02:23.000Z",
+    "collectedAt": "2026-09-09T23:48:37.535Z",
+    "corroboratingSources": 1,
+    "fingerprint": "717440d985cbb873ba111f8c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-09T23:48:40.667Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+        "fingerprint": "717440d985cbb873ba111f8c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 91,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Trezor email provider breached as fake wallet security alert spreads",
+    "link": "https://ambcrypto.com/trezor-email-provider-breached-as-fake-wallet-security-alert-spreads/",
+    "summary": "Trezor has warned customers not to click links in a fraudulent security email sent after a third-party provider was breached.",
+    "image": null,
+    "publishedAt": "2026-09-09T22:45:15.000Z",
+    "collectedAt": "2026-09-09T23:48:37.535Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bc9beac9b42449a72590853d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T23:48:42.335Z",
+    "outcome": {
+      "event": {
+        "title": "Trezor email provider breached as fake wallet security alert spreads",
+        "fingerprint": "bc9beac9b42449a72590853d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 93,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Beats Bitcoin, Ethereum and Solana in Latest ETF Performance",
+    "link": "https://u.today/xrp-beats-bitcoin-ethereum-and-solana-in-latest-etf-performance",
+    "summary": "XRP emerges as the only ETF product to attract fresh capital during the last trading session as Bitcoin, Ethereum and Solana saw massive withdrawals.",
+    "image": null,
+    "publishedAt": "2026-09-09T12:21:57.000Z",
+    "collectedAt": "2026-09-09T23:48:37.535Z",
+    "corroboratingSources": 1,
+    "fingerprint": "56a008c57ef9842885eb9945",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T23:48:43.269Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Beats Bitcoin, Ethereum and Solana in Latest ETF Performance",
+        "fingerprint": "56a008c57ef9842885eb9945"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 94,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Beats Solana (SOL), Hyperliquid (HYPE) and Bitcoin (BTC) ETFs as Only Spot Product With Inflows",
+    "link": "https://u.today/xrp-beats-solana-sol-hyperliquid-hype-and-bitcoin-btc-etfs-as-only-spot-product-with-inflows",
+    "summary": "XRP stands alone among major crypto assets with positive daily ETF flows.",
+    "image": null,
+    "publishedAt": "2026-09-09T10:20:00.000Z",
+    "collectedAt": "2026-09-09T23:48:37.535Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f7dcad16349e2dee3b206dc2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T23:48:44.192Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Beats Solana (SOL), Hyperliquid (HYPE) and Bitcoin (BTC) ETFs as Only Spot Product With Inflows",
+        "fingerprint": "f7dcad16349e2dee3b206dc2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 95,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Charles Schwab Filing Reveals Millions in XRP ETF Collateral",
+    "link": "https://u.today/charles-schwab-filing-reveals-millions-in-xrp-etf-collateral",
+    "summary": "A newly surfaced Charles Schwab regulatory filing has revealed nearly $4.8 million worth of XRP ETF shares being used as collateral.",
+    "image": null,
+    "publishedAt": "2026-09-09T06:27:31.000Z",
+    "collectedAt": "2026-09-09T23:48:37.535Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6ec07fcb5f6ce34547f564aa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T23:48:48.487Z",
+    "outcome": {
+      "event": {
+        "title": "Charles Schwab Filing Reveals Millions in XRP ETF Collateral",
+        "fingerprint": "6ec07fcb5f6ce34547f564aa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 96,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
