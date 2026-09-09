@@ -3,13 +3,15 @@ import { costControl } from "../costControl.mjs";
 import { store } from "../state/store.mjs";
 import fetch from "node-fetch";
 
-// Google frequently renames/retires Gemini model IDs. Rather than hardcode
-// one name that will eventually 404, we try candidates in order (newest
-// first) and cache whichever one actually works, so a future deprecation
-// self-heals on the next run instead of silently failing forever.
+// Google frequently renames/retires Gemini model IDs, and the "-latest"
+// alias has been reported (independently, on the free tier) to hit
+// overload/quota errors more often than a pinned version. We try
+// candidates in order and cache whichever one actually works, so a
+// future deprecation or overload self-heals on the next call instead of
+// silently failing forever.
 const CANDIDATE_MODELS = [
-  "gemini-flash-latest",
   "gemini-2.5-flash",
+  "gemini-flash-latest",
   "gemini-2.0-flash",
   "gemini-1.5-flash",
 ];
@@ -75,11 +77,12 @@ export async function generateText({ system, prompt, maxTokens = 500 }) {
       return text;
     } catch (err) {
       lastErr = err;
-      // Only fall through to the next candidate on a "model not found /
-      // not supported" style error. Any other error (bad key, rate limit,
-      // content policy) should surface immediately, not mask itself as
-      // "try the next model".
-      if (err.status !== 404) throw err;
+      // Fall through to the next candidate on "model not found" (404) or
+      // "temporarily overloaded" (503) — both mean "this specific model
+      // isn't usable right now", not "the request itself is bad". Any
+      // other error (bad key, real rate-limit exhaustion, content policy)
+      // surfaces immediately instead of masking itself as "try the next model".
+      if (err.status !== 404 && err.status !== 503) throw err;
     }
   }
   throw lastErr || new Error("No working Gemini model found");
