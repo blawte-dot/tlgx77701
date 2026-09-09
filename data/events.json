@@ -277,5 +277,98 @@
         "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+    "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+    "summary": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
+    "publishedAt": "2026-09-09T08:26:08.000Z",
+    "collectedAt": "2026-09-09T09:47:47.774Z",
+    "fingerprint": "065df0818163c47650f27ee9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-09T09:47:48.055Z",
+    "outcome": {
+      "event": {
+        "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+        "fingerprint": "065df0818163c47650f27ee9"
+      },
+      "x": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      },
+      "telegram": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+    "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+    "summary": "The hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding—and some doubt the actors' \"white hat\" claims.",
+    "publishedAt": "2026-09-08T20:46:34.000Z",
+    "collectedAt": "2026-09-09T09:47:47.774Z",
+    "fingerprint": "39f057ae58c9a7b41b559bdf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-09T09:47:48.229Z",
+    "outcome": {
+      "event": {
+        "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+        "fingerprint": "39f057ae58c9a7b41b559bdf"
+      },
+      "x": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      },
+      "telegram": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
+    "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
+    "summary": "Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
+    "publishedAt": "2026-09-08T04:41:17.000Z",
+    "collectedAt": "2026-09-09T09:47:47.774Z",
+    "fingerprint": "0d4bc21a316e25a545399244",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-09T09:47:48.402Z",
+    "outcome": {
+      "event": {
+        "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
+        "fingerprint": "0d4bc21a316e25a545399244"
+      },
+      "x": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      },
+      "telegram": {
+        "error": "Gemini API error (404): {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      }
+    }
   }
 ]
