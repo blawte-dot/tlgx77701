@@ -2641,5 +2641,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Liquid Hackers Call Blockstream &#8216;Delusional, Greedy, and Arrogant,&#8217; Demand 10% Bounty",
+    "link": "https://cryptopotato.com/liquid-hackers-call-blockstream-delusional-greedy-and-arrogant-demand-10-bounty/",
+    "summary": "Samson Mow warned the hackers that dreaming of walking away with the remaining assets unscathed is nothing but delusion.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2020/12/Hacking-min.jpg",
+    "publishedAt": "2026-09-10T21:55:39.000Z",
+    "collectedAt": "2026-09-10T22:14:05.415Z",
+    "corroboratingSources": 1,
+    "fingerprint": "28a94f0d2ca709bc3e64a4ad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T22:14:08.833Z",
+    "outcome": {
+      "event": {
+        "title": "Liquid Hackers Call Blockstream &#8216;Delusional, Greedy, and Arrogant,&#8217; Demand 10% Bounty",
+        "fingerprint": "28a94f0d2ca709bc3e64a4ad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 135,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
+    "link": "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
+    "summary": "BWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/kabosu-doge-1200x671.png",
+    "publishedAt": "2026-09-10T20:28:46.000Z",
+    "collectedAt": "2026-09-10T22:14:05.414Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6a74b41bbef717c6e1042dbe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-10T22:14:09.768Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
+        "fingerprint": "6a74b41bbef717c6e1042dbe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 137,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+    "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
+    "publishedAt": "2026-09-10T20:10:29.000Z",
+    "collectedAt": "2026-09-10T22:14:05.414Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b6c3f33b08736190efc07a19",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-10T22:14:10.907Z",
+    "outcome": {
+      "event": {
+        "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+        "fingerprint": "b6c3f33b08736190efc07a19"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 138,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "ARKB led Wednesday’s Bitcoin ETF outflows as Ether and Solana funds returned to net inflows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg",
+    "publishedAt": "2026-09-10T09:59:32.000Z",
+    "collectedAt": "2026-09-10T22:14:05.415Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b54d30046b65593c86509fcd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-10T22:14:12.041Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
+        "fingerprint": "b54d30046b65593c86509fcd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 139,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "A crypto project paying nearly 1 million people a daily income just had its reserves looted",
+    "link": "https://cryptoslate.com/a-crypto-project-paying-nearly-1-million-people-a-daily-income-just-had-its-reserves-looted/",
+    "summary": "A malicious Super App bypassed stream liquidations before a Sept. 4 hotfix restored whitelisting and closed detected insolvent accounts.\nThe post A crypto project paying nearly 1 million people a daily income just had its reserves looted appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/gooddollar-reserve-liquidity-leak.jpg",
+    "publishedAt": "2026-09-10T17:50:26.000Z",
+    "collectedAt": "2026-09-10T22:14:05.415Z",
+    "corroboratingSources": 1,
+    "fingerprint": "44967e09d764d1d458acc34e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-10T22:14:16.313Z",
+    "outcome": {
+      "event": {
+        "title": "A crypto project paying nearly 1 million people a daily income just had its reserves looted",
+        "fingerprint": "44967e09d764d1d458acc34e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 140,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

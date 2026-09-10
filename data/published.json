@@ -395,5 +395,45 @@
     "hasImage": true,
     "eventFingerprint": "0c2693537d2c9450051f845a",
     "timestamp": "2026-09-10T19:27:11.953Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 135,
+    "text": "An ongoing dispute within the Bitcoin L2 ecosystem has escalated sharply, exposing deep philosophical and operational fractures over network security and asset recovery.\n\nHackers who recently exploited the Liquid Network have publicly rejected terms from major infrastructure figures, labeling Blockstream's leadership as \"delusional, greedy, and arrogant.\" In an unprecedented counter-move, the attackers have demanded a direct 10% bounty in exchange for returning the frozen funds.\n\nThe conflict centers on a recent security breach affecting assets bridged to Liquid, Blockstream’s federated sidechain. While exact figures remain subject to verification, the compromise has put a significant volume of capital in limbo. \n\nBlockstream Chief Strategy Officer Samson Mow took to public channels to address the ultimatum, offering a blunt assessment of the attackers' leverage. Mow warned the hackers that expecting to walk away with the remaining assets unscathed is pure delusion, signaling that infrastructure operators intend to pursue recovery efforts rather than capitulate to ransom demands.\n\nFor the broader market, the standoff highlights the structural risks inherent in federated sidechains and hybrid scaling solutions. Unlike base-layer Bitcoin, where trust is minimized through decentralized proof-of-work, federated models rely on designated functionaries and multisig watchdogs. When those mechanisms fail or get subverted, dispute resolution often devolves into high-stakes negotiations rather than algorithmic certainty.\n\nAs the standoff continues, liquidity providers and users are left monitoring a tense stalemate between network architects and unauthorized holders, with no clear timeline for asset recovery.",
+    "hasImage": true,
+    "eventFingerprint": "28a94f0d2ca709bc3e64a4ad",
+    "timestamp": "2026-09-10T22:14:08.832Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 137,
+    "text": "Sometimes the market just refuses to meme hard enough. \n\nBitwise is shutting down its Dogecoin ETF after a launch in November 2025 that pulled in roughly $3 million in volume—and virtually nothing of note since. \n\nTurns out you can wrapper-up a joke product, but you still need actual buyers to show up to the party.",
+    "hasImage": true,
+    "eventFingerprint": "6a74b41bbef717c6e1042dbe",
+    "timestamp": "2026-09-10T22:14:09.767Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 138,
+    "text": "3 ways traditional finance plans to handle crypto: ignore it, fight it, and finally blame it for every margin call on earth.\n\nESMA just published a warning about growing ties between crypto and the legacy financial system, explicitly flagging tokenized equities, DeFi, and prediction markets. \n\nFunny how the casino is only a systemic threat to the global economy once the traditional players buy chips.",
+    "hasImage": true,
+    "eventFingerprint": "b6c3f33b08736190efc07a19",
+    "timestamp": "2026-09-10T22:14:10.906Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 139,
+    "text": "Are spot Bitcoin funds cooling off just as altcoin products catch a bid?\n\nU.S. spot Bitcoin ETFs registered $167 million in net outflows on Wednesday, snapping a three-week stretch of strong capital accumulation. \n\nArk Invest and 21Shares' ARKB drove the bulk of the day's departures. \n\nAt the same time, institutional products tracking Ether and Solana managed to reverse course, pulling in net inflows during the same session.",
+    "hasImage": true,
+    "eventFingerprint": "b54d30046b65593c86509fcd",
+    "timestamp": "2026-09-10T22:14:12.040Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 140,
+    "text": "When a protocol claims to sustain nearly a million daily earners, the attack surface isn't just code—it's systemic counterparty risk at massive scale.\n\nAn incident this week saw a malicious app bypass stream liquidations before reserves were hit, prompting an emergency hotfix. \n\nWhere is the balance between ultra-wide user acquisition and architectural security when treasury reserves are directly exposed to third-party front ends? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "44967e09d764d1d458acc34e",
+    "timestamp": "2026-09-10T22:14:16.312Z"
   }
 ]
