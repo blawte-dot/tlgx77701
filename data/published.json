@@ -195,5 +195,45 @@
     "hasImage": true,
     "eventFingerprint": "6ec07fcb5f6ce34547f564aa",
     "timestamp": "2026-09-09T23:48:48.487Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 97,
+    "text": "Supply chain vulnerabilities continue to haunt crypto hardware manufacturers. \n\nHardware wallet maker Trezor has confirmed a security breach involving a third-party partner, directly resulting in targeted phishing emails sent to customers from a legitimate domain. \n\nThe incident traces back to last month's data breach at ShipMonk, a third-party logistics and shipping provider utilized by Trezor. That breach compromised sensitive personal data, including names, physical addresses, and contact details of buyers. \n\nAttackers subsequently leveraged this proprietary customer information to execute sophisticated phishing campaigns, exploiting the trusted brand name of the logistics provider to deceive recipients. \n\nWhile Trezor's physical devices and internal systems remain uncompromised, the incident highlights a persistent weak spot for hardware security companies: the operational security of their downstream vendors. Customers who purchased devices through official channels are being advised to treat all incoming communications regarding firmware updates, seed phrase resets, or account verifications with extreme caution.",
+    "hasImage": true,
+    "eventFingerprint": "29c14bc69d990353317676bc",
+    "timestamp": "2026-09-10T02:57:45.195Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 99,
+    "text": "Watch those leverage metrics closely before chasing ATOM higher today.\n\nThe token jumped 12% on a wave of heavy whale accumulation and expanding futures participation. \n\nOrder book data points to building momentum around the current breakout zone, but stretched leverage historically leaves rallies vulnerable to sharp liquidations.",
+    "hasImage": true,
+    "eventFingerprint": "9066dc29633cf79d02ea70c6",
+    "timestamp": "2026-09-10T02:57:46.831Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 100,
+    "text": "Are on-chain whales quietly positioning for the next leg up in Solana?\n\nUnconfirmed reports circulating this morning suggest a single large address scooped up roughly $28 million in SOL. \n\nWhile network fundamentals remain robust, treat these specific accumulation figures with caution until independent on-chain trackers verify the transaction data. \n\nMarkets often price in whale activity before broader retail participation catches up, but unverified wallet movements can frequently misrepresent institutional intent.",
+    "hasImage": true,
+    "eventFingerprint": "5996edc12d504608f31911be",
+    "timestamp": "2026-09-10T02:57:47.915Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 101,
+    "text": "Regulation by paperwork marathon is finally hitting the home stretch. \n\nThe White House is now reviewing the SEC’s rewritten crypto custody rule for investment advisers. \n\nTranslation: after years of watching the agency play regulatory dodgeball with a 2023 proposal, the bureaucratic machinery is actually grinding forward. \n\nWatch the details on what counts as qualified custody. That's where the real friction starts.",
+    "hasImage": true,
+    "eventFingerprint": "3f6e7889c54389e01777440d",
+    "timestamp": "2026-09-10T02:57:49.038Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 102,
+    "text": "Singapore just became a little harder to leave if you're a major crypto exchange.\n\nGemini secured full major payment institution approval from the MAS today, cementing its footprint in the region. \n\nThe license greenlights an expansion of its existing spot trading, custody, and OTC operations in the city-state. \n\n#Gemini",
+    "hasImage": true,
+    "eventFingerprint": "57ef37a37b763b94e9855068",
+    "timestamp": "2026-09-10T02:57:50.064Z"
   }
 ]
