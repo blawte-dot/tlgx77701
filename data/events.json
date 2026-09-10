@@ -2026,5 +2026,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Secures Another Regulatory Milestone in Canada: ETF Options Hit US Market",
+    "link": "https://u.today/xrp-secures-another-regulatory-milestone-in-canada-etf-options-hit-us-market",
+    "summary": "Canada opens access to XRP-ETF options for US markets as major Canadian banks step into the asset class via regulated wrappers.",
+    "image": null,
+    "publishedAt": "2026-09-10T12:31:30.000Z",
+    "collectedAt": "2026-09-10T12:47:24.746Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c72ab175edd48318ea08b9c6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-10T12:47:28.171Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Secures Another Regulatory Milestone in Canada: ETF Options Hit US Market",
+        "fingerprint": "c72ab175edd48318ea08b9c6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 110,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance Delisting: $100 Million FDV USD Stablecoin Removed",
+    "link": "https://u.today/binance-delists-29-million-fdv-usd-stablecoin",
+    "summary": "Binance announces delisting of once major stablecoin Pax Dollar.",
+    "image": null,
+    "publishedAt": "2026-09-10T08:28:00.000Z",
+    "collectedAt": "2026-09-10T12:47:24.746Z",
+    "corroboratingSources": 1,
+    "fingerprint": "83ea25e79be77e11719c7483",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-10T12:48:13.958Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Delisting: $100 Million FDV USD Stablecoin Removed",
+        "fingerprint": "83ea25e79be77e11719c7483"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 112,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin ETFs Bleed $147 Million in Two-Day Outflow Streak",
+    "link": "https://u.today/bitcoin-etfs-bleed-147-million-in-two-day-outflow-streak",
+    "summary": "U.S. spot Bitcoin ETFs have posted a second consecutive day of outflows.",
+    "image": null,
+    "publishedAt": "2026-09-10T08:04:23.000Z",
+    "collectedAt": "2026-09-10T12:47:24.746Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1bee1ff7a2fcd4e6662c74d5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-10T12:48:15.540Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Bleed $147 Million in Two-Day Outflow Streak",
+        "fingerprint": "1bee1ff7a2fcd4e6662c74d5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 114,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
+    "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
+    "summary": "The investment expands a strategic partnership to bring tokenized, voting-enabled equities to crypto exchange users.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f231dbc1b627628eb7b1afe3073540e1eb17e2-1690x751.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-10T11:21:21.000Z",
+    "collectedAt": "2026-09-10T12:47:24.746Z",
+    "corroboratingSources": 2,
+    "fingerprint": "82286de88125321974ae3e7b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-09-10T12:48:17.110Z",
+    "outcome": {
+      "event": {
+        "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
+        "fingerprint": "82286de88125321974ae3e7b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 115,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+    "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troubling signal” about America’s leadership in the digital asset industry.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25AAYAYJTA7FVQK9H44A4NC/hi-who-is-scott-bessent-clarity-act.jpg",
+    "publishedAt": "2026-09-10T10:20:00.000Z",
+    "collectedAt": "2026-09-10T12:47:24.746Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e0f50e8efe57481a7c38a737",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-10T12:48:18.182Z",
+    "outcome": {
+      "event": {
+        "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+        "fingerprint": "e0f50e8efe57481a7c38a737"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 116,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

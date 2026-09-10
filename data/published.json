@@ -275,5 +275,45 @@
     "hasImage": true,
     "eventFingerprint": "7d8b86445665f436cd127ce3",
     "timestamp": "2026-09-10T07:57:57.326Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 110,
+    "text": "Cross-border regulatory alignment rarely moves this quietly.\n\nCanadian financial institutions are opening a direct pathway for US market participants to trade XRP-ETF options through regulated wrappers, marking a notable shift in institutional access for the asset. \n\nWhile US spot markets have navigated a complex patchwork of approvals, Canadian regulators have taken a more streamlined approach to derivative products tied to digital assets. Major domestic banks are now stepping directly into the asset class, providing the structural backing institutional desks require before deploying capital at scale.\n\nThis development does not guarantee immediate liquidity inflows, nor does it bypass ongoing regulatory discussions in other jurisdictions. However, it establishes a functional template for cross-border participation that bypasses some of the traditional hurdles stalling domestic US product launches.\n\nAs institutional wrappers expand northward, the market now watches whether US regulators will view this Canadian framework as a precedent or an outlier.",
+    "hasImage": true,
+    "eventFingerprint": "c72ab175edd48318ea08b9c6",
+    "timestamp": "2026-09-10T12:47:28.170Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 112,
+    "text": "A major relic of the early stablecoin era is officially winding down its market presence.\n\nBinance has confirmed the upcoming delisting of Pax Dollar ($USDP), removing a token that once commanded a valuation north of $100 million. \n\nFor years, the asset served as a regulated alternative issued by Paxos, operating under New York Department of Financial Services oversight. Yet despite institutional backing and early integration across major decentralized finance protocols, $USDP struggled to maintain relevance as liquidity consolidated around larger structural players.\n\nMarket dynamics have grown increasingly unforgiving for mid-tier stablecoins. \n\nWhile Tether ($USDT) and Circle ($USDC) continue to capture the vast majority of trading volume and settlement demand, smaller issuers face mounting compliance costs alongside dwindling utility. Maintaining deep liquidity pools across centralized exchanges requires sustained demand that legacy alternatives have largely failed to retain.\n\nThe delisting highlights a broader trend across digital asset markets: regulatory compliance alone is no longer enough to guarantee survival. Without native network effects or sticky ecosystem integrations, even historically significant assets find themselves quietly phased out as exchanges streamline their order books for maximum efficiency.",
+    "hasImage": true,
+    "eventFingerprint": "83ea25e79be77e11719c7483",
+    "timestamp": "2026-09-10T12:48:13.958Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 114,
+    "text": "Spot Bitcoin ETFs just extended their losing streak to a second day, shedding $147 million as institutional demand cools across U.S. products.\n\nThe latest red prints highlight a clear shift in momentum following weeks of steady inflows that had pushed exchange-traded funds to the center of the recent market narrative. \n\nMarket participants are weighing whether this two-day contraction marks a temporary consolidation phase or the beginning of a broader capital rotation out of digital asset products as macro headwinds persist.",
+    "hasImage": true,
+    "eventFingerprint": "1bee1ff7a2fcd4e6662c74d5",
+    "timestamp": "2026-09-10T12:48:15.540Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 115,
+    "text": "$100 million just crossed the line between traditional equities and crypto rails.\n\nNasdaq has taken a direct stake in Payward, the parent company of Kraken, valuing the firm at $21 billion. \n\nMultiple outlets are confirming the move, which goes far beyond a simple venture investment. \n\nThe capital backs a strategic expansion to bring tokenized, voting-enabled traditional stocks directly onto crypto exchange infrastructure. \n\nWall Street and digital asset venues are no longer just adjacent markets. \n\nThey are actively merging their plumbing.",
+    "hasImage": true,
+    "eventFingerprint": "82286de88125321974ae3e7b",
+    "timestamp": "2026-09-10T12:48:17.110Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 116,
+    "text": "Washington just realized ignoring crypto is harder than ignoring the national debt.\n\nTreasury Secretary Scott Bessent is leaning on Congress to pass the CLARITY Act as soon as the Senate returns, warning that foot-dragging on digital assets looks terrible for American leadership. \n\nBureaucracy finally discovered the clock is ticking.",
+    "hasImage": true,
+    "eventFingerprint": "e0f50e8efe57481a7c38a737",
+    "timestamp": "2026-09-10T12:48:18.181Z"
   }
 ]
