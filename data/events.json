@@ -1821,5 +1821,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green",
+    "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+    "summary": "The bitcoin funds shed $120 million on Wednesday, more than double Tuesday's loss. Ether, XRP and solana all took money in.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec9ad9b7314c704b4ba9574c0e07436674b8a141-1408x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-10T07:45:46.000Z",
+    "collectedAt": "2026-09-10T07:57:47.905Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4d2135725be8336c8b921a0c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T07:57:51.066Z",
+    "outcome": {
+      "event": {
+        "title": "Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green",
+        "fingerprint": "4d2135725be8336c8b921a0c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 103,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Why is crypto falling today? $386M liquidation wave, rate-hike fears, and more",
+    "link": "https://ambcrypto.com/why-is-crypto-falling-today-386m-liquidation-wave-rate-hike-fears-and-more/",
+    "summary": "Higher oil prices spurred fears of inflation acceleration, and the U.S. Federal Reserve rate hike probability has reached 60.2%.",
+    "image": null,
+    "publishedAt": "2026-09-10T07:30:46.000Z",
+    "collectedAt": "2026-09-10T07:57:47.905Z",
+    "corroboratingSources": 1,
+    "fingerprint": "11cb6bb23a52b9f1614f5b33",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T07:57:54.037Z",
+    "outcome": {
+      "event": {
+        "title": "Why is crypto falling today? $386M liquidation wave, rate-hike fears, and more",
+        "fingerprint": "11cb6bb23a52b9f1614f5b33"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 105,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Whales Remain on the Sidelines Ahead of Chaotic 10 Days: What’s Coming?",
+    "link": "https://cryptopotato.com/bitcoin-whales-remain-on-the-sidelines-ahead-of-chaotic-10-days-whats-coming/",
+    "summary": "The largest market participants appear reluctant to make a move as the asset struggles below $80,000. Or, maybe there are waiting for these major developments to unfold.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2023/11/Bitcoin_Whale.jpg",
+    "publishedAt": "2026-09-10T07:30:34.000Z",
+    "collectedAt": "2026-09-10T07:57:47.905Z",
+    "corroboratingSources": 1,
+    "fingerprint": "47f34f63344de77468d47197",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-10T07:57:55.236Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Whales Remain on the Sidelines Ahead of Chaotic 10 Days: What’s Coming?",
+        "fingerprint": "47f34f63344de77468d47197"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 107,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "publishedAt": "2026-09-10T05:59:21.000Z",
+    "collectedAt": "2026-09-10T07:57:47.905Z",
+    "corroboratingSources": 1,
+    "fingerprint": "552e43ae5e35357af6a256a0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-10T07:57:56.298Z",
+    "outcome": {
+      "event": {
+        "title": "Here’s what happened in crypto today",
+        "fingerprint": "552e43ae5e35357af6a256a0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 108,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Zoomex Launches ZWTC 2026 Multi-Asset Trading Championship With a Record Prize Pool of Up to 5 Million USDT",
+    "link": "https://www.newsbtc.com/news/zoomex-launches-zwtc-2026-multi-asset-trading-championship-with-a-record-prize-pool-of-up-to-5-million-usdt/",
+    "summary": "Returning for its third year, Zoomex’s flagship global trading competition expands across crypto perpetuals, stock contracts, AI-powered trading, team competition, and interactive rewards Global, 10 September 2026 — Zoomex, a global cryptocurrency trading platform focused on derivatives, has announced the launch of the Zoomex World Trading Championship 2026 (ZWTC 2026). Returning for its third year, the flagship competition features a total prize pool of up to 5,000,000 USDT, the largest announc",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/f2b91c83c8644729a9560a56f2ab5cfc-2.png?fit=715%2C536",
+    "publishedAt": "2026-09-10T07:37:04.000Z",
+    "collectedAt": "2026-09-10T07:57:47.905Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7d8b86445665f436cd127ce3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-10T07:57:57.327Z",
+    "outcome": {
+      "event": {
+        "title": "Zoomex Launches ZWTC 2026 Multi-Asset Trading Championship With a Record Prize Pool of Up to 5 Million USDT",
+        "fingerprint": "7d8b86445665f436cd127ce3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 109,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
