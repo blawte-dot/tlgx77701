@@ -2231,5 +2231,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+    "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+    "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
+    "publishedAt": "2026-09-10T15:33:11.000Z",
+    "collectedAt": "2026-09-10T16:52:55.348Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4a93ff3017f65e2fa7f84601",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-10T16:53:07.968Z",
+    "outcome": {
+      "event": {
+        "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+        "fingerprint": "4a93ff3017f65e2fa7f84601"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 118,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "SEC gives Bitcoin-heavy trusts a new 15% window to venture beyond existing listing rules",
+    "link": "https://cryptoslate.com/sec-gives-bitcoin-heavy-trusts-new-15-percent-window-to-venture-beyond-existing-listing-rules/",
+    "summary": "Qualifying trusts can use a faster generic route while derivatives measured at gross notional can quickly exhaust the flexible sleeve.\nThe post SEC gives Bitcoin-heavy trusts a new 15% window to venture beyond existing listing rules appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/nasdaq-texas-bitcoin-sleeve.jpg",
+    "publishedAt": "2026-09-10T12:50:37.000Z",
+    "collectedAt": "2026-09-10T16:52:55.348Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8429f69b48fb865188f92134",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-10T16:53:19.607Z",
+    "outcome": {
+      "event": {
+        "title": "SEC gives Bitcoin-heavy trusts a new 15% window to venture beyond existing listing rules",
+        "fingerprint": "8429f69b48fb865188f92134"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 120,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+    "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+    "summary": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ecdda2c4e8818fb75de87159f1697cfaed7876fb-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-10T15:53:24.000Z",
+    "collectedAt": "2026-09-10T16:52:55.348Z",
+    "corroboratingSources": 1,
+    "fingerprint": "25d34096de29efef5ee8ac16",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T16:53:32.243Z",
+    "outcome": {
+      "event": {
+        "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+        "fingerprint": "25d34096de29efef5ee8ac16"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 122,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
+    "link": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120",
+    "summary": "Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/nasdaq-listing-1200x675.jpg",
+    "publishedAt": "2026-09-10T12:53:22.000Z",
+    "collectedAt": "2026-09-10T16:52:55.348Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3dbfa0cdf2346567b0524c11",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T16:53:48.823Z",
+    "outcome": {
+      "event": {
+        "title": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
+        "fingerprint": "3dbfa0cdf2346567b0524c11"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 124,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Citadel urges SEC to assert oversight of event contracts tied to public firms",
+    "link": "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
+    "summary": "Citadel Securities urges SEC oversight of equity-linked event contracts, challenging CFTC self-certification.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-1200x675.jpg",
+    "publishedAt": "2026-09-10T13:43:09.000Z",
+    "collectedAt": "2026-09-10T16:52:55.348Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cc4fe8e28ccbe94ddf8eda61",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-10T16:53:57.089Z",
+    "outcome": {
+      "event": {
+        "title": "Citadel urges SEC to assert oversight of event contracts tied to public firms",
+        "fingerprint": "cc4fe8e28ccbe94ddf8eda61"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 126,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
