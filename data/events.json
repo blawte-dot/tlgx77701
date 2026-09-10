@@ -2436,5 +2436,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+    "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+    "summary": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-10T19:01:30.000Z",
+    "collectedAt": "2026-09-10T19:27:00.487Z",
+    "corroboratingSources": 1,
+    "fingerprint": "104dcbee56f0d2036c2551a2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T19:27:03.156Z",
+    "outcome": {
+      "event": {
+        "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+        "fingerprint": "104dcbee56f0d2036c2551a2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 127,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Wall Street’s altcoin ETF rotation is not producing an altseason, and the old playbook may be breaking",
+    "link": "https://cryptoslate.com/wall-streets-altcoin-etf-rotation-is-not-producing-an-altseason-and-the-old-playbook-may-be-breaking/",
+    "summary": "Regulated funds can concentrate demand in Ethereum and Solana while broad altcoin leadership remains absent.\nThe post Wall Street’s altcoin ETF rotation is not producing an altseason, and the old playbook may be breaking appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/etf-claw-crypto-rotation.jpg",
+    "publishedAt": "2026-09-10T19:00:11.000Z",
+    "collectedAt": "2026-09-10T19:27:00.487Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fd3e69e92b958d0af1877324",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T19:27:06.127Z",
+    "outcome": {
+      "event": {
+        "title": "Wall Street’s altcoin ETF rotation is not producing an altseason, and the old playbook may be breaking",
+        "fingerprint": "fd3e69e92b958d0af1877324"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 129,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Coinbase CEO Backs CLARITY Act to Secure &#8216;Yes&#8217; Vote on September 15",
+    "link": "https://cryptopotato.com/coinbase-ceo-backs-clarity-act-to-secure-yes-vote-on-september-15/",
+    "summary": "Even without a Senate victory, Armstrong expects SEC and CFTC rulemaking to deliver a regulatory framework for the crypto industry.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2022/05/Brian_Armstrong.jpg",
+    "publishedAt": "2026-09-10T18:30:49.000Z",
+    "collectedAt": "2026-09-10T19:27:00.487Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6e782ddc21615976619df0f1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T19:27:07.576Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase CEO Backs CLARITY Act to Secure &#8216;Yes&#8217; Vote on September 15",
+        "fingerprint": "6e782ddc21615976619df0f1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 131,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Kraken&#8217;s kHYPE expands Hyperliquid utility &#8211; Whale stakes entire $159M position",
+    "link": "https://ambcrypto.com/krakens-khype-expands-hyperliquid-utility-whale-stakes-entire-159m-position/",
+    "summary": "HYPE gains support from Kraken and whale staking.",
+    "image": null,
+    "publishedAt": "2026-09-10T19:00:28.000Z",
+    "collectedAt": "2026-09-10T19:27:00.487Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5b94521fb45f15423305404f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-10T19:27:10.772Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken&#8217;s kHYPE expands Hyperliquid utility &#8211; Whale stakes entire $159M position",
+        "fingerprint": "5b94521fb45f15423305404f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 132,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+    "link": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+    "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg",
+    "publishedAt": "2026-09-10T18:13:13.000Z",
+    "collectedAt": "2026-09-10T19:27:00.487Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0c2693537d2c9450051f845a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-10T19:27:11.953Z",
+    "outcome": {
+      "event": {
+        "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+        "fingerprint": "0c2693537d2c9450051f845a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 134,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
