@@ -485,5 +485,40 @@
     "hasImage": true,
     "eventFingerprint": "4e2b550b84ff02612b3bd4ef",
     "timestamp": "2026-09-11T10:34:45.172Z"
+  },
+  {
+    "messageId": 157,
+    "text": "Sticky inflation just handed the Federal Reserve a difficult decision.\n\nCore Consumer Price Index numbers for August came in hotter than expected at 0.3%, forcing markets to reprice the probability of further central bank tightening just as growth concerns begin to surface across broader asset classes.\n\nThe monthly print matters far beyond traditional equities. Digital asset markets have increasingly traded in tandem with shifting macroeconomic liquidity expectations, making every inflation print a critical test for risk-on sentiment. \n\nToday's data carries heavier weight following remarks delivered two weeks ago by Federal Reserve official Kevin Warsh. Warsh explicitly flagged that policymakers may have no choice but to resume aggressive action if price pressures fail to moderate toward the central bank's two percent target on a sustained basis. \n\nBond yields ticked higher immediately following the release, while equity index futures slipped in pre-market trading. Bitcoin and major altcoins saw initial downward volatility as traders recalibrated exposure ahead of the upcoming FOMC policy meeting. \n\nThe core index strips out volatile food and energy costs, making it the preferred gauge for central bankers tracking underlying inflationary momentum. Services inflation and shelter costs remain the primary drivers keeping the metric elevated, defying prior forecasts of a more rapid cooling period.\n\nMarkets are now pricing a higher probability that interest rates will stay higher for longer, directly challenging the prevailing narrative that monetary easing would arrive by the end of the year. \n\nLiquidity conditions remain the single most important variable for crypto markets. As the macro picture tightens, capital flows are likely to remain sensitive to incoming employment and inflation data over the coming weeks.",
+    "hasImage": true,
+    "eventFingerprint": "c284815d7544240157ef2ce7",
+    "timestamp": "2026-09-11T14:50:18.433Z"
+  },
+  {
+    "messageId": 159,
+    "text": "An extortionist just learned the hard way that open-source infrastructure doesn't negotiate. \n\nBlockstream has officially rebuffed a ransom demand for the remaining 600 Bitcoin tied to last week’s Liquid Network exploit, opting instead to stare down the attacker and double down on forensic recovery. \n\nThe standoff puts a high-stakes spotlight on how modern crypto protocols handle targeted breaches. Rather than folding to pressure or entertaining backroom payouts, the engineering team drew a hard line in the sand. \n\nOperational status on Liquid is shifting piece by piece. \n\nTransactions have resumed across the network, bringing a degree of normalcy back to users. However, safety remains the overriding priority. Peg-outs—the mechanism for moving assets out of the Liquid sidechain and back onto the Bitcoin base layer—remain strictly disabled. \n\nThat restriction is doing heavy lifting. By freezing peg-outs, operators have effectively trapped the stolen capital inside a walled garden, severely limiting the attacker's ability to launder or disperse the funds through standard channels. \n\nIndependent reporting across multiple desks confirms that recovery work is grinding forward around the clock, with blockchain analysts tracing the dormant addresses while core developers patch the underlying vector. \n\nThe message from Blockstream's leadership is unmistakable: stolen funds are not for sale, and extortion is a dead end. \n\nFor the broader market, the incident serves as a stress test for sidechain architectures. Liquid's deliberate slowdown demonstrates that pausing critical exit routes to contain damage is a viable playbook, even if it creates short-term friction for users holding liquidity on the network. \n\nAs forensics teams continue mapping the fallout, the 600 BTC remain locked in limbo—a stubborn reminder that securing layer-two infrastructure requires as much political resolve as it does cryptographic defense.",
+    "hasImage": true,
+    "eventFingerprint": "5e17ddd5170124acba5c3dae",
+    "timestamp": "2026-09-11T14:50:21.593Z"
+  },
+  {
+    "messageId": 161,
+    "text": "Liquidity isn't returning to crypto just because the Treasury stepped in.\n\nWashington just injected support into older government debt with a massive $5.2 billion buyback operation. \n\nThe intervention kept the plumbing intact for legacy markets, but it did nothing to ease the broader funding squeeze currently facing digital assets. \n\nSpot Bitcoin exchange-traded funds registered another round of net outflows this week, confirming that institutional capital remains sidelined. \n\nReal yields continue to grind higher across the curve, keeping the opportunity cost of holding non-yielding assets elevated. \n\nWhen macro plumbing requires emergency state support while risk-on capital stays flat, the transmission mechanism between traditional liquidity injections and crypto inflows remains entirely broken.",
+    "hasImage": true,
+    "eventFingerprint": "ba36b9d5cbad759aba570d4a",
+    "timestamp": "2026-09-11T14:50:23.310Z"
+  },
+  {
+    "messageId": 162,
+    "text": "Traditional banking giants continue inching toward digital asset infrastructure. \n\nUnconfirmed reports suggest that Italy's UniCredit is currently seeking a partner to help build out crypto trading, custody, and tokenized investment products. \n\nNo official timelines or final agreements have been announced by the bank. We are tracking developments as they emerge.",
+    "hasImage": true,
+    "eventFingerprint": "27a5d93986e4386159afd9b7",
+    "timestamp": "2026-09-11T14:50:24.369Z"
+  },
+  {
+    "messageId": 163,
+    "text": "1 fund liquidation isn't necessarily a death knell for a cycle, but it certainly tests conviction.\n\nBitwise just pulled the plug on its BWOW ETF, raising a broader question for the market about actual institutional appetite for memecoin investment vehicles. \n\nWhere do you draw the line between retail-driven momentum and products built for traditional portfolios? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "41524f6c8e2ad72f6e423e81",
+    "timestamp": "2026-09-11T14:50:26.186Z"
   }
 ]

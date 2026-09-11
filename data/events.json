@@ -3461,5 +3461,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
+    "link": "https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike",
+    "summary": "The August CPI report had taken on outsized importance after Fed Chair Kevin Warsh two weeks ago suggested the central bank may have to act if inflation doesn't soon slow.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6fe1575f4294eb414e94cf236e1cdfa6b96c8454-1920x1040.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-11T12:32:25.000Z",
+    "collectedAt": "2026-09-11T14:49:42.338Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c284815d7544240157ef2ce7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-11T14:50:18.436Z",
+    "outcome": {
+      "event": {
+        "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
+        "fingerprint": "c284815d7544240157ef2ce7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 157,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247",
+    "summary": "Liquid has resumed transactions following the exploit, though peg-outs remain disabled as recovery work continues.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/05/Blockstream-1200x675.jpg",
+    "publishedAt": "2026-09-11T11:21:17.000Z",
+    "collectedAt": "2026-09-11T14:49:42.338Z",
+    "corroboratingSources": 3,
+    "fingerprint": "5e17ddd5170124acba5c3dae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-11T14:50:21.595Z",
+    "outcome": {
+      "event": {
+        "title": "‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit",
+        "fingerprint": "5e17ddd5170124acba5c3dae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 159,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Treasury buys $5.2 billion of bonds as Bitcoin ETF flows stay negative",
+    "link": "https://cryptoslate.com/treasury-buys-5-2-billion-of-bonds-as-bitcoin-etf-flows-stay-negative/",
+    "summary": "The operation supported older bonds, but rising real yields showed why market plumbing had yet to ease Bitcoin’s funding backdrop.\nThe post Treasury buys $5.2 billion of bonds as Bitcoin ETF flows stay negative appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-outflow-depot.jpg",
+    "publishedAt": "2026-09-11T14:30:12.000Z",
+    "collectedAt": "2026-09-11T14:49:42.338Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ba36b9d5cbad759aba570d4a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-11T14:50:23.312Z",
+    "outcome": {
+      "event": {
+        "title": "Treasury buys $5.2 billion of bonds as Bitcoin ETF flows stay negative",
+        "fingerprint": "ba36b9d5cbad759aba570d4a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 161,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
+    "link": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M282X830DCH6TSW5XZJXNKBH/hi-crypto-olympic-gods.jpg",
+    "publishedAt": "2026-09-11T11:35:27.000Z",
+    "collectedAt": "2026-09-11T14:49:42.338Z",
+    "corroboratingSources": 1,
+    "fingerprint": "27a5d93986e4386159afd9b7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-11T14:50:24.371Z",
+    "outcome": {
+      "event": {
+        "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
+        "fingerprint": "27a5d93986e4386159afd9b7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 162,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Dogecoin: Bitwise liquidates BWOW ETF, but can DOGE defend THIS?",
+    "link": "https://ambcrypto.com/dogecoin-bitwise-liquidates-bwow-etf-but-can-doge-defend-this/",
+    "summary": "Bitwise’s exit exposes a harder question. Do investors actually want memecoin ETFs?",
+    "image": null,
+    "publishedAt": "2026-09-11T13:00:54.000Z",
+    "collectedAt": "2026-09-11T14:49:42.338Z",
+    "corroboratingSources": 1,
+    "fingerprint": "41524f6c8e2ad72f6e423e81",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-11T14:50:26.189Z",
+    "outcome": {
+      "event": {
+        "title": "Dogecoin: Bitwise liquidates BWOW ETF, but can DOGE defend THIS?",
+        "fingerprint": "41524f6c8e2ad72f6e423e81"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 163,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
