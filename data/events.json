@@ -3256,5 +3256,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "MEXC Stock Futures Trading Volume Rises 130% in August as Trading Activity Broadens Across U.S. and Korean emory and Semiconductor Sectors",
+    "link": "https://www.newsbtc.com/news/mexc-stock-futures-trading-volume-rises-130-in-august-as-trading-activity-broadens-across-u-s-and-korean-emory-and-semiconductor-sectors/",
+    "summary": "Mutsamudu, Comoros, September 11, 2026 — MEXC, a pioneer in 0-fee digital asset trading, released its August TradFi trading data. Trading volume across stock, index, and ETF Futures rose 130% month-on-month, while the number of available contracts grew 35% to over 400. Tokenized stocks and ETF Spot trading volume increased 30%, with gains across nearly all existing listings. &#160; Memory and Semiconductor Trading Broadens Across U.S. and Korean Markets Stock Futures trading activity broadened f",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/photo_2026-09-11_11-50-27.jpg?fit=715%2C536",
+    "publishedAt": "2026-09-11T10:11:20.000Z",
+    "collectedAt": "2026-09-11T10:34:03.921Z",
+    "corroboratingSources": 1,
+    "fingerprint": "27a11c1255f504ed9219ab57",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-11T10:34:16.559Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC Stock Futures Trading Volume Rises 130% in August as Trading Activity Broadens Across U.S. and Korean emory and Semiconductor Sectors",
+        "fingerprint": "27a11c1255f504ed9219ab57"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 152,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report",
+    "link": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bankman-Fried’s lawyers challenged the exclusion of evidence about customer losses and argued that his $11 billion forfeiture was excessive.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
+    "publishedAt": "2026-09-11T07:43:19.000Z",
+    "collectedAt": "2026-09-11T10:34:03.921Z",
+    "corroboratingSources": 3,
+    "fingerprint": "4d7d96a66eb283ffab044934",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-11T10:34:28.186Z",
+    "outcome": {
+      "event": {
+        "title": "SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report",
+        "fingerprint": "4d7d96a66eb283ffab044934"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 153,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
+    "link": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Blockstream said it would work with law enforcement, exchanges and forensic specialists to recover the Bitcoin if the hackers do not return it.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27QFNQHXK4AQ23CPKY39BZF/hi-can-bitcoin-be-hacked-3.jpg",
+    "publishedAt": "2026-09-11T08:43:19.000Z",
+    "collectedAt": "2026-09-11T10:34:03.921Z",
+    "corroboratingSources": 1,
+    "fingerprint": "258c5f2938e7bff60e7f622c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-11T10:34:29.188Z",
+    "outcome": {
+      "event": {
+        "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
+        "fingerprint": "258c5f2938e7bff60e7f622c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 154,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Zcash (ZEC) Bloodbath: 16% Drop Triggers Liquidation Spree",
+    "link": "https://u.today/zcash-zec-bloodbath-16-drop-triggers-liquidation-spree",
+    "summary": "Zcash faced a surge in liquidation volume as price loses the top.",
+    "image": null,
+    "publishedAt": "2026-09-11T08:35:00.000Z",
+    "collectedAt": "2026-09-11T10:34:03.921Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fb32167917093faeb9ea660e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-11T10:34:30.970Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash (ZEC) Bloodbath: 16% Drop Triggers Liquidation Spree",
+        "fingerprint": "fb32167917093faeb9ea660e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 155,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Attackers exploit fake STM32 vulnerability alert to target Trezor and BitBox holders",
+    "link": "https://cryptoslate.com/attackers-exploit-fake-stm32-vulnerability-alert-to-target-trezor-and-bitbox-holders/",
+    "summary": "Trezor confirms an email-provider breach and says its wallets remain safe, while BitBox investigates a likely newsletter-provider compromise.\nThe post Attackers exploit fake STM32 vulnerability alert to target Trezor and BitBox holders appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-bitbox-phishing-alert.jpg",
+    "publishedAt": "2026-09-11T08:10:54.000Z",
+    "collectedAt": "2026-09-11T10:34:03.921Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4e2b550b84ff02612b3bd4ef",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T10:34:45.174Z",
+    "outcome": {
+      "event": {
+        "title": "Attackers exploit fake STM32 vulnerability alert to target Trezor and BitBox holders",
+        "fingerprint": "4e2b550b84ff02612b3bd4ef"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 156,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

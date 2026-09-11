@@ -515,5 +515,45 @@
     "hasImage": true,
     "eventFingerprint": "70b3cdf6eaa0506a03b97cde",
     "timestamp": "2026-09-11T05:36:30.554Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 152,
+    "text": "Traditional equities are quietly finding a second home on crypto exchanges.\n\nMEXC reported a 130% month-on-month surge in stock, index, and ETF futures volume for August, signaling a deeper shift in how retail and institutional participants access global markets. \n\nThe exchange expanded its contract offerings by 35% to exceed 400 total listings over the month. Tokenized stocks and ETF spot trading also saw broad-based participation, climbing 30% across nearly all existing assets. \n\nTrading data highlights a distinct sector rotation. Activity concentrated heavily in U.S. and Korean memory and semiconductor equities, mirroring broader macro narratives around hardware demand and AI supply chains. \n\nAs derivatives platforms continue bridging traditional finance and digital assets, round-the-clock access to legacy markets is no longer just an experiment. It is capturing measurable volume.\n\n#MEXC",
+    "hasImage": true,
+    "eventFingerprint": "27a11c1255f504ed9219ab57",
+    "timestamp": "2026-09-11T10:34:16.558Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 153,
+    "text": "Don't look away from this appeal—the legal battle over FTX is officially reaching its final threshold.\n\nSam Bankman-Fried’s legal team has petitioned the Supreme Court to overturn both his fraud conviction and the staggering $11 billion forfeiture order, pointing directly to excluded evidence on customer losses. \n\nWith multiple outlets tracking the filing this hour, the highest court in the US will now decide whether to review the trial's core parameters. \n\nDoes this Supreme Court challenge carry any legitimate legal weight, or is this simply a last-ditch effort with zero chance of overturning the verdict?",
+    "hasImage": true,
+    "eventFingerprint": "4d7d96a66eb283ffab044934",
+    "timestamp": "2026-09-11T10:34:28.185Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 154,
+    "text": "Nearly 600 BTC remains in hacker hands after Blockstream officially refused to yield to ransom demands. \n\nLaw enforcement, forensic specialists, and major exchanges are now mobilizing to track and recover the funds following the ultimatum rejection. \n\n#Blockstream",
+    "hasImage": true,
+    "eventFingerprint": "258c5f2938e7bff60e7f622c",
+    "timestamp": "2026-09-11T10:34:29.187Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 155,
+    "text": "Privacy coin season really snuck up on everyone this year.\n\nZcash just took a 16% haircut in a single session, wiping out over-leveraged longs who forgot that privacy doesn't protect you from margin calls. \n\nTurns out transparency is overrated until the market forces you to look at your liquidation price.",
+    "hasImage": true,
+    "eventFingerprint": "fb32167917093faeb9ea660e",
+    "timestamp": "2026-09-11T10:34:30.969Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 156,
+    "text": "Phishing campaigns rarely rely on technical code execution when social engineering a fake zero-day delivers the same access.\n\nBoth Trezor and BitBox are managing security incidents following compromised third-party email and newsletter providers. \n\nAttackers are currently distributing fabricated alerts regarding vulnerabilities in STM32 chips, a hardware component used across the industry, to trick users into revealing recovery seeds or approving malicious transactions.\n\nYour hardware wallet remains uncompromised by this vector. \n\nThe physical devices are secure—the threat lives entirely in the inbox. Treat any urgent security advisory demanding wallet interaction right now as hostile until independently verified by official channels.",
+    "hasImage": true,
+    "eventFingerprint": "4e2b550b84ff02612b3bd4ef",
+    "timestamp": "2026-09-11T10:34:45.173Z"
   }
 ]
