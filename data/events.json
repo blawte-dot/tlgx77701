@@ -2846,5 +2846,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "OpenAI’s math breakthrough exposes the next weak link in crypto security",
+    "link": "https://cryptoslate.com/openais-math-breakthrough-exposes-the-next-weak-link-in-crypto-security/",
+    "summary": "Its Navier–Stokes claim suggests a possible role for AI in contract verification, where flawed specifications can leave vulnerabilities undetected.\nThe post OpenAI’s math breakthrough exposes the next weak link in crypto security appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ai-contract-rule-check.jpg",
+    "publishedAt": "2026-09-10T22:30:50.000Z",
+    "collectedAt": "2026-09-11T00:48:59.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0565b4b454ffc6995fae5d50",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T00:49:04.803Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI’s math breakthrough exposes the next weak link in crypto security",
+        "fingerprint": "0565b4b454ffc6995fae5d50"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 141,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin Slips Below $77K as Fed Hike Odds Surge",
+    "link": "https://u.today/bitcoin-slips-below-77k-as-fed-hike-odds-surge",
+    "summary": "Bitcoin slipped below $77,000 on Sept. 10 as hotter inflation data pushed Fed hike odds sharply higher.",
+    "image": null,
+    "publishedAt": "2026-09-10T16:52:06.000Z",
+    "collectedAt": "2026-09-11T00:48:59.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d4154160d6994ea7d673cafa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T00:49:06.577Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Slips Below $77K as Fed Hike Odds Surge",
+        "fingerprint": "d4154160d6994ea7d673cafa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 142,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Dogecoin (DOGE) Hits Hard: 2691% Liquidation Imbalance Rocks Market",
+    "link": "https://u.today/dogecoin-doge-hits-hard-2691-liquidation-imbalance-rocks-market",
+    "summary": "Dogecoin bulls caught off guard with a 2691% liquidation imbalance emerging as selling pressure hits broader crypto market.",
+    "image": null,
+    "publishedAt": "2026-09-10T14:25:11.000Z",
+    "collectedAt": "2026-09-11T00:48:59.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ed4119b41e054fbbe9ca3d9c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T00:49:07.627Z",
+    "outcome": {
+      "event": {
+        "title": "Dogecoin (DOGE) Hits Hard: 2691% Liquidation Imbalance Rocks Market",
+        "fingerprint": "ed4119b41e054fbbe9ca3d9c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 143,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Where Did 361 Billion Shiba Inu (SHIB) Go? Inside South Korea's Latest Cryptocurrency Whale Move",
+    "link": "https://u.today/where-did-361-billion-shiba-inu-shib-go-inside-south-koreas-latest-cryptocurrency-whale-move",
+    "summary": "Shiba Inu holds on a knife-edge as a massive Korean whale wallet hoards 361 billion SHIB while the token battles a key moving average support.",
+    "image": null,
+    "publishedAt": "2026-09-10T13:49:05.000Z",
+    "collectedAt": "2026-09-11T00:48:59.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8e4b9b03c4e1157d300340da",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T00:49:08.667Z",
+    "outcome": {
+      "event": {
+        "title": "Where Did 361 Billion Shiba Inu (SHIB) Go? Inside South Korea's Latest Cryptocurrency Whale Move",
+        "fingerprint": "8e4b9b03c4e1157d300340da"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 144,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Uniswap whale accumulation grows despite correction: Can UNI bulls reclaim $7.48?",
+    "link": "https://ambcrypto.com/uniswap-whale-accumulation-grows-despite-correction-can-uni-bulls-reclaim-7-48/",
+    "summary": "UNI whale accumulation persisted during the correction as the Fibonacci golden zone emerged as key support.",
+    "image": null,
+    "publishedAt": "2026-09-10T18:00:24.000Z",
+    "collectedAt": "2026-09-11T00:48:59.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2f16cdfa66a7a1033c109db3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T00:49:09.597Z",
+    "outcome": {
+      "event": {
+        "title": "Uniswap whale accumulation grows despite correction: Can UNI bulls reclaim $7.48?",
+        "fingerprint": "2f16cdfa66a7a1033c109db3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 145,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

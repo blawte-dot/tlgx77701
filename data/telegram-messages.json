@@ -380,5 +380,40 @@
     "hasImage": true,
     "eventFingerprint": "44967e09d764d1d458acc34e",
     "timestamp": "2026-09-10T22:14:16.312Z"
+  },
+  {
+    "messageId": 141,
+    "text": "Are smart contracts actually secure if the math behind them is flawed from day one?\n\nOpenAI’s recent math breakthrough involving the Navier–Stokes equations hints at a shifting paradigm in automated verification. \n\nWhile still theoretical, advanced reasoning models are moving closer to tackling the kind of complex specifications that human auditors routinely miss. \n\nFor crypto, the real vulnerability has rarely been the underlying cryptography alone. It's the logic gap between what a developer intended to write and what the code actually enforces. \n\nIf AI begins mastering higher-level math verification, the tooling available to both builders and exploiters is about to undergo a fundamental shift. \n\nSource: CryptoSlate",
+    "hasImage": true,
+    "eventFingerprint": "0565b4b454ffc6995fae5d50",
+    "timestamp": "2026-09-11T00:49:04.802Z"
+  },
+  {
+    "messageId": 142,
+    "text": "Hotter inflation data just collided with risk assets, dragging the broader market down.\n\nBitcoin slipped under $77,000 as traders aggressively repriced Federal Reserve rate expectations following the latest economic prints. \n\nSwap markets now show a sharp surge in odds for a near-term hike, sending yields higher and forcing leveraged long positions to unwind across major order books.",
+    "hasImage": true,
+    "eventFingerprint": "d4154160d6994ea7d673cafa",
+    "timestamp": "2026-09-11T00:49:06.576Z"
+  },
+  {
+    "messageId": 143,
+    "text": "Broader crypto selling just caught leveraged DOGE traders completely flat-footed. \n\nA stark 2691% liquidation imbalance has materialized across the token's derivatives markets, heavily favoring long positions as prices slid. \n\nDownward momentum is testing local support levels while trapped buyers face rapid forced unwinds. \n\n#Dogecoin",
+    "hasImage": true,
+    "eventFingerprint": "ed4119b41e054fbbe9ca3d9c",
+    "timestamp": "2026-09-11T00:49:07.626Z"
+  },
+  {
+    "messageId": 144,
+    "text": "Quiet accumulation is rarely a coincidence. \n\nA South Korean whale wallet just absorbed 361 billion Shiba Inu tokens as SHIB tests crucial moving average support. \n\nVolume and large-holder flows suggest positioning is shifting while the broader market watches key technical levels. \n\n#SHIB",
+    "hasImage": true,
+    "eventFingerprint": "8e4b9b03c4e1157d300340da",
+    "timestamp": "2026-09-11T00:49:08.666Z"
+  },
+  {
+    "messageId": 145,
+    "text": "Large Uniswap holders are quietly adding to their positions while the broader market corrects.\n\nOn-chain data shows whale accumulation holding steady as UNI tests the Fibonacci golden zone. \n\nThe key technical hurdle ahead remains the $7.48 resistance level. Bulls will need to defend current support zones to mount a meaningful recovery.",
+    "hasImage": true,
+    "eventFingerprint": "2f16cdfa66a7a1033c109db3",
+    "timestamp": "2026-09-11T00:49:09.595Z"
   }
 ]
