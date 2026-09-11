@@ -475,5 +475,45 @@
     "hasImage": true,
     "eventFingerprint": "2f16cdfa66a7a1033c109db3",
     "timestamp": "2026-09-11T00:49:09.596Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 146,
+    "text": "Watch the order books closely before assuming a dip is a gift.\n\nBitcoin exchange inflows dropped 15.5% this week, easing immediate selling pressure as the asset consolidates near the $79,000 region. On paper, fewer coins moving onto trading platforms typically signals that holders are in no rush to liquidate. \n\nYet the underlying demand picture is far from straightforward. \n\nLarge-scale holders—commonly tracked as whales—have noticeably dialed back their accumulation pace. Rather than stepping in to aggressively absorb supply at these higher valuation levels, major wallets appear to be adopting a wait-and-see posture. \n\nAt the same time, institutional appetite via spot Bitcoin exchange-traded funds shows signs of fatigue. Recent sessions have recorded net outflows from several major issuers, countering the narrative of relentless institutional inflows that defined earlier phases of the rally. \n\nWhen exchange supply shrinks alongside a simultaneous cooling in whale activity and ETF demand, it rarely points to a simple continuation trend. Instead, it often indicates a market holding its breath as buyers and sellers test each other's conviction at key technical thresholds. \n\nLiquidity is thinning out, and thin liquidity makes the next directional break sharper than expected. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "0686dae686c3762c8960cfd1",
+    "timestamp": "2026-09-11T05:36:03.844Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 148,
+    "text": "Will a higher court buy Sam Bankman-Fried’s defense that FTX actually had the assets to cover its collapse?\n\nThe disgraced founder has officially asked the Supreme Court to overturn both his fraud conviction and the accompanying $11 billion forfeiture order. \n\nHis legal team argues he was unfairly blocked from presenting evidence regarding the exchange's solvency at the time of its 2022 implosion.",
+    "hasImage": true,
+    "eventFingerprint": "8a3fe0611f8a372096e2e2e2",
+    "timestamp": "2026-09-11T05:36:09.999Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 149,
+    "text": "When traditional banking infrastructure merges with public ledgers, what does it mean for cross-border liquidity?\n\nU.S. Bank announced Wednesday it successfully moved value between North American and European entities using USBDC, a dollar-backed token issued natively on the Stellar network. \n\nThe live pilot tested core settlement functions including minting, redemption, freezing, and clawback capabilities. \n\nXLM currently trades at $0.18, down 3.1% on the session following the disclosure.",
+    "hasImage": true,
+    "eventFingerprint": "6e04f8f630a1eabf1efc7e10",
+    "timestamp": "2026-09-11T05:36:11.165Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 150,
+    "text": "$620 billion is moving on-chain.\n\nIndia’s securities regulator has launched a pilot program to tokenize the country's corporate bond market. \n\nThe Demat 2.0 initiative converts corporate debt into digital tokens, settling transactions instantly through the Reserve Bank of India's wholesale digital rupee. \n\nSecondary market trading and retail access are slated for subsequent rollout phases.",
+    "hasImage": true,
+    "eventFingerprint": "56b24d253f5a1b013b12d03c",
+    "timestamp": "2026-09-11T05:36:29.629Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 151,
+    "text": "Macro pressure is quietly rewriting risk assumptions across the board. \n\nBitcoin has slipped below $77,000, shedding over 5% on the week as traders reprice the probability of a Federal Reserve rate hike. The broader digital asset market followed suit, with 95 of the CoinDesk 100 posting losses over the past 24 hours. \n\nZcash led the downside among major tokens, reflecting broad-based capital flight from high-beta assets as tightening expectations weigh on liquidity.",
+    "hasImage": true,
+    "eventFingerprint": "70b3cdf6eaa0506a03b97cde",
+    "timestamp": "2026-09-11T05:36:30.554Z"
   }
 ]

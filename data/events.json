@@ -3051,5 +3051,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin exchange inflows fall 15.5% as whales pause near $79K: Is demand falling?",
+    "link": "https://ambcrypto.com/bitcoin-exchange-inflows-fall-15-5-as-whales-pause-near-79k-is-demand-falling/",
+    "summary": "Bitcoin’s lower exchange inflows ease selling pressure, but cautious whales and ETF withdrawals leave demand near $79K uncertain.",
+    "image": null,
+    "publishedAt": "2026-09-11T03:00:42.000Z",
+    "collectedAt": "2026-09-11T05:35:59.842Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0686dae686c3762c8960cfd1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-11T05:36:03.846Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin exchange inflows fall 15.5% as whales pause near $79K: Is demand falling?",
+        "fingerprint": "0686dae686c3762c8960cfd1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 146,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
+    "link": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
+    "summary": "Bankman-Fried says he was unfairly barred from providing evidence that FTX had more than enough assets to cover losses from the collapse.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-1-1200x675.jpg",
+    "publishedAt": "2026-09-11T04:20:15.000Z",
+    "collectedAt": "2026-09-11T05:35:59.841Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8a3fe0611f8a372096e2e2e2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-11T05:36:10.000Z",
+    "outcome": {
+      "event": {
+        "title": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
+        "fingerprint": "8a3fe0611f8a372096e2e2e2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 148,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "U.S. Bank Issues Its Own Stablecoin On Stellar",
+    "link": "https://thedefiant.io/converge/defi/us-bank-usbdc-stablecoin-stellar-cross-border-pilot",
+    "summary": "The bank said Wednesday it moved value between its North American and European entities with USBDC, a dollar-backed token it issued on Stellar. The pilot tested minting, redemption, freezing and clawback. XLM trades at $0.18, down 3.1% on the day.",
+    "image": "https://cdn.thedefiant.io/stellar-rwa-thumbnail-jpg-e3d7e00f-d473-4569-b090-e53be093ace0.jpg",
+    "publishedAt": "2026-09-10T14:14:04.000Z",
+    "collectedAt": "2026-09-11T05:35:59.842Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6e04f8f630a1eabf1efc7e10",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T05:36:11.166Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. Bank Issues Its Own Stablecoin On Stellar",
+        "fingerprint": "6e04f8f630a1eabf1efc7e10"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 149,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+    "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
+    "summary": "SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles payment through the RBI’s wholesale digital rupee, with secondary trading and retail access expected in later phases.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-11T05:13:15.000Z",
+    "collectedAt": "2026-09-11T05:35:59.841Z",
+    "corroboratingSources": 1,
+    "fingerprint": "56b24d253f5a1b013b12d03c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-11T05:36:29.631Z",
+    "outcome": {
+      "event": {
+        "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+        "fingerprint": "56b24d253f5a1b013b12d03c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 150,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+    "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
+    "summary": "Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has shed more than 5% on the week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a53e2f62ad9d1a24b5d39adee59d91e931e9aea6-1506x842.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-11T04:46:15.000Z",
+    "collectedAt": "2026-09-11T05:35:59.841Z",
+    "corroboratingSources": 1,
+    "fingerprint": "70b3cdf6eaa0506a03b97cde",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-11T05:36:30.555Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+        "fingerprint": "70b3cdf6eaa0506a03b97cde"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 151,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
