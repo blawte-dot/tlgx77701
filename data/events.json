@@ -3666,5 +3666,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028",
+    "link": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
+    "summary": "Standard Chartered Bank has initiated coverage of Sky, calling it \"DeFi's federal bank,\" and expects SKY to rise $0.325 by 2028.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/11/shutterstock_1286806993-1013x675.jpg",
+    "publishedAt": "2026-09-11T16:48:11.000Z",
+    "collectedAt": "2026-09-11T18:09:08.066Z",
+    "corroboratingSources": 1,
+    "fingerprint": "deb6b33885265184a72c535e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-11T18:09:12.086Z",
+    "outcome": {
+      "event": {
+        "title": "‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028",
+        "fingerprint": "deb6b33885265184a72c535e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 164,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Why Buy XRP Now? 21Shares Names 4 Exact Reasons, Including SEC Verdict",
+    "link": "https://u.today/why-buy-xrp-now-21shares-names-4-exact-reasons-including-sec-verdict",
+    "summary": "21Shares explains why US ETFs doubled their XRP holdings to $200 million after the SEC verdict.",
+    "image": null,
+    "publishedAt": "2026-09-11T15:37:15.000Z",
+    "collectedAt": "2026-09-11T18:09:08.066Z",
+    "corroboratingSources": 1,
+    "fingerprint": "87ae272666ee1465f8582463",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-11T18:09:33.793Z",
+    "outcome": {
+      "event": {
+        "title": "Why Buy XRP Now? 21Shares Names 4 Exact Reasons, Including SEC Verdict",
+        "fingerprint": "87ae272666ee1465f8582463"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 166,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
+    "link": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
+    "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/03/20250312_Markets_Category-1200x675.jpg",
+    "publishedAt": "2026-09-11T17:40:54.000Z",
+    "collectedAt": "2026-09-11T18:09:08.066Z",
+    "corroboratingSources": 1,
+    "fingerprint": "75006251c43f274c4008959c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-11T18:09:52.780Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
+        "fingerprint": "75006251c43f274c4008959c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 168,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Government Defeated as Lords Back UK Digital Assets Strategy",
+    "link": "https://bitcoinmagazine.com/news/house-of-lords-backs-uk-crypto-bill",
+    "summary": "Bitcoin Magazine\n\nGovernment Defeated as Lords Back UK Digital Assets Strategy\nThe act would force the UK Treasury to consult a strategy for the regulation of cryptoassets, stablecoins, tokenized securities and digital financial infrastructure. \nThis post Government Defeated as Lords Back UK Digital Assets Strategy first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-18.jpg",
+    "publishedAt": "2026-09-11T17:28:32.000Z",
+    "collectedAt": "2026-09-11T18:09:08.066Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e4f5e9f364b94103a4fbc7b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-11T18:09:56.679Z",
+    "outcome": {
+      "event": {
+        "title": "Government Defeated as Lords Back UK Digital Assets Strategy",
+        "fingerprint": "3e4f5e9f364b94103a4fbc7b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 169,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "With Fed rate hike all but assured, here's how markets might react",
+    "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
+    "summary": "Traders could look past an expected Fed hike and weigh what higher rates are signaling about the economy.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c113b39af04fe5a9700ed1765841f345087018a-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-11T15:45:56.000Z",
+    "collectedAt": "2026-09-11T18:09:08.066Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b6d53b7256d86e5a305c1a8f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T18:09:58.709Z",
+    "outcome": {
+      "event": {
+        "title": "With Fed rate hike all but assured, here's how markets might react",
+        "fingerprint": "b6d53b7256d86e5a305c1a8f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 171,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
