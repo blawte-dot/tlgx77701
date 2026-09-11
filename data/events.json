@@ -4076,5 +4076,205 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "US Bank moves USBDC across borders on Stellar, but only inside its own walls",
+    "link": "https://cryptoslate.com/us-bank-moves-usbdc-across-borders-on-stellar-but-only-inside-its-own-walls/",
+    "summary": "The live payment linked the bank's North American and European entities while testing minting, redemption and issuer controls.\nThe post US Bank moves USBDC across borders on Stellar, but only inside its own walls appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usbdc-bank-control-console.jpg",
+    "publishedAt": "2026-09-11T23:30:04.000Z",
+    "collectedAt": "2026-09-11T23:51:47.466Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ef2b6ce3e6c90648450d348b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-11T23:51:49.364Z",
+    "outcome": {
+      "event": {
+        "title": "US Bank moves USBDC across borders on Stellar, but only inside its own walls",
+        "fingerprint": "ef2b6ce3e6c90648450d348b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Analyzing Bitcoin Cash’s 10% drop: What’s next for BCH whales?",
+    "link": "https://ambcrypto.com/analyzing-bitcoin-cashs-10-drop-whats-next-for-bch-whales/",
+    "summary": "The same whales dominated both markets. Why did their footprints point in opposite directions?",
+    "image": null,
+    "publishedAt": "2026-09-11T23:00:05.000Z",
+    "collectedAt": "2026-09-11T23:51:47.466Z",
+    "corroboratingSources": 1,
+    "fingerprint": "691bcb996b14c55b36f72cf6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-11T23:51:50.809Z",
+    "outcome": {
+      "event": {
+        "title": "Analyzing Bitcoin Cash’s 10% drop: What’s next for BCH whales?",
+        "fingerprint": "691bcb996b14c55b36f72cf6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Banks get cross-exchange crypto hedge relief under Canada’s new 2027 capital rule",
+    "link": "https://cryptoslate.com/banks-get-cross-exchange-crypto-hedge-relief-under-canadas-new-2027-capital-rule/",
+    "summary": "OSFI’s final rule fixes a cross-exchange capital mismatch only for tightly matched, qualifying Group 2a positions.\nThe post Banks get cross-exchange crypto hedge relief under Canada’s new 2027 capital rule appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/canada-crypto-risk-balance.jpg",
+    "publishedAt": "2026-09-11T22:30:05.000Z",
+    "collectedAt": "2026-09-11T23:51:47.466Z",
+    "corroboratingSources": 1,
+    "fingerprint": "db3a4ba5332ec672f0b55b27",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-11T23:51:51.803Z",
+    "outcome": {
+      "event": {
+        "title": "Banks get cross-exchange crypto hedge relief under Canada’s new 2027 capital rule",
+        "fingerprint": "db3a4ba5332ec672f0b55b27"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Blockstream Rejects Ransom Demand After Liquid Bitcoin Exploit",
+    "link": "https://thedefiant.io/news/security/blockstream-rejects-ransom-demand-after-liquid-bitcoin-exploit",
+    "summary": "Liquid said on Sept. 8 that 3,400 BTC had been returned and about 598.5 BTC remained outstanding; transactions later resumed with peg-outs disabled.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/0038ed0ef9a351aeb33b4423fe5bf810f1872cb8-2048x1152.png",
+    "publishedAt": "2026-09-11T14:42:37.000Z",
+    "collectedAt": "2026-09-11T23:51:47.466Z",
+    "corroboratingSources": 3,
+    "fingerprint": "0057055c46c168ff5b6079bb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T23:51:52.702Z",
+    "outcome": {
+      "event": {
+        "title": "Blockstream Rejects Ransom Demand After Liquid Bitcoin Exploit",
+        "fingerprint": "0057055c46c168ff5b6079bb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+    "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
+    "summary": "SBF’s lawyers say he was barred from arguing customers lost nothing, and call the $11 billion forfeiture an \"crushing fine.\"",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-09-11T09:04:11.000Z",
+    "collectedAt": "2026-09-11T23:51:47.466Z",
+    "corroboratingSources": 3,
+    "fingerprint": "fc4acc9534b5fdbb608025aa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T23:51:53.708Z",
+    "outcome": {
+      "event": {
+        "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+        "fingerprint": "fc4acc9534b5fdbb608025aa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
   }
 ]
