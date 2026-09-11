@@ -555,5 +555,40 @@
     "hasImage": true,
     "eventFingerprint": "b6d53b7256d86e5a305c1a8f",
     "timestamp": "2026-09-11T18:09:58.705Z"
+  },
+  {
+    "messageId": 172,
+    "text": "Legacy finance in Europe is quietly redrawing its boundaries. \n\nUniCredit, Italy's second-largest lender by assets, is reportedly weighing a move into cryptocurrency custody. \n\nAccording to reports, the Milan-headquartered banking giant is actively exploring ways to offer digital asset storage to its client base. The initiative places UniCredit alongside a growing cohort of traditional European financial institutions testing the waters of digital assets as regulatory frameworks solidify across the continent. \n\nWhile the bank has not issued a formal launch timeline, the evaluation signals a notable shift in institutional appetite among Southern Europe's heavyweights. \n\nAs compliance standards like MiCA take effect across the European Union, traditional banks are finding clearer pathways to integrate digital assets without courting regulatory friction. Whether this exploration materializes into a full-scale service remains to be seen, but the institutional pipeline connecting traditional banking infrastructure to crypto markets continues to widen.",
+    "hasImage": true,
+    "eventFingerprint": "b8d833f619a1d5bcf1f53c0a",
+    "timestamp": "2026-09-11T21:32:24.385Z"
+  },
+  {
+    "messageId": 174,
+    "text": "Macro researchers are quietly studying how on-chain behavior actually ripples through retail networks.\n\nA recent event study from the Federal Reserve Bank of Philadelphia sheds light on a structural difference between how Bitcoin and Ethereum participants react to large holders. \n\nThe findings point to a clear behavioral split across the two networks. \n\nNon-whale Bitcoin wallets demonstrated broad, same-direction activity almost immediately following large-holder movements. When major BTC addresses made significant moves, smaller participants tended to follow suit in a synchronized fashion.\n\nEthereum showed a distinctly different dynamic. \n\nRather than widespread participation across smaller wallets, ETH's most pronounced market responses remained heavily concentrated among larger sellers. Retail and mid-tier participants did not mirror whale positioning with the same uniformity observed on Bitcoin.\n\nThis divergence offers a window into how liquidity and sentiment propagate differently depending on the asset. \n\nBitcoin's ledger continues to act as a more unified signaling mechanism for its broader user base, whereas Ethereum's on-chain activity reflects a more fragmented distribution of responses during periods of significant whale activity.",
+    "hasImage": true,
+    "eventFingerprint": "360df7bdc60cd211a078d675",
+    "timestamp": "2026-09-11T21:32:26.225Z"
+  },
+  {
+    "messageId": 176,
+    "text": "When is a white hat no longer a white hat? \n\nBlockstream has issued a public demand to hackers who drained over 4,000 Bitcoin from the Liquid sidechain, insisting that the remaining funds be returned immediately. \n\nThe incident highlights a growing gray area in protocol security. The actors involved claim the actions were defensive, positioning themselves as white hats and demanding a substantial portion of the plunder as a bounty. \n\nBlockstream's leadership sees it differently. Returning only a fraction while negotiating terms does not constitute ethical hacking—it looks a lot more like extortion. \n\nSidechains and Layer 2 architectures rely heavily on trust assumptions, multisig setups, and rapid response protocols when things break. This episode tests those mechanisms in real time. \n\nWith thousands of coins still unaccounted for, the pressure on the hackers is mounting. Whether this ends in a negotiated settlement or legal action will set a clear precedent for how the ecosystem handles internal exploits moving forward.",
+    "hasImage": true,
+    "eventFingerprint": "ae70ca7e890f9fcab75043b4",
+    "timestamp": "2026-09-11T21:32:31.137Z"
+  },
+  {
+    "messageId": 178,
+    "text": "The door is closing on institutional altcoin products faster than many expected.\n\nBitwise has officially moved to liquidate its Dogecoin exchange-traded fund, ending the product's run just ten months after its initial market debut. \n\nThe wind-down comes amid a severe shift in capital flows. Market data shows that investors have pulled more than $343 million from the fund over the course of September alone, reflecting a sharp contraction in risk appetite for meme-adjacent institutional vehicles. \n\nWhat began as an aggressive expansion into retail-driven alternative assets is now running headfirst into the reality of sustained capital flight. \n\nThe broader implications for single-asset altcoin funds remain to be seen, but the message from the order books is unambiguous. Liquidity is concentrating back toward core assets as allocators re-evaluate their exposure to high-beta products.",
+    "hasImage": true,
+    "eventFingerprint": "b4fc6f59181908862a62c073",
+    "timestamp": "2026-09-11T21:32:32.676Z"
+  },
+  {
+    "messageId": 179,
+    "text": "598.5 Bitcoin. That is the exact scale of the fallout following the Liquid network exploit as Blockstream draws a hard line in the sand.\n\nThe firm has officially rejected an extortion demand for the stolen $47 million stash, labeling the terms outright theft and handing the case over to international law enforcement. \n\nMarkets are watching closely as the standoff shifts from on-chain tracking to formal criminal prosecution.",
+    "hasImage": true,
+    "eventFingerprint": "306bad18a719eaff89ede36e",
+    "timestamp": "2026-09-11T21:32:33.777Z"
   }
 ]

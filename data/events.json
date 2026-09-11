@@ -3871,5 +3871,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Italy&#8217;s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report",
+    "link": "https://bitcoinmagazine.com/news/unicredit-working-on-crypto-custody",
+    "summary": "Bitcoin Magazine\n\nItaly&#8217;s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report\nUniCredit is working on crypto custody as other European banks work on digital asset services. \nThis post Italy&#8217;s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-6.jpg",
+    "publishedAt": "2026-09-11T18:47:07.000Z",
+    "collectedAt": "2026-09-11T21:32:21.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b8d833f619a1d5bcf1f53c0a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-11T21:32:24.387Z",
+    "outcome": {
+      "event": {
+        "title": "Italy&#8217;s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report",
+        "fingerprint": "b8d833f619a1d5bcf1f53c0a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 172,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
+    "link": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/",
+    "summary": "A Philadelphia Fed event study found broad same-direction activity among non-whale BTC wallets, while ETH's clearest response was concentrated among larger sellers.\nThe post Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-whale-wallet-wake.jpg",
+    "publishedAt": "2026-09-11T20:10:09.000Z",
+    "collectedAt": "2026-09-11T21:32:21.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "360df7bdc60cd211a078d675",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-11T21:32:26.234Z",
+    "outcome": {
+      "event": {
+        "title": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
+        "fingerprint": "360df7bdc60cd211a078d675"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 174,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
+    "link": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
+    "summary": "Bitcoin Magazine\n\nBlockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft\nWhite hat hackers targeted Blocksteam's Liquid sidechain, taking over 4,000 bitcoins. They want to keep some of the bitcoins as a reward. Blockstream isn't happy. \nThis post Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-19.jpg",
+    "publishedAt": "2026-09-11T21:13:48.000Z",
+    "collectedAt": "2026-09-11T21:32:21.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ae70ca7e890f9fcab75043b4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-11T21:32:31.139Z",
+    "outcome": {
+      "event": {
+        "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
+        "fingerprint": "ae70ca7e890f9fcab75043b4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 176,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitwise Pulls the Plug on Dogecoin ETF Just 10 Months After Launch",
+    "link": "https://cryptopotato.com/bitwise-pulls-the-plug-on-dogecoin-etf-just-10-months-after-launch/",
+    "summary": "Dogecoin ETF investors have pulled more than $343 million so far in September.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/09/Dogecoin_ETF.jpg",
+    "publishedAt": "2026-09-11T20:17:50.000Z",
+    "collectedAt": "2026-09-11T21:32:21.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b4fc6f59181908862a62c073",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-11T21:32:32.678Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise Pulls the Plug on Dogecoin ETF Just 10 Months After Launch",
+        "fingerprint": "b4fc6f59181908862a62c073"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 178,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+    "link": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
+    "summary": "With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
+    "publishedAt": "2026-09-11T14:17:38.000Z",
+    "collectedAt": "2026-09-11T21:32:21.531Z",
+    "corroboratingSources": 3,
+    "fingerprint": "306bad18a719eaff89ede36e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-11T21:32:33.779Z",
+    "outcome": {
+      "event": {
+        "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+        "fingerprint": "306bad18a719eaff89ede36e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 179,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
