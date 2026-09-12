@@ -4686,5 +4686,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "2x Short XRP ETF Faces New Listing Date",
+    "link": "https://u.today/2x-short-xrp-etf-faces-new-listing-date",
+    "summary": "Much-anticipated 2x Short Daily XRP ETF proposed by Teucrium will no longer launch until next month as the firm releases a new launch date following SEC filings.",
+    "image": null,
+    "publishedAt": "2026-09-12T10:39:39.000Z",
+    "collectedAt": "2026-09-12T11:57:16.749Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8fcc469c36cff673abe11eac",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-12T11:57:20.440Z",
+    "outcome": {
+      "event": {
+        "title": "2x Short XRP ETF Faces New Listing Date",
+        "fingerprint": "8fcc469c36cff673abe11eac"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 191,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitwise is closing the lowest-fee Dogecoin ETF after rivals captured nearly all the capital",
+    "link": "https://cryptoslate.com/bitwise-is-closing-the-lowest-fee-dogecoin-etf-after-rivals-captured-nearly-all-the-capital/",
+    "summary": "BWOW held about $687,730 while the three spot products tracked by SoSoValue held $11.83 million as of Sept. 10.\nThe post Bitwise is closing the lowest-fee Dogecoin ETF after rivals captured nearly all the capital appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitwise-doge-abandoned.jpg",
+    "publishedAt": "2026-09-12T09:00:19.000Z",
+    "collectedAt": "2026-09-12T11:57:16.749Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6e96641c2a17e14dbf6a4898",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T11:57:21.522Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise is closing the lowest-fee Dogecoin ETF after rivals captured nearly all the capital",
+        "fingerprint": "6e96641c2a17e14dbf6a4898"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 193,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Senate Republicans Post Revised CLARITY Act Text Five Days Before Cloture Vote",
+    "link": "https://thedefiant.io/news/regulation/clarity-act-revised-text-five-days-before-cloture-vote",
+    "summary": "The Sept. 10 substitute adds CFTC registration and Bank Secrecy Act obligations for trading protocols that are not decentralized, limits the DeFi title to spot and cash digital commodity transactions, and clarifies what credit unions may do with digital assets. The seven Senate Democrats who have",
+    "image": "https://cdn.thedefiant.io/clarity-jpg-90e7ff64-9580-4936-bcc7-fee91ecbfb99.jpg",
+    "publishedAt": "2026-09-11T15:30:38.000Z",
+    "collectedAt": "2026-09-12T11:57:16.749Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8f26b81eb86eceadd65e3f9b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T11:57:22.460Z",
+    "outcome": {
+      "event": {
+        "title": "Senate Republicans Post Revised CLARITY Act Text Five Days Before Cloture Vote",
+        "fingerprint": "8f26b81eb86eceadd65e3f9b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 194,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Standard Chartered Says SKY Token Will 5X to $0.325 by 2028",
+    "link": "https://thedefiant.io/news/defi/standard-chartered-sky-token-coverage-kendrick-0325-target",
+    "summary": "Geoff Kendrick calls Sky \"DeFi's federal bank\" and forecasts a five-fold rise in the value the protocol passes to token holders by end-2028. The thesis runs on USDS supply growth.",
+    "image": "https://cdn.thedefiant.io/pasted-1789138966249-png-b0705b91-d959-427f-a202-5419a566bd5a.png",
+    "publishedAt": "2026-09-11T15:05:56.000Z",
+    "collectedAt": "2026-09-12T11:57:16.749Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d8bb7cf112e2ef172beb681e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T11:57:23.582Z",
+    "outcome": {
+      "event": {
+        "title": "Standard Chartered Says SKY Token Will 5X to $0.325 by 2028",
+        "fingerprint": "d8bb7cf112e2ef172beb681e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 195,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+    "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+    "summary": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ca19b29e8ab173881d07a500314e2d207392d68-1152x648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-12T10:11:01.000Z",
+    "collectedAt": "2026-09-12T11:57:16.749Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9d01b6952f9fdfdf3ee709c2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-12T11:57:27.662Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+        "fingerprint": "9d01b6952f9fdfdf3ee709c2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 196,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

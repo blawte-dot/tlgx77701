@@ -660,5 +660,40 @@
     "hasImage": true,
     "eventFingerprint": "6c4d7979fb7f79178a62283a",
     "timestamp": "2026-09-12T07:51:58.993Z"
+  },
+  {
+    "messageId": 191,
+    "text": "Leveraged single-asset crypto products are arriving on US exchanges much faster than traditional market structures were arguably built to handle. \n\nTeucrium’s proposed 2x Short Daily XRP ETF has officially pushed its anticipated launch into next month, according to updated filings submitted to the Securities and Exchange Commission. \n\nThe delay highlights the ongoing friction between aggressive financial product innovation and the methodical, often unpredictable review cycles of federal regulators. While inverse crypto exchange-traded products are already a familiar fixture in foreign jurisdictions, bringing daily-reset leveraged exposure to domestic retail rails involves navigating a labyrinth of compliance hurdles.\n\nFor market participants, the postponement gives desks additional time to model how a leveraged short vehicle might impact spot liquidity. Inverse funds require daily rebalancing, meaning sudden intraday price volatility in either direction forces the fund manager to buy or sell underlying assets to maintain the target exposure. \n\nAs regulatory scrutiny persists around alternative crypto derivatives, the rescheduled debut serves as a reminder that structural access points for altcoins remain tethered to regulatory timelines rather than issuer enthusiasm.",
+    "hasImage": true,
+    "eventFingerprint": "8fcc469c36cff673abe11eac",
+    "timestamp": "2026-09-12T11:57:20.437Z"
+  },
+  {
+    "messageId": 193,
+    "text": "Can the lowest fee in the market still fail to draw capital?\n\nBitwise is shutting down its Dogecoin ETF after managing to capture just $687,730 in assets, while competing spot products tracked by SoSoValue pulled in $11.83 million combined as of September 10. \n\nFee wars alone aren't always enough to secure liquidity in crowded sectors.",
+    "hasImage": true,
+    "eventFingerprint": "6e96641c2a17e14dbf6a4898",
+    "timestamp": "2026-09-12T11:57:21.519Z"
+  },
+  {
+    "messageId": 194,
+    "text": "DeFi developers and non-custodial protocols are facing a critical compliance squeeze as the Senate moves toward a key cloture vote.\n\nSenate Republicans dropped a revised substitute text for the CLARITY Act on Sept. 10, introducing mandatory CFTC registration and Bank Secrecy Act rules for any trading protocol deemed insufficiently decentralized. \n\nThe updated bill also narrows the dedicated DeFi title strictly to spot and cash digital commodity transactions while clarifying digital asset powers for credit unions. \n\nA cloture vote is scheduled for just five days from now.\n\n#DeFi",
+    "hasImage": true,
+    "eventFingerprint": "8f26b81eb86eceadd65e3f9b",
+    "timestamp": "2026-09-12T11:57:22.458Z"
+  },
+  {
+    "messageId": 195,
+    "text": "Don't bet your portfolio on a bank's macro spreadsheet just yet. \n\nStandard Chartered's Geoff Kendrick is projecting a five-fold move for Sky's token up to $0.325 by 2028, hinging entirely on aggressive USDS supply expansion and its role as DeFi's de facto central bank. \n\nIs Kendrick's \"federal bank\" thesis for Sky actually realistic over a four-year horizon, or are traditional finance analysts chronically overestimating how sticky algorithmic stablecoin demand really is? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "d8bb7cf112e2ef172beb681e",
+    "timestamp": "2026-09-12T11:57:23.580Z"
+  },
+  {
+    "messageId": 196,
+    "text": "Digital banking convenience just hit a very real privacy wall. \n\nRevolut confirmed that a sophisticated spoofed government request tricked its systems, exposing passports, selfies, and home addresses for a subset of users. \n\nFunds remain untouched, but the data leak leaves affected customers uniquely exposed to downstream phishing and identity fraud. \n\n#Revolut",
+    "hasImage": true,
+    "eventFingerprint": "9d01b6952f9fdfdf3ee709c2",
+    "timestamp": "2026-09-12T11:57:27.659Z"
   }
 ]
