@@ -4276,5 +4276,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+    "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28T3HE65MV02Y41NGX63EDN/wall-warning-hyperliquid.png",
+    "publishedAt": "2026-09-11T18:45:15.000Z",
+    "collectedAt": "2026-09-12T03:00:02.815Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9c7b76200b81ebd83255599b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T03:00:04.805Z",
+    "outcome": {
+      "event": {
+        "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+        "fingerprint": "9c7b76200b81ebd83255599b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 180,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+    "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K89BM1GEXJ22T4BRVJH1V/hi-evergreen-guide-about-stablecoin-launch.png",
+    "publishedAt": "2026-09-11T16:05:15.000Z",
+    "collectedAt": "2026-09-12T03:00:02.815Z",
+    "corroboratingSources": 1,
+    "fingerprint": "828a9116d4c7a2267221d312",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T03:00:05.967Z",
+    "outcome": {
+      "event": {
+        "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+        "fingerprint": "828a9116d4c7a2267221d312"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 181,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
+    "publishedAt": "2026-09-11T12:33:38.000Z",
+    "collectedAt": "2026-09-12T03:00:02.815Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6b78dd76e89e1fd582034936",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T03:00:07.130Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
+        "fingerprint": "6b78dd76e89e1fd582034936"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 182,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
+    "link": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
+    "summary": "Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-09-11T15:32:08.000Z",
+    "collectedAt": "2026-09-12T03:00:02.815Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f5f6056a80209549a5b93089",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T03:00:08.239Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
+        "fingerprint": "f5f6056a80209549a5b93089"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 183,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit fallout",
+    "link": "https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout/",
+    "summary": "Binance Alpha uses two eligibility snapshots for swaps and refunds, while Kraken now supports only Ethereum-based NES.\nThe post Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit fallout appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/nes-private-wallet-recovery.jpg",
+    "publishedAt": "2026-09-11T18:15:55.000Z",
+    "collectedAt": "2026-09-12T03:00:02.815Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5c68e5883884603aa434910c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T03:00:09.838Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit fallout",
+        "fingerprint": "5c68e5883884603aa434910c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 184,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

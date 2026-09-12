@@ -675,5 +675,45 @@
     "hasImage": true,
     "eventFingerprint": "306bad18a719eaff89ede36e",
     "timestamp": "2026-09-11T21:32:33.778Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 180,
+    "text": "Nothing builds a better fortress than on-chain volume, until the jurisdiction shows up. \n\nRan Neuner points to regulatory uncertainty as the ultimate ceiling for Hyperliquid's moat. \n\nTurns out outbuilding the legacy exchanges is the easy part. Dealing with the alphabet soup of global regulators is where the real game begins.",
+    "hasImage": true,
+    "eventFingerprint": "9c7b76200b81ebd83255599b",
+    "timestamp": "2026-09-12T03:00:04.804Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 181,
+    "text": "Federal charter meets yield-bearing architecture. \n\nAnchorage Digital just opened institutional custody and staking for Frgmnt's fUSD, bridging federally regulated infrastructure directly into algorithmic stablecoins. \n\nAre institutional balance sheets ready to take on the smart contract and peg risks of yield-bearing assets just for custody convenience, or does the regulatory stamp of approval change the risk calculus entirely?\n\n#AnchorageDigital",
+    "hasImage": true,
+    "eventFingerprint": "828a9116d4c7a2267221d312",
+    "timestamp": "2026-09-12T03:00:05.966Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 182,
+    "text": "Capital is heading for the exits fast.\n\nSpot Bitcoin ETFs just shed $449 million across three consecutive sessions, marking a sharp acceleration in institutional outflows. \n\nARK 21Shares led Thursday's redemptions with $164 million pulled from its fund alone. \n\nProducts tied to Ether and Solana also registered net negative flows as broader risk aversion hits digital asset investment vehicles.",
+    "hasImage": true,
+    "eventFingerprint": "6b78dd76e89e1fd582034936",
+    "timestamp": "2026-09-12T03:00:07.129Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 183,
+    "text": "Why is crypto rallying when a hot monthly inflation print just locked in the odds of a Fed rate hike?\n\nHeadline inflation held steady at 3.4 percent while the core annual reading cooled, yet a stronger-than-expected monthly core number kept June rate hike probabilities hovering near 62 percent. \n\nDespite the macro headwind signaling tighter monetary policy for longer, digital asset markets have climbed broadly across the board as the data digests.",
+    "hasImage": true,
+    "eventFingerprint": "f5f6056a80209549a5b93089",
+    "timestamp": "2026-09-12T03:00:08.238Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 184,
+    "text": "How do exchange recovery policies turn a single token exploit into a sharp divide between winners and losers?\n\nNES holders are finding out the hard way following the token's $286 million exploit fallout. Binance Alpha introduced a dual-snapshot system to determine swap and refund eligibility, while Kraken abruptly narrowed its support exclusively to Ethereum-based NES. \n\nThe fragmented response leaves many traders stranded depending on where and when their assets were held.\n\n#CryptoMarkets",
+    "hasImage": true,
+    "eventFingerprint": "5c68e5883884603aa434910c",
+    "timestamp": "2026-09-12T03:00:09.837Z"
   }
 ]
