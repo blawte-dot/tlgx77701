@@ -4481,5 +4481,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Blockstream bets 600 Bitcoin by rejecting Liquid hacker’s $50 million bounty demand",
+    "link": "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand/",
+    "summary": "Blockstream is refusing to pay the Liquid attacker nearly 600 Bitcoin (roughly $50 million), escalating a dispute over how the crypto industry should reward partial restitution. The standoff follows an unusual recovery from the Sept. 6 exploit, when a vulnerability allowed the attacker to create about 4,000 unbacked L-BTC and withdraw roughly 3,996 real BTC through [&#8230;]\nThe post Blockstream bets 600 Bitcoin by rejecting Liquid hacker’s $50 million bounty demand appeared first on CryptoSlate",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/blockstream-bitcoin-bounty-gap.jpg",
+    "publishedAt": "2026-09-12T07:20:37.000Z",
+    "collectedAt": "2026-09-12T07:51:13.780Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eceb6a2cc35fbc837dca5fcd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-12T07:51:17.368Z",
+    "outcome": {
+      "event": {
+        "title": "Blockstream bets 600 Bitcoin by rejecting Liquid hacker’s $50 million bounty demand",
+        "fingerprint": "eceb6a2cc35fbc837dca5fcd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 185,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Liquid Network restarts after $320M hack, but peg-outs remain frozen — What&#8217;s happening?",
+    "link": "https://ambcrypto.com/liquid-network-restarts-after-320m-hack-but-peg-outs-remain-frozen-whats-happening/",
+    "summary": "Is the Liquid Network slowly and steadily recovering from its $320 million hack?",
+    "image": null,
+    "publishedAt": "2026-09-12T06:00:29.000Z",
+    "collectedAt": "2026-09-12T07:51:13.780Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fb8edeac70936b6cc83bf31a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-12T07:51:45.821Z",
+    "outcome": {
+      "event": {
+        "title": "Liquid Network restarts after $320M hack, but peg-outs remain frozen — What&#8217;s happening?",
+        "fingerprint": "fb8edeac70936b6cc83bf31a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 187,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "125.3 Billion SHIB Moved to Fresh Wallet as Whale Activity Heats Up",
+    "link": "https://u.today/1253-billion-shib-moved-to-fresh-wallet-as-whale-activity-heats-up",
+    "summary": "125.33 billion SHIB leaves BitGo for fresh wallet, sparking whale speculation.",
+    "image": null,
+    "publishedAt": "2026-09-11T10:45:41.000Z",
+    "collectedAt": "2026-09-12T07:51:13.780Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eb24da3cbc168e752fb60566",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T07:51:46.984Z",
+    "outcome": {
+      "event": {
+        "title": "125.3 Billion SHIB Moved to Fresh Wallet as Whale Activity Heats Up",
+        "fingerprint": "eb24da3cbc168e752fb60566"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 188,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Blockstream Refuses to Pay Ransom for Stolen Liquid Network Bitcoin",
+    "link": "https://u.today/blockstream-refuses-to-pay-ransom-for-stolen-liquid-network-bitcoin",
+    "summary": "Blockstream has drawn a hard line against the hackers behind the recent Liquid Network exploit.",
+    "image": null,
+    "publishedAt": "2026-09-11T08:05:32.000Z",
+    "collectedAt": "2026-09-12T07:51:13.780Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dbedf38473326690a57ffe79",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T07:51:49.903Z",
+    "outcome": {
+      "event": {
+        "title": "Blockstream Refuses to Pay Ransom for Stolen Liquid Network Bitcoin",
+        "fingerprint": "dbedf38473326690a57ffe79"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 189,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Tokenized stocks face a legal record problem – Is the SEC about to fix it?",
+    "link": "https://ambcrypto.com/tokenized-stocks-face-a-legal-record-problem-is-the-sec-about-to-fix-it/",
+    "summary": "Could SEC blockchain rules remove a major barrier to tokenized stocks?",
+    "image": null,
+    "publishedAt": "2026-09-11T19:00:45.000Z",
+    "collectedAt": "2026-09-12T07:51:13.780Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6c4d7979fb7f79178a62283a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T07:51:58.997Z",
+    "outcome": {
+      "event": {
+        "title": "Tokenized stocks face a legal record problem – Is the SEC about to fix it?",
+        "fingerprint": "6c4d7979fb7f79178a62283a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 190,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

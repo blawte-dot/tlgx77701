@@ -625,5 +625,40 @@
     "hasImage": true,
     "eventFingerprint": "5c68e5883884603aa434910c",
     "timestamp": "2026-09-12T03:00:09.836Z"
+  },
+  {
+    "messageId": 185,
+    "text": "Negotiating terms with a protocol exploit artist always sets a dangerous precedent, but walking away from a ransom negotiation while holding your ground costs roughly 600 Bitcoin in direct exposure.\n\nBlockstream has officially drawn a hard line in the ongoing dispute surrounding the September 6 Liquid Network incident. \n\nThe firm is refusing to pay a nearly 600 BTC bounty—valued at approximately $50 million—demanded by the attacker who drained funds from the sidechain. \n\nThe root of the conflict stems from an unusual recovery process following the initial breach. \n\nAn underlying vulnerability allowed the attacker to mint roughly 4,000 unbacked L-BTC and subsequently withdraw approximately 3,996 real Bitcoin from the network. \n\nPartial restitution efforts and subsequent communications between the parties hit an impasse over the price tag attached to returning the remaining assets. \n\nBy declining the terms, Blockstream is effectively betting that preserving strict industry security standards outweighs the immediate financial cost of compliance with the hacker's demands. \n\nThe standoff highlights a persistent dilemma for infrastructure developers handling high-value exploits: whether to treat attackers as negotiating partners for asset recovery or cut off communication entirely to deter future exploits. \n\nAs the situation develops, the focus shifts to whether on-chain tracking or legal enforcement can recover the funds without bending to ransom conditions.\n\n#Blockstream",
+    "hasImage": true,
+    "eventFingerprint": "eceb6a2cc35fbc837dca5fcd",
+    "timestamp": "2026-09-12T07:51:17.365Z"
+  },
+  {
+    "messageId": 187,
+    "text": "320 million dollars drained and peg-outs still entirely frozen. \n\nLiquid is back online following the breach, but capital remains trapped on one side of the bridge. \n\nWhere do you draw the line between a functioning network restart and a resolved crisis when users still cannot withdraw? \n\n#LiquidNetwork",
+    "hasImage": true,
+    "eventFingerprint": "fb8edeac70936b6cc83bf31a",
+    "timestamp": "2026-09-12T07:51:45.818Z"
+  },
+  {
+    "messageId": 188,
+    "text": "A fresh wallet just absorbed 125.3 billion SHIB in a single withdrawal from BitGo, according to unconfirmed reports circulating across on-chain tracking channels.\n\nLarge-scale token movements off exchanges often point to accumulation or internal restructuring, though motives remain opaque without confirmed entity data. \n\nHow are you interpreting this kind of off-exchange whale movement in the current market environment — potential accumulation setup, or just routine custody management?",
+    "hasImage": true,
+    "eventFingerprint": "eb24da3cbc168e752fb60566",
+    "timestamp": "2026-09-12T07:51:46.981Z"
+  },
+  {
+    "messageId": 189,
+    "text": "When the ransomware meta meets the ultimate \"we don't negotiate with exploiters\" policy.\n\nBlockstream has officially drawn a hard line, opting out of paying off the hackers responsible for the recent Liquid Network breach. \n\nSome play ball. Others just block the address.",
+    "hasImage": true,
+    "eventFingerprint": "dbedf38473326690a57ffe79",
+    "timestamp": "2026-09-12T07:51:49.900Z"
+  },
+  {
+    "messageId": 190,
+    "text": "Tokenized equities might finally get the legal clarity they have been waiting for.\n\nCurrent federal securities laws treat blockchain-based shares differently than traditional registry systems, creating persistent compliance roadblocks for issuers and platforms alike. \n\nNow, market participants are watching closely to see if upcoming regulatory frameworks will formally bridge that gap. \n\nNo official timeline or draft has been released yet, and unconfirmed reports suggest internal discussions are still in early stages. \n\nWe are tracking developments as they emerge.",
+    "hasImage": true,
+    "eventFingerprint": "6c4d7979fb7f79178a62283a",
+    "timestamp": "2026-09-12T07:51:58.993Z"
   }
 ]
