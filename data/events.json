@@ -5506,5 +5506,205 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Investors Now Have the Full Picture Before the Fed&#8217;s Move: Here’s What It Says",
+    "link": "https://cryptopotato.com/bitcoin-investors-now-have-the-full-picture-before-the-feds-move-heres-what-it-says/",
+    "summary": "BTC, alongside stocks and gold, went through intense volatility on Friday after the release of the CPI data. But what comes next?",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Federal_Reserve.jpg",
+    "publishedAt": "2026-09-12T05:50:29.000Z",
+    "collectedAt": "2026-09-12T23:42:18.293Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a633cc9ec847abb3d799e875",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-12T23:42:19.845Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Investors Now Have the Full Picture Before the Fed&#8217;s Move: Here’s What It Says",
+        "fingerprint": "a633cc9ec847abb3d799e875"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Meteora’s $20M fee surge fuels 18% rally – But MET’s next leg faces THIS hurdle",
+    "link": "https://ambcrypto.com/meteoras-20m-fee-surge-fuels-18-rally-but-mets-next-leg-faces-this-hurdle/",
+    "summary": "For now, Spot Market Netflow would need to shift toward outflows to support a sustained MET rally.",
+    "image": null,
+    "publishedAt": "2026-09-12T01:00:46.000Z",
+    "collectedAt": "2026-09-12T23:42:18.294Z",
+    "corroboratingSources": 1,
+    "fingerprint": "40b3bac361a3abb395637197",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-12T23:42:20.594Z",
+    "outcome": {
+      "event": {
+        "title": "Meteora’s $20M fee surge fuels 18% rally – But MET’s next leg faces THIS hurdle",
+        "fingerprint": "40b3bac361a3abb395637197"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+    "summary": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/70bddc713c02d2b15c4fce8dfe9223bda0bd2192-2048x1152.png",
+    "publishedAt": "2026-09-12T23:42:18.000Z",
+    "collectedAt": "2026-09-12T23:42:18.294Z",
+    "corroboratingSources": 1,
+    "fingerprint": "324597ab5b45eda136415082",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-12T23:42:21.521Z",
+    "outcome": {
+      "event": {
+        "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+        "fingerprint": "324597ab5b45eda136415082"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "India launches tokenized bond pilot with $107M issued",
+    "link": "https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "SEBI said later phases of Demat 2.0 will introduce secondary trading and open the tokenized bonds to retail investors.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27X18G5K0AARQBBJ0SYKFK0/regulations-india-crypto.jpg",
+    "publishedAt": "2026-09-11T10:33:24.000Z",
+    "collectedAt": "2026-09-12T23:42:18.293Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9767532253407993eca8f4ce",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-12T23:42:22.451Z",
+    "outcome": {
+      "event": {
+        "title": "India launches tokenized bond pilot with $107M issued",
+        "fingerprint": "9767532253407993eca8f4ce"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple's On-Chain Lending Partner Picks XRP Ledger for Token, Leaves Ethereum Behind",
+    "link": "https://u.today/ripples-on-chain-lending-partner-picks-xrp-ledger-for-token-leaves-ethereum-behind",
+    "summary": "Ripple’s credit partner Clearpool abandons Ethereum exclusivity for XRPL, triggers a 1:1 token migration, and launches a 50% fee-burn scheme.",
+    "image": null,
+    "publishedAt": "2026-09-11T09:12:05.000Z",
+    "collectedAt": "2026-09-12T23:42:18.293Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8d80c7ec59a2b8cd7ca0a347",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-12T23:42:23.244Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple's On-Chain Lending Partner Picks XRP Ledger for Token, Leaves Ethereum Behind",
+        "fingerprint": "8d80c7ec59a2b8cd7ca0a347"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
   }
 ]
