@@ -4891,5 +4891,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+    "link": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+    "summary": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/09/ChatGPT-Images-Review-gID_7.jpg",
+    "publishedAt": "2026-09-12T13:01:03.000Z",
+    "collectedAt": "2026-09-12T15:13:07.120Z",
+    "corroboratingSources": 1,
+    "fingerprint": "99eedc1f22673e7cca51072f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T15:13:09.602Z",
+    "outcome": {
+      "event": {
+        "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+        "fingerprint": "99eedc1f22673e7cca51072f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 197,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Is Ripple Prime Bad for XRP Price?",
+    "link": "https://u.today/opinions/is-ripple-prime-bad-for-xrp-price",
+    "summary": "Ripple Prime has turned Ripple into a broader institutional financial-services provider, but its expansion beyond XRP does not mean the company has abandoned the token.",
+    "image": null,
+    "publishedAt": "2026-09-12T13:13:39.000Z",
+    "collectedAt": "2026-09-12T15:13:07.120Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dfb828b1cf890b5452639da9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-12T15:13:11.566Z",
+    "outcome": {
+      "event": {
+        "title": "Is Ripple Prime Bad for XRP Price?",
+        "fingerprint": "dfb828b1cf890b5452639da9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 198,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
+    "link": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "BWOW held about $688,000 in net assets as of Sept. 9. Trading is expected to end Oct. 14, with cash payouts to follow around Oct. 22.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27PG6K246A1E33FQTARMGXQ/hi-how-to-buy-and-sell-dogecoin-etf.png",
+    "publishedAt": "2026-09-11T07:47:13.000Z",
+    "collectedAt": "2026-09-12T15:13:07.120Z",
+    "corroboratingSources": 2,
+    "fingerprint": "ec377c6125b2e9a6d12e6aaf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3.5,
+    "processedAt": "2026-09-12T15:13:12.737Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
+        "fingerprint": "ec377c6125b2e9a6d12e6aaf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 199,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+    "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+    "summary": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a77d3d03bca929880510e1d9a587793372dd83a-6000x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-11T23:47:51.000Z",
+    "collectedAt": "2026-09-12T15:13:07.120Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ec24345becf0193ffc5bb0cc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-12T15:13:13.682Z",
+    "outcome": {
+      "event": {
+        "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+        "fingerprint": "ec24345becf0193ffc5bb0cc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 200,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+    "summary": "The fallen leader of the former top exchange FTX is looking for answers from the U.S. Supreme Court.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/550882cd1c9405cbe0c4bfae04412895bdfcb8a6-1937x1089.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-11T17:12:45.000Z",
+    "collectedAt": "2026-09-12T15:13:07.120Z",
+    "corroboratingSources": 1,
+    "fingerprint": "719f605f77ba228eca125f0a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-12T15:13:14.770Z",
+    "outcome": {
+      "event": {
+        "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+        "fingerprint": "719f605f77ba228eca125f0a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 201,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

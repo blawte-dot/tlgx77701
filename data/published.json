@@ -795,5 +795,45 @@
     "hasImage": true,
     "eventFingerprint": "9d01b6952f9fdfdf3ee709c2",
     "timestamp": "2026-09-12T11:57:27.660Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 197,
+    "text": "Benchmarks used to measure code execution and throughput. \n\nNow we run multi-category evaluations on whether an AI can draw hands without six fingers.\n\nOpenAI just dropped Image 2.5 against Google’s Nano Banana 2 across six visual categories. \n\nThe prompt engineering meta has officially devolved into fighting over fruit names and pixel density.",
+    "hasImage": true,
+    "eventFingerprint": "99eedc1f22673e7cca51072f",
+    "timestamp": "2026-09-12T15:13:09.601Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 198,
+    "text": "Institutional pivot or XRP abandonment? \n\nRipple's expansion through Prime positions the firm as a broader financial services provider rather than a single-asset token issuer. \n\nWhile the new infrastructure extends far beyond XRP itself, market analysts note that a stronger enterprise foundation does not inherently signal a departure from the native asset. \n\nOperations continue to scale on both fronts as integration unfolds.",
+    "hasImage": true,
+    "eventFingerprint": "dfb828b1cf890b5452639da9",
+    "timestamp": "2026-09-12T15:13:11.565Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 199,
+    "text": "What happens when the meme coin ETF train finally stops at reality?\n\nBitwise is pulling the plug on its Dogecoin fund less than a year after launch, scheduling trading to halt on October 14. \n\nThe product simply never caught fire, sitting with just $688,000 in net assets by mid-September. Cash payouts to the handful of remaining holders roll out around October 22. \n\nTurns out Wall Street retail needs a bit more than a Shiba Inu logo to stick around.",
+    "hasImage": true,
+    "eventFingerprint": "ec377c6125b2e9a6d12e6aaf",
+    "timestamp": "2026-09-12T15:13:12.736Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 200,
+    "text": "Should stock issuers have any say over tokenized versions of their shares trading elsewhere?\n\nRobinhood CEO Vlad Tenev drew a hard line this week in the AMC token feud, arguing that companies shouldn't get a veto over separate products that track their publicly traded equity. \n\nWhere do you draw the line between issuer control and open market innovation for tokenized traditional assets?",
+    "hasImage": true,
+    "eventFingerprint": "ec24345becf0193ffc5bb0cc",
+    "timestamp": "2026-09-12T15:13:13.681Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 201,
+    "text": "The final chapter of the FTX saga is officially heading to the highest court in the United States.\n\nSam Bankman-Fried’s legal team is petitioning the U.S. Supreme Court, marking the imprisoned founder's last remaining avenue for appeal. \n\nLower courts previously upheld his conviction and 25-year sentence on fraud and conspiracy charges related to the exchange's collapse. \n\nA review by the Supreme Court remains a statistical long shot, as the justices decline the vast majority of cases brought before them.",
+    "hasImage": true,
+    "eventFingerprint": "719f605f77ba228eca125f0a",
+    "timestamp": "2026-09-12T15:13:14.769Z"
   }
 ]
