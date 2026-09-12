@@ -835,5 +835,45 @@
     "hasImage": true,
     "eventFingerprint": "719f605f77ba228eca125f0a",
     "timestamp": "2026-09-12T15:13:14.769Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 202,
+    "text": "Phishing works on institutions, too.\n\nRevolut confirmed it handed over sensitive data on high-net-worth clients after treating a fraudulent government demand as legitimate. \n\nThe exposed records span passport and driver's license copies, verification selfies, full names, home addresses, phone numbers, IBANs, account statements, and complete Bitcoin transaction histories. \n\nImpacted users were notified Friday. No login credentials or card PINs were reportedly compromised, but the depth of the leaked KYC and crypto trail demands immediate vigilance against targeted social engineering.",
+    "hasImage": true,
+    "eventFingerprint": "08710ad9d2610e5eff88d3fe",
+    "timestamp": "2026-09-12T18:04:00.633Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 203,
+    "text": "Phishing emails usually come from a random Gmail address in Nigeria, but Revolut apparently just fell for one sent from inside the actual government agency.\n\nThe fintech giant handed over ID documents and full Bitcoin transaction histories for a limited group of users after fraudsters spoofed an official email domain. \n\nNothing builds trust in crypto custody quite like a compliance team that can't tell the difference between a real subpoena and a very convincing \"please reply.\"",
+    "hasImage": true,
+    "eventFingerprint": "6439bd2aae2d913fe668e13f",
+    "timestamp": "2026-09-12T18:04:01.680Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 204,
+    "text": "OpenAI shipped a brand new flagship model and users are already convinced it got dumber.\n\nAstra has barely been live for a week before the downgrade complaints started rolling in across social media. \n\nIf this script sounds familiar, it is because the exact same cycle played out with their previous release back in July. \n\nTech companies always claim they aren't quietly lobotomizing their models to save on inference costs, yet the speedrun from breakthrough intelligence to lobotomized autocomplete remains undefeated.",
+    "hasImage": true,
+    "eventFingerprint": "82a3fdce07166af3241c1f8e",
+    "timestamp": "2026-09-12T18:04:03.023Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 205,
+    "text": "Wall Street decided inflation is back on the menu, and suddenly everyone's favorite chart pattern has stage fright. \n\nThe much-hyped Bitcoin Golden Cross is quietly fading into the background as rate-hike bets firm up across traditional markets. \n\nMacro still runs the show.",
+    "hasImage": true,
+    "eventFingerprint": "5137e5c93c7a5b2a7c9384f2",
+    "timestamp": "2026-09-12T18:04:03.963Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 206,
+    "text": "Tokyo-listed Bitcoin treasury firm Metaplanet just canceled over $220 million in executive stock rights. \n\nCEO Simon Gerovich and leadership surrendered the Series 10 warrants after concluding that recent Bitcoin acquisitions delivered diminishing value per share. \n\nThe move eliminates all executive compensation tied to share issuance past September 2025 as the firm works to repair investor confidence.\n\n#Metaplanet",
+    "hasImage": true,
+    "eventFingerprint": "426dee54a290b3f45b71e2df",
+    "timestamp": "2026-09-12T18:04:04.966Z"
   }
 ]

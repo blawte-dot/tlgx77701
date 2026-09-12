@@ -5096,5 +5096,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Revolut tricked into handing hackers the passports and Bitcoin histories of wealthy customers",
+    "link": "https://cryptoslate.com/revolut-tricked-into-handing-hackers-the-passports-and-bitcoin-histories-of-wealthy-customers/",
+    "summary": "Revolut disclosed customers’ passports, verification selfies and Bitcoin transaction histories after treating a fraudulent government request as legitimate. Affected customers were told Friday that the disclosed information could include passport or driver’s license copies, verification selfies, names, dates of birth, occupations, home addresses, phone numbers, IBANs, and account statements. Withdrawal records and complete transaction histories, [&#8230;]\nThe post Revolut tricked into handing ha",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bitcoin-data-breach-1.jpg",
+    "publishedAt": "2026-09-12T15:30:34.000Z",
+    "collectedAt": "2026-09-12T18:03:58.541Z",
+    "corroboratingSources": 1,
+    "fingerprint": "08710ad9d2610e5eff88d3fe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-12T18:04:00.635Z",
+    "outcome": {
+      "event": {
+        "title": "Revolut tricked into handing hackers the passports and Bitcoin histories of wealthy customers",
+        "fingerprint": "08710ad9d2610e5eff88d3fe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 202,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+    "link": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+    "summary": "The fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of users.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg",
+    "publishedAt": "2026-09-12T17:01:04.000Z",
+    "collectedAt": "2026-09-12T18:03:58.541Z",
+    "corroboratingSources": 3,
+    "fingerprint": "6439bd2aae2d913fe668e13f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-12T18:04:01.682Z",
+    "outcome": {
+      "event": {
+        "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+        "fingerprint": "6439bd2aae2d913fe668e13f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 203,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+    "link": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
+    "summary": "A week after launch, complaints are rolling in from users that GPT-6 Astra has been nerfed. OpenAI's last model went through the same cycle in July.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png",
+    "publishedAt": "2026-09-12T16:01:04.000Z",
+    "collectedAt": "2026-09-12T18:03:58.541Z",
+    "corroboratingSources": 1,
+    "fingerprint": "82a3fdce07166af3241c1f8e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-12T18:04:03.024Z",
+    "outcome": {
+      "event": {
+        "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+        "fingerprint": "82a3fdce07166af3241c1f8e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 204,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+    "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+    "summary": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
+    "publishedAt": "2026-09-11T20:53:39.000Z",
+    "collectedAt": "2026-09-12T18:03:58.541Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5137e5c93c7a5b2a7c9384f2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-12T18:04:03.964Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+        "fingerprint": "5137e5c93c7a5b2a7c9384f2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 205,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Metaplanet CEO surrenders $220 million in stock rights to rebuild trust with investors",
+    "link": "https://cryptoslate.com/metaplanet-ceo-surrenders-220-million-in-stock-rights-to-rebuild-trust-with-investors/",
+    "summary": "Metaplanet is cutting executive rewards after concluding that later Bitcoin purchases created less value per share. On Sept. 11, the Tokyo-listed Bitcoin treasury company announced it has reset its Series 10 stock acquisition rights, eliminating more than $220 million in warrant value. This also removes compensation generated by share issuance after September 2025, when its [&#8230;]\nThe post Metaplanet CEO surrenders $220 million in stock rights to rebuild trust with investors appeared first on",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/metaplanet-executive-rewards-bitcoin.jpg",
+    "publishedAt": "2026-09-12T04:10:06.000Z",
+    "collectedAt": "2026-09-12T18:03:58.541Z",
+    "corroboratingSources": 1,
+    "fingerprint": "426dee54a290b3f45b71e2df",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-12T18:04:04.967Z",
+    "outcome": {
+      "event": {
+        "title": "Metaplanet CEO surrenders $220 million in stock rights to rebuild trust with investors",
+        "fingerprint": "426dee54a290b3f45b71e2df"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 206,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
