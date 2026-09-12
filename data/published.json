@@ -875,5 +875,45 @@
     "hasImage": true,
     "eventFingerprint": "426dee54a290b3f45b71e2df",
     "timestamp": "2026-09-12T18:04:04.966Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 207,
+    "text": "The legal strategy behind Sam Bankman-Fried’s latest appeal is less about finding a technicality and more about challenging the foundational math of modern white-collar sentencing.\n\nHis defense team has officially petitioned the Supreme Court to overturn an $11 billion forfeiture order, arguing that the lower courts fundamentally miscalculated how restitution and asset seizure should be handled in cases involving collapsed crypto exchanges. \n\nAt the core of the petition is the question of whether courts can seize billions in theoretical customer losses without properly accounting for recovered assets or distinguishing between corporate funds and personal enrichment. During the Second Circuit proceedings, judges were thoroughly unconvinced by similar arguments, famously leaving the defense with little room to maneuver before upholding both his 25-year prison sentence and the massive financial penalty.\n\nWhile Supreme Court review in criminal cases of this magnitude remains a long shot, the filing forces a continued debate over how federal prosecutors apply forfeiture laws to digital asset platforms. \n\nFor the broader crypto industry, the case serves as a lingering reminder of the regulatory and judicial precedents being set by the fallout of 2022. The legal frameworks applied to SBF's billions are actively shaping how future insolvency cases, asset recoveries, and federal overreaches will be litigated across the sector.",
+    "hasImage": true,
+    "eventFingerprint": "82b214001b881e9e28a0d41b",
+    "timestamp": "2026-09-12T21:10:38.633Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 209,
+    "text": "That $80,000 resistance on Bitcoin is looking awfully thin.\n\nEquities just shrugged off Treasury yields hovering near 5%, and crypto is feeling the pull. With BTC changing hands around $77,743 and weekend options showing elevated volatility, this week's Federal Reserve decision is the real test. \n\nWednesday will show whether this macro resilience has actual legs.",
+    "hasImage": true,
+    "eventFingerprint": "33ced3f46b5aec47b81351a9",
+    "timestamp": "2026-09-12T21:10:39.620Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 210,
+    "text": "Your passport and crypto ledger might just be sitting in a folder handed over to scammers. \n\nFintech giant Revolut suffered a significant data breach after attackers used a falsified government request to bypass internal security checks, according to recent reports. \n\nThe compromised records span sensitive identity documents, full financial histories, and detailed cryptocurrency activity for thousands of users. \n\nIndependent outlets confirm the breach is far more extensive than initially acknowledged. \n\nPhishing attempts targeting exposed individuals are expected to surge over the coming days.\n\n#SecurityAlert",
+    "hasImage": true,
+    "eventFingerprint": "c0067edcb750952133aa3fe8",
+    "timestamp": "2026-09-12T21:10:40.849Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 211,
+    "text": "Crypto winter hits the Alps. \n\nBitcoin Suisse is cutting up to half its domestic workforce, closing its Copenhagen IT base, and routing operations through Vietnam and Bratislava to trim costs. \n\nEven the institutional Swiss are learning that Western European payrolls don't survive a bear market. \n\n#BitcoinSuisse",
+    "hasImage": true,
+    "eventFingerprint": "56f5641b1a24456b5f26338d",
+    "timestamp": "2026-09-12T21:10:41.870Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 212,
+    "text": "Ethereum just punched through to an eight-month high while long-dormant whale wallets finally started moving coins again. \n\nAre these large holders positioning for a sustained run toward new local resistance, or are we looking at distribution before a pullback? \n\nDrop your read on the current ETH volume and order flow below.",
+    "hasImage": true,
+    "eventFingerprint": "3008ac19071a8137ec04ab74",
+    "timestamp": "2026-09-12T21:10:43.065Z"
   }
 ]

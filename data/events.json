@@ -5301,5 +5301,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "‘We are unpersuaded’ – Sam Bankman Fried takes $11B forfeiture fight to Supreme Court",
+    "link": "https://ambcrypto.com/we-are-unpersuaded-sam-bankman-fried-takes-11b-forfeiture-fight-to-supreme-court/",
+    "summary": "Will the Supreme Court be able to give Sam Bankman-Fried a second chance or move ahead with their judgement?",
+    "image": null,
+    "publishedAt": "2026-09-12T19:00:14.000Z",
+    "collectedAt": "2026-09-12T21:10:34.122Z",
+    "corroboratingSources": 1,
+    "fingerprint": "82b214001b881e9e28a0d41b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-12T21:10:38.635Z",
+    "outcome": {
+      "event": {
+        "title": "‘We are unpersuaded’ – Sam Bankman Fried takes $11B forfeiture fight to Supreme Court",
+        "fingerprint": "82b214001b881e9e28a0d41b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 207,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury yields",
+    "link": "https://cryptoslate.com/bitcoins-80000-ceiling-looks-different-after-stocks-shrugged-off-near-5-treasury-yields/",
+    "summary": "With Bitcoin near $77,743 and weekend options volatility elevated, Wednesday’s Fed decision will test whether the gap persists.\nThe post Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury yields appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-key.jpg",
+    "publishedAt": "2026-09-12T20:20:10.000Z",
+    "collectedAt": "2026-09-12T21:10:34.122Z",
+    "corroboratingSources": 1,
+    "fingerprint": "33ced3f46b5aec47b81351a9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-12T21:10:39.621Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury yields",
+        "fingerprint": "33ced3f46b5aec47b81351a9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 209,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Revolut Exposed Passports and Bitcoin Records After Fake Government Request: Report",
+    "link": "https://cryptopotato.com/revolut-exposed-passports-and-bitcoin-records-after-fake-government-request-report/",
+    "summary": "The exposed information was sensitive, extensive, and included identity documents, financial records, and crypto activity.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/04/revolut_crypto_cover.jpg",
+    "publishedAt": "2026-09-12T12:50:32.000Z",
+    "collectedAt": "2026-09-12T21:10:34.122Z",
+    "corroboratingSources": 3,
+    "fingerprint": "c0067edcb750952133aa3fe8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-12T21:10:40.850Z",
+    "outcome": {
+      "event": {
+        "title": "Revolut Exposed Passports and Bitcoin Records After Fake Government Request: Report",
+        "fingerprint": "c0067edcb750952133aa3fe8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 210,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+    "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+    "summary": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ef3afd448edde39821d9fb15979c93228552e33-6641x3736.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-12T21:09:06.000Z",
+    "collectedAt": "2026-09-12T21:10:34.122Z",
+    "corroboratingSources": 2,
+    "fingerprint": "56f5641b1a24456b5f26338d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3.5,
+    "processedAt": "2026-09-12T21:10:41.871Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+        "fingerprint": "56f5641b1a24456b5f26338d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 211,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ethereum Whales Just Woke Up as ETH Exploded to 8-Month High: What’s Next?",
+    "link": "https://cryptopotato.com/ethereum-whales-just-woke-up-as-eth-exploded-to-8-month-high-whats-next/",
+    "summary": "What happened within the ETH ecosystem on Friday when the asset rocketed to an 8-month high?",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/09/ETH_CB-1.jpg",
+    "publishedAt": "2026-09-12T07:40:37.000Z",
+    "collectedAt": "2026-09-12T21:10:34.122Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3008ac19071a8137ec04ab74",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-12T21:10:43.066Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum Whales Just Woke Up as ETH Exploded to 8-Month High: What’s Next?",
+        "fingerprint": "3008ac19071a8137ec04ab74"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 212,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
