@@ -6280,5 +6280,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XPR Network suffers $9M proton.swaps exploit – Can confidence recover?",
+    "link": "https://ambcrypto.com/xpr-network-suffers-9m-proton-swaps-exploit-can-confidence-recover/",
+    "summary": "XPR’s sharp sell-off eased after producers patched the exploit and secured most of the affected funds.",
+    "image": null,
+    "publishedAt": "2026-09-13T17:00:30.000Z",
+    "collectedAt": "2026-09-13T17:13:59.314Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fb0ececd469693abaffaebfe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-13T17:14:09.915Z",
+    "outcome": {
+      "event": {
+        "title": "XPR Network suffers $9M proton.swaps exploit – Can confidence recover?",
+        "fingerprint": "fb0ececd469693abaffaebfe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 230,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Big Pattern for Shiba Inu (SHIB): Triangle Breakout Nears as Whale Concentration Tops 94.68%",
+    "link": "https://u.today/big-pattern-for-shiba-inu-shib-triangle-breakout-nears-as-whale-concentration-tops-9468",
+    "summary": "Whale monopolization locks 94.68% of Shiba Inu (SHIB) supply as triangle pattern forces price squeeze.",
+    "image": null,
+    "publishedAt": "2026-09-13T13:44:05.000Z",
+    "collectedAt": "2026-09-13T17:13:59.314Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e3056039f3c534d753fea0aa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-13T17:14:16.988Z",
+    "outcome": {
+      "event": {
+        "title": "Big Pattern for Shiba Inu (SHIB): Triangle Breakout Nears as Whale Concentration Tops 94.68%",
+        "fingerprint": "e3056039f3c534d753fea0aa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 231,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s slide below $77,000 sets up a Monday tech test as AI leaders sound warning",
+    "link": "https://cryptoslate.com/bitcoins-slide-below-77000-sets-up-a-monday-tech-test-as-ai-leaders-sound-warning/",
+    "summary": "Sunday’s 0.8% decline extends earlier weakness, while AI slowdown calls and the coming Fed meeting pose separate risks.\nThe post Bitcoin’s slide below $77,000 sets up a Monday tech test as AI leaders sound warning appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bear-market-pressure.jpg",
+    "publishedAt": "2026-09-13T15:20:10.000Z",
+    "collectedAt": "2026-09-13T17:13:59.314Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e40682ecdd490db63376a995",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-13T17:14:22.184Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s slide below $77,000 sets up a Monday tech test as AI leaders sound warning",
+        "fingerprint": "e40682ecdd490db63376a995"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 232,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "From 'Digital Gold' to $10,000: Bloomberg Strategist Flags Crucial Bitcoin Sell Signals",
+    "link": "https://u.today/from-digital-gold-to-10000-bloomberg-strategist-flags-crucial-bitcoin-sell-signals",
+    "summary": "Bloomberg's Mike McGlone warns Bitcoin's tight correlation with S&P 500 and pending Fed hikes spark sell signals targeting a potential drop to $10,000.",
+    "image": null,
+    "publishedAt": "2026-09-13T15:46:30.000Z",
+    "collectedAt": "2026-09-13T17:13:59.314Z",
+    "corroboratingSources": 1,
+    "fingerprint": "779849fc8e3856a8912ab49a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-13T17:14:30.195Z",
+    "outcome": {
+      "event": {
+        "title": "From 'Digital Gold' to $10,000: Bloomberg Strategist Flags Crucial Bitcoin Sell Signals",
+        "fingerprint": "779849fc8e3856a8912ab49a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 233,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+    "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+    "summary": "lockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/49c14a849cd698ca328264f8336914c0c5e41c33-8000x4500.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-13T17:00:00.000Z",
+    "collectedAt": "2026-09-13T17:13:59.314Z",
+    "corroboratingSources": 1,
+    "fingerprint": "05a4efd040a0d24f913f3cfa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-13T17:14:39.371Z",
+    "outcome": {
+      "event": {
+        "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+        "fingerprint": "05a4efd040a0d24f913f3cfa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 234,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

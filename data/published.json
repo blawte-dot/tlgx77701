@@ -1027,5 +1027,45 @@
     "hasImage": true,
     "eventFingerprint": "57cb1a5f719c10e7360debd9",
     "timestamp": "2026-09-13T13:37:57.330Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 230,
+    "text": "A nine-figure TVL protocol shouldn't hang by the thread of a single liquidity pool, yet XPR Network narrowly avoided a total wipeout following a $9M exploit.\n\nBlock producers moved swiftly to patch the proton.swaps vulnerability on Tuesday, managing to secure the lion's share of drained funds before they hit broader mixing services. \n\nThe immediate price reaction was predictable: a sharp, panic-driven sell-off that tested underlying network support before stabilizing as recovery updates hit the wire. \n\nYet code fixes do little to repair fragmented trust. \n\nXPR now faces the harder task of convincing jittery depositors that liquidity providers are safe from future logic errors. Markets forgive fast incident response, but capital tends to remember the block height where things nearly went to zero.",
+    "hasImage": true,
+    "eventFingerprint": "fb0ececd469693abaffaebfe",
+    "timestamp": "2026-09-13T17:14:09.914Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 231,
+    "text": "Nearly 95% of Shiba Inu is now locked in whale wallets just as a major technical squeeze takes shape.\n\nOn-chain data shows large holders control 94.68% of the SHIB supply, leaving a razor-thin margin for public float. \n\nSimultaneously, price action has compressed into a tightening triangle pattern, pointing toward an imminent volatility expansion. \n\nWhale dominance at these extremes historically amplifies directional swings once a breakout occurs.",
+    "hasImage": true,
+    "eventFingerprint": "e3056039f3c534d753fea0aa",
+    "timestamp": "2026-09-13T17:14:16.987Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 232,
+    "text": "Tech stocks and crypto are about to find out if the AI honeymoon is officially over. \n\nBitcoin dropping under $77,000 on a quiet Sunday isn't just a weekend blip—it sets up a brutal macro test for Monday morning as Wall Street digests fresh warnings from major AI leaders and braces for the Fed. 📉",
+    "hasImage": true,
+    "eventFingerprint": "e40682ecdd490db63376a995",
+    "timestamp": "2026-09-13T17:14:22.182Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 233,
+    "text": "Bitcoin faces a potential correction toward $10,000 if broader macroeconomic pressures intensify.\n\nBloomberg senior strategist Mike McGlone points to the asset's persistent correlation with the S&P 500 and upcoming Federal Reserve monetary tightening as key drivers behind the downside risk. \n\nThe analysis highlights that risk-on assets continue to react sharply to shifting liquidity conditions as central banks maintain restrictive stances.",
+    "hasImage": true,
+    "eventFingerprint": "779849fc8e3856a8912ab49a",
+    "timestamp": "2026-09-13T17:14:30.192Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 234,
+    "text": "3\n\nDecades before any fault-tolerant quantum machine can crack standard cryptography, MIT professor Muriel Médard argues blockchains already have the mathematical tools needed to defend themselves. \n\nClassic algebra, rather than quantum hardware, could be enough to secure ledgers against future threats. \n\nDoes the industry need to pivot to quantum-proof cryptography now, or are developers waiting for a crisis that is still too far off?",
+    "hasImage": true,
+    "eventFingerprint": "05a4efd040a0d24f913f3cfa",
+    "timestamp": "2026-09-13T17:14:39.369Z"
   }
 ]
