@@ -5870,5 +5870,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple Price Analysis: Consecutive Lower Highs Spell Trouble for XRP Ahead of Crucial Week",
+    "link": "https://cryptopotato.com/ripple-price-analysis-consecutive-lower-highs-spell-trouble-for-xrp-ahead-of-crucial-week/",
+    "summary": "Ripple&#8217;s XRP has yet to establish a clear direction after its August surge, with repeated rebounds being capped before buyers can regain control. The current compression leaves the market at an important juncture, as holding the nearby support could eventually set up another recovery attempt. Ripple Price Analysis: The Daily Chart On the daily timeframe, [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/09/XRP-D-3.jpg",
+    "publishedAt": "2026-09-13T04:59:22.000Z",
+    "collectedAt": "2026-09-13T08:49:48.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c9964cb7ee92eb186f2c5078",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-13T08:49:50.826Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Price Analysis: Consecutive Lower Highs Spell Trouble for XRP Ahead of Crucial Week",
+        "fingerprint": "c9964cb7ee92eb186f2c5078"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 218,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "'We Should Have Banned Cryptocurrencies,' Opera Co-Founder Says",
+    "link": "https://u.today/we-should-have-banned-cryptocurrencies-opera-co-founder-says",
+    "summary": "The technology executive went on to accuse cryptocurrency companies flush with cash of using their financial clout to influence politicians.",
+    "image": null,
+    "publishedAt": "2026-09-13T07:02:58.000Z",
+    "collectedAt": "2026-09-13T08:49:48.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "db49078bd62a2d069fa1ba39",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-13T08:49:52.574Z",
+    "outcome": {
+      "event": {
+        "title": "'We Should Have Banned Cryptocurrencies,' Opera Co-Founder Says",
+        "fingerprint": "db49078bd62a2d069fa1ba39"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 219,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Fake government request exposes Revolut&#8217;s customer data and Bitcoin histories &#8211; Details",
+    "link": "https://ambcrypto.com/fake-government-request-exposes-revoluts-customer-data-and-bitcoin-histories-details/",
+    "summary": "In this attack was Revolut’s security defeated entirely or just manipulated?",
+    "image": null,
+    "publishedAt": "2026-09-13T06:00:20.000Z",
+    "collectedAt": "2026-09-13T08:49:48.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "059bde157428d7f8bc37f7db",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-13T08:49:53.575Z",
+    "outcome": {
+      "event": {
+        "title": "Fake government request exposes Revolut&#8217;s customer data and Bitcoin histories &#8211; Details",
+        "fingerprint": "059bde157428d7f8bc37f7db"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 220,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ethereum Price Analysis: $3K Back in Play After ETH Reclaims $2.5K",
+    "link": "https://cryptopotato.com/ethereum-price-analysis-3k-back-in-play-after-eth-reclaims-2-5k/",
+    "summary": "Ethereum is attempting to convert its post-rally consolidation into a continuation setup. It remains compressed near the upper end of the range, and a sustained breakout could provide the foundation for another bullish leg, although the recent CPI-driven fakeout highlights the need for confirmation. Ethereum Price Analysis: The Daily Chart On the daily timeframe, ETH [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/09/ETH-D-5.jpg",
+    "publishedAt": "2026-09-13T05:30:52.000Z",
+    "collectedAt": "2026-09-13T08:49:48.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0aa103f5d51ad94037cb554d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-13T08:49:54.624Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum Price Analysis: $3K Back in Play After ETH Reclaims $2.5K",
+        "fingerprint": "0aa103f5d51ad94037cb554d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 221,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Novogratz: 'Clarity Isn't Dead'",
+    "link": "https://u.today/novogratz-clarity-isnt-dead",
+    "summary": "Galaxy Digital CEO Mike Novogratz says the Clarity Act is still alive as lawmakers negotiate key sticking points ahead of a crucial Senate vote on Tuesday.",
+    "image": null,
+    "publishedAt": "2026-09-13T08:11:31.000Z",
+    "collectedAt": "2026-09-13T08:49:48.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "26e87db2cc866a24647bfe52",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-13T08:49:55.574Z",
+    "outcome": {
+      "event": {
+        "title": "Novogratz: 'Clarity Isn't Dead'",
+        "fingerprint": "26e87db2cc866a24647bfe52"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 222,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
