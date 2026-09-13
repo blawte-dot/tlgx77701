@@ -6075,5 +6075,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited",
+    "link": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/",
+    "summary": "Qualifying commercial wallet hardware and software now face a rapid three-stage reporting process for serious security events.\nThe post Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-cra-compliance-path.jpg",
+    "publishedAt": "2026-09-13T11:45:33.000Z",
+    "collectedAt": "2026-09-13T13:37:47.285Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fa9f119dc663b7f905131b0c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-13T13:37:50.302Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited",
+        "fingerprint": "fa9f119dc663b7f905131b0c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 223,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin: $85M whale buy meets Fed FUD &#8211; Is BTC setting up a bear trap?",
+    "link": "https://ambcrypto.com/bitcoin-85m-whale-buy-meets-fed-fud-is-btc-setting-up-a-bear-trap/",
+    "summary": "Bitcoin is holding $75k despite rising rate-hike odds. An $85 million whale purchase could signal a potential bear trap.",
+    "image": null,
+    "publishedAt": "2026-09-13T09:00:21.000Z",
+    "collectedAt": "2026-09-13T13:37:47.285Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1849626669a83c9f01791607",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-13T13:37:53.549Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin: $85M whale buy meets Fed FUD &#8211; Is BTC setting up a bear trap?",
+        "fingerprint": "1849626669a83c9f01791607"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 225,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+    "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+    "summary": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8d8df4259af82f8ea238aee5c1f1e2fa3dce49a-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-13T13:00:00.000Z",
+    "collectedAt": "2026-09-13T13:37:47.285Z",
+    "corroboratingSources": 1,
+    "fingerprint": "df5b5ee461866d79fe7911c4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-13T13:37:55.028Z",
+    "outcome": {
+      "event": {
+        "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+        "fingerprint": "df5b5ee461866d79fe7911c4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 227,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ethereum ETFs Stay Strong as Bitcoin Funds Lose $460M in a Week",
+    "link": "https://cryptopotato.com/ethereum-etfs-stay-strong-as-bitcoin-funds-lose-460m-in-a-week/",
+    "summary": "Friday was particularly positive day for the ETH ETFs, which coincided with the major surge to an eight-month high.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Ethereum_ETF-1.jpg",
+    "publishedAt": "2026-09-13T11:11:32.000Z",
+    "collectedAt": "2026-09-13T13:37:47.285Z",
+    "corroboratingSources": 1,
+    "fingerprint": "276587d00332e30f00deaeca",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-13T13:37:56.173Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum ETFs Stay Strong as Bitcoin Funds Lose $460M in a Week",
+        "fingerprint": "276587d00332e30f00deaeca"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 228,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "XRP ETFs Smash Another All-Time High as Inflow Streak Hits 9 Weeks",
+    "link": "https://cryptopotato.com/xrp-etfs-smash-another-all-time-high-as-inflow-streak-hits-9-weeks/",
+    "summary": "The spot XRP ETFs' inflows just tapped $1.7 billion.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/11/Ripple_ETF.jpg",
+    "publishedAt": "2026-09-13T09:20:31.000Z",
+    "collectedAt": "2026-09-13T13:37:47.285Z",
+    "corroboratingSources": 1,
+    "fingerprint": "57cb1a5f719c10e7360debd9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-13T13:37:57.332Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETFs Smash Another All-Time High as Inflow Streak Hits 9 Weeks",
+        "fingerprint": "57cb1a5f719c10e7360debd9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 229,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
