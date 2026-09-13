@@ -5706,5 +5706,169 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin vs Ethereum ETFs: Which asset is winning September’s flow battle?",
+    "link": "https://ambcrypto.com/bitcoin-vs-ethereum-etfs-which-asset-is-winning-septembers-flow-battle/",
+    "summary": "Are Bitcoin ETFs gradually entering a September slump as outflows hit $462 million?",
+    "image": null,
+    "publishedAt": "2026-09-13T02:00:30.000Z",
+    "collectedAt": "2026-09-13T03:00:20.919Z",
+    "corroboratingSources": 1,
+    "fingerprint": "074466454c241a68e5598603",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-13T03:00:25.777Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin vs Ethereum ETFs: Which asset is winning September’s flow battle?",
+        "fingerprint": "074466454c241a68e5598603"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 213,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "241 Billion Shiba Inu Netflow Threatens Rally",
+    "link": "https://u.today/241-billion-shiba-inu-netflow-threatens-rally",
+    "summary": "Shiba Inu is seeing its exchange activity turn bearish over the last day as traders appear to be taking caution amid the growing market uncertainty.",
+    "image": null,
+    "publishedAt": "2026-09-13T01:00:00.000Z",
+    "collectedAt": "2026-09-13T03:00:20.919Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ef21d7b8a9fb33ffad94f860",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-13T03:00:26.939Z",
+    "outcome": {
+      "event": {
+        "title": "241 Billion Shiba Inu Netflow Threatens Rally",
+        "fingerprint": "ef21d7b8a9fb33ffad94f860"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 215,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ethereum volatility spikes after Wintermute’s $160M deposit – ETH rebound possible IF…",
+    "link": "https://ambcrypto.com/ethereum-volatility-spikes-after-wintermutes-160m-deposit-eth-rebound-possible-if/",
+    "summary": "Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?",
+    "image": null,
+    "publishedAt": "2026-09-13T00:00:27.000Z",
+    "collectedAt": "2026-09-13T03:00:20.919Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3c0462e1ecaf4c1ceca5689d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-13T03:00:28.047Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum volatility spikes after Wintermute’s $160M deposit – ETH rebound possible IF…",
+        "fingerprint": "3c0462e1ecaf4c1ceca5689d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 216,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
+    "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
+    "summary": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
+    "image": "https://cdn.thedefiant.io/crypto-down-thumbnail-jpg-7e080037-2eb9-485b-b9ad-6bf814972aab.jpg",
+    "publishedAt": "2026-09-13T03:00:20.000Z",
+    "collectedAt": "2026-09-13T03:00:20.919Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fe21006909fd904f1516ec88",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-13T03:00:29.348Z",
+    "outcome": {
+      "event": {
+        "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
+        "fingerprint": "fe21006909fd904f1516ec88"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 217,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
