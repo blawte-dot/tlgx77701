@@ -48,7 +48,7 @@ function buildPrompt({ event, platform, format, hookStyle, emojiPolicy, hashtagP
   const constraints =
     platform === "x"
       ? "X post. Hard limit 280 characters total. No links unless the source link is essential."
-      : "Telegram message. Keep it as short as the content allows — only deep_dive should run long (up to ~600 words); every other format should be brief and scannable, a few short lines, not a wall of text.";
+      : "Telegram message. This will be sent as a single message together with an image, so it must fit within roughly 900 characters — keep it tight and scannable, a few short lines, never a wall of text. Even deep_dive should stay concise: depth through precision, not length.";
 
   return `Write one ${format} post for ${platform === "x" ? "X (Twitter)" : "Telegram"}.
 
@@ -87,7 +87,7 @@ export async function generatePost({ event, platform }) {
   const prompt = buildPrompt({ event, platform, format, hookStyle, emojiPolicy, hashtagPolicy });
 
   const maxTokens =
-    platform === "x" ? 300 : format === "deep_dive" ? 900 : SHORT_TELEGRAM_FORMATS.has(format) ? 220 : 450;
+    platform === "x" ? 300 : format === "deep_dive" ? 320 : SHORT_TELEGRAM_FORMATS.has(format) ? 180 : 260;
 
   const text = await generateText({ system: SYSTEM_PROMPT, prompt, maxTokens });
 

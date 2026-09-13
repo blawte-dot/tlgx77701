@@ -25,23 +25,24 @@ async function sendPhotoMessage(imageUrl, caption) {
   return res.json();
 }
 
-/** Always the same order: full text first, then the image as its own
- *  message right after it — never image-on-top, never random. */
-async function sendTextThenPhoto(text, imageUrl) {
-  const textResult = await sendTextMessage(text);
-  if (!textResult.ok) return textResult;
-  const photoResult = await sendPhotoMessage(imageUrl, null);
-  // The text message is what carries the fingerprint/dedup record; if the
-  // follow-up photo fails, the post itself still counts as published.
-  return textResult;
+// Telegram's hard cap on a photo caption. The image must always be part
+// of the same message as the text — never a separate, standalone image
+// message — so if a post ever runs long, the caption is trimmed to fit
+// rather than split into two messages.
+const TELEGRAM_CAPTION_LIMIT = 1024;
+
+function fitCaption(text) {
+  if (text.length <= TELEGRAM_CAPTION_LIMIT) return text;
+  return `${text.slice(0, TELEGRAM_CAPTION_LIMIT - 1)}…`;
 }
 
 /**
  * Publishes a message to the configured Telegram channel via the
- * Bot API: the post text first, then its image (if one was resolved)
- * as a follow-up message directly below it. Respects DRY_RUN and the
- * daily budget guard. Never throws on missing config — returns a
- * structured result instead.
+ * Bot API, as a single unified message: the image (when one was
+ * resolved) with the post text as its caption in the same message —
+ * never as two separate messages. Respects DRY_RUN and the daily
+ * budget guard. Never throws on missing config — returns a structured
+ * result instead.
  */
 export async function publishToTelegram({ text, event, image }) {
   const missing = missingSecrets("telegram");
@@ -57,7 +58,7 @@ export async function publishToTelegram({ text, event, image }) {
 
   try {
     const hasImage = Boolean(image?.url);
-    const data = hasImage ? await sendTextThenPhoto(text, image.url) : await sendTextMessage(text);
+    const data = hasImage ? await sendPhotoMessage(image.url, fitCaption(text)) : await sendTextMessage(text);
     if (!data.ok) throw new Error(data.description || "Telegram API error");
 
     costControl.recordTelegramPost();
