@@ -15,32 +15,33 @@ async function sendTextMessage(text) {
 
 async function sendPhotoMessage(imageUrl, caption) {
   const url = `https://api.telegram.org/bot${config.telegram.botToken}/sendPhoto`;
+  const body = { chat_id: config.telegram.channelId, photo: imageUrl };
+  if (caption) body.caption = caption;
   const res = await fetch(url, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ chat_id: config.telegram.channelId, photo: imageUrl, caption }),
+    body: JSON.stringify(body),
   });
   return res.json();
 }
 
-/** For posts too long to fit as a photo caption (1024 char cap), the image is
- *  still sent — with a short caption — followed immediately by the full text
- *  as its own message, so long/important posts don't lose their image. */
-async function sendPhotoThenText(imageUrl, text) {
-  const shortCaption = text.length > 200 ? `${text.slice(0, 197)}...` : text;
-  const photoResult = await sendPhotoMessage(imageUrl, shortCaption);
-  if (!photoResult.ok) return photoResult;
+/** Always the same order: full text first, then the image as its own
+ *  message right after it — never image-on-top, never random. */
+async function sendTextThenPhoto(text, imageUrl) {
   const textResult = await sendTextMessage(text);
-  // Report the photo message as the primary result (it's what gets the fingerprint stored).
-  return textResult.ok ? photoResult : textResult;
+  if (!textResult.ok) return textResult;
+  const photoResult = await sendPhotoMessage(imageUrl, null);
+  // The text message is what carries the fingerprint/dedup record; if the
+  // follow-up photo fails, the post itself still counts as published.
+  return textResult;
 }
 
 /**
  * Publishes a message to the configured Telegram channel via the
- * Bot API. Sends as a photo (with the post text as caption) when a
- * real image is available, otherwise a plain text message. Respects
- * DRY_RUN and the daily budget guard. Never throws on missing config —
- * returns a structured result instead.
+ * Bot API: the post text first, then its image (if one was resolved)
+ * as a follow-up message directly below it. Respects DRY_RUN and the
+ * daily budget guard. Never throws on missing config — returns a
+ * structured result instead.
  */
 export async function publishToTelegram({ text, event, image }) {
   const missing = missingSecrets("telegram");
@@ -55,23 +56,15 @@ export async function publishToTelegram({ text, event, image }) {
   }
 
   try {
-    // Short posts: image as caption. Long posts (over Telegram's 1024-char
-    // caption cap): image with a short caption, then the full text as its
-    // own message — the image is never silently dropped just because the
-    // post is detailed.
-    const canUsePhoto = Boolean(image?.url);
-    const data = !canUsePhoto
-      ? await sendTextMessage(text)
-      : text.length <= 1024
-        ? await sendPhotoMessage(image.url, text)
-        : await sendPhotoThenText(image.url, text);
+    const hasImage = Boolean(image?.url);
+    const data = hasImage ? await sendTextThenPhoto(text, image.url) : await sendTextMessage(text);
     if (!data.ok) throw new Error(data.description || "Telegram API error");
 
     costControl.recordTelegramPost();
     store.append("telegramMessages", {
       messageId: data.result.message_id,
       text,
-      hasImage: canUsePhoto,
+      hasImage,
       eventFingerprint: event?.fingerprint || null,
       timestamp: new Date().toISOString(),
     });
@@ -79,11 +72,11 @@ export async function publishToTelegram({ text, event, image }) {
       platform: "telegram",
       postId: data.result.message_id,
       text,
-      hasImage: canUsePhoto,
+      hasImage,
       eventFingerprint: event?.fingerprint || null,
       timestamp: new Date().toISOString(),
     });
-    return { published: true, messageId: data.result.message_id, hasImage: canUsePhoto };
+    return { published: true, messageId: data.result.message_id, hasImage };
   } catch (err) {
     store.append("errors", {
       where: "publishToTelegram",
