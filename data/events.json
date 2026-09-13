@@ -6485,5 +6485,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Pump.fun rallies as whales drive $40M capital inflows: Can PUMP sustain the run?",
+    "link": "https://ambcrypto.com/pump-fun-rallies-as-whales-drive-40m-capital-inflows-can-pump-sustain-the-run/",
+    "summary": "Pump investors have a clear path to a rally, but relying too heavily on whales could be their undoing.",
+    "image": null,
+    "publishedAt": "2026-09-13T20:00:53.000Z",
+    "collectedAt": "2026-09-13T20:16:16.960Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cfbf0a91297e55db22f2a377",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-13T20:16:20.531Z",
+    "outcome": {
+      "event": {
+        "title": "Pump.fun rallies as whales drive $40M capital inflows: Can PUMP sustain the run?",
+        "fingerprint": "cfbf0a91297e55db22f2a377"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 235,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
+    "link": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
+    "summary": "Banks retain the customer interface, while undisclosed pricing, data, compliance and settlement terms will determine who captures the value.\nThe post Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/main-street-money-pipeline.jpg",
+    "publishedAt": "2026-09-13T19:10:30.000Z",
+    "collectedAt": "2026-09-13T20:16:16.960Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3333c3d879e9367c8c5d4998",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-13T20:16:22.311Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
+        "fingerprint": "3333c3d879e9367c8c5d4998"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 237,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Cosmos is back online after outage, but Ledger users still can’t see or send their ATOM",
+    "link": "https://cryptoslate.com/cosmos-is-back-online-after-outage-but-ledger-users-still-cant-see-or-send-their-atom/",
+    "summary": "Balances, history and transactions remain unavailable in the app, but Ledger lists Cosmostation and Keplr for urgent access.\nThe post Cosmos is back online after outage, but Ledger users still can’t see or send their ATOM appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/cosmos-wallet-bridge-break.jpg",
+    "publishedAt": "2026-09-13T17:55:22.000Z",
+    "collectedAt": "2026-09-13T20:16:16.960Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8724275c3df20f404c06009b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-13T20:16:26.915Z",
+    "outcome": {
+      "event": {
+        "title": "Cosmos is back online after outage, but Ledger users still can’t see or send their ATOM",
+        "fingerprint": "8724275c3df20f404c06009b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 239,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Analysis: BTC Faces a Make-or-Break Week &#8211; What’s the Most Likely Scenario?",
+    "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-faces-a-make-or-break-week-whats-the-most-likely-scenario/",
+    "summary": "Bitcoin is consolidating around $77.3K after a powerful breakout from the $67K area. While the broader structure has improved significantly, BTC is now facing an important resistance cluster near $80K-$82K. Meanwhile, the latest Coinbase Premium reading suggests that US spot demand has yet to fully confirm the recent advance. Bitcoin Price Analysis: The Daily Chart [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/09/BTC-D-7-scaled.jpg",
+    "publishedAt": "2026-09-13T19:36:50.000Z",
+    "collectedAt": "2026-09-13T20:16:16.960Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c942a84d7523a5aaa6186378",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-13T20:16:28.302Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Analysis: BTC Faces a Make-or-Break Week &#8211; What’s the Most Likely Scenario?",
+        "fingerprint": "c942a84d7523a5aaa6186378"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 241,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+    "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+    "summary": "I dunno, flip a coin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb0e02fe77cc6bb9eae2b1c4887014c319e9800f-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-13T18:45:08.000Z",
+    "collectedAt": "2026-09-13T20:16:16.960Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6994d1b8c4407af0c29a66c0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-13T20:16:29.593Z",
+    "outcome": {
+      "event": {
+        "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+        "fingerprint": "6994d1b8c4407af0c29a66c0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 243,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

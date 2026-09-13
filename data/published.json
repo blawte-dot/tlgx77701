@@ -1067,5 +1067,45 @@
     "hasImage": true,
     "eventFingerprint": "05a4efd040a0d24f913f3cfa",
     "timestamp": "2026-09-13T17:14:39.369Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 235,
+    "text": "Whale accumulation is a double-edged sword, and Pump.fun is about to find out which side cuts deeper. 🌊\n\nLarge-wallet inflows have surged by roughly $40 million recently, igniting a fresh price rally across the ecosystem and drawing retail traders back in droves. \n\nThe mechanics driving the current momentum are straightforward. Concentrated capital from whale addresses is artificially compressing circulating supply while driving up liquidity pools, creating immediate upside pressure that algorithms and momentum traders love to chase. \n\nYet this heavy reliance on deep-pocketed participants introduces structural fragility. \n\nWhen a rally is sustained primarily by a handful of whale entities rather than broad-based organic adoption, the exit door becomes dangerously narrow. If major holders decide to rotate capital or take profits simultaneously, order books lack the retail depth to absorb the sell wall without a severe cascading correction. \n\nFor now, the momentum is undeniably bullish and the chart looks strong. But sustainability depends entirely on whether these inflows transition into sticky, long-term ecosystem participation before the whales decide to cash out.\n\n#PumpFun",
+    "hasImage": true,
+    "eventFingerprint": "cfbf0a91297e55db22f2a377",
+    "timestamp": "2026-09-13T20:16:20.530Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 237,
+    "text": "Community banks are handing the keys to their plumbing over to Coinbase. \n\nThe exchange is rolling out a stablecoin bridge that lets traditional lenders offer digital dollar services while keeping the UI in-house. \n\nUnderneath, Coinbase handles the infrastructure. But with pricing, compliance, and settlement terms remaining undisclosed, who actually captures the long-term value here? \n\nAre regional lenders future-proofing their business against fintechs, or are they quietly becoming white-label front ends for a crypto giant? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "3333c3d879e9367c8c5d4998",
+    "timestamp": "2026-09-13T20:16:22.310Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 239,
+    "text": "Infrastructure restoration rarely solves user-facing issues all at once. \n\nThe Cosmos network has resumed normal block production following a recent outage, yet Ledger hardware wallet users report lingering visibility problems. ATOM balances and transaction history remain inaccessible directly through the Ledger Live interface.\n\nLedger has pointed affected users toward external wallet providers Cosmostation and Keplr to regain immediate access to their funds while integration fixes are deployed. \n\n#Cosmos",
+    "hasImage": true,
+    "eventFingerprint": "8724275c3df20f404c06009b",
+    "timestamp": "2026-09-13T20:16:26.914Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 241,
+    "text": "Are US buyers stepping up to defend this breakout, or are we walking into a bull trap below $82K?\n\nBTC is currently consolidating near $77.3K following that sharp run from $67K, but the Coinbase Premium indicates domestic spot demand hasn't fully caught up to the move just yet. \n\nDrop your read on the charts below. Are you scaling in here, or waiting for a deeper retest?",
+    "hasImage": true,
+    "eventFingerprint": "c942a84d7523a5aaa6186378",
+    "timestamp": "2026-09-13T20:16:28.301Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 243,
+    "text": "Are US regulators back to coin flips when it comes to digital asset rules? ⚖️\n\nCoinDesk's latest analysis points to an industry still caught in a regulatory gray zone, where policy direction feels less like a framework and more like guesswork. \n\nClear compliance pathways remain elusive as market participants navigate shifting enforcement priorities.\n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "6994d1b8c4407af0c29a66c0",
+    "timestamp": "2026-09-13T20:16:29.591Z"
   }
 ]
