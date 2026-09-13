@@ -6690,5 +6690,128 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
+    "link": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
+    "summary": "Blockchain security firm Blockaid said roughly 46.1 billion syBTC were minted but the attacker realized only about $336,000 in proceeds.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
+    "publishedAt": "2026-09-13T21:51:11.000Z",
+    "collectedAt": "2026-09-13T22:50:58.368Z",
+    "corroboratingSources": 1,
+    "fingerprint": "de1e81380eab30879ac21ba8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-13T22:51:00.451Z",
+    "outcome": {
+      "event": {
+        "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
+        "fingerprint": "de1e81380eab30879ac21ba8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 245,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Hackers mint trillions in fake Bitcoin, but 15 BTC bridge recovery leaves liquidity providers unpaid",
+    "link": "https://cryptoslate.com/hackers-mint-trillions-in-fake-bitcoin-but-15-btc-bridge-recovery-leaves-liquidity-providers-unpaid/",
+    "summary": "The native bridge remains paused as a 20% bounty window closes Sep. 13 and final accounting continues.\nThe post Hackers mint trillions in fake Bitcoin, but 15 BTC bridge recovery leaves liquidity providers unpaid appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/symbiosis-bridge-detour.jpg",
+    "publishedAt": "2026-09-13T21:20:10.000Z",
+    "collectedAt": "2026-09-13T22:50:58.368Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5edbd43b0e1a653c0f43316c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-13T22:51:01.449Z",
+    "outcome": {
+      "event": {
+        "title": "Hackers mint trillions in fake Bitcoin, but 15 BTC bridge recovery leaves liquidity providers unpaid",
+        "fingerprint": "5edbd43b0e1a653c0f43316c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 246,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "DOJ Strike Force Seizes Scam Marketplace, Restrains $52M in Crypto",
+    "link": "https://cryptopotato.com/doj-strike-force-seizes-scam-marketplace-restrains-52m-in-crypto/",
+    "summary": "Treasury designated Xinbi a transnational criminal organization as prosecutors moved against its crypto holdings.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2020/12/ScamAlert-min.jpg",
+    "publishedAt": "2026-09-13T22:11:25.000Z",
+    "collectedAt": "2026-09-13T22:50:58.368Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b2ba32e7e9a532c3b9fdf56a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-13T22:51:02.800Z",
+    "outcome": {
+      "event": {
+        "title": "DOJ Strike Force Seizes Scam Marketplace, Restrains $52M in Crypto",
+        "fingerprint": "b2ba32e7e9a532c3b9fdf56a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 247,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
