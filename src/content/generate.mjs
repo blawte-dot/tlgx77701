@@ -91,5 +91,10 @@ export async function generatePost({ event, platform }) {
 
   const text = await generateText({ system: SYSTEM_PROMPT, prompt, maxTokens });
 
-  return { platform, format, hookStyle, text: text.trim() };
+  // Defensive cleanup: occasionally the model leaves a stray standalone
+  // number/bullet marker on its own line at the very start (a leftover
+  // formatting artifact) with no other content on that line — strip it.
+  const cleaned = text.trim().replace(/^\d{1,2}[.)]?\s*\n+/, "");
+
+  return { platform, format, hookStyle, text: cleaned.trim() };
 }
