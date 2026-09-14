@@ -1179,5 +1179,45 @@
     "hasImage": true,
     "eventFingerprint": "77bb0b1ed7f09736b8975c4a",
     "timestamp": "2026-09-14T05:45:11.932Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 254,
+    "text": "US spot Bitcoin ETFs just snapped a three-week inflow streak with a heavy $462.7 million exit, driven by four straight sessions of withdrawals during the holiday-shortened week. \n\nSoSoValue data shows institutional demand cooling off just as macroeconomic pressures mount. \n\nWith Federal Reserve rate expectations shifting, the market is bracing for increased volatility. \n\n$75,000 stands as the key psychological and structural line for Bitcoin bulls to defend. Lose it, and a deeper test of macro support becomes likely.",
+    "hasImage": true,
+    "eventFingerprint": "aed3dd9c5dd5c56b6c8fd990",
+    "timestamp": "2026-09-14T11:43:06.667Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 255,
+    "text": "Corporate balance sheets are quietly shedding digital assets. \n\nAnother publicly traded firm has officially zeroed out its crypto holdings, liquidating its final 764 Bitcoin by September 11. \n\nThis move follows a broader trend of companies retreating from digital asset treasuries as market volatility and shifting accounting standards weigh on executive decisions. \n\nWhile institutional adoption dominates the narrative at the ETF level, corporate treasury participation remains divided. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "0909c521fe17493e707b2e85",
+    "timestamp": "2026-09-14T11:43:07.945Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 256,
+    "text": "The window for voluntary returns in the Symbiosis bridge incident has officially closed.\n\nCross-chain liquidity protocol Symbiosis reports it has recovered 15 BTC following a recent exploit, and is now shifting tactics. The team has opened a formal 20% bounty for actionable intelligence leading to further asset recovery after the attacker ignored earlier white-hat negotiation attempts.\n\nSecurity teams are tracking movement across multiple chains as the exploit funds sit in untagged wallets. \n\nThis development highlights the shifting dynamics of post-hack negotiations in DeFi. When voluntary white-hat agreements fail, protocols are increasingly turning to crowdsourced tracking and public bounties to pressure exposed addresses.",
+    "hasImage": true,
+    "eventFingerprint": "9ff5ec8a3264b43a3a82847f",
+    "timestamp": "2026-09-14T11:43:09.453Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 257,
+    "text": "Washington and Wall Street are colliding for Bitcoin this week.\n\nTraders are bracing for heightened volatility as the Senate prepares to vote on advancing the CLARITY Act. \n\nAt the same time, the Federal Reserve is scheduled to deliver its latest interest rate decision. \n\nLiquidity expectations and regulatory clarity hang in the balance as both events converge over the coming days. Markets are pricing in a choppy stretch ahead.",
+    "hasImage": true,
+    "eventFingerprint": "b2a8ca1d5c164969f3a4bfb7",
+    "timestamp": "2026-09-14T11:43:10.743Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 258,
+    "text": "7 digital assets are facing a hard stop on Kraken withdrawals this Monday. \n\nUsers holding these specific tokens have until Sept. 14 at 14:00 UTC to pull their funds off the platform. \n\nFollowing the cutoff, a scheduled liquidation window opens between Sept. 15 and Sept. 25. \n\nHolders should note there is no guarantee regarding which currency proceeds will be paid out in once the assets are liquidated.",
+    "hasImage": true,
+    "eventFingerprint": "d90a14eb2d3079a61b313bed",
+    "timestamp": "2026-09-14T11:43:11.885Z"
   }
 ]

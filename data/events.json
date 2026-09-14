@@ -7059,5 +7059,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETFs just lost $463 million as the Fed puts BTC at risk of losing $75,000",
+    "link": "https://cryptoslate.com/bitcoin-etfs-just-lost-463-million-as-the-fed-puts-btcs-75000-breakout-at-risk/",
+    "summary": "US spot Bitcoin exchange-traded funds (ETFs) posted $462.7 million in weekly outflows, ending a three-week stretch of heavy investor demand. The funds recorded withdrawals across all four trading sessions in the holiday-shortened week, marking their first weekly loss since mid-August. SoSoValue data showed net withdrawals of $46.7 million Tuesday, the first trading day after the [&#8230;]\nThe post Bitcoin ETFs just lost $463 million as the Fed puts BTC at risk of losing $75,000 appeared first on",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-breakout-balance.jpg",
+    "publishedAt": "2026-09-14T09:40:52.000Z",
+    "collectedAt": "2026-09-14T11:43:04.498Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aed3dd9c5dd5c56b6c8fd990",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-14T11:43:06.668Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs just lost $463 million as the Fed puts BTC at risk of losing $75,000",
+        "fingerprint": "aed3dd9c5dd5c56b6c8fd990"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 254,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Another public company has abandoned its Bitcoin treasury after selling the last 764 BTC",
+    "link": "https://cryptoslate.com/another-public-company-has-abandoned-its-bitcoin-treasury-after-selling-the-last-764-btc/",
+    "summary": "The company reported zero Bitcoin after sales completed Sept. 11, closing the position left after its earlier treasury retreat.\nThe post Another public company has abandoned its Bitcoin treasury after selling the last 764 BTC appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/kulr-bitcoin-dump.webp",
+    "publishedAt": "2026-09-14T10:50:32.000Z",
+    "collectedAt": "2026-09-14T11:43:04.498Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0909c521fe17493e707b2e85",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-14T11:43:07.946Z",
+    "outcome": {
+      "event": {
+        "title": "Another public company has abandoned its Bitcoin treasury after selling the last 764 BTC",
+        "fingerprint": "0909c521fe17493e707b2e85"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 255,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+    "link": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Symbiosis is offering a 20% bounty for information leading to asset recovery after the hacker refused to return the stolen funds for the same white-hat bounty.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FK6GAEQRFQBFCE1EBGAMG5/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it-1.jpg",
+    "publishedAt": "2026-09-14T09:55:35.000Z",
+    "collectedAt": "2026-09-14T11:43:04.498Z",
+    "corroboratingSources": 2,
+    "fingerprint": "9ff5ec8a3264b43a3a82847f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-09-14T11:43:09.571Z",
+    "outcome": {
+      "event": {
+        "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+        "fingerprint": "9ff5ec8a3264b43a3a82847f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 256,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+    "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate vote to move forward and the Fed is due to announce its latest rate decision.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FNBW97VVK5XYKANMB2SP3G/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act-1.jpg",
+    "publishedAt": "2026-09-14T10:02:00.000Z",
+    "collectedAt": "2026-09-14T11:43:04.498Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b2a8ca1d5c164969f3a4bfb7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-14T11:43:10.744Z",
+    "outcome": {
+      "event": {
+        "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+        "fingerprint": "b2a8ca1d5c164969f3a4bfb7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 257,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Seven assets enter Kraken liquidation window after withdrawals close Monday",
+    "link": "https://cryptoslate.com/seven-assets-enter-kraken-liquidation-window-after-withdrawals-close-monday/",
+    "summary": "Withdrawals close Sept. 14 at 14:00 UTC, ahead of Sept. 15–25 liquidation with no guaranteed proceeds currency.\nThe post Seven assets enter Kraken liquidation window after withdrawals close Monday appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/kraken-uae-liquidation-chute.webp",
+    "publishedAt": "2026-09-14T10:10:51.000Z",
+    "collectedAt": "2026-09-14T11:43:04.498Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d90a14eb2d3079a61b313bed",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-14T11:43:11.887Z",
+    "outcome": {
+      "event": {
+        "title": "Seven assets enter Kraken liquidation window after withdrawals close Monday",
+        "fingerprint": "d90a14eb2d3079a61b313bed"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 258,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
