@@ -6813,5 +6813,87 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Cardano (ADA), Hyperliquid (HYPE), Shiba Inu (SHIB) and Stellar (XLM) Price Analysis for September 14: What Should the Market Expect?",
+    "link": "https://u.today/price-analysis/cardano-ada-hyperliquid-hype-shiba-inu-shib-and-stellar-xlm-price-analysis-for-september-14-what",
+    "summary": "Cardano, Hyperliquid, Shiba Inu and Stellar are all testing key support zones after recent pullbacks.",
+    "image": null,
+    "publishedAt": "2026-09-14T00:01:00.000Z",
+    "collectedAt": "2026-09-14T00:41:15.842Z",
+    "corroboratingSources": 1,
+    "fingerprint": "46cd88b45ad191ab64a56318",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-14T00:41:18.781Z",
+    "outcome": {
+      "event": {
+        "title": "Cardano (ADA), Hyperliquid (HYPE), Shiba Inu (SHIB) and Stellar (XLM) Price Analysis for September 14: What Should the Market Expect?",
+        "fingerprint": "46cd88b45ad191ab64a56318"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 248,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Crypto’s moment of CLARITY finally arrives with a key Senate vote on Tuesday. AI swarm fears prompt development slowdown, with some predicting big falls in AI stock prices.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EK46FSXWXQTA0ENWV5Z0W4/three-figures-no-text.png",
+    "publishedAt": "2026-09-14T00:15:37.000Z",
+    "collectedAt": "2026-09-14T00:41:15.842Z",
+    "corroboratingSources": 1,
+    "fingerprint": "308515d2b164985de9e035df",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-14T00:41:19.931Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
+        "fingerprint": "308515d2b164985de9e035df"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 249,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
