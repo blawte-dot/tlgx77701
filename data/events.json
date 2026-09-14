@@ -7469,5 +7469,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "SecondFI reveals asset recovery tool following June&#8217;s Cardano wallet exploit",
+    "link": "https://ambcrypto.com/secondfi-reveals-asset-recovery-tool-following-junes-cardano-wallet-exploit/",
+    "summary": "After the exploit, SecondFi is turning to zero-knowledge proofs to help affected users recover their assets securely.",
+    "image": null,
+    "publishedAt": "2026-09-14T21:00:23.000Z",
+    "collectedAt": "2026-09-14T21:25:57.640Z",
+    "corroboratingSources": 1,
+    "fingerprint": "53bffa8b48bcd090b6359006",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-14T21:26:00.329Z",
+    "outcome": {
+      "event": {
+        "title": "SecondFI reveals asset recovery tool following June&#8217;s Cardano wallet exploit",
+        "fingerprint": "53bffa8b48bcd090b6359006"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 264,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+    "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Kraken’s new xStocks vaults let investors earn yield on tokenized versions of Nvidia and major US stock market ETFs by lending the assets in DeFi markets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GSWMB1C2Z7PZH9MAVV9T6X/hi-crypto-market-trading-1-breaking-news.png",
+    "publishedAt": "2026-09-14T20:54:10.000Z",
+    "collectedAt": "2026-09-14T21:25:57.640Z",
+    "corroboratingSources": 1,
+    "fingerprint": "062f7b145a3720c54a9a4c04",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-14T21:26:01.700Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+        "fingerprint": "062f7b145a3720c54a9a4c04"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 265,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Zcash: Will $13.65M whale buying push ZEC price toward $1,500?",
+    "link": "https://ambcrypto.com/zcash-will-13-65m-whale-buying-push-zec-price-toward-1500/",
+    "summary": "ZEC demand strengthened as whale accumulation, spot buying, and mining growth supported its recovery setup.",
+    "image": null,
+    "publishedAt": "2026-09-14T20:00:40.000Z",
+    "collectedAt": "2026-09-14T21:25:57.640Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e2e533956fd1b494ddb2ee36",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-14T21:26:02.906Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash: Will $13.65M whale buying push ZEC price toward $1,500?",
+        "fingerprint": "e2e533956fd1b494ddb2ee36"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 266,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+    "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+    "summary": "Eight banking groups on Monday said they want tighter limits on stablecoin rewards, keeping the ongoing banks-versus-crypto dispute alive in Congress.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/251d169e36a7ff197362dfd08f2689e57a408916-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-14T17:51:20.000Z",
+    "collectedAt": "2026-09-14T21:25:57.640Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7535423a889ddd512a37f963",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-14T21:26:04.241Z",
+    "outcome": {
+      "event": {
+        "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+        "fingerprint": "7535423a889ddd512a37f963"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 267,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
+    "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+    "summary": "The Federal Reserve's two-day policy meeting begins tomorrow, with nearly all now expecting the U.S. central bank to hike its benchmark policy rate by 25 basis points.",
+    "image": null,
+    "publishedAt": "2026-09-14T11:44:21.000Z",
+    "collectedAt": "2026-09-14T21:25:57.640Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1dd41edc5cf6def74cadd477",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-14T21:26:05.287Z",
+    "outcome": {
+      "event": {
+        "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
+        "fingerprint": "1dd41edc5cf6def74cadd477"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 268,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
