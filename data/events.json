@@ -7264,5 +7264,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Zcash (ZEC), Litecoin (LTC) Achieve New Listing in Europe Despite 2027 Ban Looming",
+    "link": "https://u.today/zcash-zec-litecoin-ltc-achieve-new-listing-in-europe-despite-2027-ban-looming",
+    "summary": "Zcash and Litecoin achieve a new European listing amid ZEC’s $1K rally, opening a compliant trading window ahead of the 2027 AMLR ban.",
+    "image": null,
+    "publishedAt": "2026-09-14T16:17:15.000Z",
+    "collectedAt": "2026-09-14T17:37:29.466Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2afe0af141eca7a801fa8c61",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-14T17:37:32.841Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash (ZEC), Litecoin (LTC) Achieve New Listing in Europe Despite 2027 Ban Looming",
+        "fingerprint": "2afe0af141eca7a801fa8c61"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 259,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+    "link": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
+    "summary": "The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
+    "publishedAt": "2026-09-14T15:41:46.000Z",
+    "collectedAt": "2026-09-14T17:37:29.466Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9a7fe831e309032519329633",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-14T17:37:34.225Z",
+    "outcome": {
+      "event": {
+        "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+        "fingerprint": "9a7fe831e309032519329633"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 260,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Fed data shows hedge funds added $400 billion before Bitcoin’s September rate test",
+    "link": "https://cryptoslate.com/fed-data-show-hedge-funds-added-400-billion-before-bitcoins-september-rate-test/",
+    "summary": "The Q2 snapshot points to larger gross books, but any crypto spillover still depends on funding stress after the FOMC.\nThe post Fed data shows hedge funds added $400 billion before Bitcoin’s September rate test appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidity-bridge.jpg",
+    "publishedAt": "2026-09-14T13:05:50.000Z",
+    "collectedAt": "2026-09-14T17:37:29.466Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f44b6c5227a6d70496acbdc1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-14T17:37:35.498Z",
+    "outcome": {
+      "event": {
+        "title": "Fed data shows hedge funds added $400 billion before Bitcoin’s September rate test",
+        "fingerprint": "f44b6c5227a6d70496acbdc1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 261,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "BetFury Launches $100,000 Fury Cruise: All Aboard With an Opportunity To Become a VIP",
+    "link": "https://cryptopotato.com/betfury-launches-100000-fury-cruise-all-aboard-with-an-opportunity-to-become-a-vip/",
+    "summary": "[PRESS RELEASE &#8211; Willemstad, Curaçao, September 14th, 2026] BetFury, a leading crypto casino, is setting sail this autumn with Fury Cruise: All Aboard – a platform-wide event running from September 14 to 27, 2026. Across two weeks, players can participate in a series of promotions featuring the $100,000 prize pool. One ultimate destination sits above [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/09/Fury_Cruise_PR_Banner___Chainwire___1200720_1789378458MCOiuLMz8O.jpg",
+    "publishedAt": "2026-09-14T12:15:16.000Z",
+    "collectedAt": "2026-09-14T17:37:29.466Z",
+    "corroboratingSources": 1,
+    "fingerprint": "890a6435f0bc6a809b008a06",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-14T17:37:36.672Z",
+    "outcome": {
+      "event": {
+        "title": "BetFury Launches $100,000 Fury Cruise: All Aboard With an Opportunity To Become a VIP",
+        "fingerprint": "890a6435f0bc6a809b008a06"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 262,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+    "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+    "summary": "Bitwise's BWOW dogecoin ETF will close after 10 months, adding to weak demand across DOGE funds and raising a harder question for altcoin ETFs: What problem are they actually solving?",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-14T12:08:35.000Z",
+    "collectedAt": "2026-09-14T17:37:29.466Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6241aecb56f9af4403ac4c47",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-14T17:37:37.738Z",
+    "outcome": {
+      "event": {
+        "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+        "fingerprint": "6241aecb56f9af4403ac4c47"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 263,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
