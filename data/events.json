@@ -6895,5 +6895,169 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin’s Biggest Week of 2026 Is Here: Fed and CLARITY Vote Take Center Stage",
+    "link": "https://cryptopotato.com/bitcoins-biggest-week-of-2026-is-here-fed-and-clarity-vote-take-center-stage/",
+    "summary": "Bitcoin investors are approaching what is likely to become the crypto industry's most important week so far this year.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/07/Bitcoin_Federal_Reserve.jpg",
+    "publishedAt": "2026-09-14T04:53:35.000Z",
+    "collectedAt": "2026-09-14T05:45:05.237Z",
+    "corroboratingSources": 1,
+    "fingerprint": "646d012d272f7da62765479d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-14T05:45:07.435Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s Biggest Week of 2026 Is Here: Fed and CLARITY Vote Take Center Stage",
+        "fingerprint": "646d012d272f7da62765479d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 250,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "King Charles to host AI chiefs amid industry call to slow development",
+    "link": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The gathering comes days after Dario Amodei and Sam Altman called for greater restraint at the AI frontier, warning that rapidly improving systems could pose increasingly difficult-to-control risks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2F5CNAA48QPT8RT0AZSR8XX/ai-meeting.jpg",
+    "publishedAt": "2026-09-14T05:16:59.000Z",
+    "collectedAt": "2026-09-14T05:45:05.237Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9deeb66380dcbb7226f8b223",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-14T05:45:08.588Z",
+    "outcome": {
+      "event": {
+        "title": "King Charles to host AI chiefs amid industry call to slow development",
+        "fingerprint": "9deeb66380dcbb7226f8b223"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 251,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+    "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Robinhood CEO Vlad Tenev said issuers should be involved if tokenized products change shareholder rights or company obligations, but not when they create separate instruments backed by shares.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2F1FZKPWK4E0T4E9EXZKH52/robin-the-hood.png",
+    "publishedAt": "2026-09-14T04:55:28.000Z",
+    "collectedAt": "2026-09-14T05:45:05.237Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6910550552c134c17593cb4e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-14T05:45:10.041Z",
+    "outcome": {
+      "event": {
+        "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+        "fingerprint": "6910550552c134c17593cb4e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 252,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Altcoin rally loses steam: Institutional bets fail to save Ethereum, Solana, and Aptos",
+    "link": "https://ambcrypto.com/altcoin-rally-loses-steam-institutional-bets-fail-to-save-ethereum-solana-and-aptos/",
+    "summary": "But can Bitcoin’s 60% market dominance level trigger the next altcoin rally?",
+    "image": null,
+    "publishedAt": "2026-09-14T05:15:28.000Z",
+    "collectedAt": "2026-09-14T05:45:05.237Z",
+    "corroboratingSources": 1,
+    "fingerprint": "77bb0b1ed7f09736b8975c4a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-14T05:45:11.953Z",
+    "outcome": {
+      "event": {
+        "title": "Altcoin rally loses steam: Institutional bets fail to save Ethereum, Solana, and Aptos",
+        "fingerprint": "77bb0b1ed7f09736b8975c4a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 253,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
