@@ -7674,5 +7674,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets",
+    "link": "https://cryptoslate.com/a-new-xrpl-upgrade-could-concentrate-xrp-ownership-inside-banks-instead-of-retail-wallets/",
+    "summary": "Pending sponsorship rules could shift reserves and fees to businesses, whose ability to release capital would depend on user funding and exit rules.\nThe post A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-sponsor-access-model.webp",
+    "publishedAt": "2026-09-15T00:00:22.000Z",
+    "collectedAt": "2026-09-15T00:14:20.232Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fbd6671ff22474279e52c9cf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-15T00:14:22.996Z",
+    "outcome": {
+      "event": {
+        "title": "A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets",
+        "fingerprint": "fbd6671ff22474279e52c9cf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 269,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+    "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+    "summary": "The SEC chair said crypto issuance, transfer agent modernization and custody will form the backbone of the agency’s regulatory push.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-14T23:30:40.000Z",
+    "collectedAt": "2026-09-15T00:14:20.231Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b6a414a27c462683b3ebb587",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-15T00:14:24.366Z",
+    "outcome": {
+      "event": {
+        "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+        "fingerprint": "b6a414a27c462683b3ebb587"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 270,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "ARKB, GBTC and IBIT led Bitcoin ETF withdrawals, while BlackRock’s ETHA pushed Ether ETFs into weekly inflows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FBNSP9ZVJVG90ENN5CFBQ3/etf-weekly-update.png",
+    "publishedAt": "2026-09-14T07:07:54.000Z",
+    "collectedAt": "2026-09-15T00:14:20.232Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8b54b70a5c4df151eecfb755",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-15T00:14:25.402Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+        "fingerprint": "8b54b70a5c4df151eecfb755"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 271,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
+    "link": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
+    "summary": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
+    "publishedAt": "2026-09-14T21:46:04.000Z",
+    "collectedAt": "2026-09-15T00:14:20.232Z",
+    "corroboratingSources": 1,
+    "fingerprint": "93520306e3ca5367167b46ff",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-15T00:14:26.892Z",
+    "outcome": {
+      "event": {
+        "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
+        "fingerprint": "93520306e3ca5367167b46ff"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 272,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "KuCoin Spotlight Returns With a Gno.land (GNOT) Pre-Listing Subscription, Featuring Pro-Rata Allocation, KCS Holder Benefits and Conditional Buyback Mechanism",
+    "link": "https://www.newsbtc.com/news/kucoin-spotlight-returns-with-a-gno-land-gnot-pre-listing-subscription-featuring-pro-rata-allocation-kcs-holder-benefits-and-conditional-buyback-mechanism/",
+    "summary": "KuCoin Spotlight returns with a pre-listing subscription for 7,751,938 GNOT at a subscription price of $0.0645 per token. The oversubscription model uses pro-rata allocation, under which eligible subscribers may receive an allocation based on their committed amount. Subscriptions are available in KCS, USDT, and newly added USDG, alongside KCS discounts and optional conditional price protection. &#160; KuCoin Spotlight is returning with a pre-listing subscription for Gno.land (GNOT), offering eli",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/unnamed-10.jpg?fit=715%2C536",
+    "publishedAt": "2026-09-14T10:13:50.000Z",
+    "collectedAt": "2026-09-15T00:14:20.232Z",
+    "corroboratingSources": 1,
+    "fingerprint": "afdffd45152bac478b09ded7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-15T00:14:28.099Z",
+    "outcome": {
+      "event": {
+        "title": "KuCoin Spotlight Returns With a Gno.land (GNOT) Pre-Listing Subscription, Featuring Pro-Rata Allocation, KCS Holder Benefits and Conditional Buyback Mechanism",
+        "fingerprint": "afdffd45152bac478b09ded7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 273,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
