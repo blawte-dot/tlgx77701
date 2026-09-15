@@ -1171,5 +1171,40 @@
     "hasImage": true,
     "eventFingerprint": "afdffd45152bac478b09ded7",
     "timestamp": "2026-09-15T00:14:28.095Z"
+  },
+  {
+    "messageId": 274,
+    "text": "A massive data breach at Revolut just escalated into a high-stakes extortion attempt. \n\nAttackers who gained access to customer records via a fraudulent government request are now demanding 10,000 Bitcoin in ransom, threatening to permanently leak stolen client data if the terms aren't met. \n\nThe breach initially exposed details for tens of thousands of users globally. Security teams are currently investigating the validity of the ransom demands and tracing the leaked files. \n\nAffected users should remain on high alert for targeted phishing attempts.",
+    "hasImage": true,
+    "eventFingerprint": "27e924a8356595bd451c8991",
+    "timestamp": "2026-09-15T05:46:24.290Z"
+  },
+  {
+    "messageId": 275,
+    "text": "Six months after a $128 million exploit forced Balancer Labs to shut its doors, the decentralized exchange is facing a vote to wind down the entire protocol and distribute remaining treasury funds to token holders. \n\nThe move marks a definitive end for one of DeFi's pioneering automated market makers, following the closure of its corporate entity in the wake of last year's security breach. \n\nFor a sector historically defined by perpetual pivoting, is orderly liquidation becoming a more viable exit strategy than endless rebuilding? \n\n#Balancer",
+    "hasImage": true,
+    "eventFingerprint": "5e947cfe28209f634793d24c",
+    "timestamp": "2026-09-15T05:46:25.618Z"
+  },
+  {
+    "messageId": 276,
+    "text": "300 million dollars left exchange wallets in a single wave.\n\nWhile Ethereum tests the $3,000 threshold, on-chain metrics show a sharp shift in whale behavior. \n\nTier-1 platforms recorded a notable spike in net outflows for Shiba Inu today, pointing to sudden spot accumulation rather than sell-side pressure. \n\nMarket participants are tracking whether the movement marks a broader rotation into altcoins or an isolated liquidity shift.\n\n#SHIB",
+    "hasImage": true,
+    "eventFingerprint": "8af7c11c26615e728a9b182a",
+    "timestamp": "2026-09-15T05:46:27.628Z"
+  },
+  {
+    "messageId": 277,
+    "text": "How do billions in sanctioned oil find a digital back door?\n\nFederal prosecutors in the U.S. are moving to seize $61 million in digital assets tied to an alleged Iranian state network. \n\nAccording to a civil forfeiture complaint filed by the Department of Justice, the operation converted proceeds from illicit black-market petroleum sales into cryptocurrency to fund military activities. \n\nInvestigators claim the scheme utilized various blockchain networks and OTC brokers to obscure the origin of the funds before routing them through international exchanges. \n\nThe case underscores ongoing scrutiny into how digital assets intersect with state-backed sanctions evasion and illicit trade routes.",
+    "hasImage": true,
+    "eventFingerprint": "8158f9fb057a41384d90f70a",
+    "timestamp": "2026-09-15T05:46:28.935Z"
+  },
+  {
+    "messageId": 278,
+    "text": "Washington is officially hitting the brakes on crypto legislation ahead of the election cycle.\n\nPolymarket odds for the CLARITY Act just dropped to 16% after key Democrats rejected the GOP's latest text, citing unresolved loopholes on stablecoin rewards and pushback from tribal gaming over prediction markets. \n\nBanking groups are also signaling that the compromise isn't coming together as hoped. \n\nWith momentum stalling on Capitol Hill, are you surprised lawmakers are failing to push this across the finish line, or was a comprehensive regulatory framework always a long shot for this session?",
+    "hasImage": true,
+    "eventFingerprint": "8ec3e71a069ba1b94d8c4199",
+    "timestamp": "2026-09-15T05:46:30.080Z"
   }
 ]

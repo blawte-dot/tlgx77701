@@ -7879,5 +7879,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Revolut Hackers Publish Client Data and Demand 10,000 Bitcoin Ransom",
+    "link": "https://cryptopotato.com/revolut-hackers-publish-client-data-and-demand-10000-bitcoin-ransom/",
+    "summary": "Attackers who exploited a fake government request to access Revolut customer records have made their first move.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2020/12/hack_cover.jpg",
+    "publishedAt": "2026-09-15T04:58:49.000Z",
+    "collectedAt": "2026-09-15T05:46:22.170Z",
+    "corroboratingSources": 1,
+    "fingerprint": "27e924a8356595bd451c8991",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-15T05:46:24.292Z",
+    "outcome": {
+      "event": {
+        "title": "Revolut Hackers Publish Client Data and Demand 10,000 Bitcoin Ransom",
+        "fingerprint": "27e924a8356595bd451c8991"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 274,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Balancer proposes winding down protocol and distributing treasury to BAL holders",
+    "link": "https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782",
+    "summary": "The proposal comes six months after corporate entity Balancer Labs shut down operations, citing a 2025 exploit that drained $128 million.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/05/20210511_Balancer_V2-1200x675.jpg",
+    "publishedAt": "2026-09-15T05:29:13.000Z",
+    "collectedAt": "2026-09-15T05:46:22.170Z",
+    "corroboratingSources": 2,
+    "fingerprint": "5e947cfe28209f634793d24c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6.5,
+    "processedAt": "2026-09-15T05:46:25.621Z",
+    "outcome": {
+      "event": {
+        "title": "Balancer proposes winding down protocol and distributing treasury to BAL holders",
+        "fingerprint": "5e947cfe28209f634793d24c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 275,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ethereum's $3,000 Push Signals Anomalous Shiba Inu (SHIB) Netflow Across Tier-1 Exchanges",
+    "link": "https://u.today/ethereums-3000-push-signals-anomalous-shiba-inu-shib-netflow-across-tier-1-exchanges",
+    "summary": "As whales withdraw $300 million in Ethereum ETH), Shiba Inu (shib) flashes spot accumulation signals.",
+    "image": null,
+    "publishedAt": "2026-09-14T09:15:15.000Z",
+    "collectedAt": "2026-09-15T05:46:22.170Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8af7c11c26615e728a9b182a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-15T05:46:27.630Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum's $3,000 Push Signals Anomalous Shiba Inu (SHIB) Netflow Across Tier-1 Exchanges",
+        "fingerprint": "8af7c11c26615e728a9b182a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 276,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+    "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+    "summary": "Prosecutors have filed a civil forfeiture complaint against what they call Iran's illegal crypto proceeds that are used to fund its military.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/daff9ba693e030b0bf954a2c3bd97fd9395cc604-1920x1403.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-15T05:12:06.000Z",
+    "collectedAt": "2026-09-15T05:46:22.169Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8158f9fb057a41384d90f70a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-15T05:46:28.937Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+        "fingerprint": "8158f9fb057a41384d90f70a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 277,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+    "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png",
+    "publishedAt": "2026-09-15T05:32:12.000Z",
+    "collectedAt": "2026-09-15T05:46:22.170Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8ec3e71a069ba1b94d8c4199",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-15T05:46:30.082Z",
+    "outcome": {
+      "event": {
+        "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+        "fingerprint": "8ec3e71a069ba1b94d8c4199"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 278,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
