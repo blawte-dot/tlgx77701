@@ -8084,5 +8084,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+    "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+    "summary": "Security firms traced the $7.8 million loss to a helper contract the wallet owner had authorized, not to Safe itself.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-15T10:27:55.000Z",
+    "collectedAt": "2026-09-15T11:00:15.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "290be977c8a3592a65aabafa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-15T11:00:18.979Z",
+    "outcome": {
+      "event": {
+        "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+        "fingerprint": "290be977c8a3592a65aabafa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 279,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "MEXC&#8217;s September 2026 Proof of Reserves Reaffirms Full Backing of User Assets, BTC Reserve Ratio Increases to 297%",
+    "link": "https://www.newsbtc.com/news/mexcs-september-2026-proof-of-reserves-reaffirms-full-backing-of-user-assets-btc-reserve-ratio-increases-to-297/",
+    "summary": "Mutsamudu, Comoros, September 15, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has released its September 2026 Proof of Reserves (PoR) report, audited by Hacken, confirming that user assets remain fully backed across all major reserve assets. The BTC reserve ratio increased to 297%, up from 288% in August. MEXC continues to disclose reserve data on a monthly basis, aiming to enhance transparency and safeguard the security of user funds. &#160; According to the audited report, dated as ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/photo_2026-09-15_11-34-05.jpg?fit=715%2C536",
+    "publishedAt": "2026-09-15T09:57:21.000Z",
+    "collectedAt": "2026-09-15T11:00:15.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e4c922c90fc84573ed4eb466",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-15T11:00:20.325Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC&#8217;s September 2026 Proof of Reserves Reaffirms Full Backing of User Assets, BTC Reserve Ratio Increases to 297%",
+        "fingerprint": "e4c922c90fc84573ed4eb466"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 280,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Banks reject U.S. Treasury Secretary Bessent’s CLARITY Act ‘circuit breaker’ &#8211; Why?",
+    "link": "https://ambcrypto.com/banks-reject-u-s-treasury-secretary-bessents-clarity-act-circuit-breaker-why/",
+    "summary": "Can CLARITY Act still make it to the finish line as teething issues persists?",
+    "image": null,
+    "publishedAt": "2026-09-15T09:00:01.000Z",
+    "collectedAt": "2026-09-15T11:00:15.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d6d6b45f76f76031181ae90c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-15T11:00:23.715Z",
+    "outcome": {
+      "event": {
+        "title": "Banks reject U.S. Treasury Secretary Bessent’s CLARITY Act ‘circuit breaker’ &#8211; Why?",
+        "fingerprint": "d6d6b45f76f76031181ae90c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 281,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
+    "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
+    "summary": "The proposed acquisition would use cash flow from precious metals sales to build bitcoin holdings.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54d425afad71df8d6e1593c490cf930909b6742f-640x360.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-15T10:06:40.000Z",
+    "collectedAt": "2026-09-15T11:00:15.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d20b097cd770c9a2c80161ab",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-15T11:00:24.876Z",
+    "outcome": {
+      "event": {
+        "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
+        "fingerprint": "d20b097cd770c9a2c80161ab"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 282,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+    "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Crypto wallet providers must submit an early vulnerability report within 24 hours and a full notification within 72 hours of exploits, or risk administrative fines of as much as $17.3 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FR3T0NEB8ZH35X810AQSMA/european-union-eu-european-parliament-brussels-2.jpg",
+    "publishedAt": "2026-09-14T11:38:44.000Z",
+    "collectedAt": "2026-09-15T11:00:15.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ca89b3733aa15db78eeaa8c7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-15T11:00:26.127Z",
+    "outcome": {
+      "event": {
+        "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+        "fingerprint": "ca89b3733aa15db78eeaa8c7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 283,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

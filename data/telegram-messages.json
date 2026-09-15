@@ -1206,5 +1206,40 @@
     "hasImage": true,
     "eventFingerprint": "8ec3e71a069ba1b94d8c4199",
     "timestamp": "2026-09-15T05:46:30.080Z"
+  },
+  {
+    "messageId": 279,
+    "text": "The most secure multi-sig in the world won't protect you from the permissions you hand away yourself.\n\nSecurity researchers investigating a brutal $7.8 million wallet drain have cleared Safe's core infrastructure of any fault. \n\nInstead, the vulnerability came down to a single helper contract the owner had previously authorized. \n\nThat authorization left a backdoor wide open.\n\nWhen dealing with smart contracts, what you approve is often just as critical as what you lock down.",
+    "hasImage": true,
+    "eventFingerprint": "290be977c8a3592a65aabafa",
+    "timestamp": "2026-09-15T11:00:18.975Z"
+  },
+  {
+    "messageId": 280,
+    "text": "Over-collateralization is becoming the baseline expectation for centralized exchanges that want to survive long-term.\n\nMEXC released its September Proof of Reserves report earlier today, audited by Hacken, showing user assets remain fully backed across all major holdings.\n\nThe standout metric: the Bitcoin reserve ratio climbed to 297%, up from 288% in August. \n\nRegular monthly attestations are shifting from a nice-to-have marketing feature to an absolute operational requirement as traders demand verifiable solvency data.",
+    "hasImage": true,
+    "eventFingerprint": "e4c922c90fc84573ed4eb466",
+    "timestamp": "2026-09-15T11:00:20.321Z"
+  },
+  {
+    "messageId": 281,
+    "text": "Treasury thought they could just install a circuit breaker and cool down the room. \n\nCommercial banks looked at the CLARITY Act proposal, pressed hard on the glass, and said no. \n\nWhen the people holding the vault keys refuse to sign the safety manual, legislation tends to stall in the hallway.",
+    "hasImage": true,
+    "eventFingerprint": "d6d6b45f76f76031181ae90c",
+    "timestamp": "2026-09-15T11:00:23.711Z"
+  },
+  {
+    "messageId": 282,
+    "text": "Precious metals cash flows are about to start feeding a corporate Bitcoin treasury.\n\nNigel Farage-backed Stack BTC is moving on a proposed $16 million acquisition of a traditional gold dealer, according to CoinDesk reporting. \n\nThe strategy aims to channel revenue generated from physical gold and silver sales directly into open-market BTC purchases. \n\nIt is an aggressive blueprint for stacking sats using old-school commodity cash flow.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "d20b097cd770c9a2c80161ab",
+    "timestamp": "2026-09-15T11:00:24.873Z"
+  },
+  {
+    "messageId": 283,
+    "text": "24 hours. \n\nThat is the entire window crypto wallet providers in the European Union will soon have to report security vulnerabilities and exploits under tightening regulatory standards. \n\nDraft rules from European authorities establish strict compliance timelines for the sector. Firms failing to submit an initial warning within a single day—followed by a full incident notification within 72 hours—face administrative penalties climbing as high as $17.3 million, or a percentage of annual global turnover. \n\nThe mandate applies broadly to custodial and non-custodial infrastructure operating within the bloc, raising the compliance stakes for developers as oversight intensifies.",
+    "hasImage": true,
+    "eventFingerprint": "ca89b3733aa15db78eeaa8c7",
+    "timestamp": "2026-09-15T11:00:26.123Z"
   }
 ]
