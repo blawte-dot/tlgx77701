@@ -8494,5 +8494,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Crypto industry reacts after Clarity Act fails Senate vote",
+    "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+    "summary": "One of the most crucial U.S. regulations for crypto markets couldn't secure enough support to clear the Senate's final 60-vote hurdle.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01d0c944fddf68f63ab3aad72a8140ea9b33b42d-2549x1433.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-15T19:06:31.000Z",
+    "collectedAt": "2026-09-15T19:57:39.188Z",
+    "corroboratingSources": 2,
+    "fingerprint": "005945dae62365afb92dcfb4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9.5,
+    "processedAt": "2026-09-15T19:58:08.252Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto industry reacts after Clarity Act fails Senate vote",
+        "fingerprint": "005945dae62365afb92dcfb4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 289,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "DOJ charges Robinhood former engineers with front-running crypto listings on Hyperliquid",
+    "link": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865",
+    "summary": "According to prosecutors, the two took positions in tokens ahead of Robinhood’s public listing announcements between 2025 and 2026.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_2-1200x675.jpg",
+    "publishedAt": "2026-09-15T17:50:23.000Z",
+    "collectedAt": "2026-09-15T19:57:39.189Z",
+    "corroboratingSources": 1,
+    "fingerprint": "49477108378c147c62d83e1c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-15T19:58:11.384Z",
+    "outcome": {
+      "event": {
+        "title": "DOJ charges Robinhood former engineers with front-running crypto listings on Hyperliquid",
+        "fingerprint": "49477108378c147c62d83e1c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 290,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+    "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+    "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-09-15T17:49:23.000Z",
+    "collectedAt": "2026-09-15T19:57:39.189Z",
+    "corroboratingSources": 1,
+    "fingerprint": "561588e0d0034557a8b651e9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-15T19:58:15.499Z",
+    "outcome": {
+      "event": {
+        "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+        "fingerprint": "561588e0d0034557a8b651e9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 291,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XRP sees $206.6M whale transfer &#8211; Could heavy supply cap the recovery?",
+    "link": "https://ambcrypto.com/xrp-sees-206-6m-whale-transfer-could-heavy-supply-cap-the-recovery/",
+    "summary": "XRP’s rally faces a key test as price holds above $1.30 while traders reduce leverage and whale supply builds near resistance.",
+    "image": null,
+    "publishedAt": "2026-09-15T15:00:03.000Z",
+    "collectedAt": "2026-09-15T19:57:39.189Z",
+    "corroboratingSources": 1,
+    "fingerprint": "24479858ef3f297ce75f1e37",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-15T19:58:17.890Z",
+    "outcome": {
+      "event": {
+        "title": "XRP sees $206.6M whale transfer &#8211; Could heavy supply cap the recovery?",
+        "fingerprint": "24479858ef3f297ce75f1e37"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 292,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Trump ethics fight sinks CLARITY Act in dramatic Senate defeat",
+    "link": "https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat/",
+    "summary": "The CLARITY Act stalled in the Senate after a final round of bipartisan negotiations broke down and several Democrats who helped shape the bill refused to advance it. The measure failed to secure the 60 votes needed to invoke cloture on the motion to proceed with H.R. 3633, preventing the most consequential US crypto market-structure [&#8230;]\nThe post Trump ethics fight sinks CLARITY Act in dramatic Senate defeat appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-cloture-failed-standard-image.jpg",
+    "publishedAt": "2026-09-15T19:20:33.000Z",
+    "collectedAt": "2026-09-15T19:57:39.189Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fc4c428d6a404be93207a91f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-15T19:58:19.445Z",
+    "outcome": {
+      "event": {
+        "title": "Trump ethics fight sinks CLARITY Act in dramatic Senate defeat",
+        "fingerprint": "fc4c428d6a404be93207a91f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 293,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

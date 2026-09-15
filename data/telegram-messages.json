@@ -1276,5 +1276,40 @@
     "hasImage": true,
     "eventFingerprint": "0e326b75b2dd834f94dc5e6d",
     "timestamp": "2026-09-15T16:11:21.101Z"
+  },
+  {
+    "messageId": 289,
+    "text": "Washington just dealt the digital asset sector a sobering reality check.\n\nThe Clarity Act has officially failed to clear the Senate's 60-vote threshold, stalling what many considered the most pivotal regulatory framework currently on the table for U.S. crypto markets. \n\nThis defeat leaves the industry drifting in a familiar state of legal ambiguity. \n\nWithout uniform federal rules, enforcement actions from the SEC and CFTC will continue to fill the vacuum. Markets wanted structural certainty today. Instead, they are getting more of the same friction.",
+    "hasImage": true,
+    "eventFingerprint": "005945dae62365afb92dcfb4",
+    "timestamp": "2026-09-15T19:58:08.248Z"
+  },
+  {
+    "messageId": 290,
+    "text": "Insider trading is migrating directly to on-chain perpetual protocols.\n\nFederal prosecutors have indicted two former Robinhood engineers for allegedly front-running the platform's upcoming token listings using Hyperliquid. \n\nInvestigators say the pair quietly accumulated positions in specific digital assets between 2025 and 2026 before public rollout announcements drove up spot prices. \n\nAs decentralized order books gain institutional liquidity, they also inherit traditional finance compliance risks—and transparent ledgers make the trail easier for regulators to follow.",
+    "hasImage": true,
+    "eventFingerprint": "49477108378c147c62d83e1c",
+    "timestamp": "2026-09-15T19:58:11.379Z"
+  },
+  {
+    "messageId": 291,
+    "text": "Internal information advantages remain the single hardest risk for retail traders to navigate in crypto.\n\nUnconfirmed reports suggest two Robinhood engineers allegedly pulled in over $50,000 each trading Hyperliquid perpetual futures ahead of scheduled token listings. \n\nWhere is the line between strict internal compliance and an impossible policing problem for centralized platforms?",
+    "hasImage": true,
+    "eventFingerprint": "561588e0d0034557a8b651e9",
+    "timestamp": "2026-09-15T19:58:15.494Z"
+  },
+  {
+    "messageId": 292,
+    "text": "$206.6 million in XRP just shifted to wallets as the token defends the $1.30 handle. \n\nWhales are clearly positioning near technical resistance while broader market leverage cools off. \n\nAre you viewing this heavy supply accumulation as a distribution setup before a deeper pullback, or simply heavy reloading ahead of the next leg up? #XRP",
+    "hasImage": true,
+    "eventFingerprint": "24479858ef3f297ce75f1e37",
+    "timestamp": "2026-09-15T19:58:17.885Z"
+  },
+  {
+    "messageId": 293,
+    "text": "Washington just found the one thing powerful enough to unite both sides of the aisle against crypto: personal ethics scrutiny.\n\nThe CLARITY Act needed 60 votes to advance in the Senate today. It didn't get them. Bipartisan talks collapsed at the finish line after key Democrats who built the bill pulled their support amid mounting ethics disputes. \n\nSo much for the most anticipated market-structure bill of the year. Congress remains undefeated at self-sabotage.",
+    "hasImage": true,
+    "eventFingerprint": "fc4c428d6a404be93207a91f",
+    "timestamp": "2026-09-15T19:58:19.440Z"
   }
 ]
