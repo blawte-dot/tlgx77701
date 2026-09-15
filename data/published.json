@@ -1419,5 +1419,45 @@
     "hasImage": true,
     "eventFingerprint": "ca89b3733aa15db78eeaa8c7",
     "timestamp": "2026-09-15T11:00:26.125Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 284,
+    "text": "Institutional demand is returning to spot Bitcoin products just as macro tension peaks. \n\nBlackRock’s IBIT and Fidelity’s FBTC drove the latest round of inflows, absorbing capital as the broader market finds its footing ahead of the Federal Reserve’s upcoming rate decision. \n\nYet the underlying recovery remains uneven. Ark Invest's ARKB bucked the trend with net outflows, keeping the aggregate five-session total in negative territory overall. \n\nWhen single issuers carry the weight of an entire sector, headline numbers can obscure underlying concentration. Watch the tape closely as liquidity shifts into this week's FOMC meeting.",
+    "hasImage": true,
+    "eventFingerprint": "da3d889af370177c8344c7e3",
+    "timestamp": "2026-09-15T16:11:14.300Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 285,
+    "text": "Central banks are starting to hand the keys to blockchain security firms.\n\nThe National Bank of the Kyrgyz Republic has signed a formal memorandum of understanding with CertiK, according to an announcement released today. \n\nThe agreement establishes a long-term strategic partnership focused entirely on the security and regulatory oversight of the country's upcoming Digital Som. \n\nRather than building compliance frameworks strictly in-house, the central bank is leaning on external smart contract auditors to shape its digital asset infrastructure. \n\nIt marks a notable shift in how state-backed digital currencies integrate third-party security protocols before full deployment.",
+    "hasImage": true,
+    "eventFingerprint": "f78e157498d851e27c9133c1",
+    "timestamp": "2026-09-15T16:11:15.848Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 286,
+    "text": "5 cross and isolated margin pairs are leaving Binance next month. 🛑\n\nThe exchange announced the upcoming removal of several trading pairs set for early September, impacting both cross and isolated margin markets. \n\nAffected users should note that automated position closures and order cancellations will occur as the delisting dates approach. \n\nRisk management adjustments are advised for anyone currently holding open positions in these specific pairings.",
+    "hasImage": true,
+    "eventFingerprint": "557552cb27a75c1b73780439",
+    "timestamp": "2026-09-15T16:11:18.303Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 287,
+    "text": "An attacker tried to drain a custom Safe module—only to get entirely outmaneuvered by an automated bot.\n\nA decentralized finance exploit took an unexpected turn today when an MEV bot labeled \"Yoink\" intercepted a malicious transaction, siphoning away roughly $7.7 million in rsETH before the hacker could secure the funds. \n\nKelp DAO responded by temporarily freezing the attacker’s address, locking down the stolen assets while core contributors assess the breach. \n\nThe incident highlights a strange dynamic in modern on-chain security: automated maximal extractable value searchers are increasingly acting as aggressive first-responders during exploits, often beating both protocols and attackers to the punch. 🔍",
+    "hasImage": true,
+    "eventFingerprint": "6756d588b5d5918efa791967",
+    "timestamp": "2026-09-15T16:11:19.771Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 288,
+    "text": "Central bank digital currencies are shifting from policy papers to actual checkout counters. \n\nThe ECB just opened applications for a 12-month pilot testing the digital euro across online, mobile, and in-store merchant payments. \n\nWould you willingly use a state-backed digital currency for daily retail purchases, or does the privacy tradeoff make cash and private stablecoins a better option? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "0e326b75b2dd834f94dc5e6d",
+    "timestamp": "2026-09-15T16:11:21.102Z"
   }
 ]

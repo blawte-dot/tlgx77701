@@ -8289,5 +8289,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETF inflows are back, but BlackRock is carrying the market into the Fed meeting",
+    "link": "https://cryptoslate.com/bitcoin-etf-inflows-are-back-but-blackrock-is-carrying-the-market-into-the-fed-meeting/",
+    "summary": "IBIT and FBTC supplied most of the rebound while ARKB remained negative, leaving the five-session total in outflow.\nThe post Bitcoin ETF inflows are back, but BlackRock is carrying the market into the Fed meeting appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-rebound-track-final.webp",
+    "publishedAt": "2026-09-15T14:35:35.000Z",
+    "collectedAt": "2026-09-15T16:11:11.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "da3d889af370177c8344c7e3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-15T16:11:14.302Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF inflows are back, but BlackRock is carrying the market into the Fed meeting",
+        "fingerprint": "da3d889af370177c8344c7e3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 284,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "NBKR and CertiK Establish Long-Term Strategic Partnership on Digital Som Security and Digital Asset Oversight",
+    "link": "https://cryptopotato.com/nbkr-and-certik-establish-long-term-strategic-partnership-on-digital-som-security-and-digital-asset-oversight/",
+    "summary": "[PRESS RELEASE &#8211; Bishkek, Kyrgyzstan, September 15th, 2026] The National Bank of the Kyrgyz Republic (NBKR) and CertiK have signed a Memorandum of Understanding (MoU), establishing a long-term strategic partnership to advance cooperation on Digital Som security and digital asset oversight. The partnership brings CertiK into a central-bank environment shaped by stringent security, compliance, and [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/09/20260914162811_496_37_1789452294kKwxYDm5y1.jpg",
+    "publishedAt": "2026-09-15T11:19:18.000Z",
+    "collectedAt": "2026-09-15T16:11:11.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f78e157498d851e27c9133c1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-15T16:11:15.850Z",
+    "outcome": {
+      "event": {
+        "title": "NBKR and CertiK Establish Long-Term Strategic Partnership on Digital Som Security and Digital Asset Oversight",
+        "fingerprint": "f78e157498d851e27c9133c1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 285,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Five Binance Margin Pairs Face Delisting This September: Here's Full List",
+    "link": "https://u.today/five-binance-margin-pairs-face-delisting-this-september-heres-full-list",
+    "summary": "Major crypto exchange Binance announces September delisting of five margin trading pairs.",
+    "image": null,
+    "publishedAt": "2026-09-15T13:21:00.000Z",
+    "collectedAt": "2026-09-15T16:11:11.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "557552cb27a75c1b73780439",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-15T16:11:18.305Z",
+    "outcome": {
+      "event": {
+        "title": "Five Binance Margin Pairs Face Delisting This September: Here's Full List",
+        "fingerprint": "557552cb27a75c1b73780439"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 286,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+    "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRVDXPPS1RFJ7HQKY6AX30/hi-transactions-stopped-danger-1.jpg",
+    "publishedAt": "2026-09-15T15:21:26.000Z",
+    "collectedAt": "2026-09-15T16:11:11.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6756d588b5d5918efa791967",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-15T16:11:19.773Z",
+    "outcome": {
+      "event": {
+        "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+        "fingerprint": "6756d588b5d5918efa791967"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 287,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "European Central Bank calls for merchants to participate in digital euro pilot",
+    "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
+    "summary": "The 12-month test will put a beta version of the central bank currency through online, mobile, in-store and peer-to-peer payments.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-15T14:15:06.000Z",
+    "collectedAt": "2026-09-15T16:11:11.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0e326b75b2dd834f94dc5e6d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-15T16:11:21.104Z",
+    "outcome": {
+      "event": {
+        "title": "European Central Bank calls for merchants to participate in digital euro pilot",
+        "fingerprint": "0e326b75b2dd834f94dc5e6d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 288,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
