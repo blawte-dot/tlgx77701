@@ -8699,5 +8699,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
+    "link": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
+    "summary": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg",
+    "publishedAt": "2026-09-15T21:46:03.000Z",
+    "collectedAt": "2026-09-15T22:45:57.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6eb176d336702c680561bce7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-15T22:45:59.663Z",
+    "outcome": {
+      "event": {
+        "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
+        "fingerprint": "6eb176d336702c680561bce7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 294,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "7-day blockchain outage wipes out a full week of staking rewards after emergency aelf shutdown",
+    "link": "https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue/",
+    "summary": "Public nodes and key dapps are back after an August security incident, while a final review and uniform exchange transfers remain outstanding.\nThe post 7-day blockchain outage wipes out a full week of staking rewards after emergency aelf shutdown appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/aelf-service-recovery.webp",
+    "publishedAt": "2026-09-15T20:45:47.000Z",
+    "collectedAt": "2026-09-15T22:45:57.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2ed0434949c26dce8026948f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-15T22:46:00.849Z",
+    "outcome": {
+      "event": {
+        "title": "7-day blockchain outage wipes out a full week of staking rewards after emergency aelf shutdown",
+        "fingerprint": "2ed0434949c26dce8026948f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 295,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "XRP Ledger Batch V1.1 Nears Activation After Security Rebuild",
+    "link": "https://cryptopotato.com/xrp-ledger-batch-v1-1-nears-activation-after-security-rebuild/",
+    "summary": "The bug could have let a malformed signer setup pass validation without requiring the private keys of every other account involved.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/10/XRP_Ledger.jpg",
+    "publishedAt": "2026-09-15T22:24:22.000Z",
+    "collectedAt": "2026-09-15T22:45:57.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a9c180815250a3038919b03e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-15T22:46:02.052Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Ledger Batch V1.1 Nears Activation After Security Rebuild",
+        "fingerprint": "a9c180815250a3038919b03e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 296,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Backs Stablecoin Startup as Part of $10 Million Funding Round",
+    "link": "https://u.today/ripple-backs-stablecoin-startup-as-part-of-10-million-funding-round",
+    "summary": "Ripple has doubled down on the stablecoin payments sector by backing a $10 million funding extension for Velocity.",
+    "image": null,
+    "publishedAt": "2026-09-15T15:21:13.000Z",
+    "collectedAt": "2026-09-15T22:45:57.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1c325a5c607c36a24e0f0b69",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-15T22:46:04.193Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Backs Stablecoin Startup as Part of $10 Million Funding Round",
+        "fingerprint": "1c325a5c607c36a24e0f0b69"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 297,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+    "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The crypto exchange is expanding its traditional finance offerings with 11 US-listed exchange-traded funds focused on US Treasurys and investment-grade bonds.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZT31WJSAPCWV4C5T6FJ1R/hi-bitcoin-etf-sec-deadline-on-nov-5-not-a-decision-on-etfs-but-deadline-for-the-public-to-submit-a-review-clarifying-piece.png",
+    "publishedAt": "2026-09-15T17:22:04.000Z",
+    "collectedAt": "2026-09-15T22:45:57.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7a9ef9081387cfc71a02740f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-15T22:46:05.229Z",
+    "outcome": {
+      "event": {
+        "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+        "fingerprint": "7a9ef9081387cfc71a02740f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 298,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
