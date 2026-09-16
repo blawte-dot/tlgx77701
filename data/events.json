@@ -8904,5 +8904,243 @@
         }
       }
     }
+  },
+  {
+    "kind": "market_move",
+    "source": "CoinGecko",
+    "title": "XRP down 9.2% in 24h",
+    "link": null,
+    "summary": "XRP is trading at $1.29, down 9.2% over the last 24 hours.",
+    "image": null,
+    "publishedAt": "2026-09-16T01:03:07.718Z",
+    "collectedAt": "2026-09-16T01:03:07.718Z",
+    "meta": {
+      "id": "ripple",
+      "symbol": "XRP",
+      "price": 1.29,
+      "change24h": -9.22854,
+      "marketCap": 80983650946,
+      "sparkline": [
+        1.4192973603406118,
+        1.422324828462337,
+        1.4232598985434524,
+        1.4152068908037343,
+        1.4135873560467003,
+        1.408474436688858,
+        1.3993255006057,
+        1.3934350091171543,
+        1.3962018321903975,
+        1.4022937122547872,
+        1.4023323614556906,
+        1.400629661944361,
+        1.4174492401509768,
+        1.4142285547852491,
+        1.3862124887267873,
+        1.389134975720683,
+        1.387336061404873,
+        1.4049769861269292,
+        1.3256679804732485,
+        1.296280034355559,
+        1.2931838584853281,
+        1.2764199188777487,
+        1.288423944743525,
+        1.2832801680810546
+      ]
+    },
+    "corroboratingSources": 1,
+    "fingerprint": "8e969ea7ef02947a1d21e00f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-16T01:03:10.251Z",
+    "outcome": {
+      "event": {
+        "title": "XRP down 9.2% in 24h",
+        "fingerprint": "8e969ea7ef02947a1d21e00f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 299,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+    "link": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
+    "summary": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png",
+    "publishedAt": "2026-09-15T20:09:19.000Z",
+    "collectedAt": "2026-09-16T01:03:07.704Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b61fedd7edd162c2ffd9077f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-16T01:03:11.370Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+        "fingerprint": "b61fedd7edd162c2ffd9077f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 300,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "AI Could Be Bitcoin&#8217;s Next Onboarding Engine, Nakamoto CEO Says",
+    "link": "https://bitcoinmagazine.com/news/ai-could-be-bitcoin-onboarder",
+    "summary": "Bitcoin Magazine\n\nAI Could Be Bitcoin&#8217;s Next Onboarding Engine, Nakamoto CEO Says\nSpeaking to the investment bank, Nakamoto CEO David Bailey said that AI could drive Bitcoin adoption. \nThis post AI Could Be Bitcoin&#8217;s Next Onboarding Engine, Nakamoto CEO Says first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-21.jpg",
+    "publishedAt": "2026-09-15T17:34:26.000Z",
+    "collectedAt": "2026-09-16T01:03:07.704Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5751946fd2bd60bc619b6eda",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-16T01:03:12.421Z",
+    "outcome": {
+      "event": {
+        "title": "AI Could Be Bitcoin&#8217;s Next Onboarding Engine, Nakamoto CEO Says",
+        "fingerprint": "5751946fd2bd60bc619b6eda"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 301,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+    "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+    "summary": "The years-long effort to set U.S. regulations for crypto markets couldn't muster enough support to make the leap over the Senate's final 60-vote hurdle.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0615c820bc3ebcfa10bf4c09cfc6078f828a1a6e-3830x2154.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-15T18:50:58.000Z",
+    "collectedAt": "2026-09-16T01:03:07.704Z",
+    "corroboratingSources": 1,
+    "fingerprint": "36055244a8dd3f7702fc0771",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-16T01:03:13.874Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+        "fingerprint": "36055244a8dd3f7702fc0771"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 302,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+    "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+    "summary": "Two software bugs allowed the attacker to create more than 2,000 times Bitcoin’s maximum supply in unbacked syBTC. Symbiosis puts preliminary losses at 9.97 BTC.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-15T13:43:50.000Z",
+    "collectedAt": "2026-09-16T01:03:07.704Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6f35606e72b77d554d97a68b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-16T01:03:15.406Z",
+    "outcome": {
+      "event": {
+        "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+        "fingerprint": "6f35606e72b77d554d97a68b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 303,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
