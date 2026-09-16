@@ -1416,5 +1416,40 @@
     "hasImage": true,
     "eventFingerprint": "39488304e46f2eb8cf198fa3",
     "timestamp": "2026-09-16T07:11:02.413Z"
+  },
+  {
+    "messageId": 309,
+    "text": "3 agencies are now racing to fill a Washington vacuum.\n\nFollowing the Senate's failure to advance the CLARITY Act on Tuesday, broker-dealer Bernstein expects both the SEC and CFTC to pivot toward aggressive unilateral rulemaking. \n\nThe rationale is straightforward: federal regulators lost months negotiating a legislative compromise that ultimately stalled. \n\nExpect officials to use existing statutory authority to push forward oversight frameworks instead. \n\nMarkets should prepare for a wave of regulatory enforcement and administrative guidelines filling the legislative void.\n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "b7eea810e3768cd2a59eb957",
+    "timestamp": "2026-09-16T13:06:01.926Z"
+  },
+  {
+    "messageId": 310,
+    "text": "Almost everyone in governance thought the debate would center on issuance. \n\nInstead, nearly 99% of Zcash voters just backed a radical shift in network mechanics. \n\nCommunity members overwhelmingly approved a proposal to cut block times from 75 seconds down to 25 seconds. \n\nCrucially, the hard-coded halving schedule and total supply cap remain completely untouched. \n\nFaster finality without altering the monetary policy marks a notable design shift for privacy-focused chains trying to balance user experience with economic security.",
+    "hasImage": true,
+    "eventFingerprint": "26dc58d58017fba669745848",
+    "timestamp": "2026-09-16T13:06:19.128Z"
+  },
+  {
+    "messageId": 311,
+    "text": "Markets are heading into the Fed decision with heavy hands.\n\nU.S. spot Bitcoin ETFs reversed Monday's temporary relief rally with fresh net outflows, wiping out the day's gains as broader spot selling intensified. \n\nOrder books show persistent selling pressure across major venues, while perpetual futures positioning remains elevated. \n\nThat combination leaves derivatives markets exposed. \n\nWith significant leverage still sitting on both sides of the book, the current spot-driven bleed is building the exact conditions needed for an outsized volatility spike once the FOMC rate decision hits the tape.",
+    "hasImage": true,
+    "eventFingerprint": "dc83ecb70f5a32678186d777",
+    "timestamp": "2026-09-16T13:07:49.089Z"
+  },
+  {
+    "messageId": 312,
+    "text": "Stablecoin yield features on idle balances are getting a clear runway following the legislative stall on Capitol Hill. \n\nSenate lawmakers failed to advance the Clarity Act, leaving a regulatory vacuum that broker-dealer Bernstein expects federal agencies to fill directly. \n\nAccording to a note from the firm, the Securities and Exchange Commission and the Commodity Futures Trading Commission are now positioned to drive swift rulemaking for the sector. \n\nThat procedural delay effectively keeps the door open for platforms to continue offering yield on untouched digital dollar balances without immediate statutory disruption. \n\nWhile agency-led frameworks carry their own compliance hurdles, the shift removes near-term legislative friction for issuers navigating the US market.",
+    "hasImage": true,
+    "eventFingerprint": "bd0a799cb2583b43942e773e",
+    "timestamp": "2026-09-16T13:08:18.123Z"
+  },
+  {
+    "messageId": 313,
+    "text": "Traditional finance is quietly tightening its grip on digital asset infrastructure.\n\nDeutsche Bank is currently awaiting final regulatory approval from BaFin to roll out institutional custody services for Bitcoin, Ether, and select stablecoins. \n\nGermany's largest lender plans to move beyond basic storage once cleared. The long-term roadmap targets tokenized assets and institutional-grade yield products, signaling that Wall Street and Frankfurt are building the rails for permanent capital allocation regardless of short-term market cycles.",
+    "hasImage": true,
+    "eventFingerprint": "06600e1a9dbf95974aac4886",
+    "timestamp": "2026-09-16T13:08:28.133Z"
   }
 ]

@@ -9347,5 +9347,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
+    "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2N0MK84B62M60XV8Q5G8MYA/hi-trumps-strategic-reserve-and-clarity-act-1.jpg",
+    "publishedAt": "2026-09-16T12:36:20.000Z",
+    "collectedAt": "2026-09-16T13:05:17.390Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b7eea810e3768cd2a59eb957",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-16T13:06:01.931Z",
+    "outcome": {
+      "event": {
+        "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
+        "fingerprint": "b7eea810e3768cd2a59eb957"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 309,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
+    "link": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg",
+    "publishedAt": "2026-09-16T11:46:39.000Z",
+    "collectedAt": "2026-09-16T13:05:17.390Z",
+    "corroboratingSources": 1,
+    "fingerprint": "26dc58d58017fba669745848",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-16T13:06:19.133Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
+        "fingerprint": "26dc58d58017fba669745848"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 310,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETF exits erase Monday’s rebound as spot selling deepens before the Fed",
+    "link": "https://cryptoslate.com/bitcoin-etf-exits-erase-mondays-rebound-as-spot-selling-deepens-before-the-fed/",
+    "summary": "Spot and perpetual selling deepened while futures positioning stayed large enough to amplify the next move.\nThe post Bitcoin ETF exits erase Monday’s rebound as spot selling deepens before the Fed appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bear-market-pressure.webp",
+    "publishedAt": "2026-09-16T09:05:19.000Z",
+    "collectedAt": "2026-09-16T13:05:17.390Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dc83ecb70f5a32678186d777",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-16T13:07:49.095Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF exits erase Monday’s rebound as spot selling deepens before the Fed",
+        "fingerprint": "dc83ecb70f5a32678186d777"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 311,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking",
+    "link": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
+    "summary": "Bernstein expects the SEC and CFTC to drive crypto rulemaking after Senate lawmakers failed to advance Clarity Act legislation.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
+    "publishedAt": "2026-09-16T12:47:59.000Z",
+    "collectedAt": "2026-09-16T13:05:17.390Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bd0a799cb2583b43942e773e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T13:08:18.128Z",
+    "outcome": {
+      "event": {
+        "title": "Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking",
+        "fingerprint": "bd0a799cb2583b43942e773e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 312,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+    "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MVFM6AWTS8K6F6MEKXPCY1/hi-world-bank-initiatives-deutsche-bundesbank-blockchain.jpg",
+    "publishedAt": "2026-09-16T10:33:12.000Z",
+    "collectedAt": "2026-09-16T13:05:17.390Z",
+    "corroboratingSources": 1,
+    "fingerprint": "06600e1a9dbf95974aac4886",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T13:08:28.138Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+        "fingerprint": "06600e1a9dbf95974aac4886"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 313,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
