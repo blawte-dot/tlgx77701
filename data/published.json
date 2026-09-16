@@ -1659,5 +1659,45 @@
     "hasImage": true,
     "eventFingerprint": "06600e1a9dbf95974aac4886",
     "timestamp": "2026-09-16T13:08:28.136Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 314,
+    "text": "3 distinct paths are now on the table for U.S. digital asset oversight following a major shift in regulatory strategy.\n\nCFTC Chair Selig is pushing to bypass the stalled Senate Clarity Act entirely. \n\nThe goal is an immediate, agency-driven framework designed to cement the United States as the global center of gravity for cryptocurrency markets. \n\nInstead of waiting on prolonged legislative deadlock, the proposed roadmap leverages existing regulatory tools to establish rules of the road for industry participants. \n\nUnconfirmed reports suggest the push comes amid growing urgency from institutional players seeking definitive legal boundaries before capital deployment scales further. \n\nIf executed, the plan could redefine jurisdictional lines between federal regulators faster than Congress can legislate.",
+    "hasImage": true,
+    "eventFingerprint": "e919b3fb0599197dfa5b8628",
+    "timestamp": "2026-09-16T17:56:36.981Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 315,
+    "text": "March 2020 left scars across crypto markets that are still bleeding out in courtrooms over four years later.\n\nCelsius Network's bankruptcy estate has filed a $495 million lawsuit against derivatives exchange BitMEX, targeting transactions from the March 2020 market crash. \n\nThe complaint, lodged in the US Bankruptcy Court for the Southern District of New York, accuses BitMEX entities of market manipulation, fraud, and wrongful liquidations. According to the filing, the estate claims the cascade wiped out more than 6,360 Bitcoin belonging to Celsius.\n\nThe legal action lands just 11 days before the exchange is scheduled to shut down its operations entirely.",
+    "hasImage": true,
+    "eventFingerprint": "9b46c0950d8e7335b95f2b4b",
+    "timestamp": "2026-09-16T17:56:38.446Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 316,
+    "text": "Traditional banking infrastructure in Europe is quietly rewiring itself for digital assets. 📈\n\nDeutsche Bank is moving ahead with plans to launch institutional crypto custody this year. The initial rollout will focus on Bitcoin, Ethereum, and select stablecoins. \n\nThis isn't another exploratory press release. It signals tangible integration of tier-one balance sheets into digital asset infrastructure, offering institutional clients direct access to regulated custody solutions within the European market.",
+    "hasImage": true,
+    "eventFingerprint": "88612dfcc15a1aff488131ac",
+    "timestamp": "2026-09-16T17:56:39.711Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 317,
+    "text": "Exchange security metrics are drawing fresh scrutiny as platforms ramp up transparency reporting.\n\nMEXC released its July–August figures today, reporting the interception of roughly 38.66 million USDT across 215 risk-related reports over the two-month window. \n\nThe exchange also reported its Futures Insurance Fund reached 792 million USDT, alongside reserve ratios for BTC, ETH, USDT, and USDC remaining above the 100% threshold. \n\nAs platform risk management becomes a primary metric for market participants, periodic reserve and interception audits offer a clearer window into operational safety buffers.",
+    "hasImage": true,
+    "eventFingerprint": "aef19c974d8af14da17d342a",
+    "timestamp": "2026-09-16T17:56:41.052Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 318,
+    "text": "93%\n\nThat is the probability markets are pricing in for a 25-basis-point Fed rate cut this Wednesday. \n\nBitcoin is holding just under the $76,000 threshold following a strong rebound from support near $68,000. \n\nAnalysts note that current pricing leaves virtually no room for a dovish surprise, setting the stage for heightened volatility across both crypto and macro markets as the decision drops.",
+    "hasImage": true,
+    "eventFingerprint": "80ae78203655990ee707b03e",
+    "timestamp": "2026-09-16T17:56:42.141Z"
   }
 ]

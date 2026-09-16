@@ -9552,5 +9552,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "'U.S. Will Remain Crypto Capital': CFTC Chair Selig Launches Post-Clarity Act Regulation Plan",
+    "link": "https://u.today/us-will-remain-crypto-capital-cftc-chair-selig-launches-post-clarity-act-regulation-plan",
+    "summary": "CFTC Chair Selig urges to bypass the Senate's failed Clarity Act to launch a direct crypto regulation framework, securing the U.S. market agenda. .",
+    "image": null,
+    "publishedAt": "2026-09-16T16:21:30.000Z",
+    "collectedAt": "2026-09-16T17:56:33.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e919b3fb0599197dfa5b8628",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-16T17:56:36.983Z",
+    "outcome": {
+      "event": {
+        "title": "'U.S. Will Remain Crypto Capital': CFTC Chair Selig Launches Post-Clarity Act Regulation Plan",
+        "fingerprint": "e919b3fb0599197dfa5b8628"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 314,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Celsius sues BitMEX for $495 million just 11 days before exchange shutdown",
+    "link": "https://cryptoslate.com/celsius-sues-bitmex-for-495-million-just-11-days-before-exchange-shutdown/",
+    "summary": "Celsius Network’s bankruptcy estate has sued BitMEX over a 2020 liquidation cascade it says cost more than 6,360 Bitcoin. The complaint, filed Sept. 12 in the US Bankruptcy Court for the Southern District of New York, accuses entities behind the crypto derivatives exchange of fraud, market manipulation and wrongful liquidations during Bitcoin’s historic March 2020 [&#8230;]\nThe post Celsius sues BitMEX for $495 million just 11 days before exchange shutdown appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitmex-celsius-lawsuit-shutdown.webp",
+    "publishedAt": "2026-09-16T13:20:18.000Z",
+    "collectedAt": "2026-09-16T17:56:33.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9b46c0950d8e7335b95f2b4b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-16T17:56:38.449Z",
+    "outcome": {
+      "event": {
+        "title": "Celsius sues BitMEX for $495 million just 11 days before exchange shutdown",
+        "fingerprint": "9b46c0950d8e7335b95f2b4b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 315,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+    "link": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
+    "summary": "Deutsche Bank plans to launch European digital asset custody this year, initially supporting bitcoin, ether, and select stablecoins.",
+    "image": "https://www.tbstat.com/wp/uploads/2020/11/2020113_Deutsche-Bank-1200x675.jpg",
+    "publishedAt": "2026-09-16T10:05:28.000Z",
+    "collectedAt": "2026-09-16T17:56:33.363Z",
+    "corroboratingSources": 2,
+    "fingerprint": "88612dfcc15a1aff488131ac",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-09-16T17:56:39.713Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+        "fingerprint": "88612dfcc15a1aff488131ac"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 316,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "MEXC Releases July–August Security Report: Over 38 Million USDT in Risk-Related Funds Intercepted, Futures Insurance Fund Reaches 792 Million USDT",
+    "link": "https://www.newsbtc.com/news/mexc-releases-july-august-security-report-over-38-million-usdt-in-risk-related-funds-intercepted-futures-insurance-fund-reaches-792-million-usdt/",
+    "summary": "Mutsamudu, Comoros, September 16, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has released its July–August 2026 security report. The report shows that MEXC successfully intercepted all 215 reports involving risk-related funds during the period, covering approximately 38.66 million USDT. The total balance of the Futures Insurance Fund rose to 792 million USDT. Meanwhile, the reserve ratios for BTC, ETH, USDT, and USDC all remained above 100%. &#160; In July and August 2026, the crypto ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/photo_2026-09-16_12-15-21.jpg?fit=715%2C536",
+    "publishedAt": "2026-09-16T10:00:08.000Z",
+    "collectedAt": "2026-09-16T17:56:33.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aef19c974d8af14da17d342a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T17:56:41.054Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC Releases July–August Security Report: Over 38 Million USDT in Risk-Related Funds Intercepted, Futures Insurance Fund Reaches 792 Million USDT",
+        "fingerprint": "aef19c974d8af14da17d342a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 317,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
+    "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin price support materialized around $68,000 as markets saw a 93% chance of the Fed hiking rates by 0.25% on Wednesday.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDCKGG8297RQRGC1PX6SV9/hi-impact-of-fed-interest-rates-on-crypto-holders.jpg",
+    "publishedAt": "2026-09-16T15:30:49.000Z",
+    "collectedAt": "2026-09-16T17:56:33.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "80ae78203655990ee707b03e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-16T17:56:42.143Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
+        "fingerprint": "80ae78203655990ee707b03e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 318,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
