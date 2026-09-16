@@ -1381,5 +1381,40 @@
     "hasImage": true,
     "eventFingerprint": "6f35606e72b77d554d97a68b",
     "timestamp": "2026-09-16T01:03:15.402Z"
+  },
+  {
+    "messageId": 304,
+    "text": "The Fed is walking into a policy trap of its own making.\n\nNext week's meeting threatens to box in leadership as market expectations clash with stubborn inflation data. \n\nChair Powell faces a narrow corridor. \n\nSoften the tone and risk losing institutional credibility entirely. Deliver the expected hawkish reality check and watch risk assets absorb the blow. \n\nBitcoin's recent resilience suggests structural demand is decoupling from traditional macro jitters, but the upcoming liquidity squeeze will test that thesis in real time.",
+    "hasImage": true,
+    "eventFingerprint": "071187ee2aed614e46afe360",
+    "timestamp": "2026-09-16T07:10:56.413Z"
+  },
+  {
+    "messageId": 305,
+    "text": "2.4 million ZEC just spoke with near-unanimous force.\n\nHolders wrapped up a massive community poll with a definitive mandate for the protocol's future: faster finality and zero alterations to the issuance schedule. \n\nAn overwhelming 99.9% of participating tokens backed reducing block times to 25 seconds. Meanwhile, 98.9% voted to preserve the existing Bitcoin-style halving cadence. \n\nThe turnout signals deep engagement from long-term stakeholders as privacy-focused networks navigate shifting regulatory and technical landscapes. \n\nNext up: turning community signaling into core development.",
+    "hasImage": true,
+    "eventFingerprint": "f5d80693e5115bf1197b0ffc",
+    "timestamp": "2026-09-16T07:10:57.856Z"
+  },
+  {
+    "messageId": 306,
+    "text": "$100 billion tells the story of two diverging rooms.\n\nWhile venture capital flooded into artificial intelligence over the past two years, early-stage funding for crypto projects dried up to multi-year lows. \n\nFederico Variola, CEO of exchange Phemex, argues that the AI boom hasn't just starved web3 of capital—it has actively armed the other side. \n\nSophisticated machine learning tools are now lowering the technical barrier for attackers, driving up protocol-level security costs across the board. \n\nThe structural side effect may alter the industry's founding ethos. As defense budgets balloon to combat AI-driven exploits, smaller protocols face a stark choice: absorb crushing overhead or consolidate under centralized infrastructure with deeper pockets.",
+    "hasImage": true,
+    "eventFingerprint": "96b5013e5a5cdd92dc29cb05",
+    "timestamp": "2026-09-16T07:10:59.565Z"
+  },
+  {
+    "messageId": 307,
+    "text": "Traditional equity wrappers are quietly swallowing corporate crypto balance sheets.\n\nBrazil’s B3 exchange just listed DIGY11, a new ETF designed to track preferred shares of companies holding Bitcoin as primary treasury assets. \n\nThe fund packages exposure to names like MicroStrategy and Strive, offering local investors regulated access without direct token custody. \n\nDistributions and unit returns remain unguaranteed, tying fund performance directly to corporate equity volatility and underlying treasury management. \n\nAs exchange-traded wrappers proliferate globally, exposure channels continue to blur the lines between traditional securities and digital asset holdings.",
+    "hasImage": true,
+    "eventFingerprint": "c904b0d59190ac570c265f9b",
+    "timestamp": "2026-09-16T07:11:00.959Z"
+  },
+  {
+    "messageId": 308,
+    "text": "Insiders trading ahead of exchange listings is an open secret in crypto, but enforcement is finally catching up to the perpetuals layer.\n\nUnconfirmed reports indicate US authorities have charged two former Robinhood engineers over allegations of front-running token listings using Hyperliquid perps. \n\nEach allegedly netted just over $50,000. \n\nThe dollar amounts are relatively small, but the precedent is massive. Decentralized order books and perp DEXs are no longer a blind spot for regulators tracking pre-announcement volume.",
+    "hasImage": true,
+    "eventFingerprint": "39488304e46f2eb8cf198fa3",
+    "timestamp": "2026-09-16T07:11:02.413Z"
   }
 ]

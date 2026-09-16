@@ -9142,5 +9142,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+    "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+    "summary": "An aggressive market expectations trap and a strict aversion to forward guidance have backed the Fed chair into a corner, where failing to deliver a hawkish message risks destroying the central bank’s inflation-fighting credibility.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c113b39af04fe5a9700ed1765841f345087018a-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-16T06:42:22.000Z",
+    "collectedAt": "2026-09-16T07:10:54.469Z",
+    "corroboratingSources": 1,
+    "fingerprint": "071187ee2aed614e46afe360",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-16T07:10:56.416Z",
+    "outcome": {
+      "event": {
+        "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+        "fingerprint": "071187ee2aed614e46afe360"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 304,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+    "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+    "summary": "Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.9% voting to preserve the network’s existing halving schedule.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-16T05:54:04.000Z",
+    "collectedAt": "2026-09-16T07:10:54.469Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f5d80693e5115bf1197b0ffc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-16T07:10:57.859Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+        "fingerprint": "f5d80693e5115bf1197b0ffc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 305,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
+    "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Federico Variola says AI has diverted capital from crypto and is empowering attackers, while rising cybersecurity costs could push the industry toward greater centralization.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MEY4H050WZYJEZA2JY1JK2/ai-1.jpg",
+    "publishedAt": "2026-09-16T06:38:48.000Z",
+    "collectedAt": "2026-09-16T07:10:54.469Z",
+    "corroboratingSources": 1,
+    "fingerprint": "96b5013e5a5cdd92dc29cb05",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T07:10:59.641Z",
+    "outcome": {
+      "event": {
+        "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
+        "fingerprint": "96b5013e5a5cdd92dc29cb05"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 306,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Brazil&#8217;s B3 gets DIGY11, a new ETF tracking Bitcoin treasury preferred stock",
+    "link": "https://cryptoslate.com/brazils-b3-gets-digy11-a-new-etf-tracking-bitcoin-treasury-preferred-stock/",
+    "summary": "The real-hedged Brazilian fund packages Strategy and Strive preferred shares while leaving distributions and unit returns unguaranteed.\nThe post Brazil&#8217;s B3 gets DIGY11, a new ETF tracking Bitcoin treasury preferred stock appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/digy11-preferred-share-exposure-standard-image.jpg",
+    "publishedAt": "2026-09-16T06:30:30.000Z",
+    "collectedAt": "2026-09-16T07:10:54.469Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c904b0d59190ac570c265f9b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T07:11:00.962Z",
+    "outcome": {
+      "event": {
+        "title": "Brazil&#8217;s B3 gets DIGY11, a new ETF tracking Bitcoin treasury preferred stock",
+        "fingerprint": "c904b0d59190ac570c265f9b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 307,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+    "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The former employees allegedly earned more than $50,000 each by trading Hyperliquid perpetuals ahead of Robinhood token listings.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M8HWQ07R687KWZ453KRC67/doj-us.png",
+    "publishedAt": "2026-09-16T04:48:20.000Z",
+    "collectedAt": "2026-09-16T07:10:54.469Z",
+    "corroboratingSources": 2,
+    "fingerprint": "39488304e46f2eb8cf198fa3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-09-16T07:11:02.415Z",
+    "outcome": {
+      "event": {
+        "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+        "fingerprint": "39488304e46f2eb8cf198fa3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 308,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
