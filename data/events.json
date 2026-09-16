@@ -9757,5 +9757,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Price Wobbles Before Settling After Fed Raises Rates",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-price-wobbles-after-rate-hike",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Wobbles Before Settling After Fed Raises Rates \nBitcoin is down over the past week after traders had bet that the central bank would hike interest rates. \nThis post Bitcoin Price Wobbles Before Settling After Fed Raises Rates  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-25.jpg",
+    "publishedAt": "2026-09-16T19:46:49.000Z",
+    "collectedAt": "2026-09-16T20:56:40.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "db4b07c66c31c32991ef5459",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-16T20:56:42.570Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Wobbles Before Settling After Fed Raises Rates",
+        "fingerprint": "db4b07c66c31c32991ef5459"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 319,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin ETFs lose $450M after CLARITY Act defeat while whales buy $238M",
+    "link": "https://ambcrypto.com/bitcoin-etfs-lose-450m-after-clarity-act-defeat-while-whales-buy-238m/",
+    "summary": "The CLARITY Act failed in Washington. Bitcoin’s deeper verdict may arrive through ETF flows.",
+    "image": null,
+    "publishedAt": "2026-09-16T19:00:22.000Z",
+    "collectedAt": "2026-09-16T20:56:40.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab92c0138c6c04b790de4374",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-16T20:56:44.533Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs lose $450M after CLARITY Act defeat while whales buy $238M",
+        "fingerprint": "ab92c0138c6c04b790de4374"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 320,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation",
+    "link": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307",
+    "summary": "Bitcoin and ether whipsawed as the Federal Reserve delivered its first rate hike in more than three years.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_7-1200x675.jpg",
+    "publishedAt": "2026-09-16T20:02:16.000Z",
+    "collectedAt": "2026-09-16T20:56:40.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "23b1efff911e38afa504d00e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T20:56:45.727Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation",
+        "fingerprint": "23b1efff911e38afa504d00e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 321,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Peter Schiff: &#8220;The Fed Has Already Lost The Battle Against Inflation&#8221; &#038; BTC vs GOLD Debate",
+    "link": "https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle",
+    "summary": "Bitcoin Magazine\n\nPeter Schiff: &#8220;The Fed Has Already Lost The Battle Against Inflation&#8221; &#038; BTC vs GOLD Debate\nPeter Schiff says the bond market didn't break recently, it broke in 2020, and everything since has been a slow unwind.\nThis post Peter Schiff: &#8220;The Fed Has Already Lost The Battle Against Inflation&#8221; &#038; BTC vs GOLD Debate first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Peter-Schiff-22The-Fed-Has-Already-Lost-The-Battle-Against-Inflation22-BTC-vs-GOLD-Debate-.jpg",
+    "publishedAt": "2026-09-16T20:28:50.000Z",
+    "collectedAt": "2026-09-16T20:56:40.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "827eaf5c74682efa0c419eaf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T20:56:47.502Z",
+    "outcome": {
+      "event": {
+        "title": "Peter Schiff: &#8220;The Fed Has Already Lost The Battle Against Inflation&#8221; &#038; BTC vs GOLD Debate",
+        "fingerprint": "827eaf5c74682efa0c419eaf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 322,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Binance Unveils Multiple Delistings: Check Out the Affected Cryptocurrencies",
+    "link": "https://cryptopotato.com/binance-unveils-multiple-delistings-check-out-the-affected-cryptocurrencies/",
+    "summary": "The actual removals will take place on September 18.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/09/Binance_CB-19.jpg",
+    "publishedAt": "2026-09-16T19:57:58.000Z",
+    "collectedAt": "2026-09-16T20:56:40.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "08bb4cabc7052b38493d5cc2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T20:56:48.727Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Unveils Multiple Delistings: Check Out the Affected Cryptocurrencies",
+        "fingerprint": "08bb4cabc7052b38493d5cc2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 323,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
