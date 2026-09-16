@@ -9962,5 +9962,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Cardano whales return near $0.19 &#8211; Can ADA hold off the bears?",
+    "link": "https://ambcrypto.com/cardano-whales-return-near-0-19-can-ada-hold-off-the-bears/",
+    "summary": "ADA is testing $0.19 flag support as whale activity rises despite sellers dominating the Futures market. The level could determine the next major move.",
+    "image": null,
+    "publishedAt": "2026-09-16T23:00:02.000Z",
+    "collectedAt": "2026-09-16T23:33:45.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "278f08e723a42e05786ee968",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-16T23:33:48.791Z",
+    "outcome": {
+      "event": {
+        "title": "Cardano whales return near $0.19 &#8211; Can ADA hold off the bears?",
+        "fingerprint": "278f08e723a42e05786ee968"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 324,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Deutsche Bank To Debut Bitcoin Custody for Institutional Clients",
+    "link": "https://bitcoinmagazine.com/news/deutsche-bank-to-debut-bitcoin-custody",
+    "summary": "Bitcoin Magazine\n\nDeutsche Bank To Debut Bitcoin Custody for Institutional Clients\nThe bank is the latest major lender to work on a bitcoin custody solution. \nThis post Deutsche Bank To Debut Bitcoin Custody for Institutional Clients first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image7_1920x1080.png",
+    "publishedAt": "2026-09-16T15:42:24.000Z",
+    "collectedAt": "2026-09-16T23:33:45.516Z",
+    "corroboratingSources": 2,
+    "fingerprint": "0d6ad4460405863a46569725",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-09-16T23:33:49.892Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank To Debut Bitcoin Custody for Institutional Clients",
+        "fingerprint": "0d6ad4460405863a46569725"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 325,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Bitcoin Round-Trips the First Fed Rate Increase Since 2023 as Zcash Runs to $1,383",
+    "link": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
+    "summary": "The Federal Open Market Committee voted 12-0 to lift its target range a quarter point to 3.75%-4%, and the median projection now puts the rate at 4.1% at the end of 2026 against 3.8% in June. Bitcoin spiked to $76,499.99 five minutes after the release and gave it back within half an hour. The S&P",
+    "image": "https://cdn.thedefiant.io/pasted-1789597766628-png-41714a70-8eb8-46f7-b661-43dc17acb9f0.png",
+    "publishedAt": "2026-09-16T22:33:10.000Z",
+    "collectedAt": "2026-09-16T23:33:45.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "97fd6c4c33d332b4b14491f1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-16T23:33:51.184Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Round-Trips the First Fed Rate Increase Since 2023 as Zcash Runs to $1,383",
+        "fingerprint": "97fd6c4c33d332b4b14491f1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 326,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+    "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+    "summary": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/91249261c4cf7e9e62ee5838d44d8d8de8253080-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-16T17:54:55.000Z",
+    "collectedAt": "2026-09-16T23:33:45.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ff83671ecabe9ebd7034f487",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-16T23:33:52.271Z",
+    "outcome": {
+      "event": {
+        "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+        "fingerprint": "ff83671ecabe9ebd7034f487"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 327,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+    "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+    "summary": "Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed uncertainty clears.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1655a19e778e4e75df0ba088282ada6352c0206-7924x5285.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-16T11:00:00.000Z",
+    "collectedAt": "2026-09-16T23:33:45.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4f1ef1672c1e2b117f75b443",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-16T23:33:53.679Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+        "fingerprint": "4f1ef1672c1e2b117f75b443"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 328,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
