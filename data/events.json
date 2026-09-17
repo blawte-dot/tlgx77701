@@ -10987,5 +10987,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Price Unlikely To Be Bothered by Interest Rate Hike: Grayscale",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-not-bothered-by-fed-says-grayscale",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Unlikely To Be Bothered by Interest Rate Hike: Grayscale\nThe Federal Reserve hiked interest rates on Wednesday — and may do so again this year — but bitcoin's price is unlikely to be hurt, Grayscale argued. \nThis post Bitcoin Price Unlikely To Be Bothered by Interest Rate Hike: Grayscale first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-24.jpg",
+    "publishedAt": "2026-09-17T21:08:51.000Z",
+    "collectedAt": "2026-09-17T21:54:20.316Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a1984be7488235bf8e7439d0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-17T21:54:23.192Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Unlikely To Be Bothered by Interest Rate Hike: Grayscale",
+        "fingerprint": "a1984be7488235bf8e7439d0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 349,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
+    "link": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
+    "summary": "Treasury said the previously sanctioned Hormuz Safe platform used BitBank to transfer payments collected since June.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/02/20210203_Department_of_Treasury-1200x675.png",
+    "publishedAt": "2026-09-17T20:05:28.000Z",
+    "collectedAt": "2026-09-17T21:54:20.316Z",
+    "corroboratingSources": 2,
+    "fingerprint": "aa40132e09d2225849de8ae6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-09-17T21:54:24.349Z",
+    "outcome": {
+      "event": {
+        "title": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
+        "fingerprint": "aa40132e09d2225849de8ae6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 350,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin to Outperform Gold if ETF Hedging Eases, JPMorgan Says",
+    "link": "https://u.today/bitcoin-to-outperform-gold-if-etf-hedging-eases-jpmorgan-says",
+    "summary": "JPMorgan says Bitcoin could gain more support relative to gold if investors unwind elevated hedges around crypto ETFs, with positioning in BlackRock’s IBIT still far more defensive than in major gold funds.",
+    "image": null,
+    "publishedAt": "2026-09-17T20:38:02.000Z",
+    "collectedAt": "2026-09-17T21:54:20.316Z",
+    "corroboratingSources": 2,
+    "fingerprint": "212e2ace12d4106107dcacab",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-09-17T21:54:26.410Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin to Outperform Gold if ETF Hedging Eases, JPMorgan Says",
+        "fingerprint": "212e2ace12d4106107dcacab"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 351,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+    "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+    "summary": "The SEC is giving tokenized stocks a regulated U.S. pathway, while keeping trading volumes, access and issuer rights tightly controlled.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/12fc8f9343218cf1308738931c45f470a97379bd-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-17T21:47:22.000Z",
+    "collectedAt": "2026-09-17T21:54:20.316Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c96bcf5f70cfb237df9acd7a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T21:54:28.300Z",
+    "outcome": {
+      "event": {
+        "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+        "fingerprint": "c96bcf5f70cfb237df9acd7a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 352,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "After Congress killed its landmark crypto bill, the SEC unlocked the $77 trillion US stock market through tokenization",
+    "link": "https://cryptoslate.com/after-congress-killed-its-landmark-crypto-bill-the-sec-unlocked-the-77-trillion-us-stock-market-through-tokenization/",
+    "summary": "The US Securities and Exchange Commission (SEC) has opened a five-year pathway for regulated US stocks to trade on blockchain-native venues. The Innovation Exemption came two days after the Senate failed to advance the CLARITY Act, a broad crypto market-structure bill that sought to establish statutory rules for digital assets and clarify regulatory responsibilities. The [&#8230;]\nThe post After Congress killed its landmark crypto bill, the SEC unlocked the $77 trillion US stock market through t",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_807IV9XBD1.jpg",
+    "publishedAt": "2026-09-17T21:00:20.000Z",
+    "collectedAt": "2026-09-17T21:54:20.316Z",
+    "corroboratingSources": 1,
+    "fingerprint": "705c187182dab045a12539e2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T21:54:29.730Z",
+    "outcome": {
+      "event": {
+        "title": "After Congress killed its landmark crypto bill, the SEC unlocked the $77 trillion US stock market through tokenization",
+        "fingerprint": "705c187182dab045a12539e2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 353,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
