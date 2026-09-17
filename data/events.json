@@ -10372,5 +10372,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Vitalik Buterin Rejects Cybersecurity Doom Over AI Hacking",
+    "link": "https://u.today/vitalik-buterin-rejects-cybersecurity-doom-over-ai-hacking",
+    "summary": "Ethereum co-founder Vitalik Buterin is pushing back against fears that increasingly capable AI will make cybersecurity unwinnable.",
+    "image": null,
+    "publishedAt": "2026-09-17T08:36:22.000Z",
+    "collectedAt": "2026-09-17T09:10:46.255Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e25e725cc8fee2fe49f17864",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-17T09:10:49.661Z",
+    "outcome": {
+      "event": {
+        "title": "Vitalik Buterin Rejects Cybersecurity Doom Over AI Hacking",
+        "fingerprint": "e25e725cc8fee2fe49f17864"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 334,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+    "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+    "summary": "Bitcoin’s drawdown mirrors its position before the Fed’s first hike in March 2022, raising questions over whether a relief rally could precede further losses.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2c0e10162eeb3f847d9b58464aa8ddce932437bf-2396x1382.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-17T08:41:48.000Z",
+    "collectedAt": "2026-09-17T09:10:46.255Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9211df910cd1add3eac73f33",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T09:10:50.841Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+        "fingerprint": "9211df910cd1add3eac73f33"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 335,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin (BTC) Reacts to Fed Rate Hike: Analysts Split on What Comes Next",
+    "link": "https://cryptopotato.com/bitcoin-btc-reacts-to-fed-rate-hike-analysts-split-on-what-comes-next/",
+    "summary": "Bitcoin's reaction may depend less on this rate hike and more on whether the Fed continues tightening monetary policy.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/07/Bitcoin_Federal_Reserve.jpg",
+    "publishedAt": "2026-09-17T08:29:07.000Z",
+    "collectedAt": "2026-09-17T09:10:46.255Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fedee669f0372437aafe87d8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T09:10:52.027Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin (BTC) Reacts to Fed Rate Hike: Analysts Split on What Comes Next",
+        "fingerprint": "fedee669f0372437aafe87d8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 336,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple CTO Emeritus Schwartz: US Senate Blocked CLARITY Act to Protect Bank Profits",
+    "link": "https://u.today/ripple-cto-emeritus-schwartz-us-senate-blocked-clarity-act-to-protect-bank-profits",
+    "summary": "Ripple’s David Schwartz exposes how the US Senate killed the landmark CLARITY Act to protect traditional bank profits, not rural economic interests.",
+    "image": null,
+    "publishedAt": "2026-09-17T08:38:30.000Z",
+    "collectedAt": "2026-09-17T09:10:46.255Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a8122c1fd7c14e75073404f4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T09:10:53.139Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple CTO Emeritus Schwartz: US Senate Blocked CLARITY Act to Protect Bank Profits",
+        "fingerprint": "a8122c1fd7c14e75073404f4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 337,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+    "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+    "summary": "Record diesel prices could feed through to consumer price inflation, confirming more Fed rate hikes. The central bank appears determined to raise rates into a oil supply shock.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6611d576e10d0b5c10391e872f9116f58bc22514-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-17T07:27:07.000Z",
+    "collectedAt": "2026-09-17T09:10:46.255Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a1ca9ffa8b1ead9c663e4dcc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-17T09:10:54.230Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+        "fingerprint": "a1ca9ffa8b1ead9c663e4dcc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 338,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
