@@ -10782,5 +10782,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Vitalik Buterin Has a Different Take on AI Hackers and the Future of Cybersecurity",
+    "link": "https://cryptopotato.com/vitalik-buterin-has-a-different-take-on-ai-hackers-and-the-future-of-cybersecurity/",
+    "summary": "Buterin said that modern AI could allow developers to verify entire programs instead of checking only the parts they consider security-critical.",
+    "image": null,
+    "publishedAt": "2026-09-17T16:10:31.000Z",
+    "collectedAt": "2026-09-17T18:47:41.015Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8bf1304817b51e1558886230",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-17T18:47:44.144Z",
+    "outcome": {
+      "event": {
+        "title": "Vitalik Buterin Has a Different Take on AI Hackers and the Future of Cybersecurity",
+        "fingerprint": "8bf1304817b51e1558886230"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 344,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
+    "link": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
+    "summary": "Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_3-1200x673.jpg",
+    "publishedAt": "2026-09-17T17:48:51.000Z",
+    "collectedAt": "2026-09-17T18:47:41.014Z",
+    "corroboratingSources": 1,
+    "fingerprint": "51df44eab86778a3d2d88c0b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T18:47:45.466Z",
+    "outcome": {
+      "event": {
+        "title": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
+        "fingerprint": "51df44eab86778a3d2d88c0b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 345,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Polymarket users referred to prosecutors in South Korea: Report",
+    "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "South Korean police reportedly referred 18 Polymarket users to prosecutors in a gambling probe involving 26 people and $12.7 million in bets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q8HM2XMP2QNNDJSY3Y2316/hi-polymarket-ban-sk.png",
+    "publishedAt": "2026-09-17T09:37:32.000Z",
+    "collectedAt": "2026-09-17T18:47:41.015Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bce45439ea2d2e9fa2f598ae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T18:47:53.333Z",
+    "outcome": {
+      "event": {
+        "title": "Polymarket users referred to prosecutors in South Korea: Report",
+        "fingerprint": "bce45439ea2d2e9fa2f598ae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 346,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
+    "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
+    "summary": "The Securities and Exchange Commission issued a five-year conditional exemption on Thursday letting tokenized National Market System (NMS) stock trade on permissioned automated market makers (AMMs), and Commodity Futures Trading Commission staff opened introducing-broker relief to passive software",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/d9fe4e96e641c8439ae6ba3032ba5ac6af9623cc-2048x1152.png",
+    "publishedAt": "2026-09-17T18:47:40.000Z",
+    "collectedAt": "2026-09-17T18:47:41.015Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4d46e36ea863722007827822",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T18:47:54.510Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
+        "fingerprint": "4d46e36ea863722007827822"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 347,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
+    "link": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
+    "summary": "The Federal Reserve's first rate increase since 2023 barely dented crypto prices, but what comes next could change calculations on Wall Street.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png",
+    "publishedAt": "2026-09-17T17:01:03.000Z",
+    "collectedAt": "2026-09-17T18:47:41.015Z",
+    "corroboratingSources": 1,
+    "fingerprint": "491355b0bfa3f366458f7320",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-17T18:47:55.601Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
+        "fingerprint": "491355b0bfa3f366458f7320"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 348,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
