@@ -1979,5 +1979,45 @@
     "hasImage": true,
     "eventFingerprint": "705c187182dab045a12539e2",
     "timestamp": "2026-09-17T21:54:29.727Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 354,
+    "text": "2 jurisdictions are now clashing over the same public ledger.\n\nThe U.S. Treasury has sanctioned the Iranian crypto exchange BitBank, citing millions in bitcoin transfers routed directly to the IRGC. \n\nWashington is tightening the net on alternative rails used to bypass traditional banking sanctions. \n\nWhere do you draw the line between maintaining a truly permissionless network and enforcing global compliance?\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "11fc51d05a400c4cb1dfaed9",
+    "timestamp": "2026-09-17T23:53:29.837Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 355,
+    "text": "Wall Street's time clock is finally facing the 24/7 reality of digital assets. \n\nThe SEC held an internal working session exploring around-the-clock equity settlement this morning, coinciding directly with the agency's greenlight for tokenized securities. \n\nTraditional market infrastructure is quietly preparing to shed the 9-to-5 model.",
+    "hasImage": true,
+    "eventFingerprint": "03a124add4a81bb9137c22e9",
+    "timestamp": "2026-09-17T23:53:30.977Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 356,
+    "text": "Are regulators finally clearing a path for tokenized Wall Street? ⚠️\n\nThe SEC just unveiled its long-awaited \"innovation exemption,\" establishing a formal framework for blockchain-based platforms to trade tokenized securities. \n\nThe move arrives as Bitcoin inches higher alongside a 1.7% rally in the Nasdaq following the latest Federal Reserve rate decision. \n\nDetails remain sparse on compliance hurdles, but the guidance marks a notable shift in regulatory posture toward digital asset infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "489b5d6d1cdff75e73a1312d",
+    "timestamp": "2026-09-17T23:53:32.712Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 357,
+    "text": "That moment when a rate hike somehow fuels a rally instead of breaking the tape. \n\nBitcoin is holding near $76,621 after the Fed delivered its first rate increase since 2023, while Zcash notched a 23% jump following a disclosed Paradigm stake. \n\nAre markets front-running a dovish pivot hidden in these projections, or is macro completely taking a backseat to single-asset catalysts right now? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "ed335e0406aae21c81ac9516",
+    "timestamp": "2026-09-17T23:53:33.851Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 358,
+    "text": "Privacy trade flows are waking up as broader crypto markets shake off macroeconomic pressure.\n\nBitcoin held above $76,000 today following the Federal Reserve's first rate hike since 2023, accompanied by guidance pointing to limited further tightening ahead.\n\nAgainst that backdrop, Zcash rallied 23% over the session. \n\nThe move follows commentary from Paradigm co-founder Matt Huang highlighting privacy assets as a functional complement to base-layer networks like Bitcoin. \n\nVolume expansion across privacy tokens suggests capital is rotating into non-transparent assets as macro policy shifts.",
+    "hasImage": true,
+    "eventFingerprint": "507105999152c13f1ec02e1b",
+    "timestamp": "2026-09-17T23:53:34.979Z"
   }
 ]
