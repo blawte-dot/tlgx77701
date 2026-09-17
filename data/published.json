@@ -1779,5 +1779,45 @@
     "hasImage": true,
     "eventFingerprint": "4f1ef1672c1e2b117f75b443",
     "timestamp": "2026-09-16T23:33:53.677Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 329,
+    "text": "Is the market getting numb to central bank tightening?\n\nBitcoin barely flinched as the Federal Reserve delivered its first rate increase since 2023, shrugging off immediate macro pressure. \n\nBeneath the calm surface, however, policy headwinds are far from over. Fresh economic projections show 16 out of 18 Fed officials anticipating at least one more rate hike before the year closes. \n\nDigital assets are holding their ground for now, but persistent tightening leaves little margin for error as liquidity conditions continue to tighten.",
+    "hasImage": true,
+    "eventFingerprint": "71c084d1d74d965f2ef41753",
+    "timestamp": "2026-09-17T03:17:50.327Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 330,
+    "text": "Washington couldn't pass a single bill, so Wall Street just handed back $450 million in Bitcoin. \n\nSpot ETFs logged their worst single-day bleed since June this week. \n\nThe immediate catalyst? \n\nThe Senate letting the Clarity Act quietly stall out, reminding everyone that regulatory limbo remains undefeated. \n\nWhen policy wheels stop turning, capital tends to move faster.",
+    "hasImage": true,
+    "eventFingerprint": "535e4d297848e5db32573b1b",
+    "timestamp": "2026-09-17T03:17:51.477Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 331,
+    "text": "Internal data leaks are shifting from traditional equities straight into decentralized derivatives.\n\nFederal prosecutors have charged two former Robinhood engineers with insider trading, alleging the pair used confidential token listing data to front-run upcoming announcements on Hyperliquid perpetual futures. \n\nThe case highlights a growing vulnerability for decentralized venues: high-speed, order-book perpetual markets offer convenient execution for traders capitalizing on off-chain information asymmetries. \n\nAs surveillance techniques adapt to on-chain venues, expect increased scrutiny on information controls across centralized platforms.\n\n#Hyperliquid",
+    "hasImage": true,
+    "eventFingerprint": "684cff74b0bcd96b01dc7aa5",
+    "timestamp": "2026-09-17T03:17:52.613Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 332,
+    "text": "The central bank just broke a two-year pause, and markets are moving immediately.\n\nThe Federal Reserve raised interest rates in a decision that Wall Street had near-unanimously priced in ahead of the print. \n\nDespite the tightening measure, Bitcoin spiked following the announcement. \n\nSource: Decrypt",
+    "hasImage": true,
+    "eventFingerprint": "b7cb9021ad39e70d55080f6f",
+    "timestamp": "2026-09-17T03:17:53.756Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 333,
+    "text": "Why are institutional products seeing their heaviest single-day exit since June?\n\nSpot Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined on Tuesday. \n\nThe sharp drawdown followed a failed vote on the Clarity Act, hitting market sentiment across digital asset investment vehicles.",
+    "hasImage": true,
+    "eventFingerprint": "04d5d29427a25a8b12cbb9cc",
+    "timestamp": "2026-09-17T03:17:54.602Z"
   }
 ]

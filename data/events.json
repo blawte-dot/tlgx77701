@@ -10167,5 +10167,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+    "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin showed little immediate reaction to the Fed’s first rate increase since 2023, but 16 of 18 officials expect at least one more hike before the end of the year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PM955XFQTW2Q74Q14WCFR2/fed.jpg",
+    "publishedAt": "2026-09-17T02:52:08.000Z",
+    "collectedAt": "2026-09-17T03:17:48.029Z",
+    "corroboratingSources": 1,
+    "fingerprint": "71c084d1d74d965f2ef41753",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-17T03:17:50.329Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+        "fingerprint": "71c084d1d74d965f2ef41753"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 329,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+    "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+    "summary": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5fd904349db1854350f6e1be97b52ee9471c9e23-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-16T10:48:44.000Z",
+    "collectedAt": "2026-09-17T03:17:48.029Z",
+    "corroboratingSources": 1,
+    "fingerprint": "535e4d297848e5db32573b1b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-17T03:17:51.479Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+        "fingerprint": "535e4d297848e5db32573b1b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 330,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+    "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
+    "summary": "U.S. prosecutors allege two engineers used confidential Robinhood token listing data to front-run announcements using Hyperliquid perpetual futures.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e70f1706abd047636b2f71846fc0e00710b307db-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-16T09:42:37.000Z",
+    "collectedAt": "2026-09-17T03:17:48.029Z",
+    "corroboratingSources": 1,
+    "fingerprint": "684cff74b0bcd96b01dc7aa5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-17T03:17:52.615Z",
+    "outcome": {
+      "event": {
+        "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+        "fingerprint": "684cff74b0bcd96b01dc7aa5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 331,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+    "link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+    "summary": "The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
+    "publishedAt": "2026-09-16T18:15:38.000Z",
+    "collectedAt": "2026-09-17T03:17:48.029Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b7cb9021ad39e70d55080f6f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-17T03:17:53.759Z",
+    "outcome": {
+      "event": {
+        "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+        "fingerprint": "b7cb9021ad39e70d55080f6f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 332,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+    "link": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
+    "summary": "Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/ETF2-gID_7.png",
+    "publishedAt": "2026-09-16T15:50:07.000Z",
+    "collectedAt": "2026-09-17T03:17:48.029Z",
+    "corroboratingSources": 1,
+    "fingerprint": "04d5d29427a25a8b12cbb9cc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-17T03:17:54.604Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+        "fingerprint": "04d5d29427a25a8b12cbb9cc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 333,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
