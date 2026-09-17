@@ -1859,5 +1859,45 @@
     "hasImage": true,
     "eventFingerprint": "a1ca9ffa8b1ead9c663e4dcc",
     "timestamp": "2026-09-17T09:10:54.227Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 339,
+    "text": "5 years. That is how long alternative trading systems have to experiment with tokenized securities under a new SEC relief framework.\n\nThe regulator rolled out a blanket exemption designed to let venues list and trade digital asset securities without registering as a traditional national securities exchange. \n\nThe move offers long-sought regulatory breathing room for tokenized asset platforms, removing immediate compliance friction while the agency observes how blockchain-based settlement scales. \n\nDetails remain sparse on the exact volume caps and asset eligibility criteria, but the five-year runway marks a notable shift in tone for institutional digital asset infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "2fe31ab8a33e83c4fef123ad",
+    "timestamp": "2026-09-17T14:39:35.111Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 340,
+    "text": "Institutional capital is fleeing major crypto assets at a scale not seen in weeks.\n\nA combined $1.11 billion just exited Bitcoin and Ethereum, pressing down spot prices across the board. \n\nMeanwhile, regulatory friction continues to shape the derivatives landscape. The SEC has pushed back another short XRP exchange-traded fund filing, marking the 19th rejection or delay for the product. \n\nAmid the broader market contraction, privacy coin Zcash decoupled sharply today, surging past $1,350 in high-volume trade. \n\n#CryptoMarkets",
+    "hasImage": true,
+    "eventFingerprint": "a45aa5834551cbed2f8d2e7e",
+    "timestamp": "2026-09-17T14:40:11.433Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 341,
+    "text": "Washington just moved to lock up government crypto for a generation. \n\nLawmakers have advanced the ARMA bill, a legislative push designed to freeze federal Bitcoin reserves in place for the next twenty years. \n\nUnder the proposed framework, any qualifying Bitcoin held by the government at the time of enactment would be completely sidelined from circulation. \n\nThe text mandates strict annual audits to track the locked assets, while authorizing further studies on potential future purchases rather than immediate accumulation. \n\nIt marks a stark shift in how policymakers view sovereign digital asset management—moving from potential liquidity to long-term digital vaulting.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "921112a48083ac9c78982475",
+    "timestamp": "2026-09-17T14:40:12.731Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 342,
+    "text": "Most traders think the Fed is printing money again just because its balance sheet stopped shrinking. \n\nThat assumption is missing the plumbing. \n\nWhile the central bank retained its reserve-management authority, the actual purchase schedule shows zero net reserve-adding operations right now. \n\nLiquidity is shifting, but it isn't expanding. \n\nWatch the reverse repo facility and Treasury general account movements instead of headline asset totals. That is where the real signal lives.",
+    "hasImage": true,
+    "eventFingerprint": "87d9509a3dcb1efb5d50dbf5",
+    "timestamp": "2026-09-17T14:40:14.193Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 343,
+    "text": "Retail accumulation is quietly diverging from institutional fund flows.\n\nOn-chain data shows two large addresses acquired 5,195 ETH, valued at roughly $12.9 million, over the recent sessions. \n\nYet, the broader picture tells a different story. U.S. spot Ethereum exchange-traded funds continue to record net outflows, reflecting sustained caution from traditional finance allocators. \n\nPrice action remains caught between these opposing forces. Large holders are treating current valuations as an accumulation zone, while institutional desks wait for clearer macro and regulatory signals before committing fresh capital.",
+    "hasImage": true,
+    "eventFingerprint": "4fb642ae88dbaa939459c33e",
+    "timestamp": "2026-09-17T14:40:15.773Z"
   }
 ]

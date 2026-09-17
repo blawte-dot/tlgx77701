@@ -10577,5 +10577,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+    "link": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
+    "summary": "The U.S. Securities and Exchange Commission issued a blanket 5-year exemption for listing and trading tokenized securities without registering as an exchange.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/72d2d0f41575a69ebb63c81c3ae0aa0e4b7b3e5c-3308x1862.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-17T13:00:00.000Z",
+    "collectedAt": "2026-09-17T14:39:32.700Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2fe31ab8a33e83c4fef123ad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-17T14:39:35.113Z",
+    "outcome": {
+      "event": {
+        "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+        "fingerprint": "2fe31ab8a33e83c4fef123ad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 339,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "SEC Rejects 19th XRP Short ETF While Bitcoin and Ethereum Drop $1.11 Billion: Main Crypto News This Morning",
+    "link": "https://u.today/sec-rejects-19th-xrp-short-etf-while-bitcoin-and-ethereum-drop-111-billion-main-crypto-news-this",
+    "summary": "Key crypto market updates for Sep. 17: $1.11 billion institutional exit hammers BTC/ETH, SEC stalls short XRP ETF, while Zcash explodes past $1,350.",
+    "image": null,
+    "publishedAt": "2026-09-17T13:00:00.000Z",
+    "collectedAt": "2026-09-17T14:39:32.700Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a45aa5834551cbed2f8d2e7e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-17T14:40:11.435Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Rejects 19th XRP Short ETF While Bitcoin and Ethereum Drop $1.11 Billion: Main Crypto News This Morning",
+        "fingerprint": "a45aa5834551cbed2f8d2e7e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 340,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Lawmakers pass bill to freeze federal Bitcoin holdings for two decades",
+    "link": "https://cryptoslate.com/lawmakers-pass-bill-to-freeze-federal-bitcoin-holdings-for-two-decades/",
+    "summary": "ARMA would lock qualifying reserve Bitcoin in place from enactment and require annual audited reporting, while purchases remain a study.\nThe post Lawmakers pass bill to freeze federal Bitcoin holdings for two decades appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reserve-treasury-records.webp",
+    "publishedAt": "2026-09-17T14:30:16.000Z",
+    "collectedAt": "2026-09-17T14:39:32.700Z",
+    "corroboratingSources": 1,
+    "fingerprint": "921112a48083ac9c78982475",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-17T14:40:12.734Z",
+    "outcome": {
+      "event": {
+        "title": "Lawmakers pass bill to freeze federal Bitcoin holdings for two decades",
+        "fingerprint": "921112a48083ac9c78982475"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 341,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why the Fed balance sheet is lying to you about the next Bitcoin rally",
+    "link": "https://cryptoslate.com/why-the-fed-balance-sheet-is-lying-to-you-about-the-next-bitcoin-rally/",
+    "summary": "The central bank kept its reserve-plumbing authority, but the current schedule shows no net reserve-management purchases.\nThe post Why the Fed balance sheet is lying to you about the next Bitcoin rally appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-rate-weight-runner.webp",
+    "publishedAt": "2026-09-17T10:25:50.000Z",
+    "collectedAt": "2026-09-17T14:39:32.700Z",
+    "corroboratingSources": 1,
+    "fingerprint": "87d9509a3dcb1efb5d50dbf5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-17T14:40:14.196Z",
+    "outcome": {
+      "event": {
+        "title": "Why the Fed balance sheet is lying to you about the next Bitcoin rally",
+        "fingerprint": "87d9509a3dcb1efb5d50dbf5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 342,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Whales are loading up on Ethereum &#8211; But here&#8217;s why institutions aren&#8217;t",
+    "link": "https://ambcrypto.com/whales-are-loading-up-on-ethereum-but-heres-why-institutions-arent/",
+    "summary": "Two Ethereum whales purchased 5195 ETH worth approximately $12.9 million while ETFs continue to sell.",
+    "image": null,
+    "publishedAt": "2026-09-17T11:00:42.000Z",
+    "collectedAt": "2026-09-17T14:39:32.700Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4fb642ae88dbaa939459c33e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-17T14:40:15.775Z",
+    "outcome": {
+      "event": {
+        "title": "Whales are loading up on Ethereum &#8211; But here&#8217;s why institutions aren&#8217;t",
+        "fingerprint": "4fb642ae88dbaa939459c33e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 343,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
