@@ -12012,5 +12012,243 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike\nBitcoin&#8217;s price on Friday shot above $81,000 — despite a week of setbacks for the crypto industry.&#160; The biggest coin was recently trading for $80,982, after jumping as high as $81,055 at one point Friday morning in New York. Over the past 24 hours, it has risen by nearly 6%.&#160; Its surge comes after lawmakers [&#8230;]\nThis post Bitcoin Price Surges Over $81,000 Despite Clarity Act F",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-9.jpg",
+    "publishedAt": "2026-09-18T16:46:48.000Z",
+    "collectedAt": "2026-09-18T17:27:54.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a528a372ef7d7cd209c7dd8e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-18T17:27:57.154Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
+        "fingerprint": "a528a372ef7d7cd209c7dd8e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 374,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Zcash holders vote to preserve halvings and defer recycled ZEC until 2031",
+    "link": "https://cryptoslate.com/zcash-holders-vote-to-preserve-halvings-and-defer-recycled-zec-until-2031/",
+    "summary": "The advisory poll also favored Sprout transaction deprecation, faster blocks and shipping the upgrade without features that miss its deadline.\nThe post Zcash holders vote to preserve halvings and defer recycled ZEC until 2031 appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-halving-2031-vote.webp",
+    "publishedAt": "2026-09-18T13:50:03.000Z",
+    "collectedAt": "2026-09-18T17:27:54.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "70ba816807338bf5e403f0d2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-18T17:27:58.332Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash holders vote to preserve halvings and defer recycled ZEC until 2031",
+        "fingerprint": "70ba816807338bf5e403f0d2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 375,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "market_move",
+    "source": "CoinGecko",
+    "title": "SOL up 10.0% in 24h",
+    "link": null,
+    "summary": "SOL is trading at $111.97, up 10.0% over the last 24 hours.",
+    "image": null,
+    "publishedAt": "2026-09-18T17:27:54.546Z",
+    "collectedAt": "2026-09-18T17:27:54.546Z",
+    "meta": {
+      "id": "solana",
+      "symbol": "SOL",
+      "price": 111.97,
+      "change24h": 10.02317,
+      "marketCap": 65752355854,
+      "sparkline": [
+        101.28514823007697,
+        101.448150711787,
+        100.77462278695083,
+        100.84880682329135,
+        101.21351675363276,
+        101.02649443625349,
+        101.32594726417541,
+        101.56908350057118,
+        101.32010942298841,
+        102.3784810705466,
+        102.66648054201798,
+        104.58208113874053,
+        105.68108152160401,
+        105.31302835636453,
+        105.44895708054963,
+        105.7368722728062,
+        106.1250053538241,
+        106.33462131194737,
+        106.18616542104472,
+        105.62878961590448,
+        105.6903036992323,
+        108.44506503395365,
+        110.66354250094744,
+        111.23566626183333
+      ]
+    },
+    "corroboratingSources": 1,
+    "fingerprint": "f5dfe7d5379ba1f5259d767c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-18T17:28:00.066Z",
+    "outcome": {
+      "event": {
+        "title": "SOL up 10.0% in 24h",
+        "fingerprint": "f5dfe7d5379ba1f5259d767c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 376,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+    "link": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
+    "summary": "The Grayscale Zcash ETF (ZCSH) nears $890 million in assets as ZEC’s rally pushes mining competition to record highs.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251202_ZCash_News.jpg",
+    "publishedAt": "2026-09-18T15:09:09.000Z",
+    "collectedAt": "2026-09-18T17:27:54.531Z",
+    "corroboratingSources": 1,
+    "fingerprint": "25f80d6f66617d45ccf9c5cc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T17:28:01.143Z",
+    "outcome": {
+      "event": {
+        "title": "Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+        "fingerprint": "25f80d6f66617d45ccf9c5cc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 377,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
+    "link": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T9WY6ZEBREY64C7KQFFW2D/2222222.png",
+    "publishedAt": "2026-09-18T14:04:43.000Z",
+    "collectedAt": "2026-09-18T17:27:54.531Z",
+    "corroboratingSources": 1,
+    "fingerprint": "570e79ee9d8f951bdb9cd6fa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T17:28:02.336Z",
+    "outcome": {
+      "event": {
+        "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
+        "fingerprint": "570e79ee9d8f951bdb9cd6fa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 378,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
