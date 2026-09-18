@@ -11397,5 +11397,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin rises against yen",
+    "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+    "summary": "The yen declined after the BOJ hiked rates to the highest level in 31 years.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d87eabe2ada7e5c5fb5014805876879c803feba-3388x2472.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-18T03:03:38.000Z",
+    "collectedAt": "2026-09-18T03:04:12.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d278e602036136c4050f76c0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-18T03:04:15.182Z",
+    "outcome": {
+      "event": {
+        "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin rises against yen",
+        "fingerprint": "d278e602036136c4050f76c0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 359,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Goldman pivots, now forecasts Fed rate hike in October",
+    "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+    "summary": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8308493c2140c9c77679daf94cac837a721ec241-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-17T04:17:55.000Z",
+    "collectedAt": "2026-09-18T03:04:12.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c9e8bcb3d0d5419609a0b77e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T03:04:16.019Z",
+    "outcome": {
+      "event": {
+        "title": "Goldman pivots, now forecasts Fed rate hike in October",
+        "fingerprint": "c9e8bcb3d0d5419609a0b77e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 360,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "It’s here — SEC releases long-awaited innovation exemption to ‘bring America’s capital markets into the digital age’",
+    "link": "https://www.theblock.co/news/regulation/2026-09-17-sec-releases-innovation-exemption-415324",
+    "summary": "The SEC released its 'innovation exemption,' positioning the measure as a response to the Senate's failure to advance crypto legislation.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250109_Paul-Atkins_News-1200x675.jpg",
+    "publishedAt": "2026-09-17T13:00:00.000Z",
+    "collectedAt": "2026-09-18T03:04:12.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e59a4a454835816a195419bf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T03:04:16.945Z",
+    "outcome": {
+      "event": {
+        "title": "It’s here — SEC releases long-awaited innovation exemption to ‘bring America’s capital markets into the digital age’",
+        "fingerprint": "e59a4a454835816a195419bf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 361,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Crypto.com registers with SEC for single-stock futures, plans US stock perps",
+    "link": "https://www.theblock.co/news/business/2026-09-17-crypto-com-registers-with-sec-for-single-stock-futures-plans-us-stock-perps-415355",
+    "summary": "CEO Kris Marszalek said the company is also working with the SEC and CFTC to offer single-stock perpetual futures in the U.S.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/09/cryptocom-1197x675.jpg",
+    "publishedAt": "2026-09-17T12:41:53.000Z",
+    "collectedAt": "2026-09-18T03:04:12.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ec22b72385bde3d3882104d4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T03:04:17.943Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto.com registers with SEC for single-stock futures, plans US stock perps",
+        "fingerprint": "ec22b72385bde3d3882104d4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 362,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+    "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve’s first interest-rate hike since July 2023.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg",
+    "publishedAt": "2026-09-17T16:22:23.000Z",
+    "collectedAt": "2026-09-18T03:04:12.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6ccf8d60410e9c141b7dbf3d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T03:04:18.954Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+        "fingerprint": "6ccf8d60410e9c141b7dbf3d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 363,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
