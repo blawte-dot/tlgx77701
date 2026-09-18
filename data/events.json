@@ -11807,5 +11807,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "SEC and CFTC bypass Congress to open crypto access after CLARITY fails  &#8211; with a catch",
+    "link": "https://cryptoslate.com/sec-and-cftc-bypass-congress-after-clarity-failed-to-open-crypto-access-with-a-catch/",
+    "summary": "Tokenized stocks and wallet-linked derivatives can launch under new relief, while durable rights and jurisdiction remain unresolved.\nThe post SEC and CFTC bypass Congress to open crypto access after CLARITY fails  &#8211; with a catch appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-access-bridge.webp",
+    "publishedAt": "2026-09-18T12:46:01.000Z",
+    "collectedAt": "2026-09-18T13:21:57.360Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b6b7b6bd5682f0d0425b2961",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-18T13:22:00.200Z",
+    "outcome": {
+      "event": {
+        "title": "SEC and CFTC bypass Congress to open crypto access after CLARITY fails  &#8211; with a catch",
+        "fingerprint": "b6b7b6bd5682f0d0425b2961"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 369,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why risk a smart contract exploit when safe US Treasuries pay better crypto yields?",
+    "link": "https://cryptoslate.com/why-risk-a-smart-contract-exploit-when-safe-us-treasuries-pay-better-crypto-yields/",
+    "summary": "The Federal Reserve raised its target range by 25 basis points to 3.75%-4.00% on Sept. 16, pushing the one-year Treasury yield to 4.45% the same day and pressuring crypto lending yields. That move lifts the return available to anyone willing to hold nothing riskier than government debt, setting a fresh benchmark for crypto lending yields [&#8230;]\nThe post Why risk a smart contract exploit when safe US Treasuries pay better crypto yields? appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/treasury-defi-risk-bridge.webp",
+    "publishedAt": "2026-09-18T08:50:29.000Z",
+    "collectedAt": "2026-09-18T13:21:57.360Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a98eec9618235b9e365f3e80",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-18T13:22:14.631Z",
+    "outcome": {
+      "event": {
+        "title": "Why risk a smart contract exploit when safe US Treasuries pay better crypto yields?",
+        "fingerprint": "a98eec9618235b9e365f3e80"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 370,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+    "link": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+    "summary": "It came just hours after S&#038;P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
+    "publishedAt": "2026-09-18T12:34:50.000Z",
+    "collectedAt": "2026-09-18T13:21:57.360Z",
+    "corroboratingSources": 1,
+    "fingerprint": "78456a75a426fb81e6a5916b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-18T13:22:15.862Z",
+    "outcome": {
+      "event": {
+        "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+        "fingerprint": "78456a75a426fb81e6a5916b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 371,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "1.6 Billion XRP Sent to Binance as Whale Activity Explodes to a Six-Month High",
+    "link": "https://cryptopotato.com/1-6-billion-xrp-sent-to-binance-as-whale-activity-explodes-to-a-six-month-high/",
+    "summary": "Large XRP holders are moving more tokens to Binance as 30-day whale inflows reach their highest level since March.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/07/Ripple_Binance.jpg",
+    "publishedAt": "2026-09-18T12:54:55.000Z",
+    "collectedAt": "2026-09-18T13:21:57.360Z",
+    "corroboratingSources": 1,
+    "fingerprint": "852ec16fefa34e91425e7bf7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-18T13:22:17.126Z",
+    "outcome": {
+      "event": {
+        "title": "1.6 Billion XRP Sent to Binance as Whale Activity Explodes to a Six-Month High",
+        "fingerprint": "852ec16fefa34e91425e7bf7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 372,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Your crypto hardware wallet can stay secure while everything around it fails",
+    "link": "https://cryptoslate.com/your-crypto-hardware-wallet-can-stay-secure-while-everything-around-it-fails/",
+    "summary": "Separate software-signing and vendor-data failures show why self-custody security extends beyond the device.\nThe post Your crypto hardware wallet can stay secure while everything around it fails appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/hardware-wallet-head-vault.webp",
+    "publishedAt": "2026-09-18T11:50:25.000Z",
+    "collectedAt": "2026-09-18T13:21:57.360Z",
+    "corroboratingSources": 1,
+    "fingerprint": "83fe8162f814d8636686811d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-18T13:22:18.143Z",
+    "outcome": {
+      "event": {
+        "title": "Your crypto hardware wallet can stay secure while everything around it fails",
+        "fingerprint": "83fe8162f814d8636686811d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 373,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
