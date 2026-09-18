@@ -12488,5 +12488,243 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "European Central Bank President Blocked Binance&#8217;s EU Entry: Report",
+    "link": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
+    "summary": "Bitcoin Magazine\n\nEuropean Central Bank President Blocked Binance&#8217;s EU Entry: Report\nA Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union. \nThis post European Central Bank President Blocked Binance&#8217;s EU Entry: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg",
+    "publishedAt": "2026-09-18T21:48:01.000Z",
+    "collectedAt": "2026-09-18T22:59:51.669Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0effbafafd5df219dc1766ad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-18T22:59:53.801Z",
+    "outcome": {
+      "event": {
+        "title": "European Central Bank President Blocked Binance&#8217;s EU Entry: Report",
+        "fingerprint": "0effbafafd5df219dc1766ad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 383,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Revolut hackers demand 6,000 XMR as Italy opens data probe",
+    "link": "https://ambcrypto.com/revolut-hackers-demand-6000-xmr-as-italy-opens-data-probe/",
+    "summary": "Hackers demanded $3 million in Monero after allegedly obtaining records from hundreds of Revolut customers through fraudulent official requests.",
+    "image": null,
+    "publishedAt": "2026-09-18T21:30:55.000Z",
+    "collectedAt": "2026-09-18T22:59:51.670Z",
+    "corroboratingSources": 1,
+    "fingerprint": "207443b6e2c98093c7424424",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-18T22:59:55.365Z",
+    "outcome": {
+      "event": {
+        "title": "Revolut hackers demand 6,000 XMR as Italy opens data probe",
+        "fingerprint": "207443b6e2c98093c7424424"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 384,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "market_move",
+    "source": "CoinGecko",
+    "title": "SOL up 11.6% in 24h",
+    "link": null,
+    "summary": "SOL is trading at $113, up 11.6% over the last 24 hours.",
+    "image": null,
+    "publishedAt": "2026-09-18T22:59:51.681Z",
+    "collectedAt": "2026-09-18T22:59:51.681Z",
+    "meta": {
+      "id": "solana",
+      "symbol": "SOL",
+      "price": 113,
+      "change24h": 11.61263,
+      "marketCap": 66354615913,
+      "sparkline": [
+        101.02649443625349,
+        101.32594726417541,
+        101.56908350057118,
+        101.32010942298841,
+        102.3784810705466,
+        102.66648054201798,
+        104.58208113874053,
+        105.68108152160401,
+        105.31302835636453,
+        105.44895708054963,
+        105.7368722728062,
+        106.1250053538241,
+        106.33462131194737,
+        106.18616542104472,
+        105.62878961590448,
+        105.6903036992323,
+        108.44506503395365,
+        110.66354250094744,
+        111.23566626183333,
+        111.66761015233158,
+        112.41451740069739,
+        112.17514193699186,
+        114.02086163226315,
+        113.53227308844248
+      ]
+    },
+    "corroboratingSources": 1,
+    "fingerprint": "be15952b0cf1674300858923",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-18T22:59:56.479Z",
+    "outcome": {
+      "event": {
+        "title": "SOL up 11.6% in 24h",
+        "fingerprint": "be15952b0cf1674300858923"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 385,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Why is Uniswap [UNI] up 19%? SEC tokenization relief, $8M withdrawals and more…",
+    "link": "https://ambcrypto.com/why-is-uniswap-uni-up-19-sec-tokenization-relief-8m-withdrawals-and-more/",
+    "summary": "The SEC never named Uniswap, yet traders quickly found familiar architecture in its exemption.",
+    "image": null,
+    "publishedAt": "2026-09-18T18:00:22.000Z",
+    "collectedAt": "2026-09-18T22:59:51.670Z",
+    "corroboratingSources": 1,
+    "fingerprint": "562be062c85c13484982f724",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T22:59:57.451Z",
+    "outcome": {
+      "event": {
+        "title": "Why is Uniswap [UNI] up 19%? SEC tokenization relief, $8M withdrawals and more…",
+        "fingerprint": "562be062c85c13484982f724"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 386,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Treasury Firm Lands $30 Million Raise to Buy More XRP",
+    "link": "https://u.today/xrp-treasury-firm-lands-30-million-raise-to-buy-more-xrp",
+    "summary": "XRP gains spotlight in South Korea after its largest treasury firm, Evernorth, secured a massive $30 million funding from South Korean investment firm NH Investment & Securities through convertible notes.",
+    "image": null,
+    "publishedAt": "2026-09-18T15:45:13.000Z",
+    "collectedAt": "2026-09-18T22:59:51.669Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e80310e8fb87cb0c395a36fa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-18T22:59:58.494Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Treasury Firm Lands $30 Million Raise to Buy More XRP",
+        "fingerprint": "e80310e8fb87cb0c395a36fa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 387,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
