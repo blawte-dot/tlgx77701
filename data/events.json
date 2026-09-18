@@ -12250,5 +12250,243 @@
         }
       }
     }
+  },
+  {
+    "kind": "market_move",
+    "source": "CoinGecko",
+    "title": "SOL up 12.6% in 24h",
+    "link": null,
+    "summary": "SOL is trading at $113.91, up 12.6% over the last 24 hours.",
+    "image": null,
+    "publishedAt": "2026-09-18T20:21:43.104Z",
+    "collectedAt": "2026-09-18T20:21:43.104Z",
+    "meta": {
+      "id": "solana",
+      "symbol": "SOL",
+      "price": 113.91,
+      "change24h": 12.5958,
+      "marketCap": 66892690193,
+      "sparkline": [
+        100.84880682329135,
+        101.21351675363276,
+        101.02649443625349,
+        101.32594726417541,
+        101.56908350057118,
+        101.32010942298841,
+        102.3784810705466,
+        102.66648054201798,
+        104.58208113874053,
+        105.68108152160401,
+        105.31302835636453,
+        105.44895708054963,
+        105.7368722728062,
+        106.1250053538241,
+        106.33462131194737,
+        106.18616542104472,
+        105.62878961590448,
+        105.6903036992323,
+        108.44506503395365,
+        110.66354250094744,
+        111.23566626183333,
+        111.66761015233158,
+        112.41451740069739,
+        112.17514193699186
+      ]
+    },
+    "corroboratingSources": 1,
+    "fingerprint": "48cb9bea99a46dad93c71b43",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-18T20:21:46.365Z",
+    "outcome": {
+      "event": {
+        "title": "SOL up 12.6% in 24h",
+        "fingerprint": "48cb9bea99a46dad93c71b43"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 379,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
+    "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+    "summary": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.",
+    "image": null,
+    "publishedAt": "2026-09-18T09:49:51.000Z",
+    "collectedAt": "2026-09-18T20:21:43.096Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e868670013169994d78917ed",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T20:21:58.959Z",
+    "outcome": {
+      "event": {
+        "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
+        "fingerprint": "e868670013169994d78917ed"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 380,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin ETFs Could Triple Gold ETF Assets, Balchunas Says",
+    "link": "https://u.today/bitcoin-etfs-could-triple-gold-etf-assets-balchunas-says",
+    "summary": "Bloomberg senior ETF analyst Eric Balchunas believes Bitcoin ETFs could eventually grow to three times the size of the gold ETF market.",
+    "image": null,
+    "publishedAt": "2026-09-18T17:36:18.000Z",
+    "collectedAt": "2026-09-18T20:21:43.096Z",
+    "corroboratingSources": 1,
+    "fingerprint": "99fff2eb860ec4fe14fd88cd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T20:22:00.316Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Could Triple Gold ETF Assets, Balchunas Says",
+        "fingerprint": "99fff2eb860ec4fe14fd88cd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 381,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance Sees 6-Month High in XRP Whale Inflows With 1.6 Billion Tokens Shifted",
+    "link": "https://u.today/binance-sees-6-month-high-in-xrp-whale-inflows-with-16-billion-tokens-shifted",
+    "summary": "XRP whales moving big with Binance inflows reaching 1.6 billion tokens.",
+    "image": null,
+    "publishedAt": "2026-09-18T13:35:43.000Z",
+    "collectedAt": "2026-09-18T20:21:43.096Z",
+    "corroboratingSources": 1,
+    "fingerprint": "735e010d169510ff2b0e5614",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T20:22:28.159Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Sees 6-Month High in XRP Whale Inflows With 1.6 Billion Tokens Shifted",
+        "fingerprint": "735e010d169510ff2b0e5614"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 382,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple's David Schwartz Addresses Exchanges' Hesitation on Listing Bitcoin-Based Asset",
+    "link": "https://u.today/ripples-david-schwartz-addresses-exchanges-hesitation-on-listing-bitcoin-based-asset",
+    "summary": "Ripple CTO Emeritus David Schwartz suggests reasons why exchanges are holding back from listing a Bitcoin-split asset, while they had previously supported other Bitcoin forks.",
+    "image": null,
+    "publishedAt": "2026-09-18T11:36:07.000Z",
+    "collectedAt": "2026-09-18T20:21:43.096Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d992b4b965d982483853bc50",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T20:23:04.881Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple's David Schwartz Addresses Exchanges' Hesitation on Listing Bitcoin-Based Asset",
+        "fingerprint": "d992b4b965d982483853bc50"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "api_error",
+          "error": "request to https://api.telegram.org/bot8971140095:AAHUHsjDsXV0mO5jTtziIbRz1pDoZBb5uYc/sendPhoto failed, reason: "
+        }
+      }
+    }
   }
 ]

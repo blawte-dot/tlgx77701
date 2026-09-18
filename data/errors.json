@@ -8,5 +8,10 @@
     "where": "publishToTelegram",
     "message": "Bad Request: chat not found",
     "timestamp": "2026-09-09T09:56:30.868Z"
+  },
+  {
+    "where": "publishToTelegram",
+    "message": "request to https://api.telegram.org/bot8971140095:AAHUHsjDsXV0mO5jTtziIbRz1pDoZBb5uYc/sendPhoto failed, reason: ",
+    "timestamp": "2026-09-18T20:23:04.881Z"
   }
 ]
