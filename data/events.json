@@ -11602,5 +11602,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+    "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SBV8SBEEFJVCB357QGD89N/nu7-zec.png",
+    "publishedAt": "2026-09-18T04:51:29.000Z",
+    "collectedAt": "2026-09-18T08:43:49.678Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0110dcf0f3f9f9dc6b531872",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-18T08:43:52.315Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+        "fingerprint": "0110dcf0f3f9f9dc6b531872"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 364,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Could Get More Support Than Gold as ETF Hedging Eases: JPMorgan",
+    "link": "https://cryptopotato.com/bitcoin-could-get-more-support-than-gold-as-etf-hedging-eases-jpmorgan/",
+    "summary": "JPMorgan analysts say Bitcoin could see stronger price support than gold if ETF hedging eases, as short interest in BlackRock’s IBIT reaches its highest level of 2026.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2020/06/123-min.jpg",
+    "publishedAt": "2026-09-18T05:56:29.000Z",
+    "collectedAt": "2026-09-18T08:43:49.678Z",
+    "corroboratingSources": 3,
+    "fingerprint": "12380e96a9732efce1f29196",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-18T08:43:53.731Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Could Get More Support Than Gold as ETF Hedging Eases: JPMorgan",
+        "fingerprint": "12380e96a9732efce1f29196"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 365,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Wall Street gains direct oversight of Web3 security as S&#038;P Global buys OpenZeppelin",
+    "link": "https://cryptoslate.com/wall-street-gains-direct-oversight-of-web3-security-as-sp-global-buys-openzeppelin/",
+    "summary": "The security firm says its team and tools will continue, while S&#38;P adds data, research and institutional reach after closing.\nThe post Wall Street gains direct oversight of Web3 security as S&#038;P Global buys OpenZeppelin appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/sp-global-openzeppelin-standard-image.jpg",
+    "publishedAt": "2026-09-18T07:30:56.000Z",
+    "collectedAt": "2026-09-18T08:43:49.678Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3269351011f3864cd56fa444",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-18T08:43:54.963Z",
+    "outcome": {
+      "event": {
+        "title": "Wall Street gains direct oversight of Web3 security as S&#038;P Global buys OpenZeppelin",
+        "fingerprint": "3269351011f3864cd56fa444"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 366,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
+    "link": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-focused miner expands its operations and moves toward a planned public listing.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg",
+    "publishedAt": "2026-09-17T15:58:33.000Z",
+    "collectedAt": "2026-09-18T08:43:49.678Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c38dca3e05c67068e9343a39",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T08:43:55.845Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
+        "fingerprint": "c38dca3e05c67068e9343a39"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 367,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "SEC grants temporary exemption for tokenized US stock trading",
+    "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-new-face-for-the-sec.jpg",
+    "publishedAt": "2026-09-17T13:34:17.000Z",
+    "collectedAt": "2026-09-18T08:43:49.678Z",
+    "corroboratingSources": 1,
+    "fingerprint": "abf02a87692770b175a9e4b0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-18T08:43:56.949Z",
+    "outcome": {
+      "event": {
+        "title": "SEC grants temporary exemption for tokenized US stock trading",
+        "fingerprint": "abf02a87692770b175a9e4b0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 368,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
