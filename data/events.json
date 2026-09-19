@@ -13235,5 +13235,243 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin survived the Fed and CLARITY, and now faces the next major test at $82,000 this weekend",
+    "link": "https://cryptoslate.com/bitcoin-survived-the-fed-and-clarity-and-now-faces-the-next-major-test-at-82000-this-weekend/",
+    "summary": "Bitcoin hit an intraday high of $81,400 on Friday, approaching the low-$82,000 zone that has capped every recovery attempt since late August. US spot Bitcoin ETF shares stop trading once American markets close for the weekend. Any further push through that ceiling over the next two days would occur in continuously open crypto markets, without [&#8230;]\nThe post Bitcoin survived the Fed and CLARITY, and now faces the next major test at $82,000 this weekend appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-82k-market-barrier.webp",
+    "publishedAt": "2026-09-19T09:06:06.000Z",
+    "collectedAt": "2026-09-19T11:54:06.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a3768f376305b63d18fc1790",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-19T11:54:10.205Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin survived the Fed and CLARITY, and now faces the next major test at $82,000 this weekend",
+        "fingerprint": "a3768f376305b63d18fc1790"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 398,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+    "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WA562VCY2PY1P3DW1N862B/hi-time-to-switch-license-hong-kong.png",
+    "publishedAt": "2026-09-19T07:50:58.000Z",
+    "collectedAt": "2026-09-19T11:54:06.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e60bc70b333311877cf1a8be",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-19T11:54:11.624Z",
+    "outcome": {
+      "event": {
+        "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+        "fingerprint": "e60bc70b333311877cf1a8be"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 399,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "450,000 XRP Emergency Buy: Hyperliquid Whale Bails Out as Price Holds $1.44",
+    "link": "https://u.today/450000-xrp-emergency-buy-hyperliquid-whale-bails-out-as-price-holds-144",
+    "summary": "A large Hyperliquid whale cut a massive short position, buying back 450,000 XRP at $1.44 as the token transforms key resistance into a solid floor.",
+    "image": null,
+    "publishedAt": "2026-09-19T10:18:45.000Z",
+    "collectedAt": "2026-09-19T11:54:06.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e215de6b8e62b8e2e6993dae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-19T11:54:13.743Z",
+    "outcome": {
+      "event": {
+        "title": "450,000 XRP Emergency Buy: Hyperliquid Whale Bails Out as Price Holds $1.44",
+        "fingerprint": "e215de6b8e62b8e2e6993dae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 400,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "market_move",
+    "source": "CoinGecko",
+    "title": "XRP up 8.3% in 24h",
+    "link": null,
+    "summary": "XRP is trading at $1.43, up 8.3% over the last 24 hours.",
+    "image": null,
+    "publishedAt": "2026-09-19T11:54:06.743Z",
+    "collectedAt": "2026-09-19T11:54:06.743Z",
+    "meta": {
+      "id": "ripple",
+      "symbol": "XRP",
+      "price": 1.43,
+      "change24h": 8.32972,
+      "marketCap": 90105883650,
+      "sparkline": [
+        1.3303786854923592,
+        1.3226392243240777,
+        1.3228215127431218,
+        1.3605235638795536,
+        1.3985380152308247,
+        1.3848157384859983,
+        1.3801107779408426,
+        1.3891746758323367,
+        1.386151088142717,
+        1.4098704853956705,
+        1.4027609113270842,
+        1.4013250975855363,
+        1.3982427457953193,
+        1.3960002270584508,
+        1.4086934103729667,
+        1.4119235073290497,
+        1.4126885654829822,
+        1.4178888828733232,
+        1.4145525846401046,
+        1.4270786209590025,
+        1.421430275765966,
+        1.4104308504636318,
+        1.4145224157783745,
+        1.4123696613352912
+      ]
+    },
+    "corroboratingSources": 1,
+    "fingerprint": "164c2dcd5ffe91e08b8757c4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-19T11:54:14.851Z",
+    "outcome": {
+      "event": {
+        "title": "XRP up 8.3% in 24h",
+        "fingerprint": "164c2dcd5ffe91e08b8757c4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 401,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Zcash Is Running—Devs Want to Make It Faster",
+    "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+    "summary": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
+    "publishedAt": "2026-09-18T19:16:03.000Z",
+    "collectedAt": "2026-09-19T11:54:06.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "227954a392763792afb21f13",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-19T11:54:16.044Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash Is Running—Devs Want to Make It Faster",
+        "fingerprint": "227954a392763792afb21f13"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 402,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
