@@ -2251,5 +2251,45 @@
     "hasImage": true,
     "eventFingerprint": "e80310e8fb87cb0c395a36fa",
     "timestamp": "2026-09-18T22:59:58.492Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 388,
+    "text": "An AI assistant trained by Anthropic was recently used to help breach rival infrastructure at OpenAI in under 72 hours.\n\nSecurity researchers at startup Hacktron chained an image-processing vulnerability with an identity infrastructure flaw this July, gaining access to employee ChatGPT and Codex accounts. \n\nClaude reportedly assisted the team in navigating the target systems. One compromised Codex account held direct links to an internal OpenAI GitHub repository. \n\nThe incident highlights how frontier models are increasingly acting as force multipliers in sophisticated vulnerability research, lowering technical barriers for threat actors operating at scale.",
+    "hasImage": true,
+    "eventFingerprint": "8398266ea28919191201ec9a",
+    "timestamp": "2026-09-19T01:06:21.117Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 389,
+    "text": "$113.59. \n\nThat is where Solana sits right now following an 11.9% push over the past 24 hours according to CoinGecko data. \n\nAre you viewing this double-digit bounce as a durable trend reversal after recent macro pressure, or simply another volatile relief rally within a broader range? \n\n#Solana",
+    "hasImage": true,
+    "eventFingerprint": "fa9daa39880adfa532cbf8d1",
+    "timestamp": "2026-09-19T01:06:23.099Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 390,
+    "text": "Can a treasury-fueled rally and ETF chatter really drag DOT back toward the $1.30 mark, or are we just watching gravity do its thing in slow motion? \n\nPolkadot is trying to stitch together a comeback narrative using on-chain activity and institutional product hopes. \n\nThe network metrics are doing some heavy lifting, but the chart is still demanding receipts.",
+    "hasImage": true,
+    "eventFingerprint": "68f5bd0bff38601013d67f5a",
+    "timestamp": "2026-09-19T01:06:24.132Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 391,
+    "text": "That sudden push past $1.40 caught plenty of desks off guard.\n\nXRP is up 8.2% on the day, currently changing hands at $1.41 according to CoinGecko data. \n\nIs this move being driven by genuine spot accumulation, or just another leveraged squeeze clearing out late shorts? \n\nDrop your read below. \n\n#XRP",
+    "hasImage": true,
+    "eventFingerprint": "8a37bcbb328397f13a20da45",
+    "timestamp": "2026-09-19T01:06:26.210Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 392,
+    "text": "Europe's strictest crypto framework is proving harder to clear than expected.\n\nBinance's application for MiCA compliance has reportedly stalled, intersecting with a broader push by ECB President Christine Lagarde to ensure the upcoming Digital Euro outpaces current private alternatives. \n\nWhile regulatory clarity under ESMA authority remains the ultimate goal for major exchanges operating in the EU, the timeline for approval is facing fresh friction. \n\nMarket participants are watching closely to see how European regulators handle the compliance backlog as institutional standards tighten.\n\n#MiCA",
+    "hasImage": true,
+    "eventFingerprint": "d8950f45c3ef94be706ef650",
+    "timestamp": "2026-09-19T01:06:27.441Z"
   }
 ]
