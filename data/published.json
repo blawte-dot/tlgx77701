@@ -2411,5 +2411,45 @@
     "hasImage": true,
     "eventFingerprint": "93024ca9c3b06ac7d0dfd13a",
     "timestamp": "2026-09-19T15:18:56.356Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 408,
+    "text": "Tokenized equities just cleared their highest regulatory hurdle to date.\n\nThe SEC has granted a five-year exemptive order allowing alternative trading systems to settle tokenized stock transactions on-chain. \n\nTwo major outlets are confirming the move, marking a structural shift for digital asset infrastructure. \n\nFor years, compliant on-chain securities operated in a legal gray zone or required cumbersome dual-clearing workarounds. This five-year window gives institutional platforms the runway needed to build scalable infrastructure without constant fear of enforcement action. \n\nTraditional market plumbing and public ledgers are officially intersecting.\n\n#RWA",
+    "hasImage": true,
+    "eventFingerprint": "6912db07c5e34e3c0536437e",
+    "timestamp": "2026-09-19T18:23:51.388Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 409,
+    "text": "How does a regional crypto exchange become the pipeline for millions in state-backed sanctions evasion?\n\nWashington just added BitBank to its sanctions ledger, pointing to an intricate digital asset network allegedly funneling funds for Iranian actors. \n\nInvestigators claim the platform facilitated illicit transfers designed to bypass traditional banking controls, utilizing stablecoins and private ledgers to obscure the flow of capital. \n\nThe move highlights an escalating regulatory push against alternative rails used by sanctioned jurisdictions to access global liquidity. \n\nCompliance parameters across exchanges face renewed scrutiny as authorities close the gap between traditional enforcement and decentralized infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "9e2c45e61785e9ffa59b06c1",
+    "timestamp": "2026-09-19T18:23:52.820Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 410,
+    "text": "2018 was the last time the Federal Reserve raised interest rates and Bitcoin managed to shrug it off. \n\nWhen the central bank delivered its first hike in over three years, risk assets braced for a sell-off. Instead, BTC reversed its initial knee-jerk dip and climbed higher within hours.\n\nMarkets often price in tightening cycles well before the official announcement hits the wire. Once the uncertainty clears, capital frequently rotates back into scarce assets despite a higher cost of capital. \n\nWhether this decoupling holds across a prolonged tightening phase remains the central question for macro traders this quarter.",
+    "hasImage": true,
+    "eventFingerprint": "22059c2b8038b4a1fb8ae58c",
+    "timestamp": "2026-09-19T18:23:54.155Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 411,
+    "text": "Washington just left the crypto rulebook entirely in the hands of existing regulators. ⚖️\n\nThe Senate's failure to advance the Clarity Act means congressional guardrails are off the table for now. \n\nInstead of a bespoke legislative framework, the industry now faces an aggressive wave of enforcement-driven oversight directly from the SEC and CFTC. \n\nWithout statutory definitions passed into law, regulatory battles in the US are set to intensify through agency action rather than Capitol Hill compromise.\n\n#CryptoRegulation",
+    "hasImage": true,
+    "eventFingerprint": "c79a38d2c1f80a61fc2689ea",
+    "timestamp": "2026-09-19T18:23:55.712Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 412,
+    "text": "An obscure privacy coin just forced a billion-dollar milestone into sight. \n\nZEC's explosive 100% surge past $1,500 has pushed Grayscale’s Zcash ETF within $85 million of the $1 billion AUM threshold, according to CryptoSlate data. \n\nTo manage the rapid expansion, the fund is preparing a 3-for-1 share split. Current holders will receive three shares for every one they own, adjusting the per-share NAV proportionately without altering total investment value. \n\n#ZEC",
+    "hasImage": true,
+    "eventFingerprint": "8e17c3b26edbb5ffb41e697b",
+    "timestamp": "2026-09-19T18:23:56.926Z"
   }
 ]

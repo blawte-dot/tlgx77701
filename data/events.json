@@ -13678,5 +13678,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SEC Grants Five-Year Exemption For Tokenized Stock Trading Venues",
+    "link": "https://www.newsbtc.com/news/sec-grants-five-year-exemption-for-tokenized-stock-trading-venues/",
+    "summary": "Read the latest update on SEC Grants Five-Year Exemption For Tokenized Stock Trading Venues.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/0fadc36a4e4c4f93b7fe7f2e57ef3141.png?fit=427%2C536",
+    "publishedAt": "2026-09-19T17:30:00.000Z",
+    "collectedAt": "2026-09-19T18:23:49.061Z",
+    "corroboratingSources": 2,
+    "fingerprint": "6912db07c5e34e3c0536437e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9.5,
+    "processedAt": "2026-09-19T18:23:51.392Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Grants Five-Year Exemption For Tokenized Stock Trading Venues",
+        "fingerprint": "6912db07c5e34e3c0536437e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 408,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Treasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network",
+    "link": "https://www.newsbtc.com/news/treasury-sanctions-bitbank-over-iranian-crypto-sanctions-evasion-network/",
+    "summary": "Read the latest update on Treasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/unnamed_c34b09.png?fit=536%2C536",
+    "publishedAt": "2026-09-19T18:15:00.000Z",
+    "collectedAt": "2026-09-19T18:23:49.061Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9e2c45e61785e9ffa59b06c1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-19T18:23:52.822Z",
+    "outcome": {
+      "event": {
+        "title": "Treasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network",
+        "fingerprint": "9e2c45e61785e9ffa59b06c1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 409,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "The Fed Hiked Rates and Bitcoin Went Up: Here’s Why That Matters",
+    "link": "https://cryptopotato.com/the-fed-hiked-rates-and-bitcoin-went-up-heres-why-that-matters/",
+    "summary": "The first Fed rate hike in over three years didn't bring BTC down for long.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Federal_Reserve.jpg",
+    "publishedAt": "2026-09-19T17:46:55.000Z",
+    "collectedAt": "2026-09-19T18:23:49.061Z",
+    "corroboratingSources": 1,
+    "fingerprint": "22059c2b8038b4a1fb8ae58c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-19T18:23:54.157Z",
+    "outcome": {
+      "event": {
+        "title": "The Fed Hiked Rates and Bitcoin Went Up: Here’s Why That Matters",
+        "fingerprint": "22059c2b8038b4a1fb8ae58c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 410,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+    "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+    "summary": "The Clarity Act failed to advance in the Senate, shifting the industry’s focus to a new wave of action from the SEC and CFTC.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
+    "publishedAt": "2026-09-19T17:01:03.000Z",
+    "collectedAt": "2026-09-19T18:23:49.061Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c79a38d2c1f80a61fc2689ea",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-19T18:23:55.714Z",
+    "outcome": {
+      "event": {
+        "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+        "fingerprint": "c79a38d2c1f80a61fc2689ea"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 411,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
+    "link": "https://cryptoslate.com/zecs-100-rally-above-1500-sends-grayscales-zcash-etf-within-85-million-of-1-billion/",
+    "summary": "ZCSH holders would receive three shares for every one held as the fund cuts per-share NAV proportionately without changing investment value solely because of the split.\nThe post ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-etf-split-conveyor.webp",
+    "publishedAt": "2026-09-19T15:50:04.000Z",
+    "collectedAt": "2026-09-19T18:23:49.061Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8e17c3b26edbb5ffb41e697b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-19T18:23:56.929Z",
+    "outcome": {
+      "event": {
+        "title": "ZEC’s 100% rally above $1500 sends Grayscale’s Zcash ETF within $85 million of $1 billion",
+        "fingerprint": "8e17c3b26edbb5ffb41e697b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 412,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
