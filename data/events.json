@@ -14088,5 +14088,205 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "$1.5T and counting: Here&#8217;s how 2026&#8217;s ETFs beat 2025’s record flows",
+    "link": "https://ambcrypto.com/1-5t-and-counting-heres-how-2026s-etfs-beat-2025s-record-flows/",
+    "summary": "The ETF market began 2026 on a far more volatile footing than the one in 2025.",
+    "image": null,
+    "publishedAt": "2026-09-19T23:00:30.000Z",
+    "collectedAt": "2026-09-19T23:52:28.994Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3ebde345ae1ec0014f1db023",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-19T23:52:30.886Z",
+    "outcome": {
+      "event": {
+        "title": "$1.5T and counting: Here&#8217;s how 2026&#8217;s ETFs beat 2025’s record flows",
+        "fingerprint": "3ebde345ae1ec0014f1db023"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+    "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+    "summary": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-19T13:39:15.000Z",
+    "collectedAt": "2026-09-19T23:52:28.993Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e849ec76f6a12ba8a5027d98",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-19T23:52:31.710Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+        "fingerprint": "e849ec76f6a12ba8a5027d98"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+    "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XGSZRWWBGCWVGM11DRCASK/hi-token-etf-victory.png",
+    "publishedAt": "2026-09-19T19:14:38.000Z",
+    "collectedAt": "2026-09-19T23:52:28.993Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ff434adf9716b40813832dd8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-19T23:52:32.587Z",
+    "outcome": {
+      "event": {
+        "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+        "fingerprint": "ff434adf9716b40813832dd8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
+    "link": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
+    "summary": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-09-19T16:01:03.000Z",
+    "collectedAt": "2026-09-19T23:52:28.994Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2042b9842a42721885c14af0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-19T23:52:33.693Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
+        "fingerprint": "2042b9842a42721885c14af0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "XRP Treasury Giant Evernorth Raises $30 Million – But There’s a Catch",
+    "link": "https://cryptopotato.com/xrp-treasury-giant-evernorth-raises-30-million-but-theres-a-catch/",
+    "summary": "The company has secured another $30 million in financing as it moves closer to completing its planned public-market debut.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/08/evernorth-1.jpg",
+    "publishedAt": "2026-09-19T22:22:21.000Z",
+    "collectedAt": "2026-09-19T23:52:28.994Z",
+    "corroboratingSources": 1,
+    "fingerprint": "12e2c81b4364e341222a796e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-19T23:52:34.521Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Treasury Giant Evernorth Raises $30 Million – But There’s a Catch",
+        "fingerprint": "12e2c81b4364e341222a796e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
   }
 ]
