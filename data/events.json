@@ -13883,5 +13883,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Fidelity surge brings in $310M BTC saving Bitcoin ETFs from a disastrous week",
+    "link": "https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/",
+    "summary": "Friday broadened demand, yet the two-day rebound left the midweek withdrawal gap partly open.\nThe post Fidelity surge brings in $310M BTC saving Bitcoin ETFs from a disastrous week appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-investor-gateway.webp",
+    "publishedAt": "2026-09-19T20:10:27.000Z",
+    "collectedAt": "2026-09-19T21:16:25.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b250efeab32efa8b5f60036b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-19T21:16:27.783Z",
+    "outcome": {
+      "event": {
+        "title": "Fidelity surge brings in $310M BTC saving Bitcoin ETFs from a disastrous week",
+        "fingerprint": "b250efeab32efa8b5f60036b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 413,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Massive Crypto Acquisition: Why S&#038;P Global Is Buying Blockchain Security Giant OpenZeppelin",
+    "link": "https://cryptopotato.com/massive-crypto-acquisition-why-sp-global-is-buying-blockchain-security-giant-openzeppelin/",
+    "summary": "S&#038;P Global is acquiring OpenZeppelin to enhance its push into digital assets and onchain markets.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2022/04/Wall_Street.jpg",
+    "publishedAt": "2026-09-19T20:05:35.000Z",
+    "collectedAt": "2026-09-19T21:16:25.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f9ca9efdf1344c039093ffc9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-19T21:16:28.979Z",
+    "outcome": {
+      "event": {
+        "title": "Massive Crypto Acquisition: Why S&#038;P Global Is Buying Blockchain Security Giant OpenZeppelin",
+        "fingerprint": "f9ca9efdf1344c039093ffc9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 414,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
+    "link": "https://www.newsbtc.com/news/coinbase-and-stablecore-open-digital-asset-rails-to-3-000-banks-and-credit/",
+    "summary": "Read the latest update on Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/IMG_3439-3.png?fit=715%2C536",
+    "publishedAt": "2026-09-19T19:00:00.000Z",
+    "collectedAt": "2026-09-19T21:16:25.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "605516b6b8b5f52fc0041336",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-19T21:16:29.959Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
+        "fingerprint": "605516b6b8b5f52fc0041336"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 415,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "CleanSpark Prices $2.276B Secured Notes For Sandersville Data Center",
+    "link": "https://www.newsbtc.com/news/cleanspark-prices-2-276b-secured-notes-for-sandersville-data-center/",
+    "summary": "Read the latest update on CleanSpark Prices $2.276B Secured Notes For Sandersville Data Center.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/image_2026-09-14_14-38-43-2.png?fit=686%2C536",
+    "publishedAt": "2026-09-19T16:00:00.000Z",
+    "collectedAt": "2026-09-19T21:16:25.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f7973ed7b5ac51c97874c9f3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-19T21:16:30.973Z",
+    "outcome": {
+      "event": {
+        "title": "CleanSpark Prices $2.276B Secured Notes For Sandersville Data Center",
+        "fingerprint": "f7973ed7b5ac51c97874c9f3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 416,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why Trump backed a crypto ethics rule that stopped at the family business",
+    "link": "https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
+    "summary": "Washington came surprisingly close this week to writing a dollar amount into one of its thorniest crypto ethics rule debates. Under the final Senate draft of the CLARITY Act, senior federal officials holding equity worth at least $15,000 in certain businesses that issue or sponsor digital assets would have had to sell that interest or [&#8230;]\nThe post Why Trump backed a crypto ethics rule that stopped at the family business appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/trump-crypto-ethics-rule.webp",
+    "publishedAt": "2026-09-19T21:02:29.000Z",
+    "collectedAt": "2026-09-19T21:16:25.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aa4d003ed7917ef8d355046f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-19T21:16:32.198Z",
+    "outcome": {
+      "event": {
+        "title": "Why Trump backed a crypto ethics rule that stopped at the family business",
+        "fingerprint": "aa4d003ed7917ef8d355046f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 417,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
