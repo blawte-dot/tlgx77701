@@ -2291,5 +2291,45 @@
     "hasImage": true,
     "eventFingerprint": "d8950f45c3ef94be706ef650",
     "timestamp": "2026-09-19T01:06:27.441Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 393,
+    "text": "Two XRP funds just shed $5.15 million in a single wave of redemptions.\n\nThat is a speed bump, not a cliff. \n\nLarge-scale holders are staying put for now, but the next weekly flow print will decide if this is a brief pause or the start of a wider retreat.",
+    "hasImage": true,
+    "eventFingerprint": "3e8dc866236e2507104bf109",
+    "timestamp": "2026-09-19T07:00:07.122Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 394,
+    "text": "Most of the market is grinding sideways, but XRP just carved out a 7.6% move to $1.42. \n\nMoves like this usually split the room between momentum chasers and skeptics waiting for a retest. \n\nAre you looking at $1.42 as a breakout confirmation, or just another local range high to fade? \n\n#XRP",
+    "hasImage": true,
+    "eventFingerprint": "1b3d7de97b1a3e6eccaad574",
+    "timestamp": "2026-09-19T07:00:08.885Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 395,
+    "text": "Can faster block times actually revive interest in privacy-focused layer-ones?\n\nZcash developers are targeting a November upgrade for NU7, a hard fork designed to shrink block times down to 25 seconds while making private payments up to three times faster. \n\nThe proposal also introduces a long-term economic shift, earmarking at least 60% of transaction fees to supplement mining rewards once block subsidies drop in 2031. \n\nWith privacy coins facing sustained regulatory headwinds and liquidity fragmentation across alternative networks, does a technical speed boost move the needle for adoption? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "f01b756d9b611ed553255b47",
+    "timestamp": "2026-09-19T07:00:10.090Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 396,
+    "text": "Brussels has its eyes on the crypto sector again, and the friction is starting to show.\n\nBinance is pushing forward with its European expansion plans, refusing to comment on unconfirmed reports that the European Central Bank intervened to block its regulatory bid in Greece. \n\nThe exchange maintains that securing full authorization under the new MiCA framework remains a core priority, despite mounting political headwinds across the bloc. \n\nRegulatory clarity in Europe hangs in the balance as authorities vet major global players.",
+    "hasImage": true,
+    "eventFingerprint": "1e6aff71977303db754399e9",
+    "timestamp": "2026-09-19T07:00:11.543Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 397,
+    "text": "State-sponsored threat actors are fundamentally shifting how malicious code moves across blockchain rails. \n\nChainalysis data shows onchain malware infrastructure surged 420%, driven largely by sophisticated operations across multiple networks.\n\nNorth Korea-linked actors leveraged Tron, Aptos, and BNB Chain to maintain operational infrastructure. Meanwhile, suspected Iran-linked groups embedded command directions directly within Bitcoin transactions.\n\nThe findings highlight a growing reliance on public ledgers for covert command-and-control operations, moving far beyond traditional financial theft.",
+    "hasImage": true,
+    "eventFingerprint": "92d4651257a7fa0cac0124ca",
+    "timestamp": "2026-09-19T07:00:12.608Z"
   }
 ]
