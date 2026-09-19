@@ -13473,5 +13473,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Ethereum ETFs Add $29.4M Friday As Fidelity Leads Reported Flows",
+    "link": "https://www.newsbtc.com/news/ethereum-etfs-add-29-4m-friday-as-fidelity-leads-reported-flows/",
+    "summary": "Read the latest update on Ethereum ETFs Add $29.4M Friday As Fidelity Leads Reported Flows.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/a1bd08dd6ec04c2a84ac70fb1a0a3a0c.png-3.jpeg?fit=715%2C536",
+    "publishedAt": "2026-09-19T14:30:00.000Z",
+    "collectedAt": "2026-09-19T15:18:48.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "496a6593bc2dc24cbc865f38",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-19T15:18:51.203Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum ETFs Add $29.4M Friday As Fidelity Leads Reported Flows",
+        "fingerprint": "496a6593bc2dc24cbc865f38"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 403,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
+    "link": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
+    "summary": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/etf-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-09-19T15:01:03.000Z",
+    "collectedAt": "2026-09-19T15:18:48.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f6929b72a08eeae84cdfda9e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-19T15:18:52.572Z",
+    "outcome": {
+      "event": {
+        "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
+        "fingerprint": "f6929b72a08eeae84cdfda9e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 404,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin ETFs Add $324.6M As Fidelity Dominates Friday Flows",
+    "link": "https://www.newsbtc.com/news/bitcoin-etfs-add-324-6m-as-fidelity-dominates-friday-flows/",
+    "summary": "Read the latest update on Bitcoin ETFs Add $324.6M As Fidelity Dominates Friday Flows.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/unnamed.jpg?fit=750%2C422",
+    "publishedAt": "2026-09-19T13:45:00.000Z",
+    "collectedAt": "2026-09-19T15:18:48.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "981db7d11ea5f11ca67afd93",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-19T15:18:53.626Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Add $324.6M As Fidelity Dominates Friday Flows",
+        "fingerprint": "981db7d11ea5f11ca67afd93"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 405,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bastion wins conditional OCC approval for national trust bank charter",
+    "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WQCDKA6YPC5SXBN3P1FPAN/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter1.png",
+    "publishedAt": "2026-09-19T11:47:29.000Z",
+    "collectedAt": "2026-09-19T15:18:48.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "76e2ac9f05163b54ea7d36b2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-19T15:18:55.015Z",
+    "outcome": {
+      "event": {
+        "title": "Bastion wins conditional OCC approval for national trust bank charter",
+        "fingerprint": "76e2ac9f05163b54ea7d36b2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 406,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "ETH Breaks Out as Whales Wake Up and Ethereum Wallets Hit Record High",
+    "link": "https://cryptopotato.com/eth-breaks-out-as-whales-wake-up-and-ethereum-wallets-hit-record-high/",
+    "summary": "ETH surged past $2,600 on Friday for the second time this month. Can this break out be different?",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/09/ETH_CB-17.jpg",
+    "publishedAt": "2026-09-19T13:03:36.000Z",
+    "collectedAt": "2026-09-19T15:18:48.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "93024ca9c3b06ac7d0dfd13a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-19T15:18:56.358Z",
+    "outcome": {
+      "event": {
+        "title": "ETH Breaks Out as Whales Wake Up and Ethereum Wallets Hit Record High",
+        "fingerprint": "93024ca9c3b06ac7d0dfd13a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 407,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
