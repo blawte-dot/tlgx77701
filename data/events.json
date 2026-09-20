@@ -14903,5 +14903,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Offshore Bitcoin futures crash 97% as traders abandon traditional risk",
+    "link": "https://cryptoslate.com/goodbye-futures-bitcoin-found-better-ways-to-trade/",
+    "summary": "A strange thing has happened to Bitcoin's derivatives market over the past five years. The market is larger, institutions play a much bigger role, exchanges offer more sophisticated products, and traders have become far better at moving risk around. At the same time, one of the products that helped build that market has almost disappeared [&#8230;]\nThe post Offshore Bitcoin futures crash 97% as traders abandon traditional risk appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-futures-market-squeeze.webp",
+    "publishedAt": "2026-09-20T17:15:37.000Z",
+    "collectedAt": "2026-09-20T17:18:06.355Z",
+    "corroboratingSources": 1,
+    "fingerprint": "39e2803298c82d2d427e7333",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-20T17:18:08.770Z",
+    "outcome": {
+      "event": {
+        "title": "Offshore Bitcoin futures crash 97% as traders abandon traditional risk",
+        "fingerprint": "39e2803298c82d2d427e7333"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 433,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "EU staking review threatens crypto yields and network security could pay the price",
+    "link": "https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone/",
+    "summary": "Some of the most consequential financial rules begin with surprisingly little text. For example, on page 36 of the European Commission's current MiCA review, item 66 asks whether Europe's treatment of staking is adequate and, if it isn't, what requirements should apply to companies providing staking services. The question is brief, but the consequences wouldn't [&#8230;]\nThe post EU staking review threatens crypto yields and network security could pay the price appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/eu-staking-lockdown.webp",
+    "publishedAt": "2026-09-20T15:05:37.000Z",
+    "collectedAt": "2026-09-20T17:18:06.355Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d14ef4d91b02f9b003d5b77c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-20T17:18:09.933Z",
+    "outcome": {
+      "event": {
+        "title": "EU staking review threatens crypto yields and network security could pay the price",
+        "fingerprint": "d14ef4d91b02f9b003d5b77c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 434,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) ETFs Hit 10-Week Green Streak, but Solana (SOL) Funds Go Even Further",
+    "link": "https://cryptopotato.com/ripple-xrp-etfs-hit-10-week-green-streak-but-solana-sol-funds-go-even-further/",
+    "summary": "New all-time high for the XRP ETFs in terms of total cumulative net inflows.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/11/Ripple_XRP_ETF.jpg",
+    "publishedAt": "2026-09-20T14:50:01.000Z",
+    "collectedAt": "2026-09-20T17:18:06.355Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4b9d9e62e063e247553b68ae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-20T17:18:12.177Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple (XRP) ETFs Hit 10-Week Green Streak, but Solana (SOL) Funds Go Even Further",
+        "fingerprint": "4b9d9e62e063e247553b68ae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 435,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Security Alert: Web3 App Wallet Users Urged to Act Now",
+    "link": "https://u.today/xrp-security-alert-web3-app-wallet-users-urged-to-act-now",
+    "summary": "Security warning hits XRP community as Web3 wallet users face urgent action.",
+    "image": null,
+    "publishedAt": "2026-09-20T13:45:12.000Z",
+    "collectedAt": "2026-09-20T17:18:06.355Z",
+    "corroboratingSources": 1,
+    "fingerprint": "99ca60a6ac0d054c1d1525c0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-20T17:18:14.496Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Security Alert: Web3 App Wallet Users Urged to Act Now",
+        "fingerprint": "99ca60a6ac0d054c1d1525c0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 436,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+    "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+    "summary": "In a separate attack, hackers compromised nearly 500 users' accounts using stolen personal information, according to the report.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/10/20201007_Polymarket-Daily.png",
+    "publishedAt": "2026-09-20T16:07:19.000Z",
+    "collectedAt": "2026-09-20T17:18:06.355Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5fddb908fa3b761e4c781e11",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-20T17:18:16.537Z",
+    "outcome": {
+      "event": {
+        "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+        "fingerprint": "5fddb908fa3b761e4c781e11"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 437,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
