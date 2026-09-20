@@ -2249,5 +2249,40 @@
     "hasImage": true,
     "eventFingerprint": "1cc59d91bbf6cdadf117f583",
     "timestamp": "2026-09-20T09:02:58.118Z"
+  },
+  {
+    "messageId": 428,
+    "text": "Can Washington successfully direct the frontier of artificial intelligence without strangling the very innovation that drives it?\n\nDonald Trump announced plans to establish a national \"AI Force\" and appoint a dedicated federal AI czar, according to reports on Truth Social. \n\nThe stated mandate is to oversee the rapid expansion of the sector while explicitly avoiding burdensome new regulations that could hinder domestic development. \n\nDetails regarding how the force will operate, its funding mechanisms, or its interaction with existing tech infrastructure remain sparse as policy outlines take shape.",
+    "hasImage": true,
+    "eventFingerprint": "464d98d209d3292a3be05524",
+    "timestamp": "2026-09-20T13:55:57.408Z"
+  },
+  {
+    "messageId": 429,
+    "text": "Moscow is drawing a very deliberate red line between bank balance sheets and digital assets.\n\nA newly drafted regulatory framework caps Russian banks' crypto exposure at 1% of capital. At first glance, it looks like a blunt instrument designed to freeze out the sector. \n\nLook closer, however, and the math tells a different story. \n\nThe rule targets proprietary risk by counting bank-owned holdings and crypto-linked instruments directly against capital reserves. But it conditionally carves out customer assets from that same strict ceiling. \n\nBy insulating client funds from institutional speculation, regulators are effectively erecting a firewall. Banks can facilitate client access or custody without converting depositor capital into high-volatility collateral. \n\nIt is a restrictive policy, but one engineered to prevent a digital asset drawdown from triggering systemic bank failures.",
+    "hasImage": true,
+    "eventFingerprint": "f43cb506eea1b93ff6c736be",
+    "timestamp": "2026-09-20T13:56:10.505Z"
+  },
+  {
+    "messageId": 430,
+    "text": "Macro data rarely moves spot markets in isolation, but last week’s tape tested that rule. \n\nSpot Bitcoin exchange-traded funds endured a choppy stretch before a sharp Friday pivot completely reshaped their weekly flows. While early sessions reflected cautious positioning ahead of key economic prints, end-of-week demand altered the final tally. \n\nEthereum products tracked a similar trajectory, though underlying volume divergence points to differing appetite between institutional cohorts. \n\nPrice action following the closes suggests capital is waiting for structural confirmation rather than chasing short-term volatility.",
+    "hasImage": true,
+    "eventFingerprint": "3e5fd30149c1da2f2e110602",
+    "timestamp": "2026-09-20T13:56:12.033Z"
+  },
+  {
+    "messageId": 431,
+    "text": "3 steps stand between a crypto paycheck and actual groceries.\n\nReceiving a salary in stablecoins moves funds across the globe in seconds. \n\nYet the reality of spending that money remains tied to legacy rails. \n\nWorkers often have to convert digital tokens to local currency, transfer the balance to a traditional bank, and pay multiple fees along the way. \n\nThe friction eats into earnings before the bills are even paid.\n\n#Stablecoins",
+    "hasImage": true,
+    "eventFingerprint": "eff3180905de38951ee0a9c9",
+    "timestamp": "2026-09-20T13:56:13.215Z"
+  },
+  {
+    "messageId": 432,
+    "text": "Why did the Clarity Act's crucial cloture vote just collapse? 📉\n\nCoinbase Chief Policy Officer Faryar Shirzad is breaking down the legislative autopsy. \n\nAs Washington scrambles to find its footing on digital assets, the path forward for crypto regulation—and the broader outlook for a strategic Bitcoin reserve—faces an entirely new political reality. \n\nUnderstanding the wreckage matters for what comes next on Capitol Hill. Read the full breakdown below.",
+    "hasImage": true,
+    "eventFingerprint": "cb777acaf0c20bf3f09fecdc",
+    "timestamp": "2026-09-20T13:56:14.443Z"
   }
 ]

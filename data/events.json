@@ -14698,5 +14698,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+    "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2ZAWJ1EP2F4S5Q51BS1BF79/make-ai-great1.jpg",
+    "publishedAt": "2026-09-20T12:00:52.000Z",
+    "collectedAt": "2026-09-20T13:55:54.398Z",
+    "corroboratingSources": 1,
+    "fingerprint": "464d98d209d3292a3be05524",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-20T13:55:57.413Z",
+    "outcome": {
+      "event": {
+        "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+        "fingerprint": "464d98d209d3292a3be05524"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 428,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why Russia’s harsh 1% crypto cap actually protects bank customer assets",
+    "link": "https://cryptoslate.com/bank-of-russia-proposes-1-crypto-capital-cap-while-carving-out-some-client-custody/",
+    "summary": "The draft counts banks’ own holdings and crypto-linked instruments against capital but conditionally excludes customer assets.\nThe post Why Russia’s harsh 1% crypto cap actually protects bank customer assets appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/russia-client-crypto-access.webp",
+    "publishedAt": "2026-09-20T13:35:19.000Z",
+    "collectedAt": "2026-09-20T13:55:54.398Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f43cb506eea1b93ff6c736be",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-20T13:56:10.509Z",
+    "outcome": {
+      "event": {
+        "title": "Why Russia’s harsh 1% crypto cap actually protects bank customer assets",
+        "fingerprint": "f43cb506eea1b93ff6c736be"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 429,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "What Happened to Bitcoin and Ethereum ETFs During the Crucial Macro Week?",
+    "link": "https://cryptopotato.com/what-happened-to-bitcoin-and-ethereum-etfs-during-the-crucial-macro-week/",
+    "summary": "Here's how Friday changed the entire week for the BTC ETFs.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Ethereum_ETF-1.jpg",
+    "publishedAt": "2026-09-20T13:06:05.000Z",
+    "collectedAt": "2026-09-20T13:55:54.398Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e5fd30149c1da2f2e110602",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-20T13:56:12.037Z",
+    "outcome": {
+      "event": {
+        "title": "What Happened to Bitcoin and Ethereum ETFs During the Crucial Macro Week?",
+        "fingerprint": "3e5fd30149c1da2f2e110602"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 430,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Stablecoin salaries can leave workers paying to access their wages",
+    "link": "https://cryptoslate.com/stablecoin-salaries-can-leave-workers-paying-to-access-their-wages/",
+    "summary": "Every paycheck eventually has to pay for something: rent, groceries, transport, or bills. Stablecoins can move between wallets in seconds. But that does not mean an employee can spend the money immediately. They may still need to convert the stablecoins into local currency, move the money to a bank account, and pay fees along the [&#8230;]\nThe post Stablecoin salaries can leave workers paying to access their wages appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-payroll-access.webp",
+    "publishedAt": "2026-09-20T12:05:36.000Z",
+    "collectedAt": "2026-09-20T13:55:54.398Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eff3180905de38951ee0a9c9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-20T13:56:13.222Z",
+    "outcome": {
+      "event": {
+        "title": "Stablecoin salaries can leave workers paying to access their wages",
+        "fingerprint": "eff3180905de38951ee0a9c9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 431,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook",
+    "link": "https://bitcoinmagazine.com/videos/coinbase-policy-chief-strategic-bitcoin-reserve-bill-outlook",
+    "summary": "Bitcoin Magazine\n\nCoinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook\nThe Clarity Act's cloture vote failed. Coinbase Chief Policy Officer Faryar Shirzad breaks down what went wrong and where regulation goes next.\nThis post Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Coinbase-Policy-Chief-Strategic-Bitcoin-Reserve-Bill-Outlook-.jpg",
+    "publishedAt": "2026-09-20T13:15:42.000Z",
+    "collectedAt": "2026-09-20T13:55:54.398Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cb777acaf0c20bf3f09fecdc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-20T13:56:14.449Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook",
+        "fingerprint": "cb777acaf0c20bf3f09fecdc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 432,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
