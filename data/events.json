@@ -14493,5 +14493,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Fetch.ai exploit drains $2M as NTX crashes 95% &#8211; What went wrong?",
+    "link": "https://ambcrypto.com/fet-bridge-drained-408-5m-ntx-minted-inside-the-2m-exploit/",
+    "summary": "A $2 million exploit hits Fetch.ai and NuNet, sending FET lower while NTX suffers a severe collapse after unauthorized minting.",
+    "image": null,
+    "publishedAt": "2026-09-20T08:00:30.000Z",
+    "collectedAt": "2026-09-20T09:02:50.663Z",
+    "corroboratingSources": 1,
+    "fingerprint": "75d8bc740170648670421357",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-20T09:02:53.664Z",
+    "outcome": {
+      "event": {
+        "title": "Fetch.ai exploit drains $2M as NTX crashes 95% &#8211; What went wrong?",
+        "fingerprint": "75d8bc740170648670421357"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 423,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+    "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2YW25DDE8NF21CYADDSPH7S/ai-machine-cyber-mind.png",
+    "publishedAt": "2026-09-20T07:51:24.000Z",
+    "collectedAt": "2026-09-20T09:02:50.663Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ef2a18b40894ac8d3f33fff3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-20T09:02:54.627Z",
+    "outcome": {
+      "event": {
+        "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+        "fingerprint": "ef2a18b40894ac8d3f33fff3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 424,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+    "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
+    "summary": "Fidelity's FBTC accounted for $310.7 million of Friday’s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
+    "publishedAt": "2026-09-19T18:01:09.000Z",
+    "collectedAt": "2026-09-20T09:02:50.663Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f12adcdb5d48e2e9814a4209",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-20T09:02:55.680Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+        "fingerprint": "f12adcdb5d48e2e9814a4209"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 425,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why Bitcoin’s 63% HODL wave isn’t the mega bull signal everyone thinks it is",
+    "link": "https://cryptoslate.com/why-bitcoins-63-3-hodl-wave-isnt-the-mega-bull-signal-everyone-thinks-it-is/",
+    "summary": "The one-year share rose 0.98 percentage points in a month while adjacent age bands shifted around the threshold.\nThe post Why Bitcoin’s 63% HODL wave isn’t the mega bull signal everyone thinks it is appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-aging-clock.webp",
+    "publishedAt": "2026-09-20T06:30:40.000Z",
+    "collectedAt": "2026-09-20T09:02:50.663Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0f7570cec4a43f2b32eb5a7b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-20T09:02:56.866Z",
+    "outcome": {
+      "event": {
+        "title": "Why Bitcoin’s 63% HODL wave isn’t the mega bull signal everyone thinks it is",
+        "fingerprint": "0f7570cec4a43f2b32eb5a7b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 426,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple Whales Go on Massive Accumulation Spree: Bigger XRP Price Move Coming?",
+    "link": "https://cryptopotato.com/ripple-whales-go-on-massive-accumulation-spree-bigger-xrp-price-move-coming/",
+    "summary": "XRP rebounded past a key resistance level after the Friday resurgence but can it climb higher?",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/05/XRP_CB-14.jpg",
+    "publishedAt": "2026-09-19T15:38:11.000Z",
+    "collectedAt": "2026-09-20T09:02:50.663Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1cc59d91bbf6cdadf117f583",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-20T09:02:58.123Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Whales Go on Massive Accumulation Spree: Bigger XRP Price Move Coming?",
+        "fingerprint": "1cc59d91bbf6cdadf117f583"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 427,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
