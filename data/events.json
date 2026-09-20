@@ -14288,5 +14288,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "$2 XRP Dream Is Back: Crypto Whales Absorb $2.2 Billion Tokens in 96-Hour Spree",
+    "link": "https://u.today/2-xrp-dream-is-back-crypto-whales-absorb-22-billion-tokens-in-96-hour-spree",
+    "summary": "A massive $2.2 billion whale buying spree drains XRP from exchanges, setting the stage for a breakout toward $2.",
+    "image": null,
+    "publishedAt": "2026-09-20T02:00:00.000Z",
+    "collectedAt": "2026-09-20T03:16:03.361Z",
+    "corroboratingSources": 1,
+    "fingerprint": "02835804259bb7578e7cb43f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-20T03:16:05.344Z",
+    "outcome": {
+      "event": {
+        "title": "$2 XRP Dream Is Back: Crypto Whales Absorb $2.2 Billion Tokens in 96-Hour Spree",
+        "fingerprint": "02835804259bb7578e7cb43f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": null,
+        "result": {
+          "published": true,
+          "messageId": 418,
+          "hasImage": false
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+    "summary": "U.S. agencies are racing to substitute their regulations for the law that was meant to set crypto markets in governmental bedrock, but will the stand-ins last?",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-19T16:00:00.000Z",
+    "collectedAt": "2026-09-20T03:16:03.361Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bf9ecc5583e1f6f176300a3b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-20T03:16:06.418Z",
+    "outcome": {
+      "event": {
+        "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+        "fingerprint": "bf9ecc5583e1f6f176300a3b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 419,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+    "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+    "summary": "Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/621a7e00d26515615073001d3c97123324394f4b-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-19T14:00:00.000Z",
+    "collectedAt": "2026-09-20T03:16:03.361Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d099c92ee05c1f5245463d68",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-20T03:16:07.487Z",
+    "outcome": {
+      "event": {
+        "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+        "fingerprint": "d099c92ee05c1f5245463d68"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 420,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+    "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+    "summary": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a63acd47852ba011bc655fb44db8d5af16180542-3024x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-19T12:13:57.000Z",
+    "collectedAt": "2026-09-20T03:16:03.361Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f0f0addce02a15651f209c32",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-20T03:16:08.582Z",
+    "outcome": {
+      "event": {
+        "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+        "fingerprint": "f0f0addce02a15651f209c32"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 421,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+    "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+    "summary": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b18ee53b50842f9ee6f7eb1059651463c7e51c9a-765x430.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-19T12:00:00.000Z",
+    "collectedAt": "2026-09-20T03:16:03.361Z",
+    "corroboratingSources": 1,
+    "fingerprint": "abdfa7f4c63faabf5aa700fe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-20T03:16:09.524Z",
+    "outcome": {
+      "event": {
+        "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+        "fingerprint": "abdfa7f4c63faabf5aa700fe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 422,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
