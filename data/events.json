@@ -15313,5 +15313,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Robinhood Engineers Charged After Allegedly Trading Crypto on Secret Listing Information",
+    "link": "https://cryptopotato.com/robinhood-engineers-charged-after-allegedly-trading-crypto-on-secret-listing-information/",
+    "summary": "Two engineers allegedly turned confidential Robinhood crypto listing plans into profitable Hyperliquid trades, according to newly unsealed complaints.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/11/robinhood_hack_cover.jpg",
+    "publishedAt": "2026-09-20T22:16:37.000Z",
+    "collectedAt": "2026-09-20T22:56:43.161Z",
+    "corroboratingSources": 1,
+    "fingerprint": "08fd0e9b4973e5b79a387c30",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-20T22:56:45.779Z",
+    "outcome": {
+      "event": {
+        "title": "Robinhood Engineers Charged After Allegedly Trading Crypto on Secret Listing Information",
+        "fingerprint": "08fd0e9b4973e5b79a387c30"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 443,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bastion Wins Conditional OCC Approval For National Trust Bank Charter",
+    "link": "https://www.newsbtc.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter/",
+    "summary": "Read the latest update on Bastion Wins Conditional OCC Approval For National Trust Bank Charter.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/image1.jpg?fit=717%2C536",
+    "publishedAt": "2026-09-20T22:15:00.000Z",
+    "collectedAt": "2026-09-20T22:56:43.161Z",
+    "corroboratingSources": 2,
+    "fingerprint": "86aeef8c3385fa323e106fbd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9.5,
+    "processedAt": "2026-09-20T22:56:47.204Z",
+    "outcome": {
+      "event": {
+        "title": "Bastion Wins Conditional OCC Approval For National Trust Bank Charter",
+        "fingerprint": "86aeef8c3385fa323e106fbd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 444,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Iranian Crypto Exchange BitBank Lands on US Treasury&#8217;s Sanctions List",
+    "link": "https://cryptopotato.com/iranian-crypto-exchange-bitbank-lands-on-us-treasurys-sanctions-list/",
+    "summary": "US Treasury has expanded its Iran crackdown by targeting BitBank, its developer, and executives linked to financier Babak Zanjani.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/11/Iran.jpg",
+    "publishedAt": "2026-09-20T20:20:39.000Z",
+    "collectedAt": "2026-09-20T22:56:43.161Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c1f4a65ec4c8a6550238d8e4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-20T22:56:48.413Z",
+    "outcome": {
+      "event": {
+        "title": "Iranian Crypto Exchange BitBank Lands on US Treasury&#8217;s Sanctions List",
+        "fingerprint": "c1f4a65ec4c8a6550238d8e4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 445,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "144 Billion SHIB Netflow Sends Warning Amid 5% Price Rally",
+    "link": "https://u.today/144-billion-shib-netflow-sends-warning-amid-5-price-rally",
+    "summary": "Shiba Inu is seeing a major price rally with its price showing massive daily gains. However, its exchange activity suggests that the rally may be short-lived.",
+    "image": null,
+    "publishedAt": "2026-09-20T22:30:00.000Z",
+    "collectedAt": "2026-09-20T22:56:43.161Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ed6ac3fe6b599e564dec2df8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-20T22:56:50.247Z",
+    "outcome": {
+      "event": {
+        "title": "144 Billion SHIB Netflow Sends Warning Amid 5% Price Rally",
+        "fingerprint": "ed6ac3fe6b599e564dec2df8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 446,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why Bitcoin&#8217;s rally above $80,000 isn&#8217;t backed by institutional conviction",
+    "link": "https://cryptoslate.com/why-bitcoins-rally-above-80000-isnt-backed-by-institutional-conviction/",
+    "summary": "Leveraged funds became 7,275 BTC-equivalent less net short as asset-manager longs fell and weekly ETF demand barely stayed positive.\nThe post Why Bitcoin&#8217;s rally above $80,000 isn&#8217;t backed by institutional conviction appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-institutional-conviction.webp",
+    "publishedAt": "2026-09-20T11:05:32.000Z",
+    "collectedAt": "2026-09-20T22:56:43.161Z",
+    "corroboratingSources": 1,
+    "fingerprint": "03733a775e1ee1cf29814833",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-20T22:56:51.336Z",
+    "outcome": {
+      "event": {
+        "title": "Why Bitcoin&#8217;s rally above $80,000 isn&#8217;t backed by institutional conviction",
+        "fingerprint": "03733a775e1ee1cf29814833"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 447,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

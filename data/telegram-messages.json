@@ -2354,5 +2354,40 @@
     "hasImage": true,
     "eventFingerprint": "a69393b35d7cec09316e04e1",
     "timestamp": "2026-09-20T20:16:58.203Z"
+  },
+  {
+    "messageId": 443,
+    "text": "Insider information rarely stays inside for long.\n\nUnconfirmed reports suggest two former Robinhood engineers are facing charges after allegedly leveraging confidential asset listing data to trade on-chain perpetuals. \n\nAccording to unsealed complaints, the pair used private knowledge of upcoming token support to position themselves ahead of public announcements, routing activity through decentralized venues like Hyperliquid. \n\nFederal authorities claim the scheme exploited non-public roadmap details for private gain. \n\nIf proven, the case highlights an ongoing vulnerability across crypto markets: traditional insider trading enforcement is rapidly expanding into decentralized liquidity layers.",
+    "hasImage": true,
+    "eventFingerprint": "08fd0e9b4973e5b79a387c30",
+    "timestamp": "2026-09-20T22:56:45.773Z"
+  },
+  {
+    "messageId": 444,
+    "text": "Another traditional banking barrier is quietly giving way to digital assets. \n\nBastion has secured conditional approval from the Office of the Comptroller of the Currency for a national trust bank charter. \n\nMultiple outlets are confirming the milestone this morning, marking a notable step for institutional crypto infrastructure in the US. \n\nThe conditional green light clears the path for regulated custody and settlement services, though final operational clearance still requires meeting specific regulatory benchmarks. \n\nFederal oversight of digital asset custody continues to evolve through formal channels rather than ad-hoc enforcement.",
+    "hasImage": true,
+    "eventFingerprint": "86aeef8c3385fa323e106fbd",
+    "timestamp": "2026-09-20T22:56:47.199Z"
+  },
+  {
+    "messageId": 445,
+    "text": "Washington is tightening the screws on networks moving capital through digital assets.\n\nThe US Treasury has added Iranian crypto exchange BitBank to its sanctions list, alongside its developer and key executives tied to sanctioned financier Babak Zanjani. \n\nThe designation targets the platform's infrastructure and leadership as part of an ongoing crackdown on financial channels linked to Tehran.",
+    "hasImage": true,
+    "eventFingerprint": "c1f4a65ec4c8a6550238d8e4",
+    "timestamp": "2026-09-20T22:56:48.408Z"
+  },
+  {
+    "messageId": 446,
+    "text": "A 5% price rally in Shiba Inu is colliding with a sudden surge in exchange inflows.\n\nData shows 144 billion SHIB moving onto trading platforms over the recent session. \n\nWhen large volumes of tokens shift to exchanges during upward price movement, it often signals growing intent to sell. \n\nMarkets are currently weighing whether this incoming liquidity will overwhelm the ongoing bullish momentum.",
+    "hasImage": true,
+    "eventFingerprint": "ed6ac3fe6b599e564dec2df8",
+    "timestamp": "2026-09-20T22:56:50.241Z"
+  },
+  {
+    "messageId": 447,
+    "text": "7,275 BTC. \n\nThat is how much leveraged funds reduced their net short exposure while asset-manager longs simultaneously declined and ETF inflows barely stayed in the green above $80,000. \n\nIt paints a picture of a price move driven more by derivative positioning than heavy spot accumulation from institutional heavyweights. \n\nAre you viewing this breakout as a genuine shift in market structure, or a short-squeeze vulnerability waiting to correct?",
+    "hasImage": true,
+    "eventFingerprint": "03733a775e1ee1cf29814833",
+    "timestamp": "2026-09-20T22:56:51.331Z"
   }
 ]
