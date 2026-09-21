@@ -16256,5 +16256,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+    "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+    "summary": "TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ae66c07fe3a2ee0c2b80924fc58d5fde4340dc5-8192x5464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-21T19:08:40.000Z",
+    "collectedAt": "2026-09-21T21:41:00.287Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ce75a83b19511a126ac47da5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-21T21:41:06.289Z",
+    "outcome": {
+      "event": {
+        "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+        "fingerprint": "ce75a83b19511a126ac47da5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 466,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "OCC Gives Catena Preliminary Conditional Approval for National Trust Bank",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/occ-gives-catena-preliminary-conditional-approval-for-national-trust-bank",
+    "summary": "The proposed bank could custody and manage fiat, securities and digital assets, but Catena must meet capital, liquidity and preopening requirements before it can operate.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/a8afb53735035d636e8bf51800b44b7a07a28d1d-2048x1152.png",
+    "publishedAt": "2026-09-21T21:00:08.000Z",
+    "collectedAt": "2026-09-21T21:41:00.287Z",
+    "corroboratingSources": 2,
+    "fingerprint": "9b8bb3144ee3b092d498dfe9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-21T21:41:10.204Z",
+    "outcome": {
+      "event": {
+        "title": "OCC Gives Catena Preliminary Conditional Approval for National Trust Bank",
+        "fingerprint": "9b8bb3144ee3b092d498dfe9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 467,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+    "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+    "summary": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/05/christine-lagarde-ecb-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-09-21T19:00:04.000Z",
+    "collectedAt": "2026-09-21T21:41:00.287Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5a0849baf5cdb4d151d8cdfa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-21T21:41:14.235Z",
+    "outcome": {
+      "event": {
+        "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+        "fingerprint": "5a0849baf5cdb4d151d8cdfa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 468,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "ECB launches ‘digital euro for banks’ and prepares to buy tokenized bonds",
+    "link": "https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/",
+    "summary": "The Eurosystem launched the wholesale settlement system while the ECB began work on a small, undisclosed investment in tokenized public-sector securities.\nThe post ECB launches ‘digital euro for banks’ and prepares to buy tokenized bonds appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ecb-tokenized-bond-settlement.webp",
+    "publishedAt": "2026-09-21T21:00:23.000Z",
+    "collectedAt": "2026-09-21T21:41:00.287Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c6219033c07044c3d04e7f0e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-21T21:41:17.535Z",
+    "outcome": {
+      "event": {
+        "title": "ECB launches ‘digital euro for banks’ and prepares to buy tokenized bonds",
+        "fingerprint": "c6219033c07044c3d04e7f0e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 469,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin ETF Holders Back in the Black as Price Barrels Towards $87,000",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-etf-holders-back-in-profit",
+    "summary": "Bitcoin Magazine\n\nBitcoin ETF Holders Back in the Black as Price Barrels Towards $87,000\nBitcoin exchange-traded fund holders are now in profit for the first time since January. \nThis post Bitcoin ETF Holders Back in the Black as Price Barrels Towards $87,000 first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-30.jpg",
+    "publishedAt": "2026-09-21T20:32:32.000Z",
+    "collectedAt": "2026-09-21T21:41:00.287Z",
+    "corroboratingSources": 1,
+    "fingerprint": "998209c6b0fa684db2e6d538",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-21T21:41:21.087Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF Holders Back in the Black as Price Barrels Towards $87,000",
+        "fingerprint": "998209c6b0fa684db2e6d538"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 470,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

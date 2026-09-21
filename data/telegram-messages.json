@@ -2515,5 +2515,40 @@
     "hasImage": true,
     "eventFingerprint": "b0ae7009bb207007ff532bd0",
     "timestamp": "2026-09-21T17:52:10.690Z"
+  },
+  {
+    "messageId": 466,
+    "text": "Tokenized equities are coming for Wall Street's infrastructure, but the demand side remains a massive question mark.\n\nTD Cowen’s Washington Research Group published a note this week pointing to a quiet reality beneath the SEC's recent regulatory openings: institutional appetite for tokenized traditional stocks is likely to stay muted in the near term.\n\nWhile new rules technically pave the way for trading outside legacy clearinghouses, broker-dealers face steep hurdles around custody, liquidity fragmentation, and compliance. \n\nThe technology works. The regulatory framework is shifting. But legacy market participants still see little operational incentive to trade tokenized shares over standard rails.",
+    "hasImage": true,
+    "eventFingerprint": "ce75a83b19511a126ac47da5",
+    "timestamp": "2026-09-21T21:41:06.282Z"
+  },
+  {
+    "messageId": 467,
+    "text": "Federal banking regulators are quietly redrawing the line between traditional finance and crypto rails.\n\nThe Office of the Comptroller of the Currency has granted preliminary conditional approval for Catena to form a national trust bank. \n\nIf final hurdles are cleared, the institution will be authorized to custody fiat, traditional securities, and digital assets under a federal charter. \n\nIt is a notable step for institutional crypto infrastructure, though Catena still faces strict capital, liquidity, and preopening benchmarks before opening its doors. \n\n#CryptoRegulation",
+    "hasImage": true,
+    "eventFingerprint": "9b8bb3144ee3b092d498dfe9",
+    "timestamp": "2026-09-21T21:41:10.197Z"
+  },
+  {
+    "messageId": 468,
+    "text": "Is institutional resistance to tokenized finance finally cracking at the top?\n\nThe European Central Bank is preparing to deploy its own funds into tokenized securities, marking a significant operational shift for the institution. \n\nUnder the plan, the central bank will acquire euro-denominated public-sector debt and settle the transactions via its newly developed Pontes infrastructure. \n\nWhile commercial trials have tested distributed ledger technology for wholesale settlements before, direct central bank participation at this scale signals a changing posture toward on-chain markets. \n\nImplementation timelines remain tied to ongoing infrastructure testing across the eurozone.",
+    "hasImage": true,
+    "eventFingerprint": "5a0849baf5cdb4d151d8cdfa",
+    "timestamp": "2026-09-21T21:41:14.228Z"
+  },
+  {
+    "messageId": 469,
+    "text": "Institutional rails for the euro are shifting. \n\nThe Eurosystem has officially launched its wholesale settlement system, providing commercial banks with a digital framework for central bank money. \n\nAt the same time, the European Central Bank is preparing a small, undisclosed investment to test tokenized public-sector securities. \n\nWhile retail central bank digital currencies face public resistance, wholesale adoption is moving forward quietly. Traditional finance is building its tokenized future from the inside out. \n\n#CryptoMarkets",
+    "hasImage": true,
+    "eventFingerprint": "c6219033c07044c3d04e7f0e",
+    "timestamp": "2026-09-21T21:41:17.528Z"
+  },
+  {
+    "messageId": 470,
+    "text": "Are spot ETF buyers finally looking at green portfolios again? 📊\n\nBitcoin's push toward the $87,000 level has pushed exchange-traded fund holders back into net profit for the first time since January, according to data highlighted by Bitcoin Magazine. \n\nThe renewed momentum marks a notable shift for institutional inflows that spent weeks underwater following earlier market pullbacks.",
+    "hasImage": true,
+    "eventFingerprint": "998209c6b0fa684db2e6d538",
+    "timestamp": "2026-09-21T21:41:21.080Z"
   }
 ]
