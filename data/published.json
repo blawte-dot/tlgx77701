@@ -2795,5 +2795,45 @@
     "hasImage": true,
     "eventFingerprint": "0728a13fa1edcb3fab4e8c85",
     "timestamp": "2026-09-21T05:52:14.511Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 456,
+    "text": "Three to five business days just became zero.\n\nHana Bank has officially completed South Korea's first digital bond issuance, dropping a $100 million foreign-currency debt instrument onto Euroclear’s blockchain infrastructure. \n\nThe move eliminates traditional settlement lag by moving issuance and clearing onto a shared ledger. \n\nTraditional institutional finance continues its quiet migration to distributed infrastructure. While retail watches price action, major banks are rewriting the plumbing behind global debt markets.",
+    "hasImage": true,
+    "eventFingerprint": "1ccc8acdf94603aa64a3fde7",
+    "timestamp": "2026-09-21T11:55:37.339Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 457,
+    "text": "3 central banks just took a massive step toward bridging traditional finance and DLT. \n\nThe European Central Bank has officially rolled out its Pontes settlement platform. \n\nDesigned specifically for wholesale markets, the infrastructure connects distributed ledger technology networks directly to central bank payment rails. \n\nCrucially, this is entirely separate from the retail digital euro pilot slated for 2027. \n\nInstead, Pontes focuses on what matters most to institutional adoption: enabling commercial banks and market operators to settle tokenized assets securely using central bank money. 🏛️",
+    "hasImage": true,
+    "eventFingerprint": "e194f4e734190a264ca9abb8",
+    "timestamp": "2026-09-21T11:55:38.879Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 458,
+    "text": "How much fuel do bearish bets have left after a nearly $750 million wipeout?\n\nBitcoin broke the $85,000 threshold for the first time since January today, triggering a sharp wave of liquidations across derivatives markets. \n\nData from CoinGlass shows that the vast majority of those forced closures hit short positions as prices climbed higher through the session. \n\nVolume and open interest are shifting rapidly as the move develops. We are monitoring order books for follow-through as key resistance levels clear.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "a97e8117fd4aba1a38e8a514",
+    "timestamp": "2026-09-21T11:55:40.588Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 459,
+    "text": "South Korea is systematically dismantling the final barriers keeping global capital out of its domestic markets.\n\nThe Bank of Korea just kicked off a 24-hour settlement pilot for foreign investors, removing the friction of traditional time-zone constraints. \n\nParticipants can now settle won-denominated transactions directly during business hours in their home regions. \n\nIt is a concrete step toward internationalizing the won and securing MSCI developed-market status down the line.",
+    "hasImage": true,
+    "eventFingerprint": "c342361eaac2ae10c07bbcba",
+    "timestamp": "2026-09-21T11:55:41.848Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 460,
+    "text": "Ever wonder why the Fed keeps swinging at a market that just refuses to stay down? \n\nBitcoin shrugged off the latest rate hike chatter, bouncing firmly 9% off the $74K floor to prove macro bears are still swinging at shadows. \n\nNow, attention shifts upward. A dense cluster of short liquidations stretching from $83K to $86K sits waiting like dry tinder. \n\nWhen positioning gets this one-sided, it doesn't take much to spark a squeeze.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "526da308efdfe46d55c39543",
+    "timestamp": "2026-09-21T11:55:43.776Z"
   }
 ]

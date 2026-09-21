@@ -15846,5 +15846,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+    "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+    "summary": "South Korea's second-largest bank’s $100 million foreign-currency bond blockchain issuance shortened settlement time to the same day from three to five business days.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ca0c5227db16e3f89f1df6c7b19698cc547c9f6-3192x1772.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-21T08:49:59.000Z",
+    "collectedAt": "2026-09-21T11:55:34.612Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1ccc8acdf94603aa64a3fde7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-21T11:55:37.358Z",
+    "outcome": {
+      "event": {
+        "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+        "fingerprint": "1ccc8acdf94603aa64a3fde7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 456,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+    "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+    "summary": "The EU central bank's new wholesale platform connects DLT market infrastructure to its payment rails, separate from the retail digital euro pilot planned for 2027.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-21T11:18:55.000Z",
+    "collectedAt": "2026-09-21T11:55:34.612Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e194f4e734190a264ca9abb8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-21T11:55:39.000Z",
+    "outcome": {
+      "event": {
+        "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+        "fingerprint": "e194f4e734190a264ca9abb8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 457,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin taps $85,000 for first time since January as crypto short liquidations surge",
+    "link": "https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905",
+    "summary": "CoinGlass recorded at least $750 million in crypto liquidations over 24 hours, most of them short positions.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/01/20240111_Bitcoin_News_1.jpg",
+    "publishedAt": "2026-09-21T10:56:54.000Z",
+    "collectedAt": "2026-09-21T11:55:34.612Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a97e8117fd4aba1a38e8a514",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-21T11:55:40.592Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin taps $85,000 for first time since January as crypto short liquidations surge",
+        "fingerprint": "a97e8117fd4aba1a38e8a514"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 458,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+    "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Bank of Korea’s new network will let foreign investors settle won transactions during business hours in their home countries.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M319R3JF98CG6WKRPGXHA151/sk-cbdc.png",
+    "publishedAt": "2026-09-21T06:41:23.000Z",
+    "collectedAt": "2026-09-21T11:55:34.612Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c342361eaac2ae10c07bbcba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-21T11:55:41.852Z",
+    "outcome": {
+      "event": {
+        "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+        "fingerprint": "c342361eaac2ae10c07bbcba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 459,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin bounces 9% off $74K as Fed rate hike fails to drown bulls",
+    "link": "https://ambcrypto.com/bitcoin-bounces-9-off-74k-as-fed-rate-hike-fails-to-drown-bulls/",
+    "summary": "The cluster of short liquidations around $83k-$86k can be rocket fuel for a BTC price move higher.",
+    "image": null,
+    "publishedAt": "2026-09-21T10:30:00.000Z",
+    "collectedAt": "2026-09-21T11:55:34.612Z",
+    "corroboratingSources": 1,
+    "fingerprint": "526da308efdfe46d55c39543",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-21T11:55:43.779Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin bounces 9% off $74K as Fed rate hike fails to drown bulls",
+        "fingerprint": "526da308efdfe46d55c39543"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 460,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
