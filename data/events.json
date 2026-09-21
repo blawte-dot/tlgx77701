@@ -15518,5 +15518,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Younger Investors Could Help Bitcoin ETFs Overtake Gold: Analyst",
+    "link": "https://cryptopotato.com/younger-investors-could-help-bitcoin-etfs-overtake-gold-analyst/",
+    "summary": "The analyst says Bitcoin's biggest hurdle with investors is volatility, but he expects that concern to fade as the market matures.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/02/Bitcoin_Gold_ETF.jpg",
+    "publishedAt": "2026-09-20T18:05:39.000Z",
+    "collectedAt": "2026-09-21T00:52:53.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "70257307e37e777bfe62943c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-21T00:52:55.577Z",
+    "outcome": {
+      "event": {
+        "title": "Younger Investors Could Help Bitcoin ETFs Overtake Gold: Analyst",
+        "fingerprint": "70257307e37e777bfe62943c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 448,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Strategy&#8217;s Saylor Teases New Bitcoin Buy Despite Fed Hike and CLARITY Setback",
+    "link": "https://cryptopotato.com/strategys-saylor-teases-new-bitcoin-buy-despite-fed-hike-and-clarity-setback/",
+    "summary": "Will this be Strategy's first purchase in three weeks?",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/08/Michael_Saylor.jpg",
+    "publishedAt": "2026-09-20T13:30:18.000Z",
+    "collectedAt": "2026-09-21T00:52:53.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "03aba2e5f33463561079a0d1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-21T00:52:56.508Z",
+    "outcome": {
+      "event": {
+        "title": "Strategy&#8217;s Saylor Teases New Bitcoin Buy Despite Fed Hike and CLARITY Setback",
+        "fingerprint": "03aba2e5f33463561079a0d1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 449,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Zcash (ZEC), Hyperliquid (HYPE), Avalanche (AVAX) and Shiba Inu (SHIB) Price Analysis for September 21: Pivotal Moment for Bullish Market",
+    "link": "https://u.today/price-analysis/zcash-zec-hyperliquid-hype-avalanche-avax-and-shiba-inu-shib-price-analysis-for-september-21",
+    "summary": "Altcoins approach key technical levels as traders watch for breakouts, pullbacks and signs of momentum exhaustion.",
+    "image": null,
+    "publishedAt": "2026-09-21T00:01:00.000Z",
+    "collectedAt": "2026-09-21T00:52:53.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c74fcc876c9ae6da09b241b7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-21T00:52:58.463Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash (ZEC), Hyperliquid (HYPE), Avalanche (AVAX) and Shiba Inu (SHIB) Price Analysis for September 21: Pivotal Moment for Bullish Market",
+        "fingerprint": "c74fcc876c9ae6da09b241b7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 450,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ethereum supply tightens as ETH price reclaims $2,500 &#8211; What&#8217;s next?",
+    "link": "https://ambcrypto.com/ethereum-supply-tightens-as-eth-price-reclaims-2500-whats-next/",
+    "summary": "Ethereum’s supply dynamics are tightening as staking and ETF demand reshape the market around $2,500.",
+    "image": null,
+    "publishedAt": "2026-09-20T17:00:25.000Z",
+    "collectedAt": "2026-09-21T00:52:53.564Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f11ad42694cd76f8a74b4198",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-21T00:52:59.539Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum supply tightens as ETH price reclaims $2,500 &#8211; What&#8217;s next?",
+        "fingerprint": "f11ad42694cd76f8a74b4198"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 451,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Solana&#8217;s October setup: Record activity, ETF inflows, and a brewing breakout",
+    "link": "https://ambcrypto.com/solanas-october-setup-record-activity-etf-inflows-and-a-brewing-breakout/",
+    "summary": "SOL’s relative strength points to a potential October breakout setup.",
+    "image": null,
+    "publishedAt": "2026-09-20T15:00:34.000Z",
+    "collectedAt": "2026-09-21T00:52:53.564Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9166117ff3222c41d5556ebb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-21T00:53:00.585Z",
+    "outcome": {
+      "event": {
+        "title": "Solana&#8217;s October setup: Record activity, ETF inflows, and a brewing breakout",
+        "fingerprint": "9166117ff3222c41d5556ebb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 452,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
