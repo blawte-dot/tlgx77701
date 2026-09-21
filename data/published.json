@@ -2835,5 +2835,45 @@
     "hasImage": true,
     "eventFingerprint": "526da308efdfe46d55c39543",
     "timestamp": "2026-09-21T11:55:43.776Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 461,
+    "text": "Could Moscow be about to legalise the entire domestic crypto sector before the year is out?\n\nRussia's central bank is signaling a potential framework for legal crypto operations by year-end, marking a sharp pivot in how the state approaches digital assets. \n\nAccording to reports via Bitcoin Magazine, the regulatory stance is shifting as authorities look to bring trading and infrastructure out of the gray market. \n\nImplementation details remain scarce, and enforcement mechanisms are yet to be tested. \n\nIf finalized, the move could fundamentally alter how Russian capital interacts with global crypto liquidity under ongoing international sanctions.",
+    "hasImage": true,
+    "eventFingerprint": "0c43cb750d39369afe8922d7",
+    "timestamp": "2026-09-21T17:52:04.278Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 462,
+    "text": "Institutional crypto infrastructure is quietly expanding across emerging markets while Western regulators remain mired in turf wars.\n\nAbsa Corporate and Investment Banking has partnered with Ripple to deploy digital asset custody services throughout Africa. \n\nThe move marks a significant scaling of enterprise-grade custody on the continent, tapping into rapidly growing demand for regulated blockchain rails. \n\nAbsa CIB brings major traditional banking weight to the rollout, signaling that institutional adoption in Africa is moving past the pilot phase into commercial deployment. 🌐",
+    "hasImage": true,
+    "eventFingerprint": "944bb17a1c2fb2cca5a54f8d",
+    "timestamp": "2026-09-21T17:52:06.142Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 463,
+    "text": "Recovering stolen funds doesn't mean your wallet gets refilled. \n\nBalancer is clawing back $1.4 million from a past exploit, but liquidity providers caught in the crossfire are still facing a long wait for restitution. \n\nGovernance proposals outline a complex recovery mechanism relying on attack-time losses and pre-exploit snapshots. \n\nYet the operational path forward remains jammed. \n\nCrucially, no claim window for legacy V1 pools has been opened, leaving affected depositors in administrative limbo while the protocol sorts out distribution logistics. 📉",
+    "hasImage": true,
+    "eventFingerprint": "ff5e8cad56268fe80c91c284",
+    "timestamp": "2026-09-21T17:52:07.363Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 464,
+    "text": "Months of underwater positions for US spot Bitcoin ETF holders ended as the asset pushed near $86,000.\n\nThe roughly 6% 24-hour gain wiped out an estimated $86 billion drawdown that had tested institutional conviction since earlier market peaks. \n\nBloomberg Intelligence analyst James Seyffart noted the recovery brings the average ETF cost basis back into profitable territory. \n\nNet flows and volume are now responding to the structural shift. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "dd9126774eaeb48667995398",
+    "timestamp": "2026-09-21T17:52:09.300Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 465,
+    "text": "Traditional banking lobbies just got handed the best regulatory vacuum money can't buy.\n\nThe U.S. Senate’s refusal to pass the Clarity Act leaves stablecoin yields effectively dead in the water domestically. \n\nWall Street banks wanted to protect their low-yield deposits from crypto competition, and lawmakers just delivered. \n\nMeanwhile, Dubai and other offshore hubs are quietly clearing space on their desks for the incoming flood of American capital and builders.",
+    "hasImage": true,
+    "eventFingerprint": "b0ae7009bb207007ff532bd0",
+    "timestamp": "2026-09-21T17:52:10.694Z"
   }
 ]

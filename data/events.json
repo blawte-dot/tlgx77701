@@ -16051,5 +16051,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Russian Crypto Industry Could Be Operating Legally by Year-End: Central Bank",
+    "link": "https://bitcoinmagazine.com/news/russia-crypto-industry-could-be-operating",
+    "summary": "Bitcoin Magazine\n\nRussian Crypto Industry Could Be Operating Legally by Year-End: Central Bank\nRussia has been moving ahead with crypto regulation this year. \nThis post Russian Crypto Industry Could Be Operating Legally by Year-End: Central Bank first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-28.jpg",
+    "publishedAt": "2026-09-21T16:48:50.000Z",
+    "collectedAt": "2026-09-21T17:52:01.581Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0c43cb750d39369afe8922d7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-21T17:52:04.282Z",
+    "outcome": {
+      "event": {
+        "title": "Russian Crypto Industry Could Be Operating Legally by Year-End: Central Bank",
+        "fingerprint": "0c43cb750d39369afe8922d7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 461,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Executive Reveals New Partnership to Launch Digital Asset Custody in Africa",
+    "link": "https://u.today/ripple-executive-reveals-new-partnership-to-launch-digital-asset-custody-in-africa",
+    "summary": "Ripple has entered a major partnership with Absa Corporate and Investment Banking (CIB) to launch Absa Digital Asset Custody in Africa.",
+    "image": null,
+    "publishedAt": "2026-09-21T12:47:54.000Z",
+    "collectedAt": "2026-09-21T17:52:01.582Z",
+    "corroboratingSources": 1,
+    "fingerprint": "944bb17a1c2fb2cca5a54f8d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-21T17:52:06.146Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Executive Reveals New Partnership to Launch Digital Asset Custody in Africa",
+        "fingerprint": "944bb17a1c2fb2cca5a54f8d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 462,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why Balancer’s $1.4M hack recovery won’t pay LPs anytime soon",
+    "link": "https://cryptoslate.com/why-balancers-1-4m-hack-recovery-wont-pay-lps-anytime-soon/",
+    "summary": "The pending plan uses attack-time losses and pre-exploit pool balances, but no V1 claim window is open.\nThe post Why Balancer’s $1.4M hack recovery won’t pay LPs anytime soon appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/balancer-recovery-waterways.webp",
+    "publishedAt": "2026-09-21T15:35:58.000Z",
+    "collectedAt": "2026-09-21T17:52:01.581Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ff5e8cad56268fe80c91c284",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-21T17:52:07.367Z",
+    "outcome": {
+      "event": {
+        "title": "Why Balancer’s $1.4M hack recovery won’t pay LPs anytime soon",
+        "fingerprint": "ff5e8cad56268fe80c91c284"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 463,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin hits $86,000 putting ETF investors back in profit after $86 billion wipeout",
+    "link": "https://cryptoslate.com/bitcoin-hits-86000-putting-etf-investors-back-in-profit-after-86-billion-wipeout/",
+    "summary": "Bitcoin’s rally toward $86,000 has pushed US spot exchange-traded fund (ETF) investors back into profit after months underwater. Data from CryptoSlate showed Bitcoin gained about 6% over the past 24 hours, extending its September rebound and briefly trading near $86,000. Bloomberg Intelligence ETF analyst James Seyffart said the move put the average US Bitcoin ETF [&#8230;]\nThe post Bitcoin hits $86,000 putting ETF investors back in profit after $86 billion wipeout appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-profit-press.webp",
+    "publishedAt": "2026-09-21T17:20:48.000Z",
+    "collectedAt": "2026-09-21T17:52:01.581Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dd9126774eaeb48667995398",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-21T17:52:09.304Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin hits $86,000 putting ETF investors back in profit after $86 billion wipeout",
+        "fingerprint": "dd9126774eaeb48667995398"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 464,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
+    "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
+    "summary": "One expert believes that the failure to pass the bill is a win for the banks that staunchly oppose stablecoin yields, while a global crypto lawyer believes overseas jurisdictions benefit.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-21T14:53:52.000Z",
+    "collectedAt": "2026-09-21T17:52:01.581Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b0ae7009bb207007ff532bd0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-21T17:52:10.697Z",
+    "outcome": {
+      "event": {
+        "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
+        "fingerprint": "b0ae7009bb207007ff532bd0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 465,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
