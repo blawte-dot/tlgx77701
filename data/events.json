@@ -15723,5 +15723,128 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+    "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear’s blockchain infrastructure.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M310AVAYEMVP188717499P0H/sk-hana.png",
+    "publishedAt": "2026-09-21T04:27:32.000Z",
+    "collectedAt": "2026-09-21T05:52:08.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7b78a22c45007e80ac322fbe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-21T05:52:11.521Z",
+    "outcome": {
+      "event": {
+        "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+        "fingerprint": "7b78a22c45007e80ac322fbe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 453,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin Reclaims Key Weekly Level for First Time in 45 Weeks",
+    "link": "https://u.today/bitcoin-reclaims-key-weekly-level-for-first-time-in-45-weeks",
+    "summary": "Bitcoin has closed a week above its 50-week moving average for the first time in 45 weeks, reclaiming a key long-term technical level that has historically signaled improving market structure after major downturns.",
+    "image": null,
+    "publishedAt": "2026-09-21T05:29:18.000Z",
+    "collectedAt": "2026-09-21T05:52:08.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ecd97a41bcca76a9d1cd9359",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-21T05:52:13.216Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Reclaims Key Weekly Level for First Time in 45 Weeks",
+        "fingerprint": "ecd97a41bcca76a9d1cd9359"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 454,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "9 Days Left: XRP's Next Big Payments Upgrade Eyes Mainnet Activation",
+    "link": "https://u.today/9-days-left-xrps-next-big-payments-upgrade-eyes-mainnet-activation",
+    "summary": "Key amendment required for several high-value XRP Ledger use cases set to activate in next nine days.",
+    "image": null,
+    "publishedAt": "2026-09-20T15:35:41.000Z",
+    "collectedAt": "2026-09-21T05:52:08.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0728a13fa1edcb3fab4e8c85",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-09-21T05:52:14.514Z",
+    "outcome": {
+      "event": {
+        "title": "9 Days Left: XRP's Next Big Payments Upgrade Eyes Mainnet Activation",
+        "fingerprint": "0728a13fa1edcb3fab4e8c85"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 455,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

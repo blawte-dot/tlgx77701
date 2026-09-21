@@ -2771,5 +2771,29 @@
     "hasImage": true,
     "eventFingerprint": "9166117ff3222c41d5556ebb",
     "timestamp": "2026-09-21T00:53:00.583Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 453,
+    "text": "South Korea's Hana Bank just allegedly figured out how to make traditional finance move at the speed of a group chat.\n\nUnconfirmed reports indicate the lender used Euroclear's blockchain infrastructure to issue a $100 million five-year digital bond.\n\nThe supposed payoff is cutting settlement times from a sluggish three to five days down to the exact same day.\n\nWall Street has spent decades optimizing the carrier pigeon. Traditional banking is finally discovering that databases can talk to each other without a three-day layover.",
+    "hasImage": true,
+    "eventFingerprint": "7b78a22c45007e80ac322fbe",
+    "timestamp": "2026-09-21T05:52:11.519Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 454,
+    "text": "Has the tide finally turned for Bitcoin's macro trend?\n\nFor the first time in 45 weeks, BTC has officially closed a weekly candle above its 50-week moving average. \n\nThis technical threshold has historically served as a critical line of demarcation between prolonged bear market pressure and structural recovery phases. \n\nWhile moving averages are lagging indicators rather than timing tools, reclaiming this multi-month hurdle marks a notable shift in the broader market structure. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "ecd97a41bcca76a9d1cd9359",
+    "timestamp": "2026-09-21T05:52:13.212Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 455,
+    "text": "The XRP Ledger is roughly nine days away from an amendment that targets high-value institutional payment use cases directly on mainnet. \n\nFor those tracking XRPL utility on-chain, are these structural upgrades enough to finally move the needle on enterprise adoption, or is the market already pricing in the delay between protocol changes and actual volume? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "0728a13fa1edcb3fab4e8c85",
+    "timestamp": "2026-09-21T05:52:14.511Z"
   }
 ]
