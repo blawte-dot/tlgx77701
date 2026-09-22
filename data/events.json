@@ -16871,5 +16871,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+    "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+    "summary": "Federal prosecutors in Manhattan and the Justice Department are said to be investigating whether the crypto exchange knowingly permitted users to bypass U.S. sanctions on Iran.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8524e860085e53902a998b3545d3aa7e9f9192c9-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-22T10:07:52.000Z",
+    "collectedAt": "2026-09-22T10:55:21.484Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3cb255eccbb60f926e525481",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-22T10:55:23.617Z",
+    "outcome": {
+      "event": {
+        "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+        "fingerprint": "3cb255eccbb60f926e525481"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 481,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
+    "link": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s second wave, transferring it to a Wyoming trust for victims.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M341PM2NEVWDHH81XGPNVJZ5/purse-key-keyboard-sponsor3-1.jpg",
+    "publishedAt": "2026-09-22T09:06:59.000Z",
+    "collectedAt": "2026-09-22T10:55:21.484Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9b339c2cd860d8babca3a90e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-22T10:55:24.920Z",
+    "outcome": {
+      "event": {
+        "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
+        "fingerprint": "9b339c2cd860d8babca3a90e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 482,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Kalshi Files To Bring Perpetual Futures To US Stocks And ETFs",
+    "link": "https://www.newsbtc.com/news/kalshi-files-to-bring-perpetual-futures-to-us-stocks-and-etfs/",
+    "summary": "TL;DR KalshiEX has filed proposed listing standards for perpetual security futures tied to 58 stocks and ETFs. The proposal was published on September 18 under SEC File No. SR-KALSHIEX-2026-02. The products are not live; CFTC approval is still pending. KalshiEX is seeking regulatory clearance for a product that would bring crypto-style perpetual futures mechanics into the US equity market. A rule filing published by the SEC under File No. SR-KALSHIEX-2026-02 proposes listing standards for perpet",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_02_coinbase-derivatives-to-launch-24-7-gold-and-silve_b40947.png?fit=750%2C422",
+    "publishedAt": "2026-09-22T10:30:00.000Z",
+    "collectedAt": "2026-09-22T10:55:21.484Z",
+    "corroboratingSources": 1,
+    "fingerprint": "edd25ad05df1d9779908642d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-22T10:55:26.355Z",
+    "outcome": {
+      "event": {
+        "title": "Kalshi Files To Bring Perpetual Futures To US Stocks And ETFs",
+        "fingerprint": "edd25ad05df1d9779908642d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 483,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitwise Updates XRP ETF Prospectus In New SEC Filing",
+    "link": "https://www.newsbtc.com/news/bitwise-updates-xrp-etf-prospectus-in-new-sec-filing/",
+    "summary": "TL;DR Bitwise filed a post-effective amendment updating disclosures for its XRP ETF trust. The September 21 filing registered zero new shares. The filing is a prospectus update, not an SEC approval notice or a new ETF launch. Bitwise has filed an updated prospectus for its XRP exchange-traded fund trust, adding another SEC filing to the product&#8217;s regulatory record. The September 21 submission was made on Form POS AM, a post-effective amendment used to update registration-statement disclosu",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/HKYGEtFW8AApwQQ.jpeg?fit=750%2C422",
+    "publishedAt": "2026-09-22T07:30:00.000Z",
+    "collectedAt": "2026-09-22T10:55:21.484Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d99199bf6ffe5e5da01612d6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-22T10:55:27.628Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise Updates XRP ETF Prospectus In New SEC Filing",
+        "fingerprint": "d99199bf6ffe5e5da01612d6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 484,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "REX Launches 2X Leveraged ETF Tracking Bitcoin Treasury Firm Strive",
+    "link": "https://www.newsbtc.com/news/rex-launches-2x-leveraged-etf-tracking-bitcoin-treasury-firm-strive/",
+    "summary": "TL;DR REX Shares has launched the T-REX 2X Long Strive Daily Target ETF under ticker ASSX. The fund seeks 200% of the daily performance of Strive Asset Management stock. ASSX is a leveraged single-stock ETF, not a spot Bitcoin ETF. Investors now have a leveraged ETF tied to one of the public companies building a large Bitcoin treasury. REX Shares has launched the T-REX 2X Long Strive Daily Target ETF, trading under ticker ASSX, with an objective of delivering 200% of the daily performance of Str",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_02_bitcoin_etf_flows_featured.png?fit=750%2C422",
+    "publishedAt": "2026-09-22T08:30:00.000Z",
+    "collectedAt": "2026-09-22T10:55:21.484Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5b6e6854b3c198b84403c7c2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T10:55:28.732Z",
+    "outcome": {
+      "event": {
+        "title": "REX Launches 2X Leveraged ETF Tracking Bitcoin Treasury Firm Strive",
+        "fingerprint": "5b6e6854b3c198b84403c7c2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 485,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

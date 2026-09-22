@@ -2995,5 +2995,45 @@
     "hasImage": true,
     "eventFingerprint": "6bef16944b534acf7221d9e3",
     "timestamp": "2026-09-22T05:50:17.727Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 481,
+    "text": "Compliance pressure is quietly reshaping the top tier of crypto infrastructure. \n\nU.S. federal prosecutors in Manhattan and the Justice Department are actively probing whether Binance knowingly permitted users to bypass sanctions on Iran, according to Bloomberg and CoinDesk reports. \n\nThe investigation centers on potential willful violations of federal restrictions rather than simple oversight failures. \n\nWhile formal charges have not been brought and the probe remains at an investigative stage, the scrutiny underscores a hardening regulatory stance toward offshore exchange operations and sanctions enforcement across digital asset markets.",
+    "hasImage": true,
+    "eventFingerprint": "3cb255eccbb60f926e525481",
+    "timestamp": "2026-09-22T10:55:23.615Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 482,
+    "text": "While exploits usually end in a clean getaway, the adversary doesn't always win the race.\n\nSecurity researchers managed to secure roughly 40% of the Bitcoin moved during the second wave of the recent Coldcard wallet exploit. \n\nInstead of falling into malicious hands, the recovered funds have been transferred to a Wyoming trust earmarked for impacted users. \n\nUnconfirmed reports suggest the coordinated counter-offensive caught the attackers off guard as white hats tracked the mempool movements in real time. \n\nRecovery operations remain ongoing as investigators attempt to trace the remainder of the stolen assets across the network.",
+    "hasImage": true,
+    "eventFingerprint": "9b339c2cd860d8babca3a90e",
+    "timestamp": "2026-09-22T10:55:24.918Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 483,
+    "text": "What happens when you bring crypto-native leverage to traditional Wall Street equities?\n\nKalshi is pushing to find out. \n\nThe prediction and derivatives platform has filed proposed listing standards with the SEC to introduce perpetual security futures tied to 58 major stocks and ETFs. \n\nThe filings, logged under SR-KALSHIEX-2026-02, aim to transplant continuous, round-the-clock perpetual mechanics straight into regulated US equity markets. \n\nProducts are not live yet. CFTC approval remains pending, and regulatory hurdles on margin requirements and cross-market surveillance still loom large. \n\nIf cleared, it marks a significant structural bridge between digital asset trading models and traditional equities. \n\n#Kalshi",
+    "hasImage": true,
+    "eventFingerprint": "edd25ad05df1d9779908642d",
+    "timestamp": "2026-09-22T10:55:26.353Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 484,
+    "text": "Another regulatory filing doesn't always mean a green light. \n\nBitwise just submitted a post-effective amendment on Form POS AM for its XRP ETF trust, updating existing disclosures with the SEC. \n\nThe paperwork registers zero new shares and represents a routine administrative update rather than an approval notice or a new product launch. \n\nMarkets often misread routine prospectus amendments as imminent milestones. The regulatory pipeline remains a process of incremental paperwork, not sudden shifts.",
+    "hasImage": true,
+    "eventFingerprint": "d99199bf6ffe5e5da01612d6",
+    "timestamp": "2026-09-22T10:55:27.626Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 485,
+    "text": "Leveraged crypto proxy products are entering uncharted territory. \n\nREX Shares just rolled out the T-REX 2X Long Strive Daily Target ETF under the ticker ASSX. \n\nThe fund targets 200% of the daily performance of Strive Asset Management, a public firm actively building out a substantial Bitcoin treasury. \n\nKeep in mind: this is a leveraged single-stock product, not a spot Bitcoin ETF. Compounding volatility over multiple sessions can introduce tracking errors that diverge sharply from underlying asset returns over time.",
+    "hasImage": true,
+    "eventFingerprint": "5b6e6854b3c198b84403c7c2",
+    "timestamp": "2026-09-22T10:55:28.730Z"
   }
 ]
