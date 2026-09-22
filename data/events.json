@@ -17261,5 +17261,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+    "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
+    "summary": "Galaxy Research says white-hat actors consolidated coins tied to the exploit into a fresh address tagged for a \"Crypto Recovery Trust,\" though the funds represent just 2.8% of the total haul.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png",
+    "publishedAt": "2026-09-22T19:31:03.000Z",
+    "collectedAt": "2026-09-22T19:32:58.941Z",
+    "corroboratingSources": 1,
+    "fingerprint": "62fb5c617bad453dad41ea9a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-22T19:33:22.327Z",
+    "outcome": {
+      "event": {
+        "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+        "fingerprint": "62fb5c617bad453dad41ea9a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 489,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Binance Under US Investigation as Prosecutors Examine Iran-Linked Trading",
+    "link": "https://cryptopotato.com/binance-under-us-investigation-as-prosecutors-examine-iran-linked-trading/",
+    "summary": "Federal prosecutors are investigating Binance over possible Iran sanctions violations.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/09/BinanceUS.jpg",
+    "publishedAt": "2026-09-22T17:02:22.000Z",
+    "collectedAt": "2026-09-22T19:32:58.941Z",
+    "corroboratingSources": 1,
+    "fingerprint": "89654a5543f6bd9c1ce0d8ed",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-22T19:33:26.231Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Under US Investigation as Prosecutors Examine Iran-Linked Trading",
+        "fingerprint": "89654a5543f6bd9c1ce0d8ed"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 490,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report",
+    "link": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
+    "summary": "Bitcoin Magazine\n\nFeds Probing Binance Over Iran&#8217;s Bitcoin Use: Report\nFeds are trying to work out whether Binance violated US sanctions on Iran. \nThis post Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-10.jpg",
+    "publishedAt": "2026-09-22T16:52:26.000Z",
+    "collectedAt": "2026-09-22T19:32:58.941Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b8077ff63fdba659cba950b8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T19:33:27.896Z",
+    "outcome": {
+      "event": {
+        "title": "Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report",
+        "fingerprint": "b8077ff63fdba659cba950b8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 491,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why Bitcoin’s rally is dangerous according to new Fed data",
+    "link": "https://cryptoslate.com/why-bitcoins-rally-is-dangerous-according-to-new-fed-data/",
+    "summary": "The index measures shock-amplification capacity, exposing funding risks that can build while spot demand remains firm.\nThe post Why Bitcoin’s rally is dangerous according to new Fed data appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-risk-tower.webp",
+    "publishedAt": "2026-09-22T18:05:59.000Z",
+    "collectedAt": "2026-09-22T19:32:58.941Z",
+    "corroboratingSources": 1,
+    "fingerprint": "35fda7ef87f986d03f710577",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T19:33:29.492Z",
+    "outcome": {
+      "event": {
+        "title": "Why Bitcoin’s rally is dangerous according to new Fed data",
+        "fingerprint": "35fda7ef87f986d03f710577"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 492,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months",
+    "link": "https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005",
+    "summary": "US spot bitcoin ETFs saw $999 million in net inflows on Monday, the largest single-day amount the funds have attracted since Oct. 6, 2025.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_5.jpg",
+    "publishedAt": "2026-09-22T07:44:17.000Z",
+    "collectedAt": "2026-09-22T19:32:58.941Z",
+    "corroboratingSources": 2,
+    "fingerprint": "8fb5b44f5eed21b9c854df36",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-09-22T19:33:30.860Z",
+    "outcome": {
+      "event": {
+        "title": "Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months",
+        "fingerprint": "8fb5b44f5eed21b9c854df36"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 493,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

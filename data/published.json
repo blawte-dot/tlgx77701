@@ -3059,5 +3059,45 @@
     "hasImage": true,
     "eventFingerprint": "16769559987b9e299b996ebd",
     "timestamp": "2026-09-22T15:27:33.070Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 489,
+    "text": "Who is actually holding the keys to the stolen Coldcard funds?\n\nA curious development has emerged in the aftermath of the recent Coldcard exploit. According to research from Galaxy, a group of white-hat actors has begun consolidating a portion of the pilfered Bitcoin into a new, single address.\n\nThis address is currently tagged as a \"Crypto Recovery Trust.\" \n\nWhile this signals a potential attempt to secure or return the assets, the scope remains limited. The funds moved to this trust represent only 2.8% of the total amount stolen in the breach. \n\nThe remaining majority of the exploited coins have yet to be accounted for, leaving the bulk of the haul in the hands of the original attackers. We are monitoring the address for further activity as the situation unfolds.",
+    "hasImage": true,
+    "eventFingerprint": "62fb5c617bad453dad41ea9a",
+    "timestamp": "2026-09-22T19:33:22.324Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 490,
+    "text": "The world’s largest exchange is once again in the crosshairs of federal authorities.\n\nBinance is facing fresh scrutiny from U.S. prosecutors regarding potential violations of Iran sanctions. The investigation centers on whether the exchange facilitated transactions linked to Iranian entities, effectively bypassing strict U.S. trade restrictions.\n\nThis inquiry adds to the long-standing regulatory pressure on the platform as officials examine whether Binance failed to implement sufficient compliance protocols to prevent illicit financial flows. \n\nWhile the exchange has previously stated it maintains a robust global sanctions program and terminates accounts found to be in violation, the ongoing nature of this probe highlights the persistent friction between offshore crypto operations and U.S. foreign policy. \n\nWe are monitoring for further details as the investigation unfolds.",
+    "hasImage": true,
+    "eventFingerprint": "89654a5543f6bd9c1ce0d8ed",
+    "timestamp": "2026-09-22T19:33:26.226Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 491,
+    "text": "U.S. federal investigators are widening their scope on Binance, focusing on potential violations of Iranian sanctions.\n\nRegulators are currently scrutinizing whether the exchange allowed users in Iran to conduct transactions through its platform. Such activity, if proven, would place Binance in direct breach of long-standing U.S. trade restrictions.\n\nThe probe marks a significant escalation in the pressure surrounding major crypto exchanges regarding international compliance. While Binance has previously stated it adheres to global sanctions protocols, this investigation indicates that authorities are looking closer at how decentralized flows interact with blacklisted jurisdictions.\n\nNo formal charges have been filed, and the company has yet to release a detailed response to these specific reports. We are monitoring the situation for further updates on the exchange's legal standing.",
+    "hasImage": true,
+    "eventFingerprint": "b8077ff63fdba659cba950b8",
+    "timestamp": "2026-09-22T19:33:27.892Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 492,
+    "text": "The Fed’s latest data suggests Bitcoin’s current rally may be masking significant structural instability.\n\nA newly highlighted index measuring shock-amplification capacity points to latent funding risks within the market. While spot demand remains firm, this metric tracks how liquidity pressures can cascade if volatility suddenly shifts.\n\nThe data exposes a disconnect: price action continues to climb while the underlying financial plumbing shows increased vulnerability to external shocks. \n\nEssentially, the rally is building on top of a foundation that may be less resilient than spot volume implies. Market participants are increasingly wary of how these funding risks could unwind should broader macroeconomic conditions tighten.\n\nIt is a reminder that nominal price strength does not always equate to market health.",
+    "hasImage": true,
+    "eventFingerprint": "35fda7ef87f986d03f710577",
+    "timestamp": "2026-09-22T19:33:29.488Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 493,
+    "text": "Institutional capital is pouring into Bitcoin at a pace not seen in nearly a year.\n\nUS spot BTC ETFs recorded $999 million in net inflows on Monday, marking the largest single-day accumulation since October 2025. \n\nThe surge indicates a significant shift in sentiment among institutional allocators following recent price action. With nearly $1 billion entering the ecosystem in just one session, the data signals a move toward aggressive accumulation by major market participants.",
+    "hasImage": true,
+    "eventFingerprint": "8fb5b44f5eed21b9c854df36",
+    "timestamp": "2026-09-22T19:33:30.856Z"
   }
 ]
