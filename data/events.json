@@ -17466,5 +17466,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why newly granted federal approval won&#8217;t save these 3 crypto banks",
+    "link": "https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks/",
+    "summary": "Agora, Catena and Bastion still face final approval or conversion, leaving distribution and liquidity to decide who gains an edge.\nThe post Why newly granted federal approval won&#8217;t save these 3 crypto banks appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/federal-trust-pillars.webp",
+    "publishedAt": "2026-09-22T21:20:03.000Z",
+    "collectedAt": "2026-09-22T22:42:33.454Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4c7b6636584224d944d64c0e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-22T22:42:46.054Z",
+    "outcome": {
+      "event": {
+        "title": "Why newly granted federal approval won&#8217;t save these 3 crypto banks",
+        "fingerprint": "4c7b6636584224d944d64c0e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 494,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
+    "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+    "summary": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei—who has spent a year calling China's government the industry's biggest threat.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2020/09/Webp.net-resizeimage-60-gID_4.jpg",
+    "publishedAt": "2026-09-22T22:16:03.000Z",
+    "collectedAt": "2026-09-22T22:42:33.454Z",
+    "corroboratingSources": 1,
+    "fingerprint": "92220fc47dbd0d42d19475b5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T22:42:53.566Z",
+    "outcome": {
+      "event": {
+        "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
+        "fingerprint": "92220fc47dbd0d42d19475b5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 495,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-etf-investors-buy-nearly-1-billion",
+    "summary": "Bitcoin Magazine\n\nBitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns\nThe Bitcoin bulls are back — if ETF flows are to be believed.&#160; U.S. bitcoin exchange-traded funds received $999 million in new investment on Monday, according to Farside Investors data.&#160; That’s the most in one day since October 6, when the funds received over $1.2 billion and the price of the leading cryptocurrency hit a [&#8230;]\nThis post Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market R",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-ETFs.jpg",
+    "publishedAt": "2026-09-22T19:55:41.000Z",
+    "collectedAt": "2026-09-22T22:42:33.454Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8e3d0cb75c6fab34bbbfe229",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-22T22:42:57.010Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns",
+        "fingerprint": "8e3d0cb75c6fab34bbbfe229"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 496,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Solo GP Jed Breed raises $15 million for his second early-stage crypto fund",
+    "link": "https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075",
+    "summary": "Breed VC has raised $15 million for its second crypto fund. Backers include FalconX, Nic Carter, Rob Hadick and Jake Brukhman.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg",
+    "publishedAt": "2026-09-22T16:15:02.000Z",
+    "collectedAt": "2026-09-22T22:42:33.454Z",
+    "corroboratingSources": 1,
+    "fingerprint": "75bcd36fcde1d7aa610b7cfe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-22T22:43:16.058Z",
+    "outcome": {
+      "event": {
+        "title": "Solo GP Jed Breed raises $15 million for his second early-stage crypto fund",
+        "fingerprint": "75bcd36fcde1d7aa610b7cfe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 497,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+    "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The country’s largest financial institutions are exploring tokenized deposits for interbank payments, just weeks after regulators clarified how they should be treated.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M357GAH1CKA4TWB0W8FEC9YF/hi-how-central-banks-are-testing-blockchain-based-monetary-policy-bank-of-america.png",
+    "publishedAt": "2026-09-22T19:56:48.000Z",
+    "collectedAt": "2026-09-22T22:42:33.454Z",
+    "corroboratingSources": 1,
+    "fingerprint": "69a197a767239f3a08c3f27b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-22T22:43:19.143Z",
+    "outcome": {
+      "event": {
+        "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+        "fingerprint": "69a197a767239f3a08c3f27b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 498,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
