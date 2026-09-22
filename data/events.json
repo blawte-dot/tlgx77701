@@ -17076,5 +17076,190 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin sees its second-best Q3 ever: BTC ETF investors back in profit after 8 months",
+    "link": "https://ambcrypto.com/bitcoin-sees-its-second-best-q3-ever-btc-etf-investors-back-in-profit-after-8-months/",
+    "summary": "Bitcoin is on track to post its second-best Q3 performance since 2017.",
+    "image": null,
+    "publishedAt": "2026-09-22T11:30:32.000Z",
+    "collectedAt": "2026-09-22T15:24:41.485Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1f4842853e296d098d772092",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-22T15:25:13.997Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin sees its second-best Q3 ever: BTC ETF investors back in profit after 8 months",
+        "fingerprint": "1f4842853e296d098d772092"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (429) on gemini-omni-1.1-flash: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota ex"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
+    "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+    "summary": "Taylor Lindman, the top lawyer on the agency's Crypto Task Force, says the SEC is trying to get firms comfortable with blockchain technology and crypto assets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/939b6b67f35bbb821b8c37878c4f64afeeb3108a-3545x1994.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-22T15:21:28.000Z",
+    "collectedAt": "2026-09-22T15:24:41.485Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7b05c358059ea803b32f3de3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T15:26:39.050Z",
+    "outcome": {
+      "event": {
+        "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
+        "fingerprint": "7b05c358059ea803b32f3de3"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (429) on gemini-omni-1.1-flash: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota ex"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+    "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+    "summary": "Central bankers argue that indirect yield structures blur the line between electronic payment tokens and commercial bank deposits, distorting financial system competition.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-22T14:32:59.000Z",
+    "collectedAt": "2026-09-22T15:24:41.485Z",
+    "corroboratingSources": 1,
+    "fingerprint": "783901f0c16ebd0eef4b422a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T15:27:08.932Z",
+    "outcome": {
+      "event": {
+        "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+        "fingerprint": "783901f0c16ebd0eef4b422a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 486,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+    "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+    "summary": "Inflows into spot bitcoin ETFs picked up Monday as bitcoin rallied to its highest since January.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d894fb3614fdbe9012bafe01b7dcaa2df93bb995-2880x1620.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-22T07:40:41.000Z",
+    "collectedAt": "2026-09-22T15:24:41.485Z",
+    "corroboratingSources": 2,
+    "fingerprint": "0dcbca396725af9671c3a6ee",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-09-22T15:27:30.309Z",
+    "outcome": {
+      "event": {
+        "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+        "fingerprint": "0dcbca396725af9671c3a6ee"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 487,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Massive ETF capital exits threaten Bitcoin’s fragile $86,000 price surge",
+    "link": "https://cryptoslate.com/massive-etf-capital-exits-threaten-bitcoins-fragile-86000-price-surge/",
+    "summary": "Spot taker flow and realized-cap growth improved while futures exposure and profit-taking climbed with the rebound.\nThe post Massive ETF capital exits threaten Bitcoin’s fragile $86,000 price surge appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-demand-bridge.webp",
+    "publishedAt": "2026-09-22T14:15:47.000Z",
+    "collectedAt": "2026-09-22T15:24:41.485Z",
+    "corroboratingSources": 1,
+    "fingerprint": "16769559987b9e299b996ebd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-22T15:27:33.073Z",
+    "outcome": {
+      "event": {
+        "title": "Massive ETF capital exits threaten Bitcoin’s fragile $86,000 price surge",
+        "fingerprint": "16769559987b9e299b996ebd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 488,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
