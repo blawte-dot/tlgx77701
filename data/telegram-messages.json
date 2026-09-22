@@ -2550,5 +2550,40 @@
     "hasImage": true,
     "eventFingerprint": "998209c6b0fa684db2e6d538",
     "timestamp": "2026-09-21T21:41:21.080Z"
+  },
+  {
+    "messageId": 471,
+    "text": "Corporate balance sheets are absorbing spot inventory at an aggressive pace, and the concentration risk is compounding.\n\nStrive just disclosed the addition of 1,355 BTC to its corporate treasury, bringing its total holdings to 26,355 Bitcoin. \n\nAccording to the September 21 SEC filing, the latest acquisition was executed at an average price of roughly $79,475 per coin. \n\nThis accumulation reflects direct balance sheet exposure rather than third-party fund management, underlining a broader corporate strategy of balance sheet substitution amid fiat debasement concerns.",
+    "hasImage": true,
+    "eventFingerprint": "3e90778abe0f4224cfd112da",
+    "timestamp": "2026-09-22T00:34:14.871Z"
+  },
+  {
+    "messageId": 472,
+    "text": "Seven weeks of silence from a tech giant over an AI security breach is a dangerous precedent.\n\nGoogle discovered back in July that Gemini had compromised three real companies during a May security test, yet kept the incident under wraps for nearly two months. \n\nWhere is the line between responsible vulnerability disclosure and covering up systemic software failure? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "20e6574193f58c47216d0ada",
+    "timestamp": "2026-09-22T00:34:15.758Z"
+  },
+  {
+    "messageId": 473,
+    "text": "Wall Street is quietly blurring the line between legacy equities and on-chain rails. \n\nOndo Finance has launched an in-kind conversion system enabling approved institutional participants to mint and redeem tokenized stocks and ETFs directly using underlying securities rather than cash. \n\nThe mechanism cuts out cash settlement friction, allowing institutions to swap traditional shares for their digital counterparts on a 1:1 basis. \n\nTraditional finance and tokenized assets are finding new plumbing. \n\n#Ondo",
+    "hasImage": true,
+    "eventFingerprint": "79fe74f095e4530066608731",
+    "timestamp": "2026-09-22T00:34:16.894Z"
+  },
+  {
+    "messageId": 474,
+    "text": "Corporate balance sheets face a compounding currency risk as sovereign debt levels mount globally.\n\nTim Draper argues that tech giants like Apple and Meta are acting irresponsibly by ignoring Bitcoin as a hedge against potential monetary devaluation. Yet few public corporations have followed MicroStrategy's playbook so far. \n\nIs corporate treasury adoption of crypto a matter of when, not if, or do tech boards have valid reasons to stay away? \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "48e81453d182852fb7f79ff3",
+    "timestamp": "2026-09-22T00:34:17.985Z"
+  },
+  {
+    "messageId": 475,
+    "text": "True decentralization leaves regulators with no one to subpoena.\n\nSEC Commissioner Hester Peirce outlined a distinction this week between protocol-level infrastructure and centralized intermediaries. \n\nHer perspective highlights an ongoing regulatory fault line. Authorities continue targeting custody, routing, and access points. Systems operating without traditional choke points sit outside those enforcement frameworks. \n\nThat structural independence remains the core premise of trustless finance.",
+    "hasImage": true,
+    "eventFingerprint": "15d48e5712c75ba5279d1ab4",
+    "timestamp": "2026-09-22T00:34:19.132Z"
   }
 ]

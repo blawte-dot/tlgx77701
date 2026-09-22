@@ -16461,5 +16461,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Strive Adds 1,355 Bitcoin As Corporate Treasury Reaches 26,355 BTC",
+    "link": "https://www.newsbtc.com/news/strive-adds-1355-bitcoin-as-corporate-treasury-reaches-26355-btc/",
+    "summary": "TL;DR Strive disclosed the purchase of 1,355 BTC at an average price of about $79,475. Its corporate Bitcoin treasury increased from 25,000 BTC to 26,355 BTC. The disclosure relates to Strive&#8217;s own balance sheet, not third-party fund assets. Strive has increased its corporate Bitcoin holdings to 26,355 BTC after disclosing another 1,355 BTC purchase. The company reported the acquisition in a September 21 SEC filing, with the new coins purchased at an average price of roughly $79,475 each. ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/bitcoin_ec3f40.jpeg?fit=750%2C500",
+    "publishedAt": "2026-09-21T23:30:00.000Z",
+    "collectedAt": "2026-09-22T00:34:13.076Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e90778abe0f4224cfd112da",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T00:34:14.875Z",
+    "outcome": {
+      "event": {
+        "title": "Strive Adds 1,355 Bitcoin As Corporate Treasury Reaches 26,355 BTC",
+        "fingerprint": "3e90778abe0f4224cfd112da"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 471,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+    "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+    "summary": "Google learned in late July that Gemini had breached three real companies during a May security test, but said nothing publicly for seven weeks.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
+    "publishedAt": "2026-09-21T22:46:03.000Z",
+    "collectedAt": "2026-09-22T00:34:13.076Z",
+    "corroboratingSources": 1,
+    "fingerprint": "20e6574193f58c47216d0ada",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-22T00:34:15.761Z",
+    "outcome": {
+      "event": {
+        "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+        "fingerprint": "20e6574193f58c47216d0ada"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 472,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+    "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Ondo’s new in-kind conversion system allows approved institutions to mint and redeem tokenized stocks and ETFs using the underlying securities instead of cash.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32JXF7GPH4P1K65TA97BYB4/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-2.png",
+    "publishedAt": "2026-09-21T18:35:43.000Z",
+    "collectedAt": "2026-09-22T00:34:13.076Z",
+    "corroboratingSources": 1,
+    "fingerprint": "79fe74f095e4530066608731",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-22T00:34:16.898Z",
+    "outcome": {
+      "event": {
+        "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+        "fingerprint": "79fe74f095e4530066608731"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 473,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Billionaire Investor Tim Draper: “Irresponsible” for Apple &#038; Meta NOT to Hold BTC",
+    "link": "https://bitcoinmagazine.com/videos/billionaire-investor-tim-draper-irresponsible-for-apple-meta-not-to-hold-btc",
+    "summary": "Bitcoin Magazine\n\nBillionaire Investor Tim Draper: “Irresponsible” for Apple &#038; Meta NOT to Hold BTC\nGovernment spending hasn't slowed, and Tim Draper says that leaves only two real outcomes: hyperinflation or interest rates high enough to break banks.\nThis post Billionaire Investor Tim Draper: “Irresponsible” for Apple &#038; Meta NOT to Hold BTC first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Billionaire-Investor-Tim-Draper-Irresponsible-for-Apple-Meta-NOT-to-Hold-BTC-.jpg",
+    "publishedAt": "2026-09-21T13:10:28.000Z",
+    "collectedAt": "2026-09-22T00:34:13.076Z",
+    "corroboratingSources": 1,
+    "fingerprint": "48e81453d182852fb7f79ff3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-22T00:34:17.989Z",
+    "outcome": {
+      "event": {
+        "title": "Billionaire Investor Tim Draper: “Irresponsible” for Apple &#038; Meta NOT to Hold BTC",
+        "fingerprint": "48e81453d182852fb7f79ff3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 474,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why truly decentralized DeFi needs no legal exemption according to SEC Commissioner Hester Peirce",
+    "link": "https://cryptoslate.com/why-truly-decentralized-defi-needs-no-legal-exemption-according-to-sec-commissioner-hester-peirce/",
+    "summary": "SEC and CFTC actions focus on custody, access, routing, fees and intervention powers, each within a separate legal framework.\nThe post Why truly decentralized DeFi needs no legal exemption according to SEC Commissioner Hester Peirce appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/peirce-defi-divide.webp",
+    "publishedAt": "2026-09-21T14:35:31.000Z",
+    "collectedAt": "2026-09-22T00:34:13.076Z",
+    "corroboratingSources": 1,
+    "fingerprint": "15d48e5712c75ba5279d1ab4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-22T00:34:19.144Z",
+    "outcome": {
+      "event": {
+        "title": "Why truly decentralized DeFi needs no legal exemption according to SEC Commissioner Hester Peirce",
+        "fingerprint": "15d48e5712c75ba5279d1ab4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 475,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
