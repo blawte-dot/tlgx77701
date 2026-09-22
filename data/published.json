@@ -2955,5 +2955,45 @@
     "hasImage": true,
     "eventFingerprint": "15d48e5712c75ba5279d1ab4",
     "timestamp": "2026-09-22T00:34:19.142Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 476,
+    "text": "Traditional banking architecture is quietly opening its doors to digital assets at scale.\n\nShredPay has officially joined the Jack Henry Fintech Integration Network, establishing a direct bridge between stablecoin rails and thousands of traditional financial institutions. \n\nThrough standard jXchange and SymXchange APIs, the integration gives roughly 7,400 community banks and credit unions a technical pathway to plug into digital-asset services without overhauling their core systems. \n\nWhile commercial adoption will depend on individual bank participation, the infrastructure layer connecting legacy finance to blockchain rails continues to quietly expand.\n\n#Stablecoins",
+    "hasImage": true,
+    "eventFingerprint": "73c859eab3d91f98970fe4e1",
+    "timestamp": "2026-09-22T05:50:03.336Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 477,
+    "text": "Three. That is the number of institutions driving Europe’s quiet pivot toward on-chain institutional settlement.\n\nThe European Central Bank is preparing to deploy a portion of its own-funds portfolio directly into tokenized euro-denominated securities. \n\nInitial allocations will target public-sector and supranational issuers, with transactions settling in central-bank money via the Pontes infrastructure. \n\nPurchases have not yet been executed, but the shift from experimental trials to active balance-sheet integration marks a structural milestone for European market plumbing. #Tokenization",
+    "hasImage": true,
+    "eventFingerprint": "34aae0d4a8d428011ca2ca30",
+    "timestamp": "2026-09-22T05:50:08.775Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 478,
+    "text": "Why take on liquidation risk when you can outsource it to a third party?\n\nCircle is expanding its institutional footprint by launching a Bitcoin-backed USDC borrowing facility, routing the actual credit risk straight through the Morpho protocol.\n\nThe newly introduced Mint workflow cuts out several manual operational steps for borrowers looking to leverage BTC holdings for stablecoin liquidity. \n\nUnder the hood, however, market terms and liquidation triggers remain outside Circle's direct purview. Morpho handles the lending infrastructure, meaning users interface with decentralized risk parameters rather than a centralized balance sheet. \n\nIt is a calculated bridge between institutional-grade asset onboarding and decentralized credit execution.",
+    "hasImage": true,
+    "eventFingerprint": "adeaa7ee5ca9306903c43f2f",
+    "timestamp": "2026-09-22T05:50:10.258Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 479,
+    "text": "The ECB just built the missing bridge between legacy central-bank money and tokenized institutional finance.\n\nThe European Central Bank has rolled out Pontes, a wholesale settlement service designed to handle tokenized assets using TARGET Services and DLT interoperability. \n\nCrucially, this is strictly institutional infrastructure—entirely separate from the ongoing retail digital euro project. \n\nAs traditional finance accelerates its tokenization push, central banks are quietly locking down the settlement layer. \n\n#CryptoMarkets",
+    "hasImage": true,
+    "eventFingerprint": "75c27588e55629a0585d28ce",
+    "timestamp": "2026-09-22T05:50:16.413Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 480,
+    "text": "Is retail finally getting a seat at the primary market table?\n\nCoinbase is opening IPO allocations to everyday US customers, kicking things off with Oura. \n\nThis move pushes the exchange far beyond secondary trading and pre-IPO derivatives. \n\nFor years, access to venture-backed primary offerings was strictly walled off for institutional capital and high-net-worth funds. \n\nNow, that traditional boundary is shifting in real time. \n\n#Coinbase",
+    "hasImage": true,
+    "eventFingerprint": "6bef16944b534acf7221d9e3",
+    "timestamp": "2026-09-22T05:50:17.727Z"
   }
 ]

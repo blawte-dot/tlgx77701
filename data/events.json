@@ -16666,5 +16666,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "ShredPay Joins Jack Henry Network To Bring Stablecoin Infrastructure To Banks",
+    "link": "https://www.newsbtc.com/news/shredpay-joins-jack-henry-network-to-bring-stablecoin-infrastructure-to-banks/",
+    "summary": "TL;DR ShredPay has joined the Jack Henry Fintech Integration Network. The integration can connect ShredPay&#8217;s stablecoin and digital-asset services with Jack Henry institutions through jXchange and SymXchange APIs. Jack Henry serves about 7,400 banks and credit unions combined. ShredPay has joined Jack Henry&#8217;s Fintech Integration Network, opening a path for banks and credit unions on Jack Henry technology to connect with stablecoin and digital-asset services. The partnership was annou",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_sky_psm_usdc_clean.jpg?fit=750%2C422",
+    "publishedAt": "2026-09-22T04:30:00.000Z",
+    "collectedAt": "2026-09-22T05:49:59.015Z",
+    "corroboratingSources": 1,
+    "fingerprint": "73c859eab3d91f98970fe4e1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-22T05:50:03.339Z",
+    "outcome": {
+      "event": {
+        "title": "ShredPay Joins Jack Henry Network To Bring Stablecoin Infrastructure To Banks",
+        "fingerprint": "73c859eab3d91f98970fe4e1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 476,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "ECB Plans Direct Investment In Tokenized Securities Using Pontes",
+    "link": "https://www.newsbtc.com/news/ecb-plans-direct-investment-in-tokenized-securities-using-pontes/",
+    "summary": "TL;DR The ECB has started preparatory work to invest a small portion of its own-funds portfolio in tokenized euro-denominated securities. Initial eligible assets are expected to include euro-area public-sector and supranational issuers. The future purchases are intended to settle in central-bank money through Pontes; purchases have not yet been executed. The European Central Bank is moving from building tokenized-settlement infrastructure to preparing to use it for part of its own investment por",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/unnamed-29.png?fit=628%2C366",
+    "publishedAt": "2026-09-22T02:30:00.000Z",
+    "collectedAt": "2026-09-22T05:49:59.015Z",
+    "corroboratingSources": 1,
+    "fingerprint": "34aae0d4a8d428011ca2ca30",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-22T05:50:08.778Z",
+    "outcome": {
+      "event": {
+        "title": "ECB Plans Direct Investment In Tokenized Securities Using Pontes",
+        "fingerprint": "34aae0d4a8d428011ca2ca30"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 477,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Circle launches Bitcoin-backed USDC borrowing, leaving liquidation risk with Morpho protocol",
+    "link": "https://cryptoslate.com/circle-now-lets-institutions-borrow-usdc-against-bitcoin-but-morpho-still-sets-the-rules/",
+    "summary": "The Mint workflow removes operational steps, while variable market terms and liquidation risk remain with the third-party lender.\nThe post Circle launches Bitcoin-backed USDC borrowing, leaving liquidation risk with Morpho protocol appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/circle-bitcoin-usdc-borrowing.webp",
+    "publishedAt": "2026-09-22T03:40:51.000Z",
+    "collectedAt": "2026-09-22T05:49:59.015Z",
+    "corroboratingSources": 1,
+    "fingerprint": "adeaa7ee5ca9306903c43f2f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T05:50:10.261Z",
+    "outcome": {
+      "event": {
+        "title": "Circle launches Bitcoin-backed USDC borrowing, leaving liquidation risk with Morpho protocol",
+        "fingerprint": "adeaa7ee5ca9306903c43f2f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 478,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "ECB Launches Pontes For Central-Bank Settlement Of Tokenized Assets",
+    "link": "https://www.newsbtc.com/news/ecb-launches-pontes-for-central-bank-settlement-of-tokenized-assets/",
+    "summary": "TL;DR The European Central Bank has launched Pontes, a wholesale settlement service for tokenized financial assets. Pontes settles transactions in central-bank money through TARGET Services and DLT interoperability. The system is institutional infrastructure and is separate from the retail digital-euro project. The European Central Bank has launched Pontes, giving institutions a new route for settling tokenized financial assets in central-bank money. The September 21 launch is part of the Eurosy",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/photo_2026-09-07-13.32.41.jpeg?fit=715%2C536",
+    "publishedAt": "2026-09-22T01:30:00.000Z",
+    "collectedAt": "2026-09-22T05:49:59.015Z",
+    "corroboratingSources": 1,
+    "fingerprint": "75c27588e55629a0585d28ce",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-22T05:50:16.416Z",
+    "outcome": {
+      "event": {
+        "title": "ECB Launches Pontes For Central-Bank Settlement Of Tokenized Assets",
+        "fingerprint": "75c27588e55629a0585d28ce"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 479,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Coinbase opens IPO allocations to US customers, starting with Oura",
+    "link": "https://www.theblock.co/news/business/2026-09-21-coinbase-opens-ipo-allocations-us-customers-starting-oura-415942",
+    "summary": "This expands Coinbase's push beyond secondary-market stock trading into the primary market, following its rollout of pre-IPO derivatives.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/Coinbase_Still_19_1-scaled.jpg",
+    "publishedAt": "2026-09-21T14:47:12.000Z",
+    "collectedAt": "2026-09-22T05:49:59.015Z",
+    "corroboratingSources": 3,
+    "fingerprint": "6bef16944b534acf7221d9e3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-22T05:50:17.730Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase opens IPO allocations to US customers, starting with Oura",
+        "fingerprint": "6bef16944b534acf7221d9e3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 480,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
