@@ -17671,5 +17671,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+    "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg",
+    "publishedAt": "2026-09-22T15:37:17.000Z",
+    "collectedAt": "2026-09-23T01:13:45.151Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0e15597a739654626d63356d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T01:13:48.766Z",
+    "outcome": {
+      "event": {
+        "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+        "fingerprint": "0e15597a739654626d63356d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 499,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
+    "link": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The ECB aims to gain firsthand DLT market experience by buying tokenized public-sector securities and settling the trades through Pontes.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34CG9DD6TZFV9RKTHF4AV1Q/hi-eu-coin.jpg",
+    "publishedAt": "2026-09-22T11:29:35.000Z",
+    "collectedAt": "2026-09-23T01:13:45.151Z",
+    "corroboratingSources": 1,
+    "fingerprint": "98158546abdcc752c6e565e8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T01:13:51.911Z",
+    "outcome": {
+      "event": {
+        "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
+        "fingerprint": "98158546abdcc752c6e565e8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 500,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily inflow since October 2025, as Bitcoin briefly climbed above $87,000.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33Y5TYZKZESE6DRNC3V960G/hi-a-stronger-foundation-for-bitcoin-etf-applications1-3.jpg",
+    "publishedAt": "2026-09-22T07:33:37.000Z",
+    "collectedAt": "2026-09-23T01:13:45.151Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8b10a1e1c0c20fa875534354",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T01:13:55.402Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+        "fingerprint": "8b10a1e1c0c20fa875534354"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 501,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+    "link": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Kakao Pay and KakaoBank are exploring digital asset opportunities with Fireblocks, including infrastructure for stablecoins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33H6YCTPMYT71NXRZW9M9KM/sk-mou.png",
+    "publishedAt": "2026-09-22T03:13:22.000Z",
+    "collectedAt": "2026-09-23T01:13:45.151Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3a30c22c95b43c051c0663ef",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T01:13:58.479Z",
+    "outcome": {
+      "event": {
+        "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+        "fingerprint": "3a30c22c95b43c051c0663ef"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 502,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETFs just absorbed 11,500 BTC in their biggest buying day in nearly two years",
+    "link": "https://cryptoslate.com/bitcoin-etfs-just-absorbed-11500-btc-in-their-biggest-buying-day-in-nearly-two-years/",
+    "summary": "ARKB and FBTC each drew substantial capital, widening participation without displacing BlackRock from the top spot.\nThe post Bitcoin ETFs just absorbed 11,500 BTC in their biggest buying day in nearly two years appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-bull-stairway.webp",
+    "publishedAt": "2026-09-22T16:00:57.000Z",
+    "collectedAt": "2026-09-23T01:13:45.151Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6b7fc326f0d9c9a09b0c47c4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T01:14:01.885Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs just absorbed 11,500 BTC in their biggest buying day in nearly two years",
+        "fingerprint": "6b7fc326f0d9c9a09b0c47c4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 503,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

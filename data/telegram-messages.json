@@ -2746,5 +2746,40 @@
     "hasImage": true,
     "eventFingerprint": "69a197a767239f3a08c3f27b",
     "timestamp": "2026-09-22T22:43:19.135Z"
+  },
+  {
+    "messageId": 499,
+    "text": "European regulators are moving to overhaul stablecoin rules.\n\nThe ECB and several EU central banks are lobbying for a significant shift in MiCA compliance. They want to replace current mandatory minimum bank deposits for stablecoin issuers with new liquidity thresholds.\n\nCentral bankers warn that the existing requirement could inadvertently strain commercial lenders. The concern is that large, sudden withdrawals from stablecoin reserves could create liquidity bottlenecks within the banking system.\n\nIf adopted, this change would force a fundamental rethink of how stablecoin reserves are managed and where those assets are held. No formal implementation date has been set, but the push marks a notable pivot in EU regulatory strategy.\n\n#MiCA",
+    "hasImage": true,
+    "eventFingerprint": "0e15597a739654626d63356d",
+    "timestamp": "2026-09-23T01:13:48.760Z"
+  },
+  {
+    "messageId": 500,
+    "text": "The ECB has finally stopped watching from the sidelines.\n\nCentral bankers are moving from debating DLT to actively buying tokenized securities on their own infrastructure, the Pontes network.\n\nIt is a quiet acknowledgement that the future of public-sector debt settlement is being rewritten on-chain. Watching the world’s most conservative institutions experiment with the plumbing of finance is the clearest sign yet that the transition is inevitable.",
+    "hasImage": true,
+    "eventFingerprint": "98158546abdcc752c6e565e8",
+    "timestamp": "2026-09-23T01:13:51.905Z"
+  },
+  {
+    "messageId": 501,
+    "text": "Institutional appetite for Bitcoin is moving at a pace not seen in months.\n\nUS spot ETFs saw nearly $1 billion in inflows on Monday, the largest single-day surge since October 2025. This move coincides with Bitcoin’s brief push past $87,000, signaling a clear shift in sentiment among large-scale market participants.\n\nWith institutional capital returning at this scale, do you view this $1 billion inflow as a sign of late-cycle exhaustion or the floor for the next leg up?",
+    "hasImage": true,
+    "eventFingerprint": "8b10a1e1c0c20fa875534354",
+    "timestamp": "2026-09-23T01:13:55.396Z"
+  },
+  {
+    "messageId": 502,
+    "text": "Big Tech is moving deeper into the stablecoin stack.\n\nKakao Pay and KakaoBank have initiated a collaboration with infrastructure provider Fireblocks to explore digital asset opportunities. The partnership is specifically targeting the development of stablecoin-related infrastructure.\n\nWhile the project remains in an exploratory phase, the involvement of major Korean financial institutions signals a shift toward enterprise-grade blockchain integration. \n\nWe are tracking how this infrastructure deployment aligns with South Korea’s evolving regulatory framework for digital assets.",
+    "hasImage": true,
+    "eventFingerprint": "3a30c22c95b43c051c0663ef",
+    "timestamp": "2026-09-23T01:13:58.473Z"
+  },
+  {
+    "messageId": 503,
+    "text": "Institutional demand for Bitcoin just hit a significant inflection point.\n\nSpot ETFs absorbed 11,500 BTC yesterday, marking the largest single-day accumulation in nearly two years. \n\nCapital inflows were broad-based, with ARKB and FBTC seeing substantial volume. While BlackRock remains the lead architect of this move, the widening participation across other issuers points to a shift in institutional appetite.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "6b7fc326f0d9c9a09b0c47c4",
+    "timestamp": "2026-09-23T01:14:01.879Z"
   }
 ]
