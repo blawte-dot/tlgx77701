@@ -18081,5 +18081,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Is Chainlink (LINK) Infosys Partnership Relevant for the Coin?",
+    "link": "https://u.today/is-chainlink-link-infosys-partnership-relevant-for-the-coin",
+    "summary": "Chainlink’s Infosys partnership opens the door to enormous banking exposure, but its immediate impact on LINK remains difficult to quantify.",
+    "image": null,
+    "publishedAt": "2026-09-23T11:30:00.000Z",
+    "collectedAt": "2026-09-23T13:19:49.923Z",
+    "corroboratingSources": 1,
+    "fingerprint": "911f5d2e9c3fdaa6def4bafb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-23T13:19:56.899Z",
+    "outcome": {
+      "event": {
+        "title": "Is Chainlink (LINK) Infosys Partnership Relevant for the Coin?",
+        "fingerprint": "911f5d2e9c3fdaa6def4bafb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 509,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+    "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+    "summary": "The acquisition will support MoonPay’s aim of supporting mass adoption of tokenized real-world assets, CEO Ivan Soto-Wright said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4592fcabbae44f472e6b59673d99b0d90f6308f0-4608x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-23T13:00:00.000Z",
+    "collectedAt": "2026-09-23T13:19:49.923Z",
+    "corroboratingSources": 2,
+    "fingerprint": "f3a2c459f75be3b4d298b07c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9.5,
+    "processedAt": "2026-09-23T13:20:15.936Z",
+    "outcome": {
+      "event": {
+        "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+        "fingerprint": "f3a2c459f75be3b4d298b07c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 510,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Pioneer Returns to SEC Case After Spotting Familiar Tactics Outside Crypto",
+    "link": "https://u.today/ripple-pioneer-returns-to-sec-case-after-spotting-familiar-tactics-outside-crypto",
+    "summary": "Ripple CTO Emeritus David Schwartz uncovers SEC-style regulatory traps in a high-profile US lawsuit outside crypto.",
+    "image": null,
+    "publishedAt": "2026-09-23T08:34:15.000Z",
+    "collectedAt": "2026-09-23T13:19:49.923Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b0ae8cc31591c6748372f0c3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-23T13:20:36.914Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Pioneer Returns to SEC Case After Spotting Familiar Tactics Outside Crypto",
+        "fingerprint": "b0ae8cc31591c6748372f0c3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 511,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Stablecoin adoption intent rises from 36% to 56% with bank-level protections, Visa says",
+    "link": "https://www.theblock.co/news/regulation/2026-09-23-stablecoin-adoption-intent-rises-from-36-to-56-with-bank-level-protections-visa-says-416136",
+    "summary": "A Visa study shows U.S. stablecoin adoption intent jumps to 56% when paired with hypothetical bank-level consumer protections.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/visa-office-e1578983731891.jpg",
+    "publishedAt": "2026-09-23T13:00:00.000Z",
+    "collectedAt": "2026-09-23T13:19:49.923Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ee8d5c52a23ca3973cac57f7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-23T13:20:46.539Z",
+    "outcome": {
+      "event": {
+        "title": "Stablecoin adoption intent rises from 36% to 56% with bank-level protections, Visa says",
+        "fingerprint": "ee8d5c52a23ca3973cac57f7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 512,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Europe&#8217;s central banks want to scrap this stablecoin reserve safeguard",
+    "link": "https://cryptoslate.com/europes-central-banks-want-to-scrap-this-stablecoin-reserve-safeguard/",
+    "summary": "The proposed MiCA change challenges mandatory bank deposits as Britain's systemic sterling stablecoin code reaches its consultation deadline.\nThe post Europe&#8217;s central banks want to scrap this stablecoin reserve safeguard appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-policy-chasm.webp",
+    "publishedAt": "2026-09-23T11:30:31.000Z",
+    "collectedAt": "2026-09-23T13:19:49.923Z",
+    "corroboratingSources": 1,
+    "fingerprint": "11a76c164e4a9505fa4a51e4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-23T13:20:49.666Z",
+    "outcome": {
+      "event": {
+        "title": "Europe&#8217;s central banks want to scrap this stablecoin reserve safeguard",
+        "fingerprint": "11a76c164e4a9505fa4a51e4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 513,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
