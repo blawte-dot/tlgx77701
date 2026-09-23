@@ -17876,5 +17876,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+    "link": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the UN Security Council as it examines AI risks and global security.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M363YGST64BF2W89BBFFTBJA/ai-un-flags.png",
+    "publishedAt": "2026-09-23T03:33:15.000Z",
+    "collectedAt": "2026-09-23T07:18:10.327Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a306bcf4d99f7dcde4d41222",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-23T07:18:14.526Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+        "fingerprint": "a306bcf4d99f7dcde4d41222"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 504,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Canada’s big six banks explore tokenized deposit system to modernize payments",
+    "link": "https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129",
+    "summary": "The banks said the first phase of the project involves moving tokenized deposits efficiently across financial institutions.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/canada-1.jpg",
+    "publishedAt": "2026-09-23T04:57:07.000Z",
+    "collectedAt": "2026-09-23T07:18:10.327Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0a30e5678e2e9e02c05f3be1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T07:18:18.004Z",
+    "outcome": {
+      "event": {
+        "title": "Canada’s big six banks explore tokenized deposit system to modernize payments",
+        "fingerprint": "0a30e5678e2e9e02c05f3be1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 505,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Coincheck Group Confirms Executive Chairperson Change In SEC Filing",
+    "link": "https://www.newsbtc.com/news/coincheck-group-confirms-executive-chairperson-change-in-sec-filing/",
+    "summary": "TL;DR Coincheck Group disclosed that Executive Chairperson Takashi Oyagi resigned effective September 21. The company said the resignation was for personal reasons. The filing supports a leadership-transition story, not speculation about enforcement or financial distress. Coincheck Group has confirmed a change at the top of its leadership structure after Executive Chairperson Takashi Oyagi resigned. The crypto group disclosed the move in a September 21 Form 6-K filed with the US Securities and E",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_02_mica_deadline_featured.png?fit=750%2C422",
+    "publishedAt": "2026-09-22T11:30:00.000Z",
+    "collectedAt": "2026-09-23T07:18:10.327Z",
+    "corroboratingSources": 1,
+    "fingerprint": "90b9c8a069fe0f2017ccedff",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T07:18:22.002Z",
+    "outcome": {
+      "event": {
+        "title": "Coincheck Group Confirms Executive Chairperson Change In SEC Filing",
+        "fingerprint": "90b9c8a069fe0f2017ccedff"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 506,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin (BTC) Halving Progress Hits 61%: What's Next?",
+    "link": "https://u.today/bitcoin-btc-halving-progress-hits-61-whats-next",
+    "summary": "Bitcoin halving clock ticks to 61% as BTC achieves key milestone.",
+    "image": null,
+    "publishedAt": "2026-09-22T13:40:35.000Z",
+    "collectedAt": "2026-09-23T07:18:10.328Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3d97f59cdac9daa9700a1322",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T07:18:25.195Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin (BTC) Halving Progress Hits 61%: What's Next?",
+        "fingerprint": "3d97f59cdac9daa9700a1322"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 507,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Akash Network rallies 14% as AI rotation meets whale buying – Can AKT hold THIS?",
+    "link": "https://ambcrypto.com/akash-network-rallies-14-as-ai-rotation-meets-whale-buying-can-akt-hold-this/",
+    "summary": "AKT broke its multiweek range as AI rotation, whale orders, and taker buying strengthened demand.",
+    "image": null,
+    "publishedAt": "2026-09-23T04:00:52.000Z",
+    "collectedAt": "2026-09-23T07:18:10.329Z",
+    "corroboratingSources": 1,
+    "fingerprint": "33afeec68385d1fc050663a5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-23T07:18:28.283Z",
+    "outcome": {
+      "event": {
+        "title": "Akash Network rallies 14% as AI rotation meets whale buying – Can AKT hold THIS?",
+        "fingerprint": "33afeec68385d1fc050663a5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 508,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
