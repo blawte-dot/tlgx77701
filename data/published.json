@@ -3299,5 +3299,45 @@
     "hasImage": true,
     "eventFingerprint": "39cb9b622e31d0dc5fae6c2a",
     "timestamp": "2026-09-23T18:14:45.947Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 519,
+    "text": "When institutional cost bases break, the broader market rarely stays quiet.\n\nBitcoin slipped beneath the $86,000 spot ETF cost basis today, dragging total crypto capitalization down 2.27% to $2.96 trillion as a broader risk-off move hit major assets.\n\nLosses accelerated across the altcoin sector. XRP dropped 5.8%, Dogecoin fell 8.3%, and Hedera retreated 9.9%. Uniswap meanwhile erased every percentage point of its Tuesday CME-listing rally. \n\nDerivatives data points to shifting sentiment. Perpetual funding rates on OKX flipped negative for both bitcoin and ether swaps, reflecting sudden demand for short exposure. \n\nMacro headwinds added pressure. Both U.S. equities and gold finished the session in the red.",
+    "hasImage": true,
+    "eventFingerprint": "0930217211211be954e99ee1",
+    "timestamp": "2026-09-23T22:01:08.977Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 520,
+    "text": "Admitting defeat behind closed doors is easier than losing an argument in front of a judge.\n\nSEC Commissioner Mark Uyeda has pulled back the curtain on the agency's recent pivot, confirming that several enforcement actions against crypto firms were quietly dropped in early 2025 to dodge looming credibility defeats in federal court. \n\nThe strategy marks a notable shift from the regulation-by-enforcement era that defined Gensler's tenure. Rather than testing novel legal theories before skeptical judges, the regulator appears to be retreating where its footing was weakest. \n\nPolicy is changing, but clear statutory frameworks for digital assets remain absent.",
+    "hasImage": true,
+    "eventFingerprint": "1fdfd6808aeecf9845f48c96",
+    "timestamp": "2026-09-23T22:01:10.342Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 521,
+    "text": "The sudden loss of Hsin-Ju Chuang at 37 is a sobering reminder of the immense pressures carried behind the scenes in crypto venture capital and startup leadership. \n\nFrom her early work with Stellar and Solana to founding Dystopia Labs and investing at Hack VC, she was a deeply embedded fixture of the industry's builder community over the last decade. \n\nFor those who worked alongside her or watched her career unfold across different cycles, how do you view the human cost and burnout rates in this space compared to traditional tech and finance?",
+    "hasImage": true,
+    "eventFingerprint": "1714ae21c35f7bcc72d20c5f",
+    "timestamp": "2026-09-23T22:01:11.574Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 522,
+    "text": "Leverage is washing out fast across the board.\n\nBitcoin dipped under $84,000 earlier today, triggering roughly $280 million in long liquidations in a sharp flush.\n\nTraders are now watching order books closely to see if spot bids can defend immediate support levels, or if deeper downside testing is incoming.",
+    "hasImage": true,
+    "eventFingerprint": "9f051093abe581d49640597c",
+    "timestamp": "2026-09-23T22:01:18.415Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 523,
+    "text": "Wall Street and public blockchains just took a step closer together.\n\nThe SEC has granted ARK Venture Fund exemptive relief for two new share classes, opening the door for both an exchange-traded option and a tokenized version recorded on distributed ledger technology. \n\nWhile the regulatory hurdle is cleared, ARK has not yet announced a launch date for the new shares. \n\nThe approval establishes a formal framework for blending traditional fund structures with on-chain record-keeping under existing oversight.",
+    "hasImage": true,
+    "eventFingerprint": "88877e3a5e163e554ca40e8f",
+    "timestamp": "2026-09-23T22:01:27.708Z"
   }
 ]

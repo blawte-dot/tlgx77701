@@ -18491,5 +18491,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Bitcoin Falls Through the $86,000 ETF Cost Basis as the Whole Market Turns Lower",
+    "link": "https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026",
+    "summary": "Total crypto market value fell 2.27% to $2.96 trillion. XRP dropped 5.8%, Dogecoin 8.3% and Hedera 9.9%, and Uniswap gave back the entire spike it took on Tuesday's CME listing. Perpetual funding at OKX turned negative on both the bitcoin and ether swaps. U.S. equities and gold closed lower",
+    "image": "https://cdn.thedefiant.io/pasted-1790198425558-png-6b1e98aa-44ac-4961-8ad4-6a7893e22c5c.png",
+    "publishedAt": "2026-09-23T21:20:51.000Z",
+    "collectedAt": "2026-09-23T22:01:06.523Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0930217211211be954e99ee1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-23T22:01:08.981Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Falls Through the $86,000 ETF Cost Basis as the Whole Market Turns Lower",
+        "fingerprint": "0930217211211be954e99ee1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 519,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+    "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "SEC Commissioner Mark Uyeda said that the agency dropped many cases against crypto companies in early 2025 to avoid potential credibility problems in court.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M380MX1W92VXBB79W6WPSWR1/hi-sec-vs-us-court-follow-up.jpg",
+    "publishedAt": "2026-09-23T21:47:52.000Z",
+    "collectedAt": "2026-09-23T22:01:06.523Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1fdfd6808aeecf9845f48c96",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-23T22:01:10.345Z",
+    "outcome": {
+      "event": {
+        "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+        "fingerprint": "1fdfd6808aeecf9845f48c96"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 520,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+    "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png",
+    "publishedAt": "2026-09-23T20:43:56.000Z",
+    "collectedAt": "2026-09-23T22:01:06.523Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1714ae21c35f7bcc72d20c5f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-23T22:01:11.578Z",
+    "outcome": {
+      "event": {
+        "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+        "fingerprint": "1714ae21c35f7bcc72d20c5f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 521,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+    "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while analysis flagged key support to hold.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HEBC31STJ1V8Y61W60PS20/analytics-red-market-falling-drop-bitcoin-3.jpg",
+    "publishedAt": "2026-09-23T14:52:11.000Z",
+    "collectedAt": "2026-09-23T22:01:06.523Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9f051093abe581d49640597c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-23T22:01:18.418Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+        "fingerprint": "9f051093abe581d49640597c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 522,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SEC Clears ARK Venture Fund For Tokenized And Exchange-Traded Share Classes",
+    "link": "https://www.newsbtc.com/altcoins/sec-clears-ark-venture-fund-for-tokenized-and-exchange-traded-share-classes/",
+    "summary": "TL;DR The SEC granted ARK Venture Fund amended exemptive relief covering two new share classes. The structure allows an Exchange Class and a Tokenized Class whose ownership can be recorded through distributed-ledger technology. The order permits the structure, but ARK has not announced that the new shares are already trading. ARK Venture Fund has secured an SEC order that gives it room to experiment with two very different distribution rails for the same underlying investment product. Release No",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=750%2C422",
+    "publishedAt": "2026-09-23T07:30:00.000Z",
+    "collectedAt": "2026-09-23T22:01:06.523Z",
+    "corroboratingSources": 1,
+    "fingerprint": "88877e3a5e163e554ca40e8f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-23T22:01:27.712Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Clears ARK Venture Fund For Tokenized And Exchange-Traded Share Classes",
+        "fingerprint": "88877e3a5e163e554ca40e8f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 523,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
