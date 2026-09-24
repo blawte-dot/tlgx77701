@@ -3026,5 +3026,40 @@
     "hasImage": true,
     "eventFingerprint": "6cb9e11b0fc2c56e0b5fa3e5",
     "timestamp": "2026-09-24T13:10:35.900Z"
+  },
+  {
+    "messageId": 539,
+    "text": "Are exchange spot sweeps accelerating faster than liquidity can absorb the shift?\n\nBinance is removing 13 trading pairs from its platform, cleaning up low-volume books as capital rotation picks up pace across the sector. \n\nSimultaneously, spot listings expand elsewhere. Hyperliquid's HYPE token makes its debut on the exchange's platform, drawing immediate volume and attention from decentralized derivatives traders.\n\nLiquidity continues to concentrate around active ecosystems while dormant pairs quietly vanish from order books.",
+    "hasImage": true,
+    "eventFingerprint": "23f5b497079b66a1fb33bd4f",
+    "timestamp": "2026-09-24T18:09:06.101Z"
+  },
+  {
+    "messageId": 540,
+    "text": "If your favorite prediction market touches New York soil, the state wants it offline entirely. ⚠️\n\nNew York Attorney General Letitia James and Governor Kathy Hochul have filed a lawsuit against Polymarket, labeling the decentralized forecasting platform an illegal gambling operation operating without state authorization. \n\nState officials argue the platform exposes local users to unregulated financial risks under the guise of trading. \n\nThe legal challenge marks a significant escalation in the ongoing friction between state-level gaming regulators and decentralized alternatives to traditional finance.\n\n#Polymarket",
+    "hasImage": true,
+    "eventFingerprint": "80c3f2772fadea547f1a69aa",
+    "timestamp": "2026-09-24T18:09:29.871Z"
+  },
+  {
+    "messageId": 541,
+    "text": "3 billion dollars in stablecoin volume now routes through a security framework previously absent from the network.\n\nOpenZeppelin has officially integrated with TRON, making its audited smart contract libraries and development suite available to builders on the chain. \n\nThe move brings standardized, battle-tested contract components to a network that historically relied on bespoke tooling, narrowing the security gap for developers deploying high-value decentralized applications on TRON.",
+    "hasImage": true,
+    "eventFingerprint": "8d804c5b7bfb02b6fc741386",
+    "timestamp": "2026-09-24T18:10:02.229Z"
+  },
+  {
+    "messageId": 542,
+    "text": "Are commercial banks quietly building the rails that institutions will actually use over public chains? \n\nBarclays, NatWest, and HSBC just completed the world’s first interbank transactions using tokenized deposits, testing bank-issued digital cash across different institutions for remortgages and marketplace payments. \n\nWith legacy giants moving past single-institution pilots into direct collaboration, does this institutional tokenization model accelerate broader adoption, or does it ultimately compete with public crypto infrastructure?\n\n#CryptoMarkets",
+    "hasImage": true,
+    "eventFingerprint": "42ff1874eac36c09459cde4c",
+    "timestamp": "2026-09-24T18:10:03.295Z"
+  },
+  {
+    "messageId": 543,
+    "text": "First Kalshi, now this.\n\nUnconfirmed reports are circulating that the New York Attorney General has set its sights on Polymarket, alleging the prediction platform operates as an unlicensed gambling business. \n\nNothing gets regulators out faster than people accurately pricing reality before cable news does. \n\nThree major outlets are independently reporting the filing this hour, mirroring the state's July playbook against Kalshi. If the legal pressure holds, decentralized prediction markets are about to find out how New York defines free speech versus a bookie.",
+    "hasImage": true,
+    "eventFingerprint": "26f1d964a7eb685e5784fcaf",
+    "timestamp": "2026-09-24T18:10:10.980Z"
   }
 ]

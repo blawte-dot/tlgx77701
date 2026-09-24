@@ -19311,5 +19311,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance Delisting Countdown: 13 Pairs Face Removal as Hyperliquid (HYPE) Arrives",
+    "link": "https://u.today/binance-delisting-countdown-13-pairs-face-removal-as-hyperliquid-hype-arrives",
+    "summary": "Binance adds Hyperliquid (HYPE) as 13 crypto pairs near delisting.",
+    "image": null,
+    "publishedAt": "2026-09-24T13:25:00.000Z",
+    "collectedAt": "2026-09-24T18:08:56.727Z",
+    "corroboratingSources": 1,
+    "fingerprint": "23f5b497079b66a1fb33bd4f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-24T18:09:06.109Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Delisting Countdown: 13 Pairs Face Removal as Hyperliquid (HYPE) Arrives",
+        "fingerprint": "23f5b497079b66a1fb33bd4f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 539,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+    "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
+    "summary": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-09-24T17:51:31.000Z",
+    "collectedAt": "2026-09-24T18:08:56.727Z",
+    "corroboratingSources": 1,
+    "fingerprint": "80c3f2772fadea547f1a69aa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-24T18:09:29.880Z",
+    "outcome": {
+      "event": {
+        "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+        "fingerprint": "80c3f2772fadea547f1a69aa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 540,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "OpenZeppelin Integrates with TRON to Bring Its Security Standard to the Network",
+    "link": "https://www.newsbtc.com/news/openzeppelin-integrates-with-tron-to-bring-its-security-standard-to-the-network/",
+    "summary": "LONDON, UK, September 24, 2026 – OpenZeppelin, the security standard for onchain finance and secure smart contract development, today announced that its smart contract libraries and secure development suite are now available for the TRON network. &#160; The integration gives developers building on TRON access to OpenZeppelin’s widely used security-focused development framework, adapted specifically for the TRON network. Teams can now build applications using audited contract components, familiar",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/87fb31b90c304349abccc3024f329706.png.jpeg?fit=750%2C422",
+    "publishedAt": "2026-09-24T17:06:20.000Z",
+    "collectedAt": "2026-09-24T18:08:56.727Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8d804c5b7bfb02b6fc741386",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-24T18:10:02.240Z",
+    "outcome": {
+      "event": {
+        "title": "OpenZeppelin Integrates with TRON to Bring Its Security Standard to the Network",
+        "fingerprint": "8d804c5b7bfb02b6fc741386"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 541,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
+    "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
+    "summary": "Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages and a marketplace-payment test, taking bank-issued digital cash beyond a single institution.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-24T15:07:18.000Z",
+    "collectedAt": "2026-09-24T18:08:56.727Z",
+    "corroboratingSources": 1,
+    "fingerprint": "42ff1874eac36c09459cde4c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T18:10:03.304Z",
+    "outcome": {
+      "event": {
+        "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
+        "fingerprint": "42ff1874eac36c09459cde4c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 542,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "New York sues Polymarket over alleged illegal gambling business",
+    "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J42742R275K5880DRD/hi-new-york-lawsuit.png",
+    "publishedAt": "2026-09-24T15:27:29.000Z",
+    "collectedAt": "2026-09-24T18:08:56.727Z",
+    "corroboratingSources": 3,
+    "fingerprint": "26f1d964a7eb685e5784fcaf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T18:10:10.987Z",
+    "outcome": {
+      "event": {
+        "title": "New York sues Polymarket over alleged illegal gambling business",
+        "fingerprint": "26f1d964a7eb685e5784fcaf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 543,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
