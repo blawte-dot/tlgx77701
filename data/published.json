@@ -3499,5 +3499,45 @@
     "hasImage": true,
     "eventFingerprint": "26f1d964a7eb685e5784fcaf",
     "timestamp": "2026-09-24T18:10:10.983Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 544,
+    "text": "Even outgoing regulators can still throw a wrench into agency orthodoxy.\n\nSEC Commissioner Hester Peirce took direct aim at how financial watchdogs sweep up user data in the crypto space, offering a rare defense of privacy-preserving technology from inside the building.\n\nPeirce questioned the necessity of aggressive data collection practices that treat every transaction participant as a target. \n\nFor an industry constantly grappling with surveillance concerns, the critique highlights a growing philosophical split among policymakers regarding the line between compliance and financial privacy.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "bbda3bc9235aa2880673e515",
+    "timestamp": "2026-09-24T21:56:28.257Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 545,
+    "text": "Washington is finally drawing the perimeter around digital dollars. \n\nThe Federal Reserve just unveiled proposed rules for stablecoin issuers under the GENIUS Act, targeting everything from reserve-asset limits to standardized capital requirements. \n\nFor years, the sector operated in a regulatory gray zone. \n\nNow, compliance costs are becoming a permanent part of the business model. \n\nSource: The Block",
+    "hasImage": true,
+    "eventFingerprint": "492234707c7070ef0c8800eb",
+    "timestamp": "2026-09-24T21:56:29.254Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 546,
+    "text": "Tokenized private equity just crossed a major institutional threshold. ⚡️\n\nARK Invest is bringing its $1.3 billion ARK Venture Fund onchain through Securitize, landing high-profile private holdings like OpenAI, Anthropic, and Stripe directly on Ethereum. \n\nThe move marks a significant shift as traditional asset managers increasingly leverage public blockchain infrastructure for fund administration and distribution.",
+    "hasImage": true,
+    "eventFingerprint": "36a83f2132ba74e6ec42157d",
+    "timestamp": "2026-09-24T21:56:30.566Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 547,
+    "text": "Smart money kept buying the dip even as the tape turned red.\n\nUS spot Bitcoin ETFs pulled in $347 million on Wednesday. \n\nThat modest intake brought the five-day net accumulation total to $2.65 billion. \n\nThe buying pressure arrived while Bitcoin slipped back under the $84,000 threshold, down from highs above $87,000 earlier in the session. \n\nInstitutional demand remains resilient despite the spot price rejection.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "cfc8e89ca489a89d97f020ad",
+    "timestamp": "2026-09-24T21:56:31.644Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 548,
+    "text": "Don't blame macro until you check your leverage. \n\nBitcoin tapped $87,400 last week before sliding back below $85k as rate-hike chatter picked up steam for October. \n\nThe Fed is still the party crasher nobody invited. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "f0db03fff5f7b4b46a9475cd",
+    "timestamp": "2026-09-24T21:56:32.677Z"
   }
 ]

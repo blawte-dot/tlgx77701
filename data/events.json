@@ -19516,5 +19516,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech",
+    "link": "https://bitcoinmagazine.com/news/hester-peirce-advocates-privacy-tech",
+    "summary": "Bitcoin Magazine\n\nSEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech \nThe outgoing regulator took aim at how regulators collect crypto users’ data. \nThis post SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/05/Hester-Peirce-Defends-Innovation-and-Accountability-in-Bitcoin-2025-Fireside-Chat-1.jpg",
+    "publishedAt": "2026-09-24T20:58:35.000Z",
+    "collectedAt": "2026-09-24T21:56:25.836Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bbda3bc9235aa2880673e515",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-24T21:56:28.262Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech",
+        "fingerprint": "bbda3bc9235aa2880673e515"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 544,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act",
+    "link": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336",
+    "summary": "The Federal Reserve proposed new measures for stablecoin issuers, including reserve-asset limits and standardized capital requirements.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/07/20220727_Federal_Reserve_Building.jpg",
+    "publishedAt": "2026-09-24T20:19:46.000Z",
+    "collectedAt": "2026-09-24T21:56:25.836Z",
+    "corroboratingSources": 1,
+    "fingerprint": "492234707c7070ef0c8800eb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-24T21:56:29.258Z",
+    "outcome": {
+      "event": {
+        "title": "Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act",
+        "fingerprint": "492234707c7070ef0c8800eb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 545,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
+    "link": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
+    "summary": "ARK Invest is bringing its $1.3B ARK Venture Fund (ARKVX), which holds OpenAI, Anthropic and Stripe, onchain via Securitize on Ethereum.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/cathie-wood-news.png",
+    "publishedAt": "2026-09-24T18:37:22.000Z",
+    "collectedAt": "2026-09-24T21:56:25.836Z",
+    "corroboratingSources": 1,
+    "fingerprint": "36a83f2132ba74e6ec42157d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T21:56:30.570Z",
+    "outcome": {
+      "event": {
+        "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
+        "fingerprint": "36a83f2132ba74e6ec42157d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 546,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETF inflows slowed to $347 million on Wednesday as Bitcoin fell below $84,000, while five-day inflows reached $2.65 billion.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
+    "publishedAt": "2026-09-24T09:32:44.000Z",
+    "collectedAt": "2026-09-24T21:56:25.836Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cfc8e89ca489a89d97f020ad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T21:56:31.648Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+        "fingerprint": "cfc8e89ca489a89d97f020ad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 547,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
+    "link": "https://decrypt.co/379189/bitcoins-breakout-cools-fed-rate-hike-bets-climb",
+    "summary": "Bitcoin has slipped back below $85,000 after tagging an eight-month high near $87,400 last week, with rising odds of an October Fed hike taking some air out of the rally.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bitcoin-winter-gID_7.png",
+    "publishedAt": "2026-09-24T16:01:01.000Z",
+    "collectedAt": "2026-09-24T21:56:25.836Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f0db03fff5f7b4b46a9475cd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T21:56:32.681Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
+        "fingerprint": "f0db03fff5f7b4b46a9475cd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 548,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
