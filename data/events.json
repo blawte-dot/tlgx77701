@@ -18901,5 +18901,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "MoonPay targets $8.7B trading venue, but the features remain unrevealed",
+    "link": "https://cryptoslate.com/moonpay-targets-8-7b-trading-venue-but-the-features-remain-unrevealed/",
+    "summary": "The proposed acquisition includes PPEX, an existing private-securities venue. Regulatory approvals and other closing conditions still stand before ownership changes.\nThe post MoonPay targets $8.7B trading venue, but the features remain unrevealed appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/moonpay-northcapital-access-pending.webp",
+    "publishedAt": "2026-09-24T06:10:05.000Z",
+    "collectedAt": "2026-09-24T07:08:10.146Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d4ced41d935ff9727aa5aa1c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-24T07:08:12.362Z",
+    "outcome": {
+      "event": {
+        "title": "MoonPay targets $8.7B trading venue, but the features remain unrevealed",
+        "fingerprint": "d4ced41d935ff9727aa5aa1c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 529,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin ETFs Add $347 Million as BlackRock Leads Fresh Inflow Wave",
+    "link": "https://u.today/bitcoin-etfs-add-347-million-as-blackrock-leads-fresh-inflow-wave",
+    "summary": "Bitcoin ETFs are refusing to lose momentum even as the cryptocurrency itself comes under renewed pressure.",
+    "image": null,
+    "publishedAt": "2026-09-24T05:28:08.000Z",
+    "collectedAt": "2026-09-24T07:08:10.146Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1fffb3097582357794d79b76",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-24T07:08:14.121Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Add $347 Million as BlackRock Leads Fresh Inflow Wave",
+        "fingerprint": "1fffb3097582357794d79b76"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 530,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Raiffeisen expands Bitpanda crypto deal across 18M-customer network",
+    "link": "https://ambcrypto.com/raiffeisen-expands-bitpanda-crypto-deal-across-18m-customer-network/",
+    "summary": "Raiffeisen Bank International is expanding its Bitpanda partnership, potentially bringing crypto services to a network of around 18 million customers.",
+    "image": null,
+    "publishedAt": "2026-09-24T03:30:18.000Z",
+    "collectedAt": "2026-09-24T07:08:10.146Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8b7825506e199a0de2f1c46a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-24T07:08:16.221Z",
+    "outcome": {
+      "event": {
+        "title": "Raiffeisen expands Bitpanda crypto deal across 18M-customer network",
+        "fingerprint": "8b7825506e199a0de2f1c46a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 531,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+    "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36T3PBMVAR1PDJC7TZ5HKG0/hi-big-executives-that-joined-crypto-cftc-sec-1.jpg",
+    "publishedAt": "2026-09-23T10:06:55.000Z",
+    "collectedAt": "2026-09-24T07:08:10.145Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d3203927c35c76eebd4860eb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T07:08:33.986Z",
+    "outcome": {
+      "event": {
+        "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+        "fingerprint": "d3203927c35c76eebd4860eb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 532,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs recorded more than $1.7 billion in net inflows over two days as Bitcoin rose above investors’ estimated average cost basis.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36GJNEY99JBJ5PMEVBWMHPB/hi-part-2-where-oh-where-has-btc-volatility-gone-etf-1.jpg",
+    "publishedAt": "2026-09-23T07:25:05.000Z",
+    "collectedAt": "2026-09-24T07:08:10.145Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7379f344493a8e2d71d1f088",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T07:08:35.042Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
+        "fingerprint": "7379f344493a8e2d71d1f088"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 533,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

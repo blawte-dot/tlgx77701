@@ -2956,5 +2956,40 @@
     "hasImage": true,
     "eventFingerprint": "c7dfcfc788fffcd8d665d372",
     "timestamp": "2026-09-24T01:02:14.144Z"
+  },
+  {
+    "messageId": 529,
+    "text": "An $8.7 billion valuation sits quietly behind a filing that leaves its core product entirely in the dark.\n\nMoonPay is moving to acquire PPEX, an established private-securities trading venue. Yet details on how the infrastructure will integrate into its existing consumer stack remain unrevealed. \n\nRegulatory clearance and standard closing conditions still stand between the announcement and a finalized deal. \n\nAs crypto firms push deeper into traditional financial rails, the architecture behind these multi-billion-dollar moves will dictate whether the thesis holds.",
+    "hasImage": true,
+    "eventFingerprint": "d4ced41d935ff9727aa5aa1c",
+    "timestamp": "2026-09-24T07:08:12.355Z"
+  },
+  {
+    "messageId": 530,
+    "text": "Price charts are panicking, but Wall Street's spot buyers clearly didn't get the memo.\n\nUS Bitcoin ETFs pulled in another $347 million yesterday, led by a dominant push from BlackRock. \n\nWhile retail traders sweat every macro headline and red candle, institutional capital keeps treating dips like an open buffet. \n\nPaper hands sell the pressure. BlackRock stocks the vault.",
+    "hasImage": true,
+    "eventFingerprint": "1fffb3097582357794d79b76",
+    "timestamp": "2026-09-24T07:08:14.114Z"
+  },
+  {
+    "messageId": 531,
+    "text": "18 million traditional banking clients are about to get direct access to digital assets.\n\nRaiffeisen Bank International is scaling its existing partnership with broker Bitpanda across its entire retail network. \n\nThe move marks another step in European traditional finance integrating digital asset infrastructure directly into legacy consumer banking apps. \n\nRollout timelines will vary by local market jurisdiction.",
+    "hasImage": true,
+    "eventFingerprint": "8b7825506e199a0de2f1c46a",
+    "timestamp": "2026-09-24T07:08:16.214Z"
+  },
+  {
+    "messageId": 532,
+    "text": "Wall Street is quietly building the rails for onchain equities while Congress stalls.\n\nCFTC Chairman Michael Selig argued today that asset tokenization is fundamentally reshaping traditional financial markets. \n\nThe comments come as both the CFTC and SEC advance tokenization initiatives behind the scenes, pushing forward despite the recent setback on the CLARITY Act. \n\nTraditional market infrastructure is migrating to blockchains whether regulators have a comprehensive framework ready or not.",
+    "hasImage": true,
+    "eventFingerprint": "d3203927c35c76eebd4860eb",
+    "timestamp": "2026-09-24T07:08:33.976Z"
+  },
+  {
+    "messageId": 533,
+    "text": "US spot Bitcoin ETFs pulled in over $1.7 billion across just two sessions as prices climbed back above the aggregate holder cost basis. \n\nThat shift puts the broader market back into a net-unrealized-profit position after weeks of consolidation. \n\nAre institutional inflows at this scale enough to establish the cost basis as a durable floor, or are you scaling out here? Let us know your read below.",
+    "hasImage": true,
+    "eventFingerprint": "7379f344493a8e2d71d1f088",
+    "timestamp": "2026-09-24T07:08:35.033Z"
   }
 ]
