@@ -19106,5 +19106,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+    "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39JWHV7JJM2NSF9JN0CNNVM/hi-are-the-big-corporations-that-are-joining-the-crypto-market-now-still-early-adopters-solana.jpg",
+    "publishedAt": "2026-09-24T13:00:00.000Z",
+    "collectedAt": "2026-09-24T13:09:15.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cdf3095d87554453def5510f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-24T13:09:34.191Z",
+    "outcome": {
+      "event": {
+        "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+        "fingerprint": "cdf3095d87554453def5510f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 534,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Optimism targets Korea’s RWA boom &#8211; Can KB Securities drive OP adoption?",
+    "link": "https://ambcrypto.com/optimism-targets-koreas-rwa-boom-can-kb-securities-drive-op-adoption/",
+    "summary": "KB Securities brings tokenized Korean investment funds to OP Mainnet through its partnership with Securitize and Optimism.",
+    "image": null,
+    "publishedAt": "2026-09-24T13:00:31.000Z",
+    "collectedAt": "2026-09-24T13:09:15.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3710d67e3d3dcf8a25adca84",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-24T13:09:46.631Z",
+    "outcome": {
+      "event": {
+        "title": "Optimism targets Korea’s RWA boom &#8211; Can KB Securities drive OP adoption?",
+        "fingerprint": "3710d67e3d3dcf8a25adca84"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 535,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+    "link": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+    "summary": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-24T13:00:00.000Z",
+    "collectedAt": "2026-09-24T13:09:15.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f7dcabd452913d735bc1d9fa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-24T13:09:59.554Z",
+    "outcome": {
+      "event": {
+        "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+        "fingerprint": "f7dcabd452913d735bc1d9fa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 536,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
+    "link": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
+    "summary": "Elliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/french-police-gendarme-decrypt-style-1-scaled-gID_7.jpg",
+    "publishedAt": "2026-09-24T13:01:03.000Z",
+    "collectedAt": "2026-09-24T13:09:15.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "31a6e1e0e453bdd8951e0a58",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-24T13:10:16.107Z",
+    "outcome": {
+      "event": {
+        "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
+        "fingerprint": "31a6e1e0e453bdd8951e0a58"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 537,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Alpen says AI identified Liquid’s $320M BTC exploit in an hour. Could a payout limit have stopped it?",
+    "link": "https://cryptoslate.com/alpen-says-ai-diagnosed-liquids-320-million-exploit-in-an-hour-could-a-payout-limit-have-stopped-it/",
+    "summary": "Its post-attack replay explains the cache flaw, while SideSwap says a 4,000 L-BTC order faced no size or velocity hold.\nThe post Alpen says AI identified Liquid’s $320M BTC exploit in an hour. Could a payout limit have stopped it? appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/reserve-access-card.webp",
+    "publishedAt": "2026-09-24T12:20:10.000Z",
+    "collectedAt": "2026-09-24T13:09:15.250Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6cb9e11b0fc2c56e0b5fa3e5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-24T13:10:35.911Z",
+    "outcome": {
+      "event": {
+        "title": "Alpen says AI identified Liquid’s $320M BTC exploit in an hour. Could a payout limit have stopped it?",
+        "fingerprint": "6cb9e11b0fc2c56e0b5fa3e5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 538,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

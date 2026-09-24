@@ -2991,5 +2991,40 @@
     "hasImage": true,
     "eventFingerprint": "7379f344493a8e2d71d1f088",
     "timestamp": "2026-09-24T07:08:35.033Z"
+  },
+  {
+    "messageId": 534,
+    "text": "Don't mistake high-profile executive hires for simple corporate shuffling.\n\nThe Solana Foundation just brought on former Binance CMO Rachel Conlan and payments veteran Jamal Raees. \n\nConlan steps in to direct institutional partnerships and ecosystem expansion. \n\nRaees takes charge of the stablecoin and tokenized deposit strategy.\n\nTiming matters here. This structural reinforcement follows a sharp wave of fresh integrations across the network. \n\nLegacy finance and high-throughput infrastructure continue to converge.",
+    "hasImage": true,
+    "eventFingerprint": "cdf3095d87554453def5510f",
+    "timestamp": "2026-09-24T13:09:34.184Z"
+  },
+  {
+    "messageId": 535,
+    "text": "Don't sleep on what traditional finance is quietly building in Asian markets. \n\nKB Securities is bringing tokenized Korean investment funds directly onto OP Mainnet, partnering with Securitize and Optimism to bridge domestic capital with Ethereum scaling infrastructure. \n\nThis isn't retail speculation. It’s a calculated push by a major financial institution into real-world asset tokenization, leaning on Optimism's architecture to handle institutional-grade volume. \n\nAs regulatory frameworks in South Korea gradually open up for digital assets, the question shifts from whether TradFi will adopt public chains to which networks capture the flow.",
+    "hasImage": true,
+    "eventFingerprint": "3710d67e3d3dcf8a25adca84",
+    "timestamp": "2026-09-24T13:09:46.624Z"
+  },
+  {
+    "messageId": 536,
+    "text": "Private market gatekeepers are losing their monopoly on venture capital's biggest names. \n\nCathie Wood's ARK Venture Fund is partnering with tokenization platform Securitize to bring equity stakes in companies like OpenAI and Anthropic onto public blockchains. \n\nThe integration launches first on Ethereum, with multi-chain expansion under review. \n\nTokenized traditional assets continue bleeding into decentralized infrastructure, bridging multi-billion dollar private valuations with onchain liquidity.",
+    "hasImage": true,
+    "eventFingerprint": "f7dcabd452913d735bc1d9fa",
+    "timestamp": "2026-09-24T13:09:59.544Z"
+  },
+  {
+    "messageId": 537,
+    "text": "Tracing illicit crypto is about to leave specialized backrooms and hit the precinct floor.\n\nElliptic just rolled out Pulse, an AI-powered tool designed to translate complex blockchain data into plain-English summaries within seconds. \n\nInstead of waiting for digital forensics units to run deep analyses, any officer can now paste a wallet address or transaction hash and instantly understand where funds moved and who might be involved. \n\nThe barrier to entry for on-chain investigations is dropping fast. As blockchain analytics become standardized and automated for everyday law enforcement, the scope of routine financial surveillance is shifting. \n\nPrivacy advocates are already watching closely as investigative power decentralizes across standard police forces.",
+    "hasImage": true,
+    "eventFingerprint": "31a6e1e0e453bdd8951e0a58",
+    "timestamp": "2026-09-24T13:10:16.098Z"
+  },
+  {
+    "messageId": 538,
+    "text": "An automated system pinpointed a nine-figure vulnerability sixty minutes after the fact, raising hard questions about how fast on-chain rails actually defend themselves.\n\nAccording to a post-attack replay from Alpen, artificial intelligence isolated the root cause of the $320 million Liquid network exploit remarkably fast. But detection speed is only half the battle.\n\nSideSwap noted that a single 4,000 L-BTC order processed without hitting any size caps or velocity checks. \n\nWhen infrastructure moves millions in seconds, relying purely on retrospective alerts leaves a massive gap. The debate now shifts from how quickly protocols can spot a breach to whether hard payout limits and automated circuit breakers are the missing layer of defense.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "6cb9e11b0fc2c56e0b5fa3e5",
+    "timestamp": "2026-09-24T13:10:35.900Z"
   }
 ]
