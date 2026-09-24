@@ -18696,5 +18696,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "a16z seeks SEC exemption for DEXs &#8211; Could TradFi push back?",
+    "link": "https://ambcrypto.com/a16z-seeks-sec-exemption-for-dexs-could-tradfi-push-back/",
+    "summary": "The industry wants SEC to make a stand on the recently contested DeFi developer protections.",
+    "image": null,
+    "publishedAt": "2026-09-24T01:00:06.000Z",
+    "collectedAt": "2026-09-24T01:02:06.688Z",
+    "corroboratingSources": 1,
+    "fingerprint": "97f5255a7237c8039f628ae4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-24T01:02:09.720Z",
+    "outcome": {
+      "event": {
+        "title": "a16z seeks SEC exemption for DEXs &#8211; Could TradFi push back?",
+        "fingerprint": "97f5255a7237c8039f628ae4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 524,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Can Canada’s Stablecoin Rules Redirect Online Gambling Money to Regulated Market? SlotsUp Launches Canadian Coverage",
+    "link": "https://ambcrypto.com/can-canadas-stablecoin-rules-redirect-online-gambling-money-to-regulated-market-slotsup-launches-canadian-coverage/",
+    "summary": "Canada is simultaneously modernizing its digital payment oversight and expanding its regulated online entertainment sector. While the federal government rolls out strict new guardrails for digital dollars (stablecoins), Alberta is opening its doors to legal, private online casinos.  This raises an important market question: can more accountable payment infrastructure, combined with a wider legal gamblingContinue reading \"Can Canada’s Stablecoin Rules Redirect Online Gambling Money to Regulated M",
+    "image": null,
+    "publishedAt": "2026-09-23T15:05:35.000Z",
+    "collectedAt": "2026-09-24T01:02:06.688Z",
+    "corroboratingSources": 1,
+    "fingerprint": "55ad9c15209245ee14d40b43",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-24T01:02:10.901Z",
+    "outcome": {
+      "event": {
+        "title": "Can Canada’s Stablecoin Rules Redirect Online Gambling Money to Regulated Market? SlotsUp Launches Canadian Coverage",
+        "fingerprint": "55ad9c15209245ee14d40b43"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 525,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Blockchain.com, NYSE plan access to tokenized US stocks and ETFs",
+    "link": "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
+    "summary": "Blockchain.com and NYSE have signed an agreement to explore tokenized stocks and ETFs, subject to regulatory approvals.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/02/nyse.jpg",
+    "publishedAt": "2026-09-23T15:36:10.000Z",
+    "collectedAt": "2026-09-24T01:02:06.688Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aba9b544cc58ee21bcf895a1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T01:02:11.923Z",
+    "outcome": {
+      "event": {
+        "title": "Blockchain.com, NYSE plan access to tokenized US stocks and ETFs",
+        "fingerprint": "aba9b544cc58ee21bcf895a1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 526,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+    "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the US as companies are preparing for the enactment of the GENIUS Act.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37J1B2V73G566QY4TGVRJ04/hi-why-the-us-is-one-of-the-most-crypto-friendly-countries-in-the-world2.jpg",
+    "publishedAt": "2026-09-23T18:17:48.000Z",
+    "collectedAt": "2026-09-24T01:02:06.688Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9c1032b518adfc40865705bb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T01:02:12.915Z",
+    "outcome": {
+      "event": {
+        "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+        "fingerprint": "9c1032b518adfc40865705bb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 527,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+    "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34K2P2TV319V36C0BE6PVPR/magazine-the-fundamentals-of-token-economics.jpg",
+    "publishedAt": "2026-09-23T13:30:00.000Z",
+    "collectedAt": "2026-09-24T01:02:06.688Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c7dfcfc788fffcd8d665d372",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-24T01:02:14.150Z",
+    "outcome": {
+      "event": {
+        "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+        "fingerprint": "c7dfcfc788fffcd8d665d372"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 528,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

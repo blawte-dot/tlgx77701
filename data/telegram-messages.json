@@ -2921,5 +2921,40 @@
     "hasImage": true,
     "eventFingerprint": "88877e3a5e163e554ca40e8f",
     "timestamp": "2026-09-23T22:01:27.705Z"
+  },
+  {
+    "messageId": 524,
+    "text": "Can a software developer be held liable for smart contract code they didn't deploy?\n\na16z is officially asking the SEC to draw a hard line on decentralized exchanges. \n\nThe venture firm filed a petition seeking explicit regulatory exemptions for DeFi developers, arguing that writing code shouldn't automatically classify someone as a broker or exchange operator under federal securities laws. \n\nThe move targets recent ambiguity surrounding developer liability and decentralized platforms. \n\nTraditional finance has largely stayed on the sidelines of this specific debate, but institutional pushback could emerge as SEC leadership reviews where open-source contribution ends and financial intermediation begins.",
+    "hasImage": true,
+    "eventFingerprint": "97f5255a7237c8039f628ae4",
+    "timestamp": "2026-09-24T01:02:09.713Z"
+  },
+  {
+    "messageId": 525,
+    "text": "Ottawa is tightening the leash on stablecoins just as Alberta opens the floodgates for private online casinos.\n\nAn unusual collision of payment crackdowns and legal gambling expansion is now playing out across Canada. \n\nThe core question facing markets: will stricter digital dollar rules actually herd offshore betting volume into regulated local rails, or just push players deeper into crypto anonymity? \n\nSlotsUp is rolling out Canadian coverage to track the shift, but the real test is whether bureaucratic guardrails can keep up with internet-native cash flows.",
+    "hasImage": true,
+    "eventFingerprint": "55ad9c15209245ee14d40b43",
+    "timestamp": "2026-09-24T01:02:10.895Z"
+  },
+  {
+    "messageId": 526,
+    "text": "Traditional exchanges are inching closer to on-chain infrastructure. \n\nBlockchain.com and the NYSE just announced an agreement to explore tokenized US stocks and ETFs, pending regulatory approval. \n\nIf major traditional equities move to distributed ledgers, what happens to existing decentralized real-world asset protocols? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "aba9b544cc58ee21bcf895a1",
+    "timestamp": "2026-09-24T01:02:11.917Z"
+  },
+  {
+    "messageId": 527,
+    "text": "Regulatory clarity remains the primary bottleneck for corporate crypto adoption.\n\nA new Visa survey suggests that introducing bank-like protections for stablecoins could significantly accelerate adoption across the United States. \n\nThe findings arrive as firms prepare for the potential enactment of the GENIUS Act, highlighting how traditional financial safeguards continue to shape digital asset integration in mainstream commerce.",
+    "hasImage": true,
+    "eventFingerprint": "9c1032b518adfc40865705bb",
+    "timestamp": "2026-09-24T01:02:12.909Z"
+  },
+  {
+    "messageId": 528,
+    "text": "The SEC just handed down a five-year roadmap for tokenized equities, and the compliance gauntlet is officially open. \n\nNot every venue is built to survive the federal filter. \n\nWhile traditional brokerages navigate the legacy plumbing, decentralised protocols face an entirely different kind of gravity: playing by Washington's rules without losing the product-market fit that made them viable in the first place. \n\nThe regulatory clock is ticking, and the list of eligible survivors is shorter than the industry thinks. \n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "c7dfcfc788fffcd8d665d372",
+    "timestamp": "2026-09-24T01:02:14.144Z"
   }
 ]
