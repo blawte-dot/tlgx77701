@@ -19926,5 +19926,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+    "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+    "summary": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5bfe909360b8d64ba19fb5105c891f64d14963ab-6042x6042.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-25T04:29:34.000Z",
+    "collectedAt": "2026-09-25T05:45:52.328Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e4ee6f9e0c2c1350ef4f1d1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-25T05:45:54.826Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+        "fingerprint": "3e4ee6f9e0c2c1350ef4f1d1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 554,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Senate Democrats Demand Public Hearing On Prediction Markets",
+    "link": "https://www.newsbtc.com/technology/senate-democrats-demand-public-hearing-on-prediction-markets/",
+    "summary": "TL;DR All 11 Democrats on the U.S. Senate Banking Committee have called for a public hearing on prediction markets. The request followed a private meeting between Republican committee members and Kalshi CEO Tarek Mansour. The lawmakers say securities-linked prediction products could raise issues that fall within the Banking Committee’s oversight responsibilities. Prediction markets are becoming a bigger issue on Capitol Hill, and lawmakers are now arguing about how the industry itself should be ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_05_cftc-staff-no-action-letter-opens-path-for-true-di_0f9ac4.png?fit=750%2C422",
+    "publishedAt": "2026-09-25T05:30:00.000Z",
+    "collectedAt": "2026-09-25T05:45:52.328Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2011d902c9050b3a002b2fd5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-25T05:45:55.759Z",
+    "outcome": {
+      "event": {
+        "title": "Senate Democrats Demand Public Hearing On Prediction Markets",
+        "fingerprint": "2011d902c9050b3a002b2fd5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 555,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "‘Only hedge funds, retail sold’ — Will BTC sustain rally as Bitcoin ETF flows turn positive?",
+    "link": "https://ambcrypto.com/only-hedge-funds-retail-sold-will-btc-sustain-rally-as-bitcoin-etf-flows-turn-positive/",
+    "summary": "Will BTC hold above $80K ahead of another likely October Fed rate hike?",
+    "image": null,
+    "publishedAt": "2026-09-25T05:00:21.000Z",
+    "collectedAt": "2026-09-25T05:45:52.329Z",
+    "corroboratingSources": 1,
+    "fingerprint": "546f63521dd91dd863851b94",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-25T05:45:57.085Z",
+    "outcome": {
+      "event": {
+        "title": "‘Only hedge funds, retail sold’ — Will BTC sustain rally as Bitcoin ETF flows turn positive?",
+        "fingerprint": "546f63521dd91dd863851b94"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "api_error",
+          "error": "Bad Request: failed to get HTTP URL content"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+    "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitget CEO Gracy Chen said a preliminary investigation found IP addresses matching VPN choices associated with a DPRK hacking group.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AZF88B8P5GKQ5R22PR2YMN/hack-1.jpg",
+    "publishedAt": "2026-09-25T00:32:46.000Z",
+    "collectedAt": "2026-09-25T05:45:52.328Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a4a02e7ec4074c205d05a010",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-25T05:45:58.262Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+        "fingerprint": "a4a02e7ec4074c205d05a010"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 556,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+    "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+    "summary": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
+    "publishedAt": "2026-09-24T21:56:03.000Z",
+    "collectedAt": "2026-09-25T05:45:52.328Z",
+    "corroboratingSources": 1,
+    "fingerprint": "730365217e08a2877d41d4c9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-25T05:45:59.364Z",
+    "outcome": {
+      "event": {
+        "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+        "fingerprint": "730365217e08a2877d41d4c9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 557,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -3579,5 +3579,37 @@
     "hasImage": true,
     "eventFingerprint": "effe54374e3ebcfd24b69d82",
     "timestamp": "2026-09-25T00:18:22.805Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 554,
+    "text": "How do you drain $352 million from a major exchange without touching a single private key?\n\nThat is the question facing the industry after Bitget CEO Gray Chen broke down last week's massive exploit. \n\nAccording to post-incident disclosures, attackers bypassed traditional key theft entirely. Instead, they compromised the exchange's wallet backend and directly spoofed transaction data—tricking the system into logging unauthorized withdrawals as legitimate internal transfers. \n\nIt highlights a shifting threat vector across centralized infrastructure. As perimeter security around private keys hardens, attackers are increasingly targeting the operational logic and backend validation layers where fiat and crypto systems meet. \n\nBitget says user funds remain unaffected and solvent, with the platform absorbing the loss. But the incident serves as a sharp reminder that key management is only half the battle.",
+    "hasImage": true,
+    "eventFingerprint": "3e4ee6f9e0c2c1350ef4f1d1",
+    "timestamp": "2026-09-25T05:45:54.822Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 555,
+    "text": "Prediction markets just crossed the line from crypto-adjacent novelty to core regulatory battleground in Washington. \n\nAll 11 Democrats on the Senate Banking Committee are demanding a public hearing on the industry. \n\nThe push follows a closed-door briefing between Republican committee members and Kalshi CEO Tarek Mansour. \n\nLawmakers point to securities-linked prediction contracts as a direct challenge to existing oversight frameworks. \n\nCapitols are waking up to decentralized speculation faster than regulators can draft rulebooks.",
+    "hasImage": true,
+    "eventFingerprint": "2011d902c9050b3a002b2fd5",
+    "timestamp": "2026-09-25T05:45:55.755Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 556,
+    "text": "Ever wonder why your cybersecurity audit never factors in a state-sponsored threat actor with a day job in Pyongyang?\n\nBitget CEO Gracy Chen pointed the finger at North Korean infrastructure following a preliminary look into that recent $352M exploit, flagging IP addresses tied to known DPRK hacking groups. \n\nTurns out traditional pen-testing doesn't quite prepare you for hackers who answer directly to a government ministry.",
+    "hasImage": true,
+    "eventFingerprint": "a4a02e7ec4074c205d05a010",
+    "timestamp": "2026-09-25T05:45:58.258Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 557,
+    "text": "Washington just made its move on the stablecoin market.\n\nThe Federal Reserve has unveiled two formal proposals under the GENIUS Act, setting strict new rules for issuers and opening a dedicated application track for commercial banks looking to enter the space.\n\nUnder the framework, supervised issuers must fully back their tokens with cash, U.S. Treasury bills, and other approved low-risk assets. \n\nThe public comment period is now open as the central bank moves to integrate privately issued digital dollars deeper into the regulated banking perimeter.",
+    "hasImage": true,
+    "eventFingerprint": "730365217e08a2877d41d4c9",
+    "timestamp": "2026-09-25T05:45:59.360Z"
   }
 ]
