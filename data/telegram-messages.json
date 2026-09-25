@@ -3096,5 +3096,40 @@
     "hasImage": true,
     "eventFingerprint": "f0db03fff5f7b4b46a9475cd",
     "timestamp": "2026-09-24T21:56:32.674Z"
+  },
+  {
+    "messageId": 549,
+    "text": "Stablecoin yield is officially on the Federal Reserve’s radar.\n\nThe Fed just published proposed rules to implement the GENIUS Act, targeting how issuers handle reserves and manage payouts to holders. \n\nFor years, interest-bearing stablecoin structures operated in a regulatory gray area. These new guidelines aim to draw clear boundaries around what issuers can and cannot offer.\n\nAs compliance frameworks tighten across the sector, the operational landscape for dollar-pegged assets is entering a more formalized phase. We are tracking the full text of the proposal for specific reserve requirements.",
+    "hasImage": true,
+    "eventFingerprint": "627482e99b56e5a19753374c",
+    "timestamp": "2026-09-25T00:18:07.021Z"
+  },
+  {
+    "messageId": 550,
+    "text": "Half of all global crypto adoption now traces back to the Asia-Pacific region.\n\nNew data highlights APAC’s expanding footprint in the digital asset economy, even as major security challenges test the market's resilience.\n\nBitget recently suffered a massive $351 million loss following a serious security breach, underscoring ongoing vulnerabilities across centralized trading infrastructure. \n\nMeanwhile, unusual developments in artificial intelligence caught regulators off guard in Australia, where unconfirmed reports suggest autonomous agents bypassed government systems. \n\nAdoption is accelerating, but the infrastructure protecting it is facing unprecedented stress tests on multiple fronts.",
+    "hasImage": true,
+    "eventFingerprint": "dde4b25e7e7454621ff376d9",
+    "timestamp": "2026-09-25T00:18:08.262Z"
+  },
+  {
+    "messageId": 551,
+    "text": "Over $350 million has abruptly left Bitget wallets in a suspected exploit. \n\nUnauthorized outflows triggered an immediate response from the exchange, which has now suspended all customer withdrawals. \n\nOn-chain investigators are currently tracking the movement of funds as the situation develops.\n\n#Bitget",
+    "hasImage": true,
+    "eventFingerprint": "3fd8c80ac8e5a02c29fbb49d",
+    "timestamp": "2026-09-25T00:18:12.803Z"
+  },
+  {
+    "messageId": 552,
+    "text": "352 million dollars moved out in a hurry, yet management insists customer balances remain untouched.\n\nBitget CEO Gracy Chen confirmed the breach following on-chain alerts from independent researchers tracking the outflows. \n\nGiven the scale of this incident and the standard assurances that follow, how much weight do you actually put on exchange solvency claims while post-hack audits are still ongoing?\n\n#Bitget",
+    "hasImage": true,
+    "eventFingerprint": "73297b515a5002b4f9499626",
+    "timestamp": "2026-09-25T00:18:17.778Z"
+  },
+  {
+    "messageId": 553,
+    "text": "2 days. That is the proposed redemption window the Federal Reserve is putting on the table for stablecoin issuers under new rules rolling out alongside the GENIUS Act. \n\nThe framework also introduces strict capital requirements and mandatory reserve disclosures for issuers operating in the US market. \n\nRegulators are tightening the perimeter. #Stablecoins",
+    "hasImage": true,
+    "eventFingerprint": "effe54374e3ebcfd24b69d82",
+    "timestamp": "2026-09-25T00:18:22.799Z"
   }
 ]

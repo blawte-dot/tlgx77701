@@ -19721,5 +19721,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+    "summary": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dac6b40648bfca7f7ad8e408d3240b1934842e14-3052x1717.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-24T22:28:49.000Z",
+    "collectedAt": "2026-09-25T00:18:04.010Z",
+    "corroboratingSources": 1,
+    "fingerprint": "627482e99b56e5a19753374c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-25T00:18:07.030Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+        "fingerprint": "627482e99b56e5a19753374c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 549,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+    "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $351M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+    "publishedAt": "2026-09-24T23:27:17.000Z",
+    "collectedAt": "2026-09-25T00:18:04.010Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dde4b25e7e7454621ff376d9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-25T00:18:08.270Z",
+    "outcome": {
+      "event": {
+        "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+        "fingerprint": "dde4b25e7e7454621ff376d9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 550,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
+    "link": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack",
+    "summary": "Bitcoin Magazine\n\nNearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack\nCrypto exchange Bitget detected unauthorized transfers and has temporarily halted withdrawals. \nThis post Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-36.jpg",
+    "publishedAt": "2026-09-24T22:53:59.000Z",
+    "collectedAt": "2026-09-25T00:18:04.010Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3fd8c80ac8e5a02c29fbb49d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-25T00:18:12.811Z",
+    "outcome": {
+      "event": {
+        "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
+        "fingerprint": "3fd8c80ac8e5a02c29fbb49d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 551,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+    "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+    "summary": "Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-24T21:59:32.000Z",
+    "collectedAt": "2026-09-25T00:18:04.010Z",
+    "corroboratingSources": 1,
+    "fingerprint": "73297b515a5002b4f9499626",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-25T00:18:17.785Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+        "fingerprint": "73297b515a5002b4f9499626"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 552,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+    "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AP0WARDM7K816JES0B780Z/hi-us-crypto-bills-compared-genius-act.jpg",
+    "publishedAt": "2026-09-24T22:10:09.000Z",
+    "collectedAt": "2026-09-25T00:18:04.010Z",
+    "corroboratingSources": 1,
+    "fingerprint": "effe54374e3ebcfd24b69d82",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-25T00:18:22.810Z",
+    "outcome": {
+      "event": {
+        "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+        "fingerprint": "effe54374e3ebcfd24b69d82"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 553,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
