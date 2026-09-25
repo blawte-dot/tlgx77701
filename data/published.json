@@ -3611,5 +3611,45 @@
     "hasImage": true,
     "eventFingerprint": "730365217e08a2877d41d4c9",
     "timestamp": "2026-09-25T05:45:59.360Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 558,
+    "text": "Mainnet restarts rarely mean the market has fully moved on. \n\nMultiversX validators pushed through a network halt and resumed block production on September 24 following an exploit, aiming to restore normal operations. \n\nYet exchange infrastructure tells a more cautious story. \n\nKraken’s latest advisory leaves EGLD markets strictly cancel-only, with deposits and withdrawals remaining offline. \n\nWhen liquidity venues keep emergency brakes engaged long after a chain restarts, it highlights the lingering friction between technical patches and operational trust.",
+    "hasImage": true,
+    "eventFingerprint": "a18dd5be337fe0510bc5db56",
+    "timestamp": "2026-09-25T11:04:53.306Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 559,
+    "text": "The multi-billion dollar capital drain that weighed on sentiment all summer has officially reversed.\n\nBitcoin exchange-traded funds clawed back a cumulative $5.8 billion deficit in July, turning net outflows into roughly $800 million in positive net inflows for the year, per CoinDesk data. \n\nThe turnaround highlights a sharp shift in institutional flows after months of persistent redemptions across major issuers.",
+    "hasImage": true,
+    "eventFingerprint": "fb19fb48c045935d34c41d2b",
+    "timestamp": "2026-09-25T11:04:54.461Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 560,
+    "text": "Bridges are becoming litigation battlegrounds.\n\nKelpDAO has filed a lawsuit against LayerZero Labs and CEO Bryan Pellegrino following the April 18 rsETH exploit, which drained roughly $292 million.\n\nThe legal action alleges that LayerZero provided written endorsement for the bridge configuration used in the deployment. \n\nNeither defendant has issued a formal response to the complaint yet.\n\n#LayerZero",
+    "hasImage": true,
+    "eventFingerprint": "2e97a55259938679d8f1d49d",
+    "timestamp": "2026-09-25T11:04:55.471Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 561,
+    "text": "A $352 million drain hits hard, but reserve depletion is the real systemic risk here. \n\nCryptoSlate reports that covering this North Korea-linked exploit from Bitget's protection fund would chew through 76% of its reserves, leaving just $112 million—well beneath the platform's stated safety floor. \n\nWhere do you draw the line between marketing-heavy user protection funds and actual balance sheet solvency? \n\n#Bitget",
+    "hasImage": true,
+    "eventFingerprint": "57d283c559dc1f9f7efc8e8f",
+    "timestamp": "2026-09-25T11:04:56.573Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 562,
+    "text": "Ever wonder how much your slippage is really costing you during a market flush?\n\nTokenInsight just dropped its September exchange liquidity report. \n\nTurns out MEXC pulled the tightest numbers across the board for a $300k silver futures sell order at 0.002%, alongside leading combined BTC and ETH futures order book depth inside the 0.03% band. \n\nTurns out execution quality still beats loud marketing when positions actually matter.",
+    "hasImage": true,
+    "eventFingerprint": "c83b468a85ed9d300e7a156f",
+    "timestamp": "2026-09-25T11:04:57.795Z"
   }
 ]

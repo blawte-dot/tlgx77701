@@ -20131,5 +20131,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "MultiversX restarts after exploit halt, but Kraken still bars new EGLD trades",
+    "link": "https://cryptoslate.com/multiversx-restarts-after-exploit-halt-but-kraken-still-bars-new-egld-trades/",
+    "summary": "Mainnet blocks resumed Sept. 24, while Kraken's latest EGLD notice kept trading cancel-only and deposits and withdrawals paused.\nThe post MultiversX restarts after exploit halt, but Kraken still bars new EGLD trades appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/egld-access-lockout.webp",
+    "publishedAt": "2026-09-25T10:50:09.000Z",
+    "collectedAt": "2026-09-25T11:04:50.701Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a18dd5be337fe0510bc5db56",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-25T11:04:53.311Z",
+    "outcome": {
+      "event": {
+        "title": "MultiversX restarts after exploit halt, but Kraken still bars new EGLD trades",
+        "fingerprint": "a18dd5be337fe0510bc5db56"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 558,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+    "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+    "summary": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/133ec4662458f7c7fc72023fa8f6ed9686c5ee4f-1600x1125.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-25T09:13:01.000Z",
+    "collectedAt": "2026-09-25T11:04:50.701Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fb19fb48c045935d34c41d2b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-25T11:04:54.465Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+        "fingerprint": "fb19fb48c045935d34c41d2b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 559,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
+    "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
+    "summary": "KelpDAO sued LayerZero and Bryan Pellegrino over the April 18 rsETH exploit, alleging the bridge setup was endorsed in writing.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230412_Legal_Generic_4.jpg",
+    "publishedAt": "2026-09-25T09:13:08.000Z",
+    "collectedAt": "2026-09-25T11:04:50.701Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2e97a55259938679d8f1d49d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-25T11:04:55.475Z",
+    "outcome": {
+      "event": {
+        "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
+        "fingerprint": "2e97a55259938679d8f1d49d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 560,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitget’s North Korea-linked $352 million hack could drain 76% of its protection fund",
+    "link": "https://cryptoslate.com/bitgets-north-korea-linked-352-million-hack-could-drain-76-of-its-protection-fund/",
+    "summary": "At a $464 million reference value, covering the full estimate from the fund would leave about $112 million, below its stated floor.\nThe post Bitget’s North Korea-linked $352 million hack could drain 76% of its protection fund appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-cracked-protection-fund.webp",
+    "publishedAt": "2026-09-25T09:50:42.000Z",
+    "collectedAt": "2026-09-25T11:04:50.701Z",
+    "corroboratingSources": 1,
+    "fingerprint": "57d283c559dc1f9f7efc8e8f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-25T11:04:56.579Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget’s North Korea-linked $352 million hack could drain 76% of its protection fund",
+        "fingerprint": "57d283c559dc1f9f7efc8e8f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 561,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "TokenInsight September Report: MEXC Posts Deepest BTC and ETH Futures Depth at $21.03M, Lowest Silver Slippage at 0.002%",
+    "link": "https://www.newsbtc.com/news/tokeninsight-september-report-mexc-posts-deepest-btc-and-eth-futures-depth-at-21-03m-lowest-silver-slippage-at-0-002/",
+    "summary": "Mutsamudu, Comoros, September 25, 2026 – MEXC, a pioneer in 0-fee digital asset trading, recorded the deepest combined BTC and ETH futures order book depth within the 0.03% band, and the lowest median slippage for a $300,000 silver futures sell order among all surveyed exchanges, according to TokenInsight&#8217;s Crypto Exchange Liquidity Report for September 2026. The report provides a systematic assessment of liquidity performance across nine major global crypto exchanges based on order book d",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/photo_2026-09-24_12-45-40.jpg?fit=715%2C536",
+    "publishedAt": "2026-09-25T10:06:27.000Z",
+    "collectedAt": "2026-09-25T11:04:50.701Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c83b468a85ed9d300e7a156f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-25T11:04:57.799Z",
+    "outcome": {
+      "event": {
+        "title": "TokenInsight September Report: MEXC Posts Deepest BTC and ETH Futures Depth at $21.03M, Lowest Silver Slippage at 0.002%",
+        "fingerprint": "c83b468a85ed9d300e7a156f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 562,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
