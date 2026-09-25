@@ -20541,5 +20541,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+    "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg",
+    "publishedAt": "2026-09-25T18:56:53.000Z",
+    "collectedAt": "2026-09-25T20:13:39.522Z",
+    "corroboratingSources": 1,
+    "fingerprint": "21db0872f7dd5e0de8fceb20",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-25T20:13:41.749Z",
+    "outcome": {
+      "event": {
+        "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+        "fingerprint": "21db0872f7dd5e0de8fceb20"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 568,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Fed Proposes Full Reserve And Capital Rules For US Stablecoin Issuers",
+    "link": "https://www.newsbtc.com/regulation/fed-proposes-full-reserve-and-capital-rules-for-us-stablecoin-issuers/",
+    "summary": "The Federal Reserve has proposed two new rulemaking packages for payment stablecoin issuers under the GENIUS Act. Board-supervised issuers would have to fully back tokens with permitted reserve assets and meet standardized capital and risk-management requirements. The proposals are not final rules yet, with a 60-day public comment period ahead. **ID:** N25-01 **Site:** NewsBTC **Status:** READY **Author:** NewsBTC Editorial Team **Focus Keyword:** Stablecoin **Image Keyword:** Regulation **Categ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_02_mica_deadline_featured.png?fit=750%2C422",
+    "publishedAt": "2026-09-25T19:30:00.000Z",
+    "collectedAt": "2026-09-25T20:13:39.522Z",
+    "corroboratingSources": 2,
+    "fingerprint": "de9dee2013d0f7a2e00c74ec",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-25T20:13:43.642Z",
+    "outcome": {
+      "event": {
+        "title": "Fed Proposes Full Reserve And Capital Rules For US Stablecoin Issuers",
+        "fingerprint": "de9dee2013d0f7a2e00c74ec"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 569,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+    "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+    "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-09-25T19:45:39.000Z",
+    "collectedAt": "2026-09-25T20:13:39.522Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d0aa07f442efe4705689d809",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-25T20:13:45.191Z",
+    "outcome": {
+      "event": {
+        "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+        "fingerprint": "d0aa07f442efe4705689d809"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 570,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Google Built an AI That Hunts Its Own Security Bugs",
+    "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+    "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
+    "publishedAt": "2026-09-25T19:16:04.000Z",
+    "collectedAt": "2026-09-25T20:13:39.522Z",
+    "corroboratingSources": 1,
+    "fingerprint": "94813ecfefdbcb67ad392729",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-25T20:13:46.797Z",
+    "outcome": {
+      "event": {
+        "title": "Google Built an AI That Hunts Its Own Security Bugs",
+        "fingerprint": "94813ecfefdbcb67ad392729"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 571,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO",
+    "link": "https://bitcoinmagazine.com/news/north-korea-linked-to-bitget-hack",
+    "summary": "Bitcoin Magazine\n\nNorth Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO\nCrypto exchange Bitget has released more details on Thursday’s hack. \nThis post North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-37.jpg",
+    "publishedAt": "2026-09-25T20:08:41.000Z",
+    "collectedAt": "2026-09-25T20:13:39.522Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b507ff40e2f14e6eb1936519",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-25T20:13:48.224Z",
+    "outcome": {
+      "event": {
+        "title": "North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO",
+        "fingerprint": "b507ff40e2f14e6eb1936519"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 572,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
