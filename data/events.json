@@ -20336,5 +20336,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+    "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+    "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nft-art-gID_7.png",
+    "publishedAt": "2026-09-25T16:17:19.000Z",
+    "collectedAt": "2026-09-25T16:27:56.877Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d12ab8eec065ac9a5f14de7d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-25T16:27:59.378Z",
+    "outcome": {
+      "event": {
+        "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+        "fingerprint": "d12ab8eec065ac9a5f14de7d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 563,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say",
+    "link": "https://bitcoinmagazine.com/news/is-us-defence-secretary-pete-hegseth-a-bitcoiner-this-is-what-his-accounts-say",
+    "summary": "Bitcoin Magazine\n\nIs US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say\nU.S. Defence Secretary Pete Hegseth has millions of dollars in investments. But how much of it is in bitcoin?\nThis post Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image17_1920x1080.jpg",
+    "publishedAt": "2026-09-25T15:35:30.000Z",
+    "collectedAt": "2026-09-25T16:27:56.877Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d322dba686748c012ece8660",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-25T16:28:00.501Z",
+    "outcome": {
+      "event": {
+        "title": "Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say",
+        "fingerprint": "d322dba686748c012ece8660"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 564,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "KelpDAO claims April exploit was &#8216;direct result of LayerZero&#8217;s failures&#8217; in new lawsuit",
+    "link": "https://ambcrypto.com/kelpdao-claims-april-exploit-was-direct-result-of-layerzeros-failures-in-new-lawsuit/",
+    "summary": "The effects of the KelpDAO hack haven’t faded yet.",
+    "image": null,
+    "publishedAt": "2026-09-25T13:00:47.000Z",
+    "collectedAt": "2026-09-25T16:27:56.877Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0136fff35b074f4942b40c69",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-25T16:28:02.568Z",
+    "outcome": {
+      "event": {
+        "title": "KelpDAO claims April exploit was &#8216;direct result of LayerZero&#8217;s failures&#8217; in new lawsuit",
+        "fingerprint": "0136fff35b074f4942b40c69"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 565,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Fed Proposes Capital Charges and Bank Approval Rules for Stablecoins",
+    "link": "https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins",
+    "summary": "Covered issuers would generally have two business days to redeem tokens, while bank applications would follow the GENIUS Act's 120-day decision clock.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/3c435e4acd13e6bdfedfbcdec1268437a294525e-2048x1152.png",
+    "publishedAt": "2026-09-25T14:20:39.000Z",
+    "collectedAt": "2026-09-25T16:27:56.877Z",
+    "corroboratingSources": 1,
+    "fingerprint": "db2ea123ad14a12c727804a0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-25T16:28:03.947Z",
+    "outcome": {
+      "event": {
+        "title": "Fed Proposes Capital Charges and Bank Approval Rules for Stablecoins",
+        "fingerprint": "db2ea123ad14a12c727804a0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 566,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+    "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CM3GXTXZWWRNTY7Y5MXRMC/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg",
+    "publishedAt": "2026-09-25T15:49:34.000Z",
+    "collectedAt": "2026-09-25T16:27:56.877Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7851284df1c24c76fcc9da29",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-25T16:28:05.391Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+        "fingerprint": "7851284df1c24c76fcc9da29"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 567,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

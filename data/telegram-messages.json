@@ -3194,5 +3194,40 @@
     "hasImage": true,
     "eventFingerprint": "c83b468a85ed9d300e7a156f",
     "timestamp": "2026-09-25T11:04:57.791Z"
+  },
+  {
+    "messageId": 563,
+    "text": "Over 23,000 Ethereum NFTs had to be rescued by whitehats after a critical vulnerability surfaced in Limit Break's Payment Processor V2. \n\nMagic Eden issued an urgent warning to users regarding legacy Ethereum listings left exposed by the smart contract flaw. \n\nThe exploit path specifically targeted uncancelled orders sitting on older order books. \n\nSecurity researchers stepped in ahead of malicious actors, sweeping the vulnerable assets into safe wallets to prevent widespread loss of user funds. \n\nUsers with historical listings on the platform are advised to immediately revoke permissions and check their wallet status.",
+    "hasImage": true,
+    "eventFingerprint": "d12ab8eec065ac9a5f14de7d",
+    "timestamp": "2026-09-25T16:27:59.371Z"
+  },
+  {
+    "messageId": 564,
+    "text": "Watch where Washington's power brokers park their capital, not just what they say at conferences.\n\nPublic financial disclosures for US Defence Secretary Pete Hegseth are drawing fresh scrutiny from digital asset markets. \n\nInvestigators are combing through millions in reported investments to determine if his portfolio includes direct Bitcoin exposure. \n\nWhile mainstream media focuses on traditional holdings, on-chain analysts and financial trackers are parsing the official filings for any digital asset footprint. \n\nFull confirmation of specific allocations remains pending as disclosure documents are fully processed.",
+    "hasImage": true,
+    "eventFingerprint": "d322dba686748c012ece8660",
+    "timestamp": "2026-09-25T16:28:00.494Z"
+  },
+  {
+    "messageId": 565,
+    "text": "Accountability battles in cross-chain infrastructure are heating up following a major legal filing.\n\nKelpDAO has formally alleged that its April exploit stemmed directly from critical failures within LayerZero's protocol design. \n\nThe lawsuit seeks to assign financial responsibility for the incident, moving a dispute over bridge security directly into the courtroom. \n\nAs cross-chain applications handle billions in TVL, the outcome of this case could set a vital legal precedent for how liability is shared between base layers and downstream protocols when exploits occur.",
+    "hasImage": true,
+    "eventFingerprint": "0136fff35b074f4942b40c69",
+    "timestamp": "2026-09-25T16:28:02.560Z"
+  },
+  {
+    "messageId": 566,
+    "text": "Washington is quietly drawing the perimeter around digital dollars.\n\nThe Federal Reserve has proposed a strict new framework for stablecoin issuers, introducing mandatory capital charges and formal banking approval guidelines. \n\nUnder the draft rules, covered issuers would face a tight two-business-day window to honor redemption requests. Meanwhile, banking institutions applying to issue tokens would navigate a structured 120-day decision clock modeled after the GENIUS Act. \n\nThe move marks a significant pivot from oversight through enforcement toward codified federal integration. Compliance costs are set to climb, raising the barrier of entry for smaller players while institutionalizing the sector.",
+    "hasImage": true,
+    "eventFingerprint": "db2ea123ad14a12c727804a0",
+    "timestamp": "2026-09-25T16:28:03.939Z"
+  },
+  {
+    "messageId": 567,
+    "text": "Three distinct battlegrounds are currently erasing the boundary between traditional finance and crypto. \n\nWall Street institutions and digital asset firms are increasingly targeting the exact same revenue streams. \n\nPayments are ground zero. High-yield stablecoins directly compete with legacy bank deposits and cross-border rails, pressuring traditional margins. \n\nAt the same time, tokenized real-world assets and exchange-traded products are drawing traditional capital and crypto infrastructure into direct overlap. \n\nBanks are building on-chain settlement rails. Crypto native platforms are offering equity trading and yield products. \n\nThe turf war isn't coming anymore. It's actively playing out across global markets.",
+    "hasImage": true,
+    "eventFingerprint": "7851284df1c24c76fcc9da29",
+    "timestamp": "2026-09-25T16:28:05.384Z"
   }
 ]
