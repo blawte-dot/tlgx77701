@@ -3731,5 +3731,45 @@
     "hasImage": true,
     "eventFingerprint": "b507ff40e2f14e6eb1936519",
     "timestamp": "2026-09-25T20:13:48.220Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 573,
+    "text": "How does an obscure Montana firm and a Caribbean bank end up in the crosshairs of federal prosecutors for moving millions?\n\nThe US Department of Justice is seeking $84.2 million from Farmington Trust, a bank in St. Vincent and the Grenadines, alongside Montana-based Charlottesville Value Dynamics. \n\nAccording to court filings, the entities are accused of operating an unlicensed money transmitting business that processed tens of millions of dollars tied to Tether transactions without proper anti-money laundering controls. \n\nFederal investigators allege the accounts functioned as shadow payment rails, bypassing traditional banking scrutiny to move funds between crypto platforms and traditional financial systems. \n\nNo charges of criminal wrongdoing have been finalized against the institutions themselves, but the forfeiture action highlights ongoing regulatory pressure on off-shore banking intermediaries servicing the digital asset economy.",
+    "hasImage": true,
+    "eventFingerprint": "eda4c5b58a6623a59ab2e20d",
+    "timestamp": "2026-09-25T23:47:09.210Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 574,
+    "text": "The legal battle over a $292 million exploit just escalated in a way nobody expected. \n\nKelpDAO is taking legal action against LayerZero and CEO Bryan Pellegrino, pointing the finger directly at cross-chain infrastructure that it claims was vetted and endorsed before the disaster struck. \n\nPellegrino has already dismissed the filing as meritless, setting up a high-stakes collision over liability in multichain deployments. \n\nCross-chain security has long relied on shared trust assumptions between protocols and bridging layers. This lawsuit changes the conversation entirely, moving the debate from smart contract bugs to direct legal accountability between project founders. \n\nAs multiple outlets track the developing litigation, the outcome risks rewriting how protocols evaluate third-party integrations.",
+    "hasImage": true,
+    "eventFingerprint": "de0a297b4678f7dd1422e97f",
+    "timestamp": "2026-09-25T23:47:10.802Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 575,
+    "text": "380 million dollars in Bitcoin just woke up after more than two years of absolute silence.\n\nAn early 2022 whale address transferred 4,379 BTC this week, catching the attention of on-chain analysts tracking dormant supply. \n\nDespite the heavy movement, the destination wallet hasn't offloaded a single coin yet. The full balance remains intact at the receiving address as of the latest checks.\n\nWhether this points to an OTC deal, internal custody reshuffling, or preparation for future liquidity remains entirely unclear.",
+    "hasImage": true,
+    "eventFingerprint": "8187c334a4685ac752b2f0ae",
+    "timestamp": "2026-09-25T23:47:12.056Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 576,
+    "text": "Traditional finance is quietly building the pipes for tokenized money, and institutional friction just took another hit.\n\nIBM has introduced a beta integration connecting its Digital Asset Haven platform directly to Swift’s blockchain-based shared ledger. \n\nSeventeen first-mover institutions are already testing the infrastructure, which allows banks to process tokenized-deposit transactions using standard ISO 20022 messaging formats. \n\nAt the same time, IBM is rolling out an on-premises version of the platform for institutions requiring local data control. \n\nPublic networks often dominate the crypto narrative, but institutional rails are hardening around permissioned ledgers and legacy messaging standards faster than many realize.",
+    "hasImage": true,
+    "eventFingerprint": "48c3c71400ab93e1d07193fc",
+    "timestamp": "2026-09-25T23:47:13.400Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 577,
+    "text": "$1.3 billion. \n\nThat is the exact amount of venture capital just dragged kicking and screaming onto the blockchain.\n\nCathie Wood isn't launching a speculative altcoin bag. ARK is tokenizing its entire flagship Venture Fund via Securitize, bringing heavyweights like OpenAI, Anthropic, Stripe, and Databricks onchain. \n\nPrivate equity tradition: paperwork, delays, and friction. \nTokenized reality: composable assets and instant settlement. \n\nWhen multi-billion-dollar portfolios quietly migrate to public infrastructure, the tokenization narrative stops being a conference buzzword and starts looking like structural inevitability.",
+    "hasImage": true,
+    "eventFingerprint": "3264609823a71008f57a1cf4",
+    "timestamp": "2026-09-25T23:47:14.685Z"
   }
 ]

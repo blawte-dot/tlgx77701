@@ -20746,5 +20746,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+    "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+    "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+    "publishedAt": "2026-09-25T21:25:35.000Z",
+    "collectedAt": "2026-09-25T23:47:06.887Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eda4c5b58a6623a59ab2e20d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-25T23:47:09.213Z",
+    "outcome": {
+      "event": {
+        "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+        "fingerprint": "eda4c5b58a6623a59ab2e20d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 573,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
+    "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "KelpDAO says LayerZero endorsed its bridge setup before the attack, while CEO Bryan Pellegrino has dismissed the lawsuit as meritless.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BTYE66WC2EVFA55YV4CN26/canadia.png",
+    "publishedAt": "2026-09-25T08:51:17.000Z",
+    "collectedAt": "2026-09-25T23:47:06.887Z",
+    "corroboratingSources": 3,
+    "fingerprint": "de0a297b4678f7dd1422e97f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-25T23:47:10.806Z",
+    "outcome": {
+      "event": {
+        "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
+        "fingerprint": "de0a297b4678f7dd1422e97f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 574,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Dormant whale moves $380M Bitcoin, leaving the sale question unanswered",
+    "link": "https://cryptoslate.com/dormant-whale-moves-380m-bitcoin-leaving-the-sale-question-unanswered/",
+    "summary": "The principal output dated to April 2022, and the Sept. 25 destination still held the full balance at the time checked.\nThe post Dormant whale moves $380M Bitcoin, leaving the sale question unanswered appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-transfer-door.webp",
+    "publishedAt": "2026-09-25T22:50:32.000Z",
+    "collectedAt": "2026-09-25T23:47:06.887Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8187c334a4685ac752b2f0ae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-25T23:47:12.058Z",
+    "outcome": {
+      "event": {
+        "title": "Dormant whale moves $380M Bitcoin, leaving the sale question unanswered",
+        "fingerprint": "8187c334a4685ac752b2f0ae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 575,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "IBM Connects Banks To Swift’s Blockchain Ledger For Tokenized Deposits",
+    "link": "https://www.newsbtc.com/technology/ibm-connects-banks-to-swifts-blockchain-ledger-for-tokenized-deposits/",
+    "summary": "IBM Digital Asset Haven can now connect financial institutions to Swift’s blockchain-based shared ledger through a beta integration. Banks can instruct tokenized-deposit transactions using existing ISO 20022 payment messages. Swift’s ledger is already being tested by 17 first-mover institutions, while IBM is also adding an on-premises version of Digital Asset Haven. **ID:** N25-05 **Site:** NewsBTC **Status:** READY **Author:** NewsBTC Editorial Team **Focus Keyword:** IBM **Image Keyword:** Tok",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=750%2C422",
+    "publishedAt": "2026-09-25T23:30:00.000Z",
+    "collectedAt": "2026-09-25T23:47:06.887Z",
+    "corroboratingSources": 1,
+    "fingerprint": "48c3c71400ab93e1d07193fc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-25T23:47:13.403Z",
+    "outcome": {
+      "event": {
+        "title": "IBM Connects Banks To Swift’s Blockchain Ledger For Tokenized Deposits",
+        "fingerprint": "48c3c71400ab93e1d07193fc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 576,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "ARK Brings $1.3B Venture Fund Onchain Through Securitize",
+    "link": "https://www.newsbtc.com/technology/ark-brings-1-3b-venture-fund-onchain-through-securitize/",
+    "summary": "ARK Invest is tokenizing its ARK Venture Fund through Securitize. The fund has roughly $1.3 billion in assets and invests across private and public technology companies including OpenAI, Anthropic, Stripe and Databricks. The move tokenizes ownership and administration of the existing fund rather than creating a new crypto fund. **ID:** N25-02 **Site:** NewsBTC **Status:** READY **Author:** NewsBTC Editorial Team **Focus Keyword:** Tokenization **Image Keyword:** Tokenization **Category:** Techno",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=750%2C422",
+    "publishedAt": "2026-09-25T20:30:00.000Z",
+    "collectedAt": "2026-09-25T23:47:06.887Z",
+    "corroboratingSources": 2,
+    "fingerprint": "3264609823a71008f57a1cf4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-09-25T23:47:14.688Z",
+    "outcome": {
+      "event": {
+        "title": "ARK Brings $1.3B Venture Fund Onchain Through Securitize",
+        "fingerprint": "3264609823a71008f57a1cf4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 577,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
