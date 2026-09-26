@@ -21156,5 +21156,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Fed proposes new stablecoin rules under GENIUS Act — What to expect?",
+    "link": "https://ambcrypto.com/fed-proposes-new-stablecoin-rules-under-genius-act-what-to-expect/",
+    "summary": "New Fed proposals could change how U.S banks and stablecoin issuers manage reserves, capital, and risk.",
+    "image": null,
+    "publishedAt": "2026-09-26T04:00:59.000Z",
+    "collectedAt": "2026-09-26T09:03:51.372Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c1873669918cef66f79cd1d0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-26T09:03:54.599Z",
+    "outcome": {
+      "event": {
+        "title": "Fed proposes new stablecoin rules under GENIUS Act — What to expect?",
+        "fingerprint": "c1873669918cef66f79cd1d0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 583,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
+    "link": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
+    "summary": "The tokenized ARKVX interest still comes with a fund-wide quarterly repurchase cap and no announced secondary venue.\nThe post ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg",
+    "publishedAt": "2026-09-26T07:30:29.000Z",
+    "collectedAt": "2026-09-26T09:03:51.372Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3a609615833fa0b4ef5c5638",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T09:03:55.705Z",
+    "outcome": {
+      "event": {
+        "title": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
+        "fingerprint": "3a609615833fa0b4ef5c5638"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 584,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+    "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+    "summary": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-25T21:17:30.000Z",
+    "collectedAt": "2026-09-26T09:03:51.371Z",
+    "corroboratingSources": 1,
+    "fingerprint": "63ab16d0ffd9ab758f67fe6e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T09:03:56.676Z",
+    "outcome": {
+      "event": {
+        "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+        "fingerprint": "63ab16d0ffd9ab758f67fe6e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 585,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
+    "link": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
+    "summary": "Magic Eden legacy approvals exposed $5.7 million in NFTs to an exploit before whitehats rescued 23,155 tokens.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/01/20230110_MagicEden_Generic3.jpg",
+    "publishedAt": "2026-09-25T14:09:15.000Z",
+    "collectedAt": "2026-09-26T09:03:51.372Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2294ca4001b3a86161a1e83c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T09:03:58.009Z",
+    "outcome": {
+      "event": {
+        "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
+        "fingerprint": "2294ca4001b3a86161a1e83c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 586,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+    "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities regulator.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
+    "publishedAt": "2026-09-25T20:26:40.000Z",
+    "collectedAt": "2026-09-26T09:03:51.372Z",
+    "corroboratingSources": 1,
+    "fingerprint": "db65f0f04aa579c847edda57",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T09:03:59.407Z",
+    "outcome": {
+      "event": {
+        "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+        "fingerprint": "db65f0f04aa579c847edda57"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 587,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

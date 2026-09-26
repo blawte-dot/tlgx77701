@@ -3334,5 +3334,40 @@
     "hasImage": true,
     "eventFingerprint": "58078f54a561bb208c8026f5",
     "timestamp": "2026-09-26T03:23:33.490Z"
+  },
+  {
+    "messageId": 583,
+    "text": "Washington is moving to draw a sharp legal boundary around digital dollars.\n\nUnder new proposals tied to the GENIUS Act, the Federal Reserve is setting its sights directly on how U.S. banks and stablecoin issuers manage reserves, capital requirements, and underlying counterparty risk. \n\nThe framework aims to bring privately issued digital tokens closer to traditional banking standards. That means stricter oversight on what qualifies as a reserve asset and tighter capital buffers for institutions touching the sector. \n\nIf finalized, the rules could fundamentally reshape the operational playbook for stablecoin issuers navigating the U.S. financial system. \n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "c1873669918cef66f79cd1d0",
+    "timestamp": "2026-09-26T09:03:54.591Z"
+  },
+  {
+    "messageId": 584,
+    "text": "Why tokenize an asset if the exit door still requires a manager's permission slip?\n\nARK Invest is bringing its venture fund on-chain via Securitize. \n\nThe catch is that ARKVX remains bound by a fund-wide quarterly repurchase cap, with no secondary trading venue announced. \n\nPutting legacy liquidity constraints onto Ethereum doesn't make them decentralized. It just gives them better gas fees.",
+    "hasImage": true,
+    "eventFingerprint": "3a609615833fa0b4ef5c5638",
+    "timestamp": "2026-09-26T09:03:55.697Z"
+  },
+  {
+    "messageId": 585,
+    "text": "State regulators just found out they are the main characters of the sports betting saga.\n\nThe Sixth Circuit ruled that Kalshi’s event contracts aren’t swaps under federal jurisdiction, leaving the door wide open for state-level oversight instead. \n\nFederal agencies wanted a monopoly on the whistle. \n\nInstead, fifty different state regulators just subbed into the game.",
+    "hasImage": true,
+    "eventFingerprint": "63ab16d0ffd9ab758f67fe6e",
+    "timestamp": "2026-09-26T09:03:56.668Z"
+  },
+  {
+    "messageId": 586,
+    "text": "23,155 NFTs narrowly dodged a permanent exit.\n\nOld contract approvals on Magic Eden left $5.7 million worth of digital assets sitting ducks this week. \n\nBefore malicious actors could drain the books, whitehats stepped in and swept the exposed tokens to safety. \n\nA stark reminder that permissions you forgot about in 2022 are still ticking clocks.",
+    "hasImage": true,
+    "eventFingerprint": "2294ca4001b3a86161a1e83c",
+    "timestamp": "2026-09-26T09:03:58.001Z"
+  },
+  {
+    "messageId": 587,
+    "text": "Regulatory lobbying efforts in Washington just hit a notable roadblock.\n\nSummer Mersinger is stepping down from her role at the Blockchain Association following the stalled legislative progress of the CLARITY Act. \n\nThe former CFTC Commissioner had transitioned to the crypto advocacy group in 2025 after departing the federal regulator during her second term. \n\nHer exit comes as broader industry pushback and legislative gridlock continue to stall key digital asset oversight frameworks on Capitol Hill.",
+    "hasImage": true,
+    "eventFingerprint": "db65f0f04aa579c847edda57",
+    "timestamp": "2026-09-26T09:03:59.399Z"
   }
 ]
