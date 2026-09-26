@@ -21771,5 +21771,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "SEC clears regulatory hurdle as crypto token buybacks hit record $638 million",
+    "link": "https://cryptoslate.com/sec-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million/",
+    "summary": "Crypto projects spent about $638 million with token buybacks through late August 2026, according to Allium Labs data. That is already a record, up from $545 million over the same stretch of 2025. Hyperliquid accounted for roughly $370 million and Pump.fun for about $200 million, together close to 90% of the total. On Sept. 25, [&#8230;]\nThe post SEC clears regulatory hurdle as crypto token buybacks hit record $638 million appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/token-buyback-record.webp",
+    "publishedAt": "2026-09-26T20:20:52.000Z",
+    "collectedAt": "2026-09-26T21:47:40.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f52181a564e429cf26488515",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T21:47:42.611Z",
+    "outcome": {
+      "event": {
+        "title": "SEC clears regulatory hurdle as crypto token buybacks hit record $638 million",
+        "fingerprint": "f52181a564e429cf26488515"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 598,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+    "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+    "summary": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png",
+    "publishedAt": "2026-09-26T16:06:03.000Z",
+    "collectedAt": "2026-09-26T21:47:40.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8c0cff90cf2fe0e66939d0a4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T21:47:43.940Z",
+    "outcome": {
+      "event": {
+        "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+        "fingerprint": "8c0cff90cf2fe0e66939d0a4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 599,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Fed stablecoin proposal would make circulation a capital cost for supervised issuers",
+    "link": "https://cryptoslate.com/fed-stablecoin-proposal-would-make-circulation-a-capital-cost-for-supervised-issuers/",
+    "summary": "At $1 billion outstanding with no non-reserve revenue, the proposed operating-risk baseline would be $20 million before adjustments.\nThe post Fed stablecoin proposal would make circulation a capital cost for supervised issuers appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-capital-steps.webp",
+    "publishedAt": "2026-09-26T13:35:46.000Z",
+    "collectedAt": "2026-09-26T21:47:40.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "67749103ede2e0fcb308daeb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T21:47:45.171Z",
+    "outcome": {
+      "event": {
+        "title": "Fed stablecoin proposal would make circulation a capital cost for supervised issuers",
+        "fingerprint": "67749103ede2e0fcb308daeb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 600,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "US Charges Man After Crypto Scam Wallets Received More Than $53M",
+    "link": "https://www.newsbtc.com/technology/us-charges-man-after-crypto-scam-wallets-received-more-than-53m/",
+    "summary": "TL;DR U.S. prosecutors have charged a Vietnamese national with money laundering tied to alleged cryptocurrency “pig butchering” schemes. Prosecutors say wallets controlled by the defendant received roughly $53.3 million linked to fraud schemes targeting U.S. victims. One victim allegedly transferred about $16 million after being directed to a fake crypto investment platform. U.S. prosecutors have charged a Vietnamese national over an alleged cryptocurrency fraud network that moved more than $53 ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-81.jpg?fit=750%2C429",
+    "publishedAt": "2026-09-26T21:30:00.000Z",
+    "collectedAt": "2026-09-26T21:47:40.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "06154305f45eb48396a67b16",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T21:47:46.196Z",
+    "outcome": {
+      "event": {
+        "title": "US Charges Man After Crypto Scam Wallets Received More Than $53M",
+        "fingerprint": "06154305f45eb48396a67b16"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 601,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "XRP Whales Keep Buying as Ripple Makes Big BlackRock-Related Announcement",
+    "link": "https://cryptopotato.com/xrp-whales-keep-buying-as-ripple-makes-big-blackrock-related-announcement/",
+    "summary": "This is far from the first major accumulation spree initiated by Ripple whales lately.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/02/XRPWhales_CB.jpg",
+    "publishedAt": "2026-09-26T11:28:40.000Z",
+    "collectedAt": "2026-09-26T21:47:40.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "51cf6bed1aeb6fa4e7dd596d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T21:47:47.348Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Whales Keep Buying as Ripple Makes Big BlackRock-Related Announcement",
+        "fingerprint": "51cf6bed1aeb6fa4e7dd596d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 602,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
