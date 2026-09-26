@@ -3851,5 +3851,45 @@
     "hasImage": true,
     "eventFingerprint": "db65f0f04aa579c847edda57",
     "timestamp": "2026-09-26T09:03:59.403Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 588,
+    "text": "The legal battle lines over multi-chain security have officially been drawn in British Columbia. \n\nEvercrest Technologies, the team behind KelpDAO, is suing LayerZero Labs and CEO Bryan Pellegrino following April's $292 million rsETH exploit. \n\nThe civil claim alleges negligence, negligent misrepresentation, and defamation, while seeking punitive damages. At the center of the dispute is LayerZero's core security architecture and reliance on decentralized verifier networks. \n\nThe fallout goes far beyond the courtroom. On-chain data shows nearly $15 billion in capital has migrated away from the protocol since the incident, alongside $650 million in withdrawals directly linked to Kelp users. \n\nPellegrino has pushed back against the allegations, but the proceeding threatens to set a major legal precedent for how cross-chain messaging protocols and their leadership are held accountable when bridge security fails.",
+    "hasImage": true,
+    "eventFingerprint": "2be8a0f5f443225d2d8358c8",
+    "timestamp": "2026-09-26T14:03:49.638Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 589,
+    "text": "Federal oversight offers no shield against state gambling laws, according to the Sixth Circuit.\n\nThe appeals court ruled that Ohio and Tennessee can enforce their own regulations on Kalshi's sports contracts, dismissing the exchange's argument that federal compliance should preempt state rules. \n\nWith geofencing cited as a workable solution, federally regulated prediction markets now face a patchwork of state-level restrictions.\n\nWhere does this leave the broader push for federally cleared event contracts? Can prediction markets scale nationally if every state retains the power to geofence them out?",
+    "hasImage": true,
+    "eventFingerprint": "b5e2a8fedbccdb85b52dd44b",
+    "timestamp": "2026-09-26T14:03:51.457Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 590,
+    "text": "Check the ticker before you roll your eyes at the next exchange-traded fund filing. \n\nBitwise just cleared the NYSE Arca hurdle for a spot NEAR product, and the market immediately printed a 26% knee-jerk reaction. \n\nWall Street's paperwork machine keeps chewing through altcoin dossiers. Whether sustained institutional capital follows the initial regulatory green light is a completely separate question, but the liquidity taps are clearly still responding to the filing alphabet soup. \n\n#NEAR",
+    "hasImage": true,
+    "eventFingerprint": "6ec7972bde5dfe3979f40b2c",
+    "timestamp": "2026-09-26T14:03:53.934Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 591,
+    "text": "An era at the SEC is coming to an end. \n\nHester Peirce, widely known across the industry as \"Crypto Mom,\" plans to step down from her commissioner post on October 2. \n\nHer departure closes out roughly eight years of service at the agency, a tenure defined by frequent dissenting opinions and her leadership of the SEC's Crypto Task Force.",
+    "hasImage": true,
+    "eventFingerprint": "ed2d7162a906802b0c7bf3a0",
+    "timestamp": "2026-09-26T14:03:55.060Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 592,
+    "text": "Ever tried locking the stable door after the horse already bought a round of Ethereum?\n\nCircle and Tether managed to freeze roughly $318,000 in blacklisted USDC and USDT tied to the Bitget exploit. \n\nThe catch? \n\nThe attacker had already swapped the lion's share of the loot into unfreezable ETH long before the blacklist button got clicked. Speed still wins on-chain.",
+    "hasImage": true,
+    "eventFingerprint": "32950f1f78a39c40d1cadf94",
+    "timestamp": "2026-09-26T14:03:56.311Z"
   }
 ]

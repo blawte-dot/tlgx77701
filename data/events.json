@@ -21361,5 +21361,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Nearly $15B is moving off LayerZero, now a $292M lawsuit puts its security model on trial",
+    "link": "https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial/",
+    "summary": "Evercrest Technologies, the company behind KelpDAO, has sued LayerZero Labs, its Canadian affiliate, and CEO Bryan Pellegrino in British Columbia over April's $292 million rsETH exploit. The claim alleges negligent misrepresentation, negligence and defamation, seeks aggravated and punitive damages, and says Kelp users have withdrawn more than $650 million since the attack. Pellegrino has called [&#8230;]\nThe post Nearly $15B is moving off LayerZero, now a $292M lawsuit puts its security model on",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/layerzero-asset-rescue.webp",
+    "publishedAt": "2026-09-26T13:30:11.000Z",
+    "collectedAt": "2026-09-26T14:03:46.901Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2be8a0f5f443225d2d8358c8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-26T14:03:49.642Z",
+    "outcome": {
+      "event": {
+        "title": "Nearly $15B is moving off LayerZero, now a $292M lawsuit puts its security model on trial",
+        "fingerprint": "2be8a0f5f443225d2d8358c8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 588,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Kalshi must lock out state users after major court loss",
+    "link": "https://cryptoslate.com/kalshi-must-lock-out-state-users-after-major-court-loss/",
+    "summary": "The Sixth Circuit ruled Sept. 25 that Ohio and Tennessee can apply their gambling laws to Kalshi's sports contracts. The court rejected Kalshi's argument that complying state by state would conflict with its duties as a federally regulated exchange, and it pointed to geofencing as a workable way to satisfy both. That second appellate win [&#8230;]\nThe post Kalshi must lock out state users after major court loss appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-state-access-ruling.webp",
+    "publishedAt": "2026-09-26T12:30:13.000Z",
+    "collectedAt": "2026-09-26T14:03:46.901Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b5e2a8fedbccdb85b52dd44b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T14:03:51.462Z",
+    "outcome": {
+      "event": {
+        "title": "Kalshi must lock out state users after major court loss",
+        "fingerprint": "b5e2a8fedbccdb85b52dd44b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 589,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Near Protocol surges 26% as Bitwise ETF clears NYSE Arca hurdle – Details",
+    "link": "https://ambcrypto.com/near-protocol-surges-26-as-bitwise-etf-clears-nyse-arca-hurdle-details/",
+    "summary": "Analyzing the aftermath of Bitwise’s NEAR ETF approval to list and trade on NYSE Arca on its price action.",
+    "image": null,
+    "publishedAt": "2026-09-26T13:00:50.000Z",
+    "collectedAt": "2026-09-26T14:03:46.901Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6ec7972bde5dfe3979f40b2c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T14:03:53.938Z",
+    "outcome": {
+      "event": {
+        "title": "Near Protocol surges 26% as Bitwise ETF clears NYSE Arca hurdle – Details",
+        "fingerprint": "6ec7972bde5dfe3979f40b2c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 590,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+    "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Peirce, known as “Crypto Mom,” served on the SEC for about eight years, including as director of the Crypto Task Force.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg",
+    "publishedAt": "2026-09-26T09:02:22.000Z",
+    "collectedAt": "2026-09-26T14:03:46.901Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ed2d7162a906802b0c7bf3a0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T14:03:55.063Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+        "fingerprint": "ed2d7162a906802b0c7bf3a0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 591,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+    "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+    "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-09-25T18:42:51.000Z",
+    "collectedAt": "2026-09-26T14:03:46.901Z",
+    "corroboratingSources": 1,
+    "fingerprint": "32950f1f78a39c40d1cadf94",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-26T14:03:56.315Z",
+    "outcome": {
+      "event": {
+        "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+        "fingerprint": "32950f1f78a39c40d1cadf94"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 592,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
