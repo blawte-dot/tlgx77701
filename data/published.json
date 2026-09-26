@@ -3891,5 +3891,45 @@
     "hasImage": true,
     "eventFingerprint": "32950f1f78a39c40d1cadf94",
     "timestamp": "2026-09-26T14:03:56.311Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 593,
+    "text": "A new Federal Reserve proposal introduces a strict 24-hour crisis clock for supervised stablecoin issuers.\n\nUnder the framework, if an issuer's reserves drop below the value of its circulating tokens, it must notify the central bank within a day and present a recovery plan. \n\nShould the backing gap persist without regulatory intervention, mandatory liquidation could follow swiftly. \n\nMarkets are already calculating the systemic risk: a compressed timeline that could force emergency asset sales across broader crypto liquidity pools before wider contagion takes hold.",
+    "hasImage": true,
+    "eventFingerprint": "eeb519f32850dff33f624135",
+    "timestamp": "2026-09-26T18:16:58.801Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 594,
+    "text": "Every routine network upgrade or token repurchase now sits under a sharper federal lens. \n\nSEC staff just published new guidance clarifying when standard crypto operations can inadvertently trigger securities law questions. The core distinction centers on intent: buybacks cross a line when issuers pitch them as mechanisms to generate investor yield. \n\nCrucially, this is staff guidance rather than a formal rule change, meaning the underlying legal framework remains intact. Yet it gives projects a much clearer view of how secondary-market activity is being evaluated in Washington.\n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "ff395a266e0fef224fa11d6c",
+    "timestamp": "2026-09-26T18:17:00.182Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 595,
+    "text": "A $2.4 billion weekly capital wave just erased months of institutional losses for spot Bitcoin exchange-traded funds. \n\nThe massive injection marks the largest weekly tally since October, officially pushing year-to-date net flows back into positive territory for 2026. \n\nJust two months ago, these same vehicles sat roughly $5.8 billion in the red following a protracted drawdown. \n\nThe sudden reversal highlights a sharp shift in institutional risk appetite as broader macro conditions evolve.",
+    "hasImage": true,
+    "eventFingerprint": "bed3bd6bb109e7c4d95e3be0",
+    "timestamp": "2026-09-26T18:17:01.547Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 596,
+    "text": "Wall Street briefly panic-sold the Clarity Act like it was a terminal event. \n\nSeven sessions and roughly $3 billion later, the institutional memory span has reset. \n\nSpot Bitcoin ETFs just flipped 2026 cumulative flows back into the green, proving once again that legislation is temporary, but the ETF rebalance schedule is forever.",
+    "hasImage": true,
+    "eventFingerprint": "251fcbfa361b6b398bb1fd87",
+    "timestamp": "2026-09-26T18:17:02.598Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 597,
+    "text": "Regulatory clarity rarely comes wrapped in simple answers.\n\nThe SEC's latest guidance tackles thorny questions around staking receipt tokens, token buybacks, and investment contracts, setting new boundaries for how digital assets operate under current federal frameworks. \n\nHow significantly do you expect these specific clarifications to alter project design and tokenomics moving forward? Drop your thoughts below.",
+    "hasImage": true,
+    "eventFingerprint": "7d9231af3d02d2baf4c53b75",
+    "timestamp": "2026-09-26T18:17:04.569Z"
   }
 ]

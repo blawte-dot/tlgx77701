@@ -21566,5 +21566,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run",
+    "link": "https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run/",
+    "summary": "The Federal Reserve's proposed rules for the payment stablecoin issuers it supervises include a crisis clock measured in hours. An issuer whose reserves fall below the value of its outstanding tokens would have 24 hours to notify the Fed and submit a plan to restore full backing. Unless it closes the gap or the Fed [&#8230;]\nThe post Fed proposed stablecoin rule could trigger a 48-hour liquidation run appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-supermarket-run.webp",
+    "publishedAt": "2026-09-26T17:55:58.000Z",
+    "collectedAt": "2026-09-26T18:16:56.694Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eeb519f32850dff33f624135",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-26T18:16:58.805Z",
+    "outcome": {
+      "event": {
+        "title": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run",
+        "fingerprint": "eeb519f32850dff33f624135"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 593,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SEC Clarifies When Crypto Buybacks And Network Upgrades Can Raise Securities Questions",
+    "link": "https://www.newsbtc.com/regulation/sec-clarifies-when-crypto-buybacks-and-network-upgrades-can-raise-securities-questions/",
+    "summary": "TL;DR SEC staff has published new FAQs explaining how federal securities laws may apply to crypto-asset buybacks, network upgrades and secondary-market activity. The guidance says a buyback can become relevant to an investment-contract analysis when an issuer presents it as a way to create yield or returns. The FAQs are staff guidance, not a new SEC rule, and do not change existing law. The SEC is giving crypto projects a more detailed look at how seemingly ordinary token activity can affect the",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=750%2C422",
+    "publishedAt": "2026-09-26T15:30:00.000Z",
+    "collectedAt": "2026-09-26T18:16:56.694Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ff395a266e0fef224fa11d6c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-26T18:17:00.188Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Clarifies When Crypto Buybacks And Network Upgrades Can Raise Securities Questions",
+        "fingerprint": "ff395a266e0fef224fa11d6c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 594,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+    "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+    "summary": "The inflows pushed bitcoin ETFs' year-to-date net flows back above zero, after the funds sat roughly $5.8 billion in the red just two months ago.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
+    "publishedAt": "2026-09-26T17:24:12.000Z",
+    "collectedAt": "2026-09-26T18:16:56.694Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bed3bd6bb109e7c4d95e3be0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-26T18:17:01.551Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+        "fingerprint": "bed3bd6bb109e7c4d95e3be0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 595,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+    "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+    "summary": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-02-gID_7.png",
+    "publishedAt": "2026-09-26T17:01:03.000Z",
+    "collectedAt": "2026-09-26T18:16:56.694Z",
+    "corroboratingSources": 1,
+    "fingerprint": "251fcbfa361b6b398bb1fd87",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T18:17:02.602Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+        "fingerprint": "251fcbfa361b6b398bb1fd87"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 596,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "All about SEC’s new crypto FAQs on staking, buybacks and investment contracts",
+    "link": "https://ambcrypto.com/all-about-secs-new-crypto-faqs-on-staking-buybacks-and-investment-contracts/",
+    "summary": "From staking receipt tokens to token buybacks, the SEC’s latest FAQs address several key crypto questions.",
+    "image": null,
+    "publishedAt": "2026-09-26T16:00:50.000Z",
+    "collectedAt": "2026-09-26T18:16:56.694Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7d9231af3d02d2baf4c53b75",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T18:17:04.573Z",
+    "outcome": {
+      "event": {
+        "title": "All about SEC’s new crypto FAQs on staking, buybacks and investment contracts",
+        "fingerprint": "7d9231af3d02d2baf4c53b75"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 597,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
