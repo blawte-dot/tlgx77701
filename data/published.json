@@ -3771,5 +3771,45 @@
     "hasImage": true,
     "eventFingerprint": "3264609823a71008f57a1cf4",
     "timestamp": "2026-09-25T23:47:14.685Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 578,
+    "text": "Institutional infrastructure and retail risk continue to diverge in digital asset markets.\n\nSygnum Bank has rolled out a new arrangement allowing institutional clients to keep trading collateral safely held with the bank while accessing Bitget. \n\nThe move offers corporate accounts a vital layer of separation from exchange insolvency risk. \n\nFor retail users, the picture looks entirely different. Ordinary balances remain exposed to internal platform controls, highlighted by recent withdrawal freezes and reliance on internal safety funds. \n\nTwo distinct tiers of safety are hardening across the industry.",
+    "hasImage": true,
+    "eventFingerprint": "4eb05ffbdeb4bbb99b622f45",
+    "timestamp": "2026-09-26T03:23:27.904Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 579,
+    "text": "Regulators are drawing clearer lines around token promotions. \n\nThe SEC’s staff issued new guidance today addressing network upgrades, buybacks, and profit promises. \n\nCrucially, the agency noted that highlighting a network's current utility generally does not create an expectation of profit under federal securities law. \n\nAt the same time, hyping future appreciation or relying heavily on managerial efforts to drive value remains a distinct red flag. \n\nThe breakdown offers long-awaited clarity for teams structuring token economics, though gray areas around secondary market trading persist. \n\n#SEC",
+    "hasImage": true,
+    "eventFingerprint": "ca5c5ce3a8de5f58cb1b48a2",
+    "timestamp": "2026-09-26T03:23:29.300Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 580,
+    "text": "🐋 1.54 billion tokens in under four days? \n\nUnconfirmed reports suggest XRP whales are aggressively expanding their holdings during the latest market recovery. \n\nData circulating across analytics platforms points to a massive accumulation spree over a 96-hour window, though those figures have yet to be independently verified. \n\nPrice action is currently testing key local resistance as traders monitor whether heavy accumulation will translate into sustained momentum.",
+    "hasImage": true,
+    "eventFingerprint": "e0ab8c5d9445e9041b90d971",
+    "timestamp": "2026-09-26T03:23:31.056Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 581,
+    "text": "Institutional demand for XRP is quietly scaling new heights. \n\nBitwise led the latest wave of capital as total assets under management across XRP exchange-traded products pushed to $1.70 billion, fueled by $38 million in fresh net inflows. \n\nThe accumulation comes as the token tests a critical overhead resistance level near $1.60. While spot volumes respond to the broader market cycle, sustained product inflows continue to alter the supply dynamic on open exchanges.",
+    "hasImage": true,
+    "eventFingerprint": "936bafec00d95201ce757af6",
+    "timestamp": "2026-09-26T03:23:32.219Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 582,
+    "text": "What happens when regulators actually look under the hood of liquid staking?\n\nFor once, the bureaucracy didn't swing a hammer. \n\nNew SEC staff FAQs clarify that qualifying staking receipts sidestep the security label, bringing a quiet layer of institutional breathing room to proof-of-stake networks. \n\nTurns out proof-of-work purists aren't the only ones who can sleep at night anymore.",
+    "hasImage": true,
+    "eventFingerprint": "58078f54a561bb208c8026f5",
+    "timestamp": "2026-09-26T03:23:33.493Z"
   }
 ]

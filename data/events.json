@@ -20951,5 +20951,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Swiss bank shields Bitget institutions while retail funds freeze",
+    "link": "https://cryptoslate.com/swiss-bank-shields-bitget-institutions-while-retail-funds-freeze/",
+    "summary": "Sygnum offers bank-held trading collateral to institutional clients, while Bitget's withdrawal pause leaves ordinary balances dependent on its own controls and fund.\nThe post Swiss bank shields Bitget institutions while retail funds freeze appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-custody-withdrawals.webp",
+    "publishedAt": "2026-09-26T02:30:16.000Z",
+    "collectedAt": "2026-09-26T03:23:24.490Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4eb05ffbdeb4bbb99b622f45",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-26T03:23:27.907Z",
+    "outcome": {
+      "event": {
+        "title": "Swiss bank shields Bitget institutions while retail funds freeze",
+        "fingerprint": "4eb05ffbdeb4bbb99b622f45"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 578,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+    "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+    "summary": "Promoting a network’s current uses generally would not create an expectation of profit, SEC staff said.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg",
+    "publishedAt": "2026-09-25T20:32:40.000Z",
+    "collectedAt": "2026-09-26T03:23:24.490Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ca5c5ce3a8de5f58cb1b48a2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T03:23:29.304Z",
+    "outcome": {
+      "event": {
+        "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+        "fingerprint": "ca5c5ce3a8de5f58cb1b48a2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 579,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Held by Whales Breaks Records: Analyzing XRP Price Effect",
+    "link": "https://u.today/xrp-held-by-whales-breaks-records-analyzing-xrp-price-effect",
+    "summary": "XRP whale activity is surging alongside the latest price recovery, with major holders reportedly accumulating 1.54 billion XRP in just 96 hours.",
+    "image": null,
+    "publishedAt": "2026-09-25T13:15:00.000Z",
+    "collectedAt": "2026-09-26T03:23:24.490Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e0ab8c5d9445e9041b90d971",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T03:23:31.059Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Held by Whales Breaks Records: Analyzing XRP Price Effect",
+        "fingerprint": "e0ab8c5d9445e9041b90d971"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 580,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XRP ETF inflows hit $38M—can price break the $1.60 barrier?",
+    "link": "https://ambcrypto.com/xrp-etf-inflows-hit-38m-can-price-break-the-1-60-barrier/",
+    "summary": "Bitwise led the latest XRP ETF inflows as total assets reached $1.70 billion, while XRP approached an important price barrier.",
+    "image": null,
+    "publishedAt": "2026-09-26T01:30:44.000Z",
+    "collectedAt": "2026-09-26T03:23:24.490Z",
+    "corroboratingSources": 1,
+    "fingerprint": "936bafec00d95201ce757af6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T03:23:32.223Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETF inflows hit $38M—can price break the $1.60 barrier?",
+        "fingerprint": "936bafec00d95201ce757af6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 581,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
+    "link": "https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs",
+    "summary": "Qualifying staking receipts fall into non-security categories, while the FAQs reaffirm an earlier position on maintenance and development funding.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/2be7174737689cabfa0343e3e1d6207aeb410bf5-2048x1152.png",
+    "publishedAt": "2026-09-25T20:14:02.000Z",
+    "collectedAt": "2026-09-26T03:23:24.490Z",
+    "corroboratingSources": 1,
+    "fingerprint": "58078f54a561bb208c8026f5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-26T03:23:33.496Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
+        "fingerprint": "58078f54a561bb208c8026f5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 582,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
