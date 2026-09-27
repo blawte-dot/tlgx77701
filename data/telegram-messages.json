@@ -3579,5 +3579,40 @@
     "hasImage": true,
     "eventFingerprint": "070c65921687b8f891fde921",
     "timestamp": "2026-09-27T12:44:59.234Z"
+  },
+  {
+    "messageId": 618,
+    "text": "Don't look away from what institutional capital is quietly doing to altcoin liquidity right now.\n\nSolana investment products just logged their largest weekly inflow total since trading began late last year. \n\nThe record-breaking demand signals a clear shift in how large allocators view layer-1 alternatives outside of Bitcoin and Ethereum, even as broader macro conditions remain uncertain. \n\nVolume follows conviction. This tranche of capital is moving with intent, not chasing short-term noise. \n\n#Solana",
+    "hasImage": true,
+    "eventFingerprint": "3b43ff8032448be6f0e4ce0e",
+    "timestamp": "2026-09-27T17:27:19.338Z"
+  },
+  {
+    "messageId": 619,
+    "text": "Nobody panic, but the SEC just discovered that pressing \"unstake\" isn't actually a magic button.\n\nAgency staff split staking tokens into conditional categories this week, completely bypassing how they actually work in practice. \n\nTurns out regulatory definitions don't speed up Lido's withdrawal queue, and they certainly don't rewrite Coinbase's terms of service when network congestion spikes. \n\nTheory meets reality, and liquidity usually loses.",
+    "hasImage": true,
+    "eventFingerprint": "228ed4644adc8f13f4e78485",
+    "timestamp": "2026-09-27T17:27:20.856Z"
+  },
+  {
+    "messageId": 620,
+    "text": "Can a token buyback exist without triggering SEC oversight?\n\nNew guidance from SEC staff suggests the answer is yes, provided the underlying network is already fully functional. \n\nLegal observers are calling it a notable shift in how regulators view token utility versus investment contracts. Under the updated interpretation, public buyback announcements on working networks do not automatically classify the asset as a security. \n\nOne industry attorney went as far as describing the framework as making compliance look effectively optional for certain mature projects. \n\nSource: Decrypt",
+    "hasImage": true,
+    "eventFingerprint": "b7f9e4ac5df89f4ccebc20f0",
+    "timestamp": "2026-09-27T17:27:22.654Z"
+  },
+  {
+    "messageId": 621,
+    "text": "What are large Dogecoin holders quietly positioning for this week?\n\nOn-chain data shows whale accumulation picking up sharply as DOGE posts a 15% weekly gain, defying broader market consolidation. \n\nAt the same time, newly launched Dogecoin investment products are registering record inflows, signaling institutional interest is finally following retail momentum. \n\nWhether this capital rotation translates to a sustained breakout or a classic liquidity trap depends on whether key resistance levels flip to support.",
+    "hasImage": true,
+    "eventFingerprint": "baeb596f9a2b831e389489f3",
+    "timestamp": "2026-09-27T17:27:23.826Z"
+  },
+  {
+    "messageId": 622,
+    "text": "4 major South Korean commercial banks are stepping into the spotlight at an upcoming Ripple-focused industry gathering in Seoul. \n\nLocal financial heavyweights plan to showcase their ongoing blockchain and digital asset initiatives at the event, according to reports from U.Today. \n\nThe move highlights deepening institutional engagement across Asia's high-volume trading corridors, even as broader regulatory frameworks continue to evolve across the region.",
+    "hasImage": true,
+    "eventFingerprint": "fd14e8ea83f1dd71126f6105",
+    "timestamp": "2026-09-27T17:27:24.819Z"
   }
 ]

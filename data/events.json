@@ -22591,5 +22591,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Solana Sees Biggest ETF Week Since Launch",
+    "link": "https://u.today/solana-sees-biggest-etf-week-since-launch",
+    "summary": "Solana ETFs have attracted the largest amount of inflow ever recorded since they launched late last year amid growing institutional demand.",
+    "image": null,
+    "publishedAt": "2026-09-27T14:01:59.000Z",
+    "collectedAt": "2026-09-27T17:27:16.389Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3b43ff8032448be6f0e4ce0e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-27T17:27:19.347Z",
+    "outcome": {
+      "event": {
+        "title": "Solana Sees Biggest ETF Week Since Launch",
+        "fingerprint": "3b43ff8032448be6f0e4ce0e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 618,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "SEC staff&#8217;s staking-token split spotlights the exit risks behind staked ETH tokens",
+    "link": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth/",
+    "summary": "Its conditional categories do not classify either product. Coinbase terms and Lido's withdrawal queue govern the practical route back to ETH.\nThe post SEC staff&#8217;s staking-token split spotlights the exit risks behind staked ETH tokens appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/staking-token-risk-balance.webp",
+    "publishedAt": "2026-09-27T16:00:54.000Z",
+    "collectedAt": "2026-09-27T17:27:16.389Z",
+    "corroboratingSources": 1,
+    "fingerprint": "228ed4644adc8f13f4e78485",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-27T17:27:21.160Z",
+    "outcome": {
+      "event": {
+        "title": "SEC staff&#8217;s staking-token split spotlights the exit risks behind staked ETH tokens",
+        "fingerprint": "228ed4644adc8f13f4e78485"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 619,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+    "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+    "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
+    "publishedAt": "2026-09-27T13:01:03.000Z",
+    "collectedAt": "2026-09-27T17:27:16.389Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b7f9e4ac5df89f4ccebc20f0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T17:27:22.662Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+        "fingerprint": "b7f9e4ac5df89f4ccebc20f0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 620,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "DOGE Rally Brewing? Whales Load Up as Dogecoin ETFs Post Record Inflows",
+    "link": "https://cryptopotato.com/doge-rally-brewing-whales-load-up-as-dogecoin-etfs-post-record-inflows/",
+    "summary": "The OG meme coin is up by over 15% weekly but can it pull further ahead?",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/01/DOGE_CB-15.jpg",
+    "publishedAt": "2026-09-27T12:48:27.000Z",
+    "collectedAt": "2026-09-27T17:27:16.389Z",
+    "corroboratingSources": 1,
+    "fingerprint": "baeb596f9a2b831e389489f3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T17:27:23.833Z",
+    "outcome": {
+      "event": {
+        "title": "DOGE Rally Brewing? Whales Load Up as Dogecoin ETFs Post Record Inflows",
+        "fingerprint": "baeb596f9a2b831e389489f3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 621,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Heads to Seoul: Korea's Banking Giants Set for XRP Spotlight",
+    "link": "https://u.today/ripple-heads-to-seoul-koreas-banking-giants-set-for-xrp-spotlight",
+    "summary": "Korea’s banking giants to take stage at upcoming XRP event.",
+    "image": null,
+    "publishedAt": "2026-09-27T15:00:09.000Z",
+    "collectedAt": "2026-09-27T17:27:16.389Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fd14e8ea83f1dd71126f6105",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T17:27:24.827Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Heads to Seoul: Korea's Banking Giants Set for XRP Spotlight",
+        "fingerprint": "fd14e8ea83f1dd71126f6105"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 622,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
