@@ -3544,5 +3544,40 @@
     "hasImage": true,
     "eventFingerprint": "be1ce2e4f78929865cdd7339",
     "timestamp": "2026-09-27T06:10:47.465Z"
+  },
+  {
+    "messageId": 613,
+    "text": "292 million dollars. That is the price tag attached to a brand-new legal battle now unfolding across the crypto infrastructure landscape.\n\nEvercrest Technologies, the firm behind KelpDAO, has filed a formal civil claim against LayerZero entities and co-founder Bryan Pellegrino following April's massive rsETH exploit.\n\nThe core allegation: LayerZero allegedly reviewed and endorsed the specific bridge configuration that was later compromised, draining 116,500 rsETH. \n\nThese claims remain unproven in court, and LayerZero has yet to issue a definitive legal response. \n\nYet the implications stretch far beyond a single courtroom. Cross-chain interoperability protocols have long operated under the assumption that shared security and code audits shield them from liability when third-party integrations fail. If courts begin holding protocol developers accountable for endorsed configurations, the entire bridging sector faces an immediate reckoning over risk, liability, and insurance. \n\n#LayerZero",
+    "hasImage": true,
+    "eventFingerprint": "5e28926e499697deb02e7cf8",
+    "timestamp": "2026-09-27T12:42:45.970Z"
+  },
+  {
+    "messageId": 614,
+    "text": "History rarely repeats itself directly, but Q3 is putting on a rare show for Bitcoin bulls. \n\nCoinGlass data shows BTC is pacing toward a roughly 43.5% gain this quarter. \n\nThat puts the current period on track for its second-best third quarter on record, trailing only the historic run seen in 2017.",
+    "hasImage": true,
+    "eventFingerprint": "bcb540503b9975cf3b7ff661",
+    "timestamp": "2026-09-27T12:42:48.603Z"
+  },
+  {
+    "messageId": 615,
+    "text": "Spot markets are quietly absorbing supply while derivatives traders lean heavily the wrong way.\n\nCrypto ETFs just logged another wave of broadening inflows. \n\nYet the real pressure point sits in the futures market, where crowded short positioning continues to build. \n\nWhen spot demand steadily absorbs float while leverage tilts heavily in one direction, the setup for a sharp liquidity cascade sharpens. \n\nMarkets rarely reward consensus bets when positioning gets this lopsided.",
+    "hasImage": true,
+    "eventFingerprint": "4b5a2044c007fb34c16fdd04",
+    "timestamp": "2026-09-27T12:43:46.826Z"
+  },
+  {
+    "messageId": 616,
+    "text": "Large-scale accumulation rarely happens by accident, but tracking whale entries is no guarantee of a price floor. \n\nOn-chain data shows a single wallet withdrew 18.34 million ENA worth roughly $5.13 million, pushing market attention back toward key psychological levels near $0.30. \n\nHeavy buying from concentrated addresses can spark sharp rallies, yet it also creates sudden exit liquidity risks if sentiment shifts. \n\n#Ethena",
+    "hasImage": true,
+    "eventFingerprint": "dada76326faed22f811260c8",
+    "timestamp": "2026-09-27T12:44:57.870Z"
+  },
+  {
+    "messageId": 617,
+    "text": "The derivatives data layer just got a lot more centralized.\n\nCoinMarketCap has officially acquired CoinGlass, absorbing one of the industry's most relied-upon platforms for tracking liquidations and open interest across major tokens like BTC, XRP, and SHIB. \n\nTerms of the deal were not disclosed. \n\n#CoinMarketCap",
+    "hasImage": true,
+    "eventFingerprint": "070c65921687b8f891fde921",
+    "timestamp": "2026-09-27T12:44:59.234Z"
   }
 ]

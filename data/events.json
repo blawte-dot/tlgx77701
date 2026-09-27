@@ -22386,5 +22386,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit",
+    "link": "https://www.newsbtc.com/technology/kelpdao-sues-layerzero-over-292m-rseth-bridge-exploit/",
+    "summary": "TL;DR Evercrest Technologies, the company behind KelpDAO, has filed a civil claim against LayerZero entities and co-founder Bryan Pellegrino. The lawsuit concerns the April exploit that drained 116,500 rsETH, worth about $292 million at the time. KelpDAO alleges LayerZero reviewed and endorsed the bridge configuration later blamed for the attack; those claims have not been proven in court. The company behind KelpDAO has taken its dispute with LayerZero into court, filing a civil claim over the A",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-81.jpg?fit=750%2C429",
+    "publishedAt": "2026-09-26T19:30:00.000Z",
+    "collectedAt": "2026-09-27T12:42:42.908Z",
+    "corroboratingSources": 4,
+    "fingerprint": "5e28926e499697deb02e7cf8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-27T12:42:45.979Z",
+    "outcome": {
+      "event": {
+        "title": "KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit",
+        "fingerprint": "5e28926e499697deb02e7cf8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 613,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin on Track for Second-Best Q3 Ever",
+    "link": "https://u.today/bitcoin-on-track-for-second-best-q3-ever",
+    "summary": "Bitcoin is on track to post its second-best third quarter on record, with a roughly 43.5% gain that trails only 2017, according to CoinGlass data.",
+    "image": null,
+    "publishedAt": "2026-09-27T10:55:00.000Z",
+    "collectedAt": "2026-09-27T12:42:42.908Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bcb540503b9975cf3b7ff661",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-27T12:42:48.611Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin on Track for Second-Best Q3 Ever",
+        "fingerprint": "bcb540503b9975cf3b7ff661"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 614,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Crypto ETFs see strong inflows &#8211; Could crowded shorts trigger a squeeze?",
+    "link": "https://ambcrypto.com/crypto-etfs-see-strong-inflows-could-crowded-shorts-trigger-a-squeeze/",
+    "summary": "ETF inflows are broadening, but derivatives positioning could be the bigger catalyst.",
+    "image": null,
+    "publishedAt": "2026-09-27T09:00:11.000Z",
+    "collectedAt": "2026-09-27T12:42:42.908Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4b5a2044c007fb34c16fdd04",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T12:43:46.837Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto ETFs see strong inflows &#8211; Could crowded shorts trigger a squeeze?",
+        "fingerprint": "4b5a2044c007fb34c16fdd04"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 615,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ethena reaches December 2025 levels &#8211; Can ENA flip $0.30?",
+    "link": "https://ambcrypto.com/ethena-reaches-december-2025-levels-can-ena-flip-0-30/",
+    "summary": "An Ethena whale purchased 18.34 million ENA worth $5.13 million.",
+    "image": null,
+    "publishedAt": "2026-09-27T12:00:30.000Z",
+    "collectedAt": "2026-09-27T12:42:42.908Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dada76326faed22f811260c8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-27T12:44:57.882Z",
+    "outcome": {
+      "event": {
+        "title": "Ethena reaches December 2025 levels &#8211; Can ENA flip $0.30?",
+        "fingerprint": "dada76326faed22f811260c8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 616,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Go-To BTC, XRP, and SHIB Liquidation Tracker Acquired by CoinMarketCap",
+    "link": "https://u.today/go-to-btc-xrp-and-shib-liquidation-tracker-acquired-by-coinmarketcap",
+    "summary": "CoinMarketCap has acquired CoinGlass, one of the crypto industry’s most widely used platforms for tracking Bitcoin, XRP, Shiba Inu and other tokens’ liquidations, open interest and derivatives activity.",
+    "image": null,
+    "publishedAt": "2026-09-25T15:21:11.000Z",
+    "collectedAt": "2026-09-27T12:42:42.908Z",
+    "corroboratingSources": 1,
+    "fingerprint": "070c65921687b8f891fde921",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T12:44:59.245Z",
+    "outcome": {
+      "event": {
+        "title": "Go-To BTC, XRP, and SHIB Liquidation Tracker Acquired by CoinMarketCap",
+        "fingerprint": "070c65921687b8f891fde921"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 617,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
