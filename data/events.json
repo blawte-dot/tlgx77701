@@ -23001,5 +23001,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Can XRP price break $1.57 as whale withdraws 580M tokens?",
+    "link": "https://ambcrypto.com/can-xrp-price-break-1-57-as-whale-withdraws-580m-tokens/",
+    "summary": "XRP exchange supply contracted as a massive whale withdrawal coincided with outflows and falling reserves.",
+    "image": null,
+    "publishedAt": "2026-09-27T23:00:50.000Z",
+    "collectedAt": "2026-09-27T23:36:38.263Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7655824342a8f33c9a6d3fcd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-27T23:36:41.078Z",
+    "outcome": {
+      "event": {
+        "title": "Can XRP price break $1.57 as whale withdraws 580M tokens?",
+        "fingerprint": "7655824342a8f33c9a6d3fcd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 628,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Visa Survey Finds US Stablecoin Interest Jumps to 56% With Bank-Style Safeguards",
+    "link": "https://cryptopotato.com/visa-survey-finds-us-stablecoin-interest-jumps-to-56-with-bank-style-safeguards/",
+    "summary": "Trust is still the biggest barrier to stablecoin adoption: 56% of Americans had never heard of stablecoins, and many who had assumed they were as volatile as Bitcoin.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/10/Visa.jpg",
+    "publishedAt": "2026-09-27T22:23:15.000Z",
+    "collectedAt": "2026-09-27T23:36:38.262Z",
+    "corroboratingSources": 1,
+    "fingerprint": "79cc2d25086e9b9fe9429ddd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T23:36:42.109Z",
+    "outcome": {
+      "event": {
+        "title": "Visa Survey Finds US Stablecoin Interest Jumps to 56% With Bank-Style Safeguards",
+        "fingerprint": "79cc2d25086e9b9fe9429ddd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 629,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "THORChain’s decentralized model faces backlash &#8211; &#8216;The industry is watching&#8217;",
+    "link": "https://ambcrypto.com/thorchains-decentralized-model-faces-backlash-the-industry-is-watching/",
+    "summary": "THORChain faces growing scrutiny after Bitget hacker funds were reportedly routed through its cross-chain infrastructure.",
+    "image": null,
+    "publishedAt": "2026-09-27T10:30:52.000Z",
+    "collectedAt": "2026-09-27T23:36:38.263Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e5ddb50a88a1e2adf073dcfb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T23:36:43.555Z",
+    "outcome": {
+      "event": {
+        "title": "THORChain’s decentralized model faces backlash &#8211; &#8216;The industry is watching&#8217;",
+        "fingerprint": "e5ddb50a88a1e2adf073dcfb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 630,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin holds above $84K despite 5.12% treasury yields and hawkish Fed &#8211; Report",
+    "link": "https://ambcrypto.com/bitcoin-holds-above-84k-despite-5-12-treasury-yields-and-hawkish-fed-report/",
+    "summary": "But can Bitcoin sustain its rally amid renewed macroeconomic pressure?",
+    "image": null,
+    "publishedAt": "2026-09-27T07:00:26.000Z",
+    "collectedAt": "2026-09-27T23:36:38.263Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f7bdaac347e35ccd8241c354",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T23:36:44.535Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin holds above $84K despite 5.12% treasury yields and hawkish Fed &#8211; Report",
+        "fingerprint": "f7bdaac347e35ccd8241c354"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 631,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Core Lightning patches flaw that could let revoked channel state escape penalty",
+    "link": "https://cryptoslate.com/core-lightning-revoked-channel-penalty-flaw/",
+    "summary": "The flaw was fixed in v26.06.7, but older builds and some early Docker images still call for an upgrade check.\nThe post Core Lightning patches flaw that could let revoked channel state escape penalty appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/core-lightning-security-bridge.webp",
+    "publishedAt": "2026-09-27T23:15:38.000Z",
+    "collectedAt": "2026-09-27T23:36:38.262Z",
+    "corroboratingSources": 1,
+    "fingerprint": "44747b18ebf101c7801075e2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-09-27T23:36:45.870Z",
+    "outcome": {
+      "event": {
+        "title": "Core Lightning patches flaw that could let revoked channel state escape penalty",
+        "fingerprint": "44747b18ebf101c7801075e2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 632,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

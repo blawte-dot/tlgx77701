@@ -4171,5 +4171,45 @@
     "hasImage": true,
     "eventFingerprint": "15d91d36578463293f63333d",
     "timestamp": "2026-09-27T20:50:12.715Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 628,
+    "text": "A sudden supply crunch could catch leveraged shorts off guard. \n\nOn-chain data shows a massive single-wallet withdrawal of 580 million XRP, coinciding with a broader decline in exchange reserves. \n\nAs liquid supply contracts, market attention has turned to the $1.57 resistance level. \n\nWhile falling exchange balances typically reduce immediate sell pressure, broader macro conditions and derivative positioning will dictate whether buyers have the momentum to clear the barrier.",
+    "hasImage": true,
+    "eventFingerprint": "7655824342a8f33c9a6d3fcd",
+    "timestamp": "2026-09-27T23:36:41.074Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 629,
+    "text": "More than half of Americans still think stablecoins swing like Bitcoin.\n\nVisa just dropped a new survey showing that once you add bank-style safeguards and explain the tech, US interest in stablecoins jumps straight to 56 percent. \n\nTurns out people like the speed of crypto, they just prefer it without the heart attacks.",
+    "hasImage": true,
+    "eventFingerprint": "79cc2d25086e9b9fe9429ddd",
+    "timestamp": "2026-09-27T23:36:42.105Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 630,
+    "text": "Cross-chain privacy meets regulatory pressure head-on.\n\nUnconfirmed reports suggest stolen funds from the Bitget exploit were recently routed through THORChain's decentralized liquidity protocol, drawing sharp scrutiny from across the sector. \n\nAs the debate intensifies over how permissionless systems handle illicit flows without sacrificing censorship resistance, where do you draw the line? \n\nIs complete decentralization worth the inevitable exposure to bad actors, or does cross-chain infrastructure need native guardrails to survive regulatory scrutiny? Drop your take below.",
+    "hasImage": true,
+    "eventFingerprint": "e5ddb50a88a1e2adf073dcfb",
+    "timestamp": "2026-09-27T23:36:43.550Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 631,
+    "text": "Treasury yields just punched to 5.12% alongside a firmly hawkish Federal Reserve, yet Bitcoin continues to defend the $84,000 handle. \n\nMacroeconomic headwinds are intensifying as liquidity tightens across global markets. \n\nWhether this resilience signals a decoupling from traditional risk assets or simply a delayed reaction remains the central question for market participants this week.",
+    "hasImage": true,
+    "eventFingerprint": "f7bdaac347e35ccd8241c354",
+    "timestamp": "2026-09-27T23:36:44.530Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 632,
+    "text": "Good intentions don't patch protocol bugs.\n\nCore Lightning just quietly shipped v26.06.7 to close a loophole that let bad actors slip out of revoked channel state penalties. \n\nIf you are running legacy builds or early Docker images, it is time to check your versions. \n\nThe network remembers, but only if your node is actually enforcing the rules. ⚡️",
+    "hasImage": true,
+    "eventFingerprint": "44747b18ebf101c7801075e2",
+    "timestamp": "2026-09-27T23:36:45.866Z"
   }
 ]
