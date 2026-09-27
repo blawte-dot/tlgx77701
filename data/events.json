@@ -22796,5 +22796,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Meme Coin Ban for California Officials Signed by Governor",
+    "link": "https://u.today/meme-coin-ban-for-california-officials-signed-by-governor",
+    "summary": "California Gov. Gavin Newsom has signed a new law banning state and local public officials from issuing meme coins.",
+    "image": null,
+    "publishedAt": "2026-09-27T18:52:15.000Z",
+    "collectedAt": "2026-09-27T20:50:04.962Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7f149d507f8673244142e4df",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-27T20:50:07.660Z",
+    "outcome": {
+      "event": {
+        "title": "Meme Coin Ban for California Officials Signed by Governor",
+        "fingerprint": "7f149d507f8673244142e4df"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 623,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin ETF Comeback: $2.4B Week Flips Year-to-Date Flows Positive",
+    "link": "https://cryptopotato.com/bitcoin-etf-comeback-2-4b-week-flips-year-to-date-flows-positive/",
+    "summary": "The ETH ETFs also had a strong week, attracting nearly $700 million.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/01/photo_2024-01-11_10-38-57.jpg",
+    "publishedAt": "2026-09-27T17:46:40.000Z",
+    "collectedAt": "2026-09-27T20:50:04.962Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a46769198681b8b607f62b95",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T20:50:08.980Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF Comeback: $2.4B Week Flips Year-to-Date Flows Positive",
+        "fingerprint": "a46769198681b8b607f62b95"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 624,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Pump.fun sells $5.83M SOL, but ETF inflows surge &#8211; Can Solana break $122.70?",
+    "link": "https://ambcrypto.com/pump-fun-sells-5-83m-sol-but-etf-inflows-surge-can-solana-break-122-70/",
+    "summary": "Record ETF inflows countered Pump.fun’s SOL selling, but $122.70 resistance continued limiting the recovery.",
+    "image": null,
+    "publishedAt": "2026-09-27T14:00:32.000Z",
+    "collectedAt": "2026-09-27T20:50:04.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9cb1a3343a9f1a952a3de986",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T20:50:10.439Z",
+    "outcome": {
+      "event": {
+        "title": "Pump.fun sells $5.83M SOL, but ETF inflows surge &#8211; Can Solana break $122.70?",
+        "fingerprint": "9cb1a3343a9f1a952a3de986"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 625,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "XRP ETFs Attract $75M in a Week as SOL Funds Hit New 2026 High",
+    "link": "https://cryptopotato.com/xrp-etfs-attract-75m-in-a-week-as-sol-funds-hit-new-2026-high/",
+    "summary": "Friday was particularly good day for the financial vehicles tracking both assets, especially SOL.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/11/Ripple_ETF.jpg",
+    "publishedAt": "2026-09-27T20:05:25.000Z",
+    "collectedAt": "2026-09-27T20:50:04.962Z",
+    "corroboratingSources": 1,
+    "fingerprint": "09424236163a9f941b0f3f46",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-27T20:50:11.458Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETFs Attract $75M in a Week as SOL Funds Hit New 2026 High",
+        "fingerprint": "09424236163a9f941b0f3f46"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 626,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+    "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3HDTS8Y7GZWZ1TSH2F6ES35/hi-how-to-train-an-ai-bot-to-day-trade-crypto.png",
+    "publishedAt": "2026-09-27T12:46:28.000Z",
+    "collectedAt": "2026-09-27T20:50:04.962Z",
+    "corroboratingSources": 1,
+    "fingerprint": "15d91d36578463293f63333d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T20:50:12.719Z",
+    "outcome": {
+      "event": {
+        "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+        "fingerprint": "15d91d36578463293f63333d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 627,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
