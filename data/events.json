@@ -21976,5 +21976,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Fed Moves to Tighten Stablecoin Rules With Two New GENIUS Act Proposals",
+    "link": "https://cryptopotato.com/fed-moves-to-tighten-stablecoin-rules-with-two-new-genius-act-proposals/",
+    "summary": "Public comments on the Fed's two stablecoin proposals will remain open for 60 days after publication in the Federal Register.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/10/FederalReserve.jpg",
+    "publishedAt": "2026-09-26T03:55:33.000Z",
+    "collectedAt": "2026-09-27T00:11:36.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9a3f5262a1f9cdae977679ba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T00:11:38.676Z",
+    "outcome": {
+      "event": {
+        "title": "Fed Moves to Tighten Stablecoin Rules With Two New GENIUS Act Proposals",
+        "fingerprint": "9a3f5262a1f9cdae977679ba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 603,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitwise and Franklin ETFs Buy $22 Million in XRP",
+    "link": "https://u.today/bitwise-and-franklin-etfs-buy-22-million-in-xrp",
+    "summary": "XRP spot ETFs recorded more than $22 million in net inflows on Sept. 25, extending a recent period of institutional buying despite a sharp decline in XRP's market price.",
+    "image": null,
+    "publishedAt": "2026-09-26T16:10:24.000Z",
+    "collectedAt": "2026-09-27T00:11:36.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4c66601428adc8d4d546ae5b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T00:11:40.747Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise and Franklin ETFs Buy $22 Million in XRP",
+        "fingerprint": "4c66601428adc8d4d546ae5b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 604,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Grayscale files ZCSH High-Income ETF, targets biweekly payouts – Here’s how it works!",
+    "link": "https://ambcrypto.com/grayscale-files-zcsh-high-income-etf-targets-biweekly-payouts-heres-how-it-works/",
+    "summary": "How is the new ZCSH High-Income ETF different from Grayscale’s existing Zcash ETF?",
+    "image": null,
+    "publishedAt": "2026-09-26T22:00:40.000Z",
+    "collectedAt": "2026-09-27T00:11:36.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "890778396f9614272c5a8bd7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T00:11:41.882Z",
+    "outcome": {
+      "event": {
+        "title": "Grayscale files ZCSH High-Income ETF, targets biweekly payouts – Here’s how it works!",
+        "fingerprint": "890778396f9614272c5a8bd7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 605,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Mantle Says Tokenized Asset Count Has Jumped From 71 To 1,473 This Year",
+    "link": "https://www.newsbtc.com/altcoins/mantle-says-tokenized-asset-count-has-jumped-from-71-to-1473-this-year/",
+    "summary": "TL;DR Mantle says the number of tokenized assets on its network has climbed to 1,473 from 71 at the start of 2026. Distributed Asset Value has reached about $476 million, up roughly 110% over the past 30 days. The network now hosts tokenized equities, ETFs, stablecoins and other real-world assets from several major issuers. Mantle is reporting a sharp acceleration in its tokenized-asset business, with both the number of assets on the network and their distributed value reaching new highs. The ne",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=750%2C422",
+    "publishedAt": "2026-09-26T22:30:00.000Z",
+    "collectedAt": "2026-09-27T00:11:36.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "01fbb8ae738cf6c38a4b6df2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-27T00:11:42.819Z",
+    "outcome": {
+      "event": {
+        "title": "Mantle Says Tokenized Asset Count Has Jumped From 71 To 1,473 This Year",
+        "fingerprint": "01fbb8ae738cf6c38a4b6df2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 606,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "All about PUMP&#8217;s 18% surge after SEC&#8217;s clarification, 398M token buybacks",
+    "link": "https://ambcrypto.com/all-about-pumps-18-surge-after-secs-clarification-398m-token-buybacks/",
+    "summary": "PUMP's price action is at a critical junction right now.",
+    "image": null,
+    "publishedAt": "2026-09-27T00:00:40.000Z",
+    "collectedAt": "2026-09-27T00:11:36.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "93b2499d73cc86e75b15a1bb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-09-27T00:11:43.912Z",
+    "outcome": {
+      "event": {
+        "title": "All about PUMP&#8217;s 18% surge after SEC&#8217;s clarification, 398M token buybacks",
+        "fingerprint": "93b2499d73cc86e75b15a1bb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 607,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
