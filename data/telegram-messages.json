@@ -3509,5 +3509,40 @@
     "hasImage": true,
     "eventFingerprint": "93b2499d73cc86e75b15a1bb",
     "timestamp": "2026-09-27T00:11:43.906Z"
+  },
+  {
+    "messageId": 608,
+    "text": "Phased withdrawal timelines rarely calm panicked markets once a breach approaches $400 million.\n\nBitget just revised its total stolen assets upward to $387.5 million, with Bitcoin withdrawals slated to resume September 28 and altcoin access staggered through October 2. \n\nGiven the scale of this exploit and the multi-day wait for liquidity access, do you expect normal withdrawal behavior upon reopening, or a severe bank run?",
+    "hasImage": true,
+    "eventFingerprint": "5aba0485b5a5234354f43a2a",
+    "timestamp": "2026-09-27T06:10:42.989Z"
+  },
+  {
+    "messageId": 609,
+    "text": "A $292 million exploit is now heading to the courtroom. \n\nKelpDAO has officially filed a lawsuit against LayerZero and co-founder Brian Pellegrino, alleging the team failed to disclose critical security weaknesses prior to the devastating hack—the largest seen so far in 2026. \n\nCourt filings claim the vulnerabilities were known internally, raising fresh questions about transparency across major cross-chain infrastructure. \n\nLayerZero has not yet issued a formal response to the allegations.\n\n#LayerZero",
+    "hasImage": true,
+    "eventFingerprint": "4b4b8ef470b467caffc325a2",
+    "timestamp": "2026-09-27T06:10:44.254Z"
+  },
+  {
+    "messageId": 610,
+    "text": "292 million dollars went missing through a bridge configuration that is now at the center of a federal lawsuit.\n\nEvercrest, a developer tied to KelpDAO, is taking legal action against LayerZero over the massive exploit. \n\nCourt filings allege LayerZero approved the specific single-verifier setup in writing on multiple occasions before later warning a separate developer about the exact same vulnerability. \n\nCross-chain infrastructure security faces intense scrutiny as liability disputes escalate between protocol developers.\n\n#LayerZero",
+    "hasImage": true,
+    "eventFingerprint": "39723e16add9fb6a55d67985",
+    "timestamp": "2026-09-27T06:10:45.461Z"
+  },
+  {
+    "messageId": 611,
+    "text": "After six straight days of absorption pulling in $2.8 billion, spot Bitcoin ETF demand just hit a clear speed bump with Thursday's $191 million print. \n\nFor anyone tracking institutional momentum, does this three-day cooling trend look like a natural pause before the next leg up, or a sign that current price levels are starting to test institutional conviction? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "d699defcbd10fe9f1dde4c6d",
+    "timestamp": "2026-09-27T06:10:46.457Z"
+  },
+  {
+    "messageId": 612,
+    "text": "$2.8 billion entered spot Bitcoin ETFs over a six-day stretch.\n\nThe latest wave of institutional allocation has extended the product suite's consecutive winning streak, absorbing supply as broader macro conditions evolve. \n\nMarket participants continue to monitor whether these sustained inflows will translate into durable spot market pressure or remain range-bound within current technical levels.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "be1ce2e4f78929865cdd7339",
+    "timestamp": "2026-09-27T06:10:47.465Z"
   }
 ]

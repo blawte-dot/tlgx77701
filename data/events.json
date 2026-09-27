@@ -22181,5 +22181,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitget Raises Hack Estimate To $387.5M And Sets Withdrawal Restart Plan",
+    "link": "https://www.newsbtc.com/technology/bitget-raises-hack-estimate-to-387-5m-and-sets-withdrawal-restart-plan/",
+    "summary": "TL;DR Bitget has increased the confirmed value of assets transferred to attacker-controlled addresses from $351.6 million to about $387.5 million. The exchange says the underlying vulnerability has been identified and remediated. Withdrawals are scheduled to return in stages beginning with Bitcoin on September 28 and continuing through October 2. Bitget has published a substantial update on this week’s security breach, increasing the confirmed amount transferred to attacker-controlled wallets an",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-81.jpg?fit=750%2C429",
+    "publishedAt": "2026-09-27T00:30:00.000Z",
+    "collectedAt": "2026-09-27T06:10:40.667Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5aba0485b5a5234354f43a2a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-27T06:10:42.997Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget Raises Hack Estimate To $387.5M And Sets Withdrawal Restart Plan",
+        "fingerprint": "5aba0485b5a5234354f43a2a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 608,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+    "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+    "summary": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led to the $292 million hack.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7863e30b8c5511b68b91043a228ce3b5235c6c49-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-25T08:58:03.000Z",
+    "collectedAt": "2026-09-27T06:10:40.666Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4b4b8ef470b467caffc325a2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T06:10:44.263Z",
+    "outcome": {
+      "event": {
+        "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+        "fingerprint": "4b4b8ef470b467caffc325a2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 609,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
+    "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+    "summary": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+    "publishedAt": "2026-09-25T11:09:52.000Z",
+    "collectedAt": "2026-09-27T06:10:40.666Z",
+    "corroboratingSources": 4,
+    "fingerprint": "39723e16add9fb6a55d67985",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T06:10:45.470Z",
+    "outcome": {
+      "event": {
+        "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
+        "fingerprint": "39723e16add9fb6a55d67985"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 610,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BNHNN1HMXCX6AA83T10V84/bitcoin-etf-5.jpg",
+    "publishedAt": "2026-09-25T07:41:36.000Z",
+    "collectedAt": "2026-09-27T06:10:40.666Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d699defcbd10fe9f1dde4c6d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T06:10:46.465Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+        "fingerprint": "d699defcbd10fe9f1dde4c6d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 611,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
+    "summary": "Bitcoin Magazine\n\nBitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows\nOver six days, investors have spent $2.8 billion buying shares in bitcoin exchange-traded funds. \nThis post Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-ETFs-Extend-Winning-Streak-With-Nearly-3B-in-Inflows.jpg",
+    "publishedAt": "2026-09-25T19:55:01.000Z",
+    "collectedAt": "2026-09-27T06:10:40.667Z",
+    "corroboratingSources": 1,
+    "fingerprint": "be1ce2e4f78929865cdd7339",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-09-27T06:10:47.474Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
+        "fingerprint": "be1ce2e4f78929865cdd7339"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 612,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
