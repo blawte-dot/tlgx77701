@@ -23411,5 +23411,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Crypto’s biggest hacks drain over $5B &#8211; Here&#8217;s the major problem they expose",
+    "link": "https://ambcrypto.com/cryptos-biggest-hacks-drain-over-5b-heres-the-major-problem-they-expose/",
+    "summary": "The hacks since 2022 reveal that the industry’s security problem extends far beyond smart contract vulnerabilities.",
+    "image": null,
+    "publishedAt": "2026-09-28T07:00:38.000Z",
+    "collectedAt": "2026-09-28T10:30:55.525Z",
+    "corroboratingSources": 1,
+    "fingerprint": "480d4aba467aca7e0c03706d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-28T10:30:58.789Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto’s biggest hacks drain over $5B &#8211; Here&#8217;s the major problem they expose",
+        "fingerprint": "480d4aba467aca7e0c03706d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 638,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+    "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
+    "summary": "Governor Gavin Newsom’s legislation bars public officials from issuing meme coins and exchanges from listing tokens tied to politicians.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg",
+    "publishedAt": "2026-09-28T10:16:25.000Z",
+    "collectedAt": "2026-09-28T10:30:55.525Z",
+    "corroboratingSources": 1,
+    "fingerprint": "049473f805aa87d37aac9832",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-28T10:31:07.715Z",
+    "outcome": {
+      "event": {
+        "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+        "fingerprint": "049473f805aa87d37aac9832"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 639,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Daily inflows slowed as Bitcoin pulled back from above $87,100, while Ether and XRP ETFs also attracted fresh capital during the week.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KCZXGV1C50ET53JWS4RJ0V/hi-can-bitcoins-hard-cap-be-changed-3.jpg",
+    "publishedAt": "2026-09-28T08:24:40.000Z",
+    "collectedAt": "2026-09-28T10:30:55.525Z",
+    "corroboratingSources": 2,
+    "fingerprint": "4ad7081e51e044ececb26fc0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-09-28T10:31:09.365Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+        "fingerprint": "4ad7081e51e044ececb26fc0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 640,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "SEC and CFTC Push Forward on Crypto Rules: What Bitcoin, XRP and Altcoin Holders Must Know",
+    "link": "https://u.today/sec-and-cftc-push-forward-on-crypto-rules-what-bitcoin-xrp-and-altcoin-holders-must-know",
+    "summary": "Following the Senate deadlock SEC and CFTC push direct crypto rules as BTC XRP and in-demand altcoins hold strong near local price highs.",
+    "image": null,
+    "publishedAt": "2026-09-28T08:52:15.000Z",
+    "collectedAt": "2026-09-28T10:30:55.525Z",
+    "corroboratingSources": 1,
+    "fingerprint": "411b27eab46a7904f1af32bb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-28T10:31:10.619Z",
+    "outcome": {
+      "event": {
+        "title": "SEC and CFTC Push Forward on Crypto Rules: What Bitcoin, XRP and Altcoin Holders Must Know",
+        "fingerprint": "411b27eab46a7904f1af32bb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 641,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
+    "link": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
+    "summary": "Newsom signed several other bills, including one intended to set clearer rules for restitution when investors lose money in crypto scams.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/03/20250305_MemeCoin_News.jpg",
+    "publishedAt": "2026-09-28T09:32:57.000Z",
+    "collectedAt": "2026-09-28T10:30:55.525Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d1893251650bf2ade53ce2d5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-28T10:31:11.791Z",
+    "outcome": {
+      "event": {
+        "title": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
+        "fingerprint": "d1893251650bf2ade53ce2d5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 642,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

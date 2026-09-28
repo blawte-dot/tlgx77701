@@ -3719,5 +3719,40 @@
     "hasImage": true,
     "eventFingerprint": "ea768975c13fdbff87f1859e",
     "timestamp": "2026-09-28T03:29:58.436Z"
+  },
+  {
+    "messageId": 638,
+    "text": "Smart contract bugs are no longer the industry’s primary threat vector.\n\nSince 2022, major exploits across the crypto ecosystem have drained over $5 billion. The data points to a deeper systemic issue: operational security failures and targeted infrastructure compromises are outpacing protocol-level vulnerabilities. \n\nAttackers are increasingly bypassing code audits entirely. Instead, they target private key management, bridge validators, and centralized access controls. \n\nFixing the next $5 billion leak requires an industry-wide pivot. Security must expand beyond code correctness to encompass human systems, infrastructure resilience, and governance architecture.",
+    "hasImage": true,
+    "eventFingerprint": "480d4aba467aca7e0c03706d",
+    "timestamp": "2026-09-28T10:30:58.781Z"
+  },
+  {
+    "messageId": 639,
+    "text": "Can a politician legally shill a bag to constituents now?\n\nCalifornia says absolutely not. Governor Gavin Newsom signed legislation yesterday banning all state and local public officials from issuing or promoting meme coins. \n\nThe new law also puts direct pressure on centralized exchanges, prohibiting them from listing any digital token tied to a political figure's identity or campaign. \n\nLawmakers point to the rising tide of speculative tokens launched by public figures on platforms like Pump.fun as a breeding ground for insider trading and market manipulation. \n\nEnforcement begins immediately.",
+    "hasImage": true,
+    "eventFingerprint": "049473f805aa87d37aac9832",
+    "timestamp": "2026-09-28T10:31:07.707Z"
+  },
+  {
+    "messageId": 640,
+    "text": "Wall Street just dropped $2.4 billion into Bitcoin ETFs in a single week, proving once again that institutions buy the dip differently than crypto Twitter does.\n\nEven as BTC pulled back from $87,100, the capital kept flooding in—with Ether and XRP products catching a fresh bid right alongside it. \n\nNothing changes the macro thesis quite like a multi-billion-dollar shopping spree while retail panics over a minor correction.",
+    "hasImage": true,
+    "eventFingerprint": "4ad7081e51e044ececb26fc0",
+    "timestamp": "2026-09-28T10:31:09.356Z"
+  },
+  {
+    "messageId": 641,
+    "text": "Washington is bypassing the Senate stalemate to write the rules ourselves, effectively. \n\nThat is the message coming out of the SEC and CFTC this week as both agencies advance direct crypto oversight frameworks. Meanwhile, Bitcoin, XRP, and several leading altcoins are refusing to break lower, holding firm near their recent local highs despite the regulatory overhang.\n\nDo you see this sudden regulatory push as the catalyst that finally brings institutional certainty, or just another bureaucratic hurdle for markets already pricing in the noise? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "411b27eab46a7904f1af32bb",
+    "timestamp": "2026-09-28T10:31:10.574Z"
+  },
+  {
+    "messageId": 642,
+    "text": "0 politicians are now allowed to launch tokens under a new California law signed by Governor Newsom. \n\nThe legislation also targets crypto scam restitution and follows high-profile token launches from political figures like Donald Trump. \n\nWhere should the legal line be drawn between political speech, campaign fundraising, and issuing speculative digital assets?",
+    "hasImage": true,
+    "eventFingerprint": "d1893251650bf2ade53ce2d5",
+    "timestamp": "2026-09-28T10:31:11.781Z"
   }
 ]
