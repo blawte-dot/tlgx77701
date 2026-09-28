@@ -3754,5 +3754,40 @@
     "hasImage": true,
     "eventFingerprint": "d1893251650bf2ade53ce2d5",
     "timestamp": "2026-09-28T10:31:11.781Z"
+  },
+  {
+    "messageId": 643,
+    "text": "$2.4 billion changed hands last week, turning the entire year's institutional ledger positive in a single stroke.\n\nSpot Bitcoin ETFs just printed their largest weekly inflow since October 2025. \n\nFor weeks, 2026 flow data sat firmly in the red as macro headwinds kept capital on the sidelines. That narrative flipped abruptly. \n\nWhen institutional demand re-enters at this velocity, spot order books feel the squeeze immediately.\n\nWatch the daily flow prints this week to see if allocation velocity sustains or fades.",
+    "hasImage": true,
+    "eventFingerprint": "696fd987d1279367b3b8d398",
+    "timestamp": "2026-09-28T18:24:50.941Z"
+  },
+  {
+    "messageId": 644,
+    "text": "Cross-chain security is getting an institutional overhaul following one of the year's largest exploit vectors.\n\nChainlink has rolled out CCIP 2.0, introducing programmable token bridges that allow financial institutions to implement custom risk management and validation checks before transfers settle.\n\nThe update arrives five months after the $292 million Kelp DAO bridge incident exposed vulnerabilities in existing multi-sig and validation models. \n\nUnder the new architecture, banks and enterprise clients can set independent transaction limits, require specific multi-party approvals, and pause transfers dynamically if anomalous behavior is detected on either end of the route. \n\nThe move targets the core compliance and security hurdles currently keeping large-scale capital off public and private tokenized networks.",
+    "hasImage": true,
+    "eventFingerprint": "465bbe0fc095a20492893311",
+    "timestamp": "2026-09-28T18:25:00.971Z"
+  },
+  {
+    "messageId": 645,
+    "text": "One giant Wall Street bank just plugged directly into the crypto rails. \n\nCiti is expanding its partnership with Coinbase to build enterprise infrastructure bridging traditional fiat currency and stablecoin payments. \n\nCorporate clients will soon be able to settle transactions using digital dollars through institutional-grade plumbing, bypassing legacy correspondent banking bottlenecks. \n\nIt marks another quiet step past the experimental phase for bank-grade digital asset integration.",
+    "hasImage": true,
+    "eventFingerprint": "a04d476c007ec6664c08c5af",
+    "timestamp": "2026-09-28T18:25:12.013Z"
+  },
+  {
+    "messageId": 646,
+    "text": "Third-party infrastructure proved to be the weak link in the latest crypto platform breach.\n\nBitget CEO Gracy Chen confirmed that a $388 million exploit stemmed from an external security vulnerability rather than the exchange's core system. \n\nInvestigators are currently examining potential links to North Korean state-backed threat actors, a signature often seen in large-scale exchange compromises of this magnitude. \n\nWhile the team managed to freeze a portion of the stolen funds, exact recovery figures remain undisclosed as forensics teams trace the remaining wallet movements across chains. \n\n#Bitget",
+    "hasImage": true,
+    "eventFingerprint": "c6e3c5c442ba942e19d22af5",
+    "timestamp": "2026-09-28T18:25:26.559Z"
+  },
+  {
+    "messageId": 647,
+    "text": "Elected officials in California can no longer cash in on the meme coin craze. \n\nGovernor Newsom has signed AB 2409 into law, officially barring public officers from issuing, promoting, or directly profiting from cryptocurrency meme tokens. \n\nStarting January 1, 2027, the legislation also restricts exchanges from listing official-linked coins for state residents. \n\nLawmakers point to mounting conflicts of interest and the erosion of public trust as the primary drivers behind the ban. \n\nThe move establishes a hard regulatory boundary between public service and digital asset speculation, setting a precedent that other state legislatures are likely to watch closely.\n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "9dbe127189ac11433eca9e89",
+    "timestamp": "2026-09-28T18:25:33.531Z"
   }
 ]

@@ -23616,5 +23616,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin ETFs record biggest weekly inflows since October 2025 at $2.4B",
+    "link": "https://ambcrypto.com/bitcoin-etfs-record-biggest-weekly-inflows-since-october-2025-at-2-4b/",
+    "summary": "Strong Bitcoin ETF inflows helped reverse the sector’s negative 2026 flow balance.",
+    "image": null,
+    "publishedAt": "2026-09-28T09:45:25.000Z",
+    "collectedAt": "2026-09-28T18:24:41.771Z",
+    "corroboratingSources": 2,
+    "fingerprint": "696fd987d1279367b3b8d398",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-28T18:24:50.947Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs record biggest weekly inflows since October 2025 at $2.4B",
+        "fingerprint": "696fd987d1279367b3b8d398"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 643,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+    "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+    "summary": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg",
+    "publishedAt": "2026-09-28T17:51:14.000Z",
+    "collectedAt": "2026-09-28T18:24:41.771Z",
+    "corroboratingSources": 1,
+    "fingerprint": "465bbe0fc095a20492893311",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-09-28T18:25:00.979Z",
+    "outcome": {
+      "event": {
+        "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+        "fingerprint": "465bbe0fc095a20492893311"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 644,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
+    "link": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+    "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/05/20200501_Citigroup_Custody-Daily.jpg",
+    "publishedAt": "2026-09-28T17:22:06.000Z",
+    "collectedAt": "2026-09-28T18:24:41.771Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a04d476c007ec6664c08c5af",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-28T18:25:12.021Z",
+    "outcome": {
+      "event": {
+        "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
+        "fingerprint": "a04d476c007ec6664c08c5af"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 645,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
+    "link": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Some stolen assets have been frozen, but Bitget has yet to disclose how much has been recovered as investigators continue to assess a possible North Korea link.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M6M7JQDFWAMH8RRVX8PYCQ/crypto-market-manipulation-bitget.jpg",
+    "publishedAt": "2026-09-28T14:46:21.000Z",
+    "collectedAt": "2026-09-28T18:24:41.771Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c6e3c5c442ba942e19d22af5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-28T18:25:26.571Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
+        "fingerprint": "c6e3c5c442ba942e19d22af5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 646,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "California signs into law restrictions banning public officers from issuing crypto meme coins",
+    "link": "https://cryptoslate.com/newsom-signs-california-law-barring-public-officers-and-certain-employees-from-issuing-meme-coins/",
+    "summary": "AB 2409 also limits listings for California residents of official-linked coins issued on or after Jan. 1, 2027.\nThe post California signs into law restrictions banning public officers from issuing crypto meme coins appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/newsom-meme-coin-law.webp",
+    "publishedAt": "2026-09-28T13:30:58.000Z",
+    "collectedAt": "2026-09-28T18:24:41.771Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9dbe127189ac11433eca9e89",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-28T18:25:33.539Z",
+    "outcome": {
+      "event": {
+        "title": "California signs into law restrictions banning public officers from issuing crypto meme coins",
+        "fingerprint": "9dbe127189ac11433eca9e89"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 647,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
