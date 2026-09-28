@@ -4211,5 +4211,45 @@
     "hasImage": true,
     "eventFingerprint": "44747b18ebf101c7801075e2",
     "timestamp": "2026-09-27T23:36:45.866Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 633,
+    "text": "California just drew a hard line between politics and on-chain speculation. ⚠️\n\nGovernor Gavin Newsom signed legislation banning public officials from issuing memecoins, adding strict guardrails for crypto firms offering political tokens to state residents. \n\nThe measure targets tokens issued starting January 1, 2027, creating a first-of-its-kind legal framework around the intersection of elected office and viral token creation.\n\nSource: Cointelegraph",
+    "hasImage": true,
+    "eventFingerprint": "cea734782664bb835cd1030e",
+    "timestamp": "2026-09-28T03:29:54.149Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 634,
+    "text": "Rolling back a blockchain an entire month is the ultimate nuclear option.\n\nThe Zano network was restarted at the exact block height preceding Hard Fork 6 following an exploit targeting its newly introduced Gateway Addresses. \n\nNetwork integrity required a clean slate, but the measure wipes out a month of transaction history. \n\n#Zano",
+    "hasImage": true,
+    "eventFingerprint": "11bf2bd9f3edca05f2824ee1",
+    "timestamp": "2026-09-28T03:29:55.054Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 635,
+    "text": "2 opposing forces are currently clashing over what crypto is actually supposed to be. \n\nTHORChain is standing firm on censorship resistance, refusing to freeze addresses linked to the recent Bitget exploit despite intense industry pressure. \n\nMeanwhile, Vitalik Buterin argues Ethereum's next era is about transforming into a broader \"world cryptographic computer\" rather than remaining just a transaction ledger. \n\nWhere do you draw the line here? \n\nIs uncompromising decentralization worth the fallout from exploits, or does crypto need protocol-level safeguards to mature? Drop your take below.",
+    "hasImage": true,
+    "eventFingerprint": "58e980c4b0db1c9fb1e19471",
+    "timestamp": "2026-09-28T03:29:56.195Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 636,
+    "text": "US authorities just quietly seized $84 million tied to Capstone — and Tether isn't answering whether the frozen funds belonged to its reserves. \n\nCourt filings surfaced identifying multiple accounts linked to the firm. \n\nYet Tether has remained silent on whether the seized cash impacts backing for USDT. \n\nTransparency questions are mounting as on-chain analysts await an official statement from the issuer.",
+    "hasImage": true,
+    "eventFingerprint": "62a4fc4a8e51128bcd4f0cb0",
+    "timestamp": "2026-09-28T03:29:57.339Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 637,
+    "text": "Canadian regulators are tightening the net around unregulated token deployment.\n\nQuebec’s Autorité des marchés financiers issued a formal warning against Pump Fun on September 25, citing a lack of authorization to solicit local investors. \n\nThe notice targets the platform's registration status. \n\nIt does not mandate a domain ban or restrict direct wallet access at this time, leaving operations running while regulatory scrutiny intensifies across provincial borders.",
+    "hasImage": true,
+    "eventFingerprint": "ea768975c13fdbff87f1859e",
+    "timestamp": "2026-09-28T03:29:58.440Z"
   }
 ]
