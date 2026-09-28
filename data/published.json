@@ -4331,5 +4331,45 @@
     "hasImage": true,
     "eventFingerprint": "9dbe127189ac11433eca9e89",
     "timestamp": "2026-09-28T18:25:33.535Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 648,
+    "text": "Washington's regulatory puzzle box just added another piece. \n\nFollowing the CFTC's lead, the SEC has quietly dropped new staff guidance clarifying how federal securities laws apply to token issuers. \n\nThe timing is hard to ignore. This update arrives directly on the heels of a failed cloture vote on the CLARITY Act, leaving legislative fixes stalled on Capitol Hill. \n\nInstead of waiting for Congress to draw the lines, regulators are defining the perimeter themselves through operational guidance. \n\nFor issuers navigating the US market, compliance just got a bit more concrete—and a lot harder to ignore.",
+    "hasImage": true,
+    "eventFingerprint": "4a97854707bec91f560ef6ae",
+    "timestamp": "2026-09-28T23:40:28.618Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 649,
+    "text": "One jurisdiction is betting heavily on regulated digital asset banking. \n\nBelarus has reportedly moved to approve the country’s first dedicated crypto banks, following a legal framework signed earlier this year. \n\nDetails remain sparse on operational timelines and regulatory oversight. \n\nState-sanctioned digital asset infrastructure continues to evolve in Eastern Europe despite broader macroeconomic friction. We are monitoring developments as further specifics emerge.",
+    "hasImage": true,
+    "eventFingerprint": "90aafcca0d733aae0045e9d6",
+    "timestamp": "2026-09-28T23:40:29.830Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 650,
+    "text": "Liquidity flight is rarely orderly when a venue reopens the gates after a massive breach.\n\nNearly 5,000 Bitcoin has drained from Bitget's tracked reserves following the platform's decision to resume withdrawals. \n\nCEO Gracy Chen reported that over 4,098 BTC was processed across thousands of individual orders within hours of the platform coming back online. \n\nOn-chain trackers indicate the movement coincides with early efforts to launder a portion of the $387.5 million haul stolen in the security incident. \n\nMarkets are now watching reserve metrics closely to gauge underlying user retention as the exchange works to absorb the shock.\n\n#Bitget",
+    "hasImage": true,
+    "eventFingerprint": "e79b242815baaf559d9433d4",
+    "timestamp": "2026-09-28T23:40:31.125Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 651,
+    "text": "3 custom security checks are now live for cross-chain developers.\n\nChainlink has rolled out a major iteration of its CCIP technology, designed to give applications direct oversight over their own bridging risk. \n\nThe software update allows firms to implement bespoke validation layers rather than relying entirely on a uniform protocol standard. It's a direct response to the structural vulnerabilities that have repeatedly drained rival cross-chain networks. \n\nSource: CoinDesk",
+    "hasImage": true,
+    "eventFingerprint": "7c01b60c4c5a10e28f71129c",
+    "timestamp": "2026-09-28T23:40:32.142Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 652,
+    "text": "How does a sanctioned nation move billions across borders without touching traditional banking rails?\n\nA new Senate investigation points directly to Tether. \n\nAccording to the congressional report, the world's largest stablecoin has become a central component in what investigators describe as Iran's shadow banking network. \n\nLawmakers are now pressing for tighter oversight of digital asset issuers as these findings draw renewed scrutiny from Washington.",
+    "hasImage": true,
+    "eventFingerprint": "1a401fa4244b8e6884f13251",
+    "timestamp": "2026-09-28T23:40:33.039Z"
   }
 ]

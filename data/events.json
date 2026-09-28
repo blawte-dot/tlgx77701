@@ -23821,5 +23821,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "US SEC follows CFTC in staff guidance for crypto",
+    "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MEF526Z3GMGWVA23CRVP2J/hi-sec-cftc-event-overview-1.jpg",
+    "publishedAt": "2026-09-28T18:39:09.000Z",
+    "collectedAt": "2026-09-28T23:40:26.245Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4a97854707bec91f560ef6ae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-28T23:40:28.626Z",
+    "outcome": {
+      "event": {
+        "title": "US SEC follows CFTC in staff guidance for crypto",
+        "fingerprint": "4a97854707bec91f560ef6ae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 648,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Belarus Approves the Country’s First Crypto Banks: Report",
+    "link": "https://bitcoinmagazine.com/news/belarus-approves-first-crypto-banks",
+    "summary": "Bitcoin Magazine\n\nBelarus Approves the Country’s First Crypto Banks: Report \nBelarus earlier this year signed a legal framework for crypto banks in the country. \nThis post Belarus Approves the Country’s First Crypto Banks: Report  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-39.jpg",
+    "publishedAt": "2026-09-28T20:51:38.000Z",
+    "collectedAt": "2026-09-28T23:40:26.245Z",
+    "corroboratingSources": 1,
+    "fingerprint": "90aafcca0d733aae0045e9d6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-28T23:40:29.834Z",
+    "outcome": {
+      "event": {
+        "title": "Belarus Approves the Country’s First Crypto Banks: Report",
+        "fingerprint": "90aafcca0d733aae0045e9d6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 649,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Nearly 5,000 BTC leaves Bitget as hackers begin laundering $387 million haul",
+    "link": "https://cryptoslate.com/nearly-5000-btc-leaves-bitget-as-hackers-begin-laundering-387-million-haul/",
+    "summary": "Nearly 5,000 Bitcoin has left Bitget’s tracked reserves after the crypto exchange reopened withdrawals following its $387.5 million hack. On Sept. 28, Bitget Chief Executive Officer Gracy Chen said the exchange had processed 9,585 withdrawal orders totaling 4,098.036 BTC as of 17:00 UTC+8, shortly after it resumed Bitcoin withdrawals. Separate DeFiLlama data showed Bitget’s tracked [&#8230;]\nThe post Nearly 5,000 BTC leaves Bitget as hackers begin laundering $387 million haul appeared first on C",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-hack-funds-route.webp",
+    "publishedAt": "2026-09-28T22:50:12.000Z",
+    "collectedAt": "2026-09-28T23:40:26.245Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e79b242815baaf559d9433d4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-28T23:40:31.129Z",
+    "outcome": {
+      "event": {
+        "title": "Nearly 5,000 BTC leaves Bitget as hackers begin laundering $387 million haul",
+        "fingerprint": "e79b242815baaf559d9433d4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 650,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
+    "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
+    "summary": "The new software lets companies add custom security checks so they do not fall victim to the same type of vulnerabilities that plagued rival bridges.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c1f6c29904a74a372570afea3afb24416279f386-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-28T12:30:00.000Z",
+    "collectedAt": "2026-09-28T23:40:26.245Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7c01b60c4c5a10e28f71129c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-28T23:40:32.146Z",
+    "outcome": {
+      "event": {
+        "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
+        "fingerprint": "7c01b60c4c5a10e28f71129c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 651,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
+    "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+    "summary": "Tether and its stablecoin have become central in \"Iran's shadow banking system,\" according to a new Senate investigation.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/04/20240429_Tether_News_3.jpg",
+    "publishedAt": "2026-09-28T19:10:42.000Z",
+    "collectedAt": "2026-09-28T23:40:26.245Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1a401fa4244b8e6884f13251",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-28T23:40:33.043Z",
+    "outcome": {
+      "event": {
+        "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
+        "fingerprint": "1a401fa4244b8e6884f13251"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 652,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
