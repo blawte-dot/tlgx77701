@@ -3859,5 +3859,40 @@
     "hasImage": true,
     "eventFingerprint": "001b0bf285970cfcf1de3a0d",
     "timestamp": "2026-09-29T04:05:39.172Z"
+  },
+  {
+    "messageId": 658,
+    "text": "Why are traditional finance heavyweights suddenly pouring capital into XRP?\n\nBitwise CIO Matt Hougan points to a shift in institutional appetite as exchange-traded funds mark their eleventh consecutive week of net inflows. \n\nThe firm's own product now sits at $677 million in cumulative inflows, signaling sustained allocation rather than fleeting retail speculation. \n\nRegulatory clarity and mature custody solutions are quietly lowering the friction for institutional balance sheets to gain exposure. \n\n#XRP",
+    "hasImage": true,
+    "eventFingerprint": "1d93b7eb17ccd039d06ee93d",
+    "timestamp": "2026-09-29T11:03:23.651Z"
+  },
+  {
+    "messageId": 659,
+    "text": "Monthly charts rarely lie about long-term momentum shifts. \n\nXRP is currently pacing toward a third consecutive green monthly close, a sequence that has historically marked major turning points away from multi-year bear structures. \n\nUnderpinning the price action is a fundamental shift in regulatory positioning. Fresh SEC filings indicate substantive progress toward an exchange-traded fund, clearing a path for institutional capital that was previously sidelined by litigation uncertainty. \n\nPrice action follows infrastructure, and the current setup suggests structural changes are finally taking hold on the charts.",
+    "hasImage": false,
+    "eventFingerprint": "729ebe085c325dd3141a5759",
+    "timestamp": "2026-09-29T11:03:24.881Z"
+  },
+  {
+    "messageId": 660,
+    "text": "Liquidity is finding a floor just as institutional demand bifurcates across digital asset funds.\n\nBitcoin reclaimed the $84,000 level earlier today, backed by $30 million in net inflows across spot ETFs. Ether spearheaded a broader, measured bounce for large-cap tokens, helping stabilize sentiment after last week's choppy price action.\n\nFlows remain selective, however. Zcash extended its recent downward trend, mirroring the performance of its U.S. investment vehicle, which logged the sole negative net flow among crypto exchange-traded products on Monday. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "e7dc9c1ceb6382347b5a67f9",
+    "timestamp": "2026-09-29T11:03:26.623Z"
+  },
+  {
+    "messageId": 661,
+    "text": "The market takes a breath after a record-breaking sprint. \n\nUS spot crypto ETFs pulled in a combined $64.8 million on Monday, marking an 80% drop from Friday's pace following a massive $3.3 billion weekly haul. \n\nDespite the sharp cooldown across Bitcoin, Ether, Solana, and XRP investment products, the underlying accumulation streaks remain intact for now. 📉\n\nTraders are watching to see if this represents a brief consolidation phase or the start of a broader demand reset.",
+    "hasImage": true,
+    "eventFingerprint": "9ef29b0667c6d6e9a9b3c2d7",
+    "timestamp": "2026-09-29T11:03:27.897Z"
+  },
+  {
+    "messageId": 662,
+    "text": "Retail capital is quietly rotating out of Bitcoin and hunting down risk further out on the curve.\n\nGlassnode data shows altcoin spot volume has surged to nearly four times that of BTC, marking the highest ratio seen since September 2025. \n\nWintermute reports that OTC desk clients sold Bitcoin last week specifically to fund this shift into smaller caps. \n\nMeanwhile, US spot Bitcoin ETFs managed nearly $2.4 billion in net inflows over the same five sessions. Yet, those institutional bids slowed day by day, creating a clear divergence between institutional accumulation and retail-driven altcoin speculation.",
+    "hasImage": true,
+    "eventFingerprint": "8c9e08a571e5cf88c4bfe1ce",
+    "timestamp": "2026-09-29T11:03:29.225Z"
   }
 ]
