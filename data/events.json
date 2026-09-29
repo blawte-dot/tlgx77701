@@ -24026,5 +24026,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Banking Giant Citigroup Taps Coinbase for Crypto Expansion",
+    "link": "https://u.today/banking-giant-citigroup-taps-coinbase-for-crypto-expansion",
+    "summary": "Citigroup is expanding its crypto push through a deeper partnership with Coinbase, tapping the exchange’s infrastructure to help corporate clients accept stablecoin payments as the Wall Street giant builds out payments, custody and tokenization services.",
+    "image": null,
+    "publishedAt": "2026-09-28T14:02:34.000Z",
+    "collectedAt": "2026-09-29T04:05:32.784Z",
+    "corroboratingSources": 1,
+    "fingerprint": "78a4adb0a81739ffdec549cb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-29T04:05:34.784Z",
+    "outcome": {
+      "event": {
+        "title": "Banking Giant Citigroup Taps Coinbase for Crypto Expansion",
+        "fingerprint": "78a4adb0a81739ffdec549cb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": null,
+        "result": {
+          "published": true,
+          "messageId": 653,
+          "hasImage": false
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+    "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
+    "summary": "AI agents could trigger a bank run by automatically moving household cash from low-interest checking accounts to higher-yield alternatives, Slok warns.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5198878a1aa4cdf20ad03aadd53bb8ebab001b90-5120x2880.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-28T13:06:11.000Z",
+    "collectedAt": "2026-09-29T04:05:32.784Z",
+    "corroboratingSources": 1,
+    "fingerprint": "68544db52ff260025d239b5d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-29T04:05:35.968Z",
+    "outcome": {
+      "event": {
+        "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+        "fingerprint": "68544db52ff260025d239b5d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 654,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’",
+    "link": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
+    "summary": "After nearly a decade at the Securities and Exchange Commission, Hester Peirce is wrapping up her last week at the agency.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/06/20210628_Hester_Peirce.jpg",
+    "publishedAt": "2026-09-28T16:35:29.000Z",
+    "collectedAt": "2026-09-29T04:05:32.784Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dd5b79cb5cfd10ab55c62870",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-29T04:05:36.957Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’",
+        "fingerprint": "dd5b79cb5cfd10ab55c62870"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 655,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+    "link": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week’s $388 million hack.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KKY0E7P2KHSR2CF4H4E1SY/hi-bitget-blockchain-initiatives-overview.jpg",
+    "publishedAt": "2026-09-28T11:05:24.000Z",
+    "collectedAt": "2026-09-29T04:05:32.784Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b8cb85813ad6049846fbc3b2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-29T04:05:37.976Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+        "fingerprint": "b8cb85813ad6049846fbc3b2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 656,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+    "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+    "summary": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
+    "publishedAt": "2026-09-28T18:46:03.000Z",
+    "collectedAt": "2026-09-29T04:05:32.784Z",
+    "corroboratingSources": 1,
+    "fingerprint": "001b0bf285970cfcf1de3a0d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-29T04:05:39.180Z",
+    "outcome": {
+      "event": {
+        "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+        "fingerprint": "001b0bf285970cfcf1de3a0d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 657,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
