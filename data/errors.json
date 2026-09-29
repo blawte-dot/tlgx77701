@@ -18,5 +18,10 @@
     "where": "publishToTelegram",
     "message": "Bad Request: failed to get HTTP URL content",
     "timestamp": "2026-09-25T05:45:57.085Z"
+  },
+  {
+    "where": "publishToTelegram",
+    "message": "Bad Request: failed to get HTTP URL content",
+    "timestamp": "2026-09-29T21:49:21.901Z"
   }
 ]
