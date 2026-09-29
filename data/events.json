@@ -24436,5 +24436,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+    "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitwise’s NEAR ETF begins trading on NYSE Arca as the token rallies more than 160% over the past month and activity on NEAR Intents grows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PYNE5ZA8242JM5VV3J3TZN/hi-token-etf-victory-1.png",
+    "publishedAt": "2026-09-29T17:14:36.000Z",
+    "collectedAt": "2026-09-29T17:34:39.286Z",
+    "corroboratingSources": 1,
+    "fingerprint": "081544df834a7001f0a514a9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-29T17:34:42.059Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+        "fingerprint": "081544df834a7001f0a514a9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 663,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Chainlink Launches CCIP 2.0 With Extra Security Controls For Tokenized Assets",
+    "link": "https://www.newsbtc.com/technology/chainlink-launches-ccip-2-0-with-extra-security-controls-for-tokenized-assets/",
+    "summary": "Chainlink has launched CCIP 2.0, a major upgrade to its Cross-Chain Interoperability Protocol. The new version adds optional third-party verifiers, faster-than-finality transfers, built-in compliance tools and more flexible execution. Chainlink is positioning the upgrade for banks and asset issuers moving regulated assets across multiple blockchains.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-51.jpg?fit=750%2C429",
+    "publishedAt": "2026-09-29T12:30:00.000Z",
+    "collectedAt": "2026-09-29T17:34:39.286Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9e102ba7dc8c17257e740f65",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-09-29T17:34:48.571Z",
+    "outcome": {
+      "event": {
+        "title": "Chainlink Launches CCIP 2.0 With Extra Security Controls For Tokenized Assets",
+        "fingerprint": "9e102ba7dc8c17257e740f65"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 664,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Citi And Coinbase Bring Stablecoin Payments Into Corporate Banking",
+    "link": "https://www.newsbtc.com/technology/citi-and-coinbase-bring-stablecoin-payments-into-corporate-banking/",
+    "summary": "Citi and Coinbase have expanded their partnership with new stablecoin and fiat payment infrastructure for businesses. Citi clients can accept stablecoin payments while Coinbase provides blockchain rails and conversion into fiat. Coinbase business customers can also use Citi-powered virtual accounts that automatically move between fiat and stablecoins.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_07_bitcoin-vaults-face-quantum-address-reuse-warning-in-coinbase-linked-report_featured.png?fit=750%2C422",
+    "publishedAt": "2026-09-29T13:30:00.000Z",
+    "collectedAt": "2026-09-29T17:34:39.286Z",
+    "corroboratingSources": 2,
+    "fingerprint": "f253a4e2a72d766a583fb5b2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-09-29T17:34:49.980Z",
+    "outcome": {
+      "event": {
+        "title": "Citi And Coinbase Bring Stablecoin Payments Into Corporate Banking",
+        "fingerprint": "f253a4e2a72d766a583fb5b2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 665,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "New Survey Shows American Banks Rapidly Embracing Blockchain to Offer Faster, Cheaper and Better Financial Services",
+    "link": "https://thedefiant.io/news/tradfi-and-fintech/uphold-american-banker-survey-us-banks-blockchain-adoption",
+    "summary": "Uphold today releases research which reveals that 75% of American banks have blockchain finance programmes underway: 22% have projects that are live or scaling, while an additional 53% are piloting or assessing specific use cases.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/ee0b0fe4aad44e808250980ced04f0c153d0a14c-1024x597.png",
+    "publishedAt": "2026-09-29T17:20:23.000Z",
+    "collectedAt": "2026-09-29T17:34:39.286Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d5326e6382953c914ac56aa2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-29T17:34:51.462Z",
+    "outcome": {
+      "event": {
+        "title": "New Survey Shows American Banks Rapidly Embracing Blockchain to Offer Faster, Cheaper and Better Financial Services",
+        "fingerprint": "d5326e6382953c914ac56aa2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 666,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+    "link": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for Bitget’s security breach, noting that only a small percentage of funds had been frozen or recovered.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PS8B3233YZFS40258RE4KQ/hi-top-hacks-so-far-5.jpg",
+    "publishedAt": "2026-09-29T16:18:06.000Z",
+    "collectedAt": "2026-09-29T17:34:39.286Z",
+    "corroboratingSources": 1,
+    "fingerprint": "863676e438f37c7a255323eb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-29T17:34:52.710Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+        "fingerprint": "863676e438f37c7a255323eb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 667,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

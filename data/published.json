@@ -4451,5 +4451,45 @@
     "hasImage": true,
     "eventFingerprint": "8c9e08a571e5cf88c4bfe1ce",
     "timestamp": "2026-09-29T11:03:29.229Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 663,
+    "text": "Don't sleep on altcoin ETF expansions just because everyone is staring at Bitcoin.\n\nBitwise has officially launched the first US spot NEAR exchange-traded fund on NYSE Arca, opening the door for traditional market participants to gain direct exposure to the asset. \n\nThe listing arrives while NEAR trades significantly higher over the past month, backed by surging network activity and rising traction for its cross-chain Intents architecture. \n\nRegulated product pipelines are widening beyond the large-cap majors faster than many anticipated.",
+    "hasImage": true,
+    "eventFingerprint": "081544df834a7001f0a514a9",
+    "timestamp": "2026-09-29T17:34:41.958Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 664,
+    "text": "3 new controls are bridging the gap between TradFi and tokenized multi-chain liquidity.\n\nChainlink has rolled out CCIP 2.0. \n\nThe major protocol upgrade introduces optional third-party verifiers, faster-than-finality transfers, and built-in compliance tooling designed specifically for institutional asset issuers. \n\nAs traditional banks explore tokenized treasuries and regulated assets moving across diverse networks, infrastructure providers are racing to meet institutional security demands. \n\nThe focus now shifts to adoption.",
+    "hasImage": true,
+    "eventFingerprint": "9e102ba7dc8c17257e740f65",
+    "timestamp": "2026-09-29T17:34:48.567Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 665,
+    "text": "Wall Street’s old guard just crossed a line most traditional banks refused to touch.\n\nCiti is integrating directly with Coinbase infrastructure to let corporate clients accept stablecoin payments and hold Citi-powered virtual accounts that bridge fiat and on-chain rails automatically. \n\nThis isn't another pilot program or a press release about blockchain exploration. Major global banks are quietly hard-coding crypto rails into everyday corporate treasury operations because client demand for instant settlement finally outweighs legacy inertia.",
+    "hasImage": true,
+    "eventFingerprint": "f253a4e2a72d766a583fb5b2",
+    "timestamp": "2026-09-29T17:34:49.975Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 666,
+    "text": "The wall between traditional banking and distributed ledgers is thinning much faster than public policy suggests.\n\nUphold’s latest industry research shows three out of four American banks now have active blockchain finance programs in motion. \n\nThe breakdown reveals clear stratification across the sector:\n• 22% operate live or scaling production projects\n• 53% remain in the pilot or targeted assessment phase\n\nCost efficiency and settlement speed continue to drive institutional adoption, bypassing regulatory gridlock at the operational level. \n\nLegacy finance is quietly rewiring its plumbing from the inside out.",
+    "hasImage": true,
+    "eventFingerprint": "d5326e6382953c914ac56aa2",
+    "timestamp": "2026-09-29T17:34:51.456Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 667,
+    "text": "Bitget CEO Gracy Chen acknowledges the grim reality facing the exchange after a $388M security breach.\n\nSpeaking publicly on the incident, Chen pointed to the recent Bybit hack as a reference point, noting that only a small fraction of stolen funds has been successfully frozen or recovered to date. \n\nBitget is continuing internal investigations, but prospects for returning the lost capital to users remain low.",
+    "hasImage": true,
+    "eventFingerprint": "863676e438f37c7a255323eb",
+    "timestamp": "2026-09-29T17:34:52.705Z"
   }
 ]
