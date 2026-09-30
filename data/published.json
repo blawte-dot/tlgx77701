@@ -4563,5 +4563,45 @@
     "hasImage": true,
     "eventFingerprint": "35d76fe7035372b4b387550c",
     "timestamp": "2026-09-30T01:01:58.689Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 677,
+    "text": "Brazil's financial rails are getting a structural upgrade. \n\nRipple has secured a major integration targeting the country's $22 trillion market infrastructure, deploying the XRP Ledger to streamline auditing and data transparency. \n\nCrucially, the implementation operates alongside existing systems rather than replacing CSD BR’s official asset records. It’s an integration play focused on verification efficiency within Latin America's largest economy. \n\n#XRP",
+    "hasImage": true,
+    "eventFingerprint": "90d25390d2b110f4b6b7bf1d",
+    "timestamp": "2026-09-30T07:55:20.120Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 678,
+    "text": "The margin between profit and underwater for the average spot Bitcoin ETF buyer is rapidly shrinking. \n\nAccording to Bloomberg analyst Eric Seyffart, a further 2.2% decline from current levels would push the aggregate holder base into a net-loss position. \n\nThat threshold matters. When the average ETF cohort goes red, structural behavior shifts across both institutional and retail allocations. \n\nWatch upcoming net flow data and broader macro yields over the coming sessions to see if buyers defend the baseline or step aside.",
+    "hasImage": true,
+    "eventFingerprint": "8c60497dade2c9aef4fa2333",
+    "timestamp": "2026-09-30T07:55:21.565Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 679,
+    "text": "Trad finance is finally discovering the beauty of passive yield. \n\n21Shares just dropped its September staking payouts across five crypto ETFs, led by a $0.191360 per-share distribution on its Hyperliquid fund. \n\nWall Street spent decades charging you management fees just to underperform index funds. Now they are literally handing you native network rewards packaged in a ticker symbol. \n\nProof-of-stake is eating traditional dividends.",
+    "hasImage": true,
+    "eventFingerprint": "1a42a74e4b27e202e433fa3e",
+    "timestamp": "2026-09-30T07:55:22.935Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 680,
+    "text": "One major bridge between traditional finance and blockchain infrastructure just went live.\n\nOracle is connecting its banking systems directly to Swift’s shared ledger for tokenized deposits. \n\nThe integration links Oracle Banking Payments with existing ISO 20022 messaging standards. \n\nTraditional banks can now plug their own tokenized-deposit frameworks into cross-border payment flows without surrendering control of underlying assets, per NewsBTC reporting. \n\n#Swift",
+    "hasImage": true,
+    "eventFingerprint": "159913ef23fa946d56422f51",
+    "timestamp": "2026-09-30T07:55:23.929Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 681,
+    "text": "Regulatory hurdles are fading, but structural product risks remain as traditional finance absorbs more native crypto assets. \n\nTRON DAO is ringing the Cboe closing bell in Chicago today to mark the debut of the Canary Staked TRX ETF, trading under the ticker TRXS. \n\nThe listing brings exchange-traded, staked exposure to the TRX token, connecting on-chain yields directly to regulated traditional markets. \n\nProducts bridging staking mechanics into conventional wrappers continue to expand institutional access, even as liquidity dynamics across these vehicles face closer scrutiny.",
+    "hasImage": true,
+    "eventFingerprint": "2001af870272dddbb96e7137",
+    "timestamp": "2026-09-30T07:55:25.526Z"
   }
 ]
