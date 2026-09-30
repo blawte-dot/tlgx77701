@@ -25666,5 +25666,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "EigenLayer Unveils Dual-Staking Extension For Bitcoin Asset Security",
+    "link": "https://www.newsbtc.com/news/defi/eigenlayer-unveils-dual-staking-extension-for-bitcoin-asset-security/",
+    "summary": "In a major development confirmed on SEPTEMBER 30, 2026, Confirmed announcement/filing for EigenLayer Unveils Dual-Staking Extension For Bitcoin Asset Security. This operational move highlights expanding activity across the digital asset ecosystem and underscores key developments for market participants. Key Operational Milestones &#38; Context According to primary regulatory and corporate filings verified on SEPTEMBER 30, 2026, this development introduces crucial infrastructure enhancements. Ind",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/b424d8fa68ea4a5eb52d5f60ad108492.png.jpeg?fit=750%2C422",
+    "publishedAt": "2026-09-30T23:00:00.000Z",
+    "collectedAt": "2026-09-30T23:25:58.368Z",
+    "corroboratingSources": 1,
+    "fingerprint": "867e32d43ac132efd5f3856e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-30T23:26:01.153Z",
+    "outcome": {
+      "event": {
+        "title": "EigenLayer Unveils Dual-Staking Extension For Bitcoin Asset Security",
+        "fingerprint": "867e32d43ac132efd5f3856e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 692,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+    "link": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
+    "summary": "The CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
+    "publishedAt": "2026-09-30T20:37:08.000Z",
+    "collectedAt": "2026-09-30T23:25:58.367Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8b6e53f37325dcde9f60615f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T23:26:02.620Z",
+    "outcome": {
+      "event": {
+        "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+        "fingerprint": "8b6e53f37325dcde9f60615f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 693,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+    "link": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+    "summary": "An internal memo warned FBI staff that ShinyHunters, the group claiming it hacked the bureau's jobs site, may hold their private details.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-09-30T21:16:04.000Z",
+    "collectedAt": "2026-09-30T23:25:58.367Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2240e08d776cd09153b87ace",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T23:26:03.761Z",
+    "outcome": {
+      "event": {
+        "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+        "fingerprint": "2240e08d776cd09153b87ace"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 694,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitget’s hackers turn to Zcash after $50 million laundering route gets blocked",
+    "link": "https://cryptoslate.com/bitgets-hackers-turn-to-zcash-after-50-million-laundering-route-gets-blocked/",
+    "summary": "Hackers behind Bitget’s $387.5 million breach are turning to Zcash's privacy features to hide the stolen funds as crypto firms increasingly block other escape routes. About 2,746 ZEC worth roughly $3.9 million was transferred Wednesday into Zcash’s Ironwood shielded pool through three transactions, according to on-chain activity flagged by blockchain investigator ZachXBT. The amount represents [&#8230;]\nThe post Bitget’s hackers turn to Zcash after $50 million laundering route gets blocked appea",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-privacy-route.webp",
+    "publishedAt": "2026-09-30T20:20:28.000Z",
+    "collectedAt": "2026-09-30T23:25:58.368Z",
+    "corroboratingSources": 1,
+    "fingerprint": "835c25fe63cf041415be8e3d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T23:26:05.188Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget’s hackers turn to Zcash after $50 million laundering route gets blocked",
+        "fingerprint": "835c25fe63cf041415be8e3d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 695,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin, Ether, XRP Force 2,633% Liquidation Imbalance Amid Sticky US Inflation Short Squeeze",
+    "link": "https://u.today/bitcoin-ether-xrp-force-2633-liquidation-imbalance-amid-sticky-us-inflation-short-squeeze",
+    "summary": "Crypto shorts face a 2,633% liquidation imbalance as BTC, ETH, and XRP shrug off sticky inflation and 5.2% US Treasury yields.",
+    "image": null,
+    "publishedAt": "2026-09-30T15:41:15.000Z",
+    "collectedAt": "2026-09-30T23:25:58.368Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2a5acef5aad4fa2664048a18",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T23:26:06.884Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin, Ether, XRP Force 2,633% Liquidation Imbalance Amid Sticky US Inflation Short Squeeze",
+        "fingerprint": "2a5acef5aad4fa2664048a18"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 696,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

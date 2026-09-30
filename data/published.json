@@ -4683,5 +4683,45 @@
     "hasImage": true,
     "eventFingerprint": "61a594a3f1ea85bb9a83c4f3",
     "timestamp": "2026-09-30T19:48:21.702Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 692,
+    "text": "Don't look now, but the line between Bitcoin and restaking infrastructure just got significantly thinner.\n\nEigenLayer officially rolled out its dual-staking extension today, opening the door for native Bitcoin assets to secure active validator services alongside existing restaked tokens. \n\nRegulatory filings confirm the infrastructure rollout went live this morning, marking a notable shift in how idle BTC collateral can be deployed across decentralized validation networks. \n\nBy allowing Bitcoin holders to participate directly in economic security pools without wrapping assets in third-party bridges, the protocol is tackling one of the ecosystem's persistent trust bottlenecks. \n\nWhether capital migration follows this expansion will depend heavily on validator adoption rates through the final quarter, but the framework is now firmly in place.",
+    "hasImage": true,
+    "eventFingerprint": "867e32d43ac132efd5f3856e",
+    "timestamp": "2026-09-30T23:26:01.149Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 693,
+    "text": "Another bad actor learns that deleting the database doesn't delete the paper trail.\n\nThe CFTC secured a court judgment exceeding $30 million against two defendants behind the Fundsz crypto scheme. \n\nAccording to regulators, the operators pitched a fraudulent digital asset platform, then attempted to walk back their involvement once scrutiny intensified. The federal court's ruling orders restitution and civil monetary penalties.\n\nEnforcement actions continue to steadily dismantle legacy fraud cases as courts establish firmer accountability for bad actors in the digital asset space.",
+    "hasImage": true,
+    "eventFingerprint": "8b6e53f37325dcde9f60615f",
+    "timestamp": "2026-09-30T23:26:02.616Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 694,
+    "text": "When the people investigating the hackers are the ones asking how many of their passwords were just leaked.\n\nAn internal memo obtained this week reveals the FBI is warning its own workforce that ShinyHunters—the group claiming responsibility for breaching the bureau’s external recruitment portal—may be sitting on their personal records. \n\nTrustless systems are having a rough month.",
+    "hasImage": true,
+    "eventFingerprint": "2240e08d776cd09153b87ace",
+    "timestamp": "2026-09-30T23:26:03.756Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 695,
+    "text": "Privacy coins are proving to be the ultimate escape hatch for cybercriminals as blockchain surveillance tightens. \n\nHackers linked to the massive Bitget security breach have routed roughly $3.9 million into Zcash's shielded pool. \n\nOn-chain investigator ZachXBT flagged the transactions as attackers seek out privacy features following blocked escape routes across other networks.",
+    "hasImage": true,
+    "eventFingerprint": "835c25fe63cf041415be8e3d",
+    "timestamp": "2026-09-30T23:26:05.183Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 696,
+    "text": "2,633 percent. \n\nThat is the sheer scale of the short liquidation imbalance hitting Bitcoin, Ethereum, and XRP traders right now as sticky US inflation and 5.2 percent Treasury yields fail to break upward momentum. \n\nAre bears simply early, or is this sudden squeeze signaling a structural shift in how crypto treats macro headwinds? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "2a5acef5aad4fa2664048a18",
+    "timestamp": "2026-09-30T23:26:06.880Z"
   }
 ]
