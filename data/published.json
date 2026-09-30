@@ -4643,5 +4643,45 @@
     "hasImage": true,
     "eventFingerprint": "31bf60450632b2574fdbeaef",
     "timestamp": "2026-09-30T14:35:34.283Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 687,
+    "text": "Are currency-hedged crypto products finally the missing bridge for institutional capital in Europe?\n\nHANetf is partnering with HSBC to roll out the first GBP- and EUR-hedged Bitcoin ETPs, aiming to remove foreign exchange risk for regional investors. \n\nFilings show the new infrastructure targets institutional participants looking for direct crypto exposure without taking on USD currency volatility. \n\nAs product optionality broadens across traditional markets, foreign exchange dynamics are becoming a core consideration for digital asset allocations.",
+    "hasImage": true,
+    "eventFingerprint": "2ab80101f58f0ddc9c5b20bf",
+    "timestamp": "2026-09-30T19:47:54.721Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 688,
+    "text": "Ever wonder what a whale eats for breakfast? \n\nApparently, it is twelve million dollars in volume and a ten percent rally. \n\nETHFI is catching aggressive bids right now, driven by heavy wallets and retail futures piling into the tape. \n\nWhen the size starts moving, the order books follow.",
+    "hasImage": true,
+    "eventFingerprint": "9497759c55be6ec73d5e806b",
+    "timestamp": "2026-09-30T19:47:56.508Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 689,
+    "text": "Cooling inflation data is giving risk assets breathing room, though bond markets aren't stepping aside entirely.\n\nAugust core PCE rose 0.2%, meeting expectations and prompting markets to dial back expectations for aggressive Federal Reserve tightening next month. \n\nBitcoin is changing hands around $83,700 following the print. \n\nWhile the inflation reading takes immediate pressure off policymakers, rising Treasury yields continue to act as a ceiling on broader upside momentum.",
+    "hasImage": true,
+    "eventFingerprint": "52bcea91ffa02564bdf82b4b",
+    "timestamp": "2026-09-30T19:47:57.718Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 690,
+    "text": "Nine straight days of inflows tell a clear story of persistent institutional demand, even if Tuesday's $66 million addition was modest compared to the peaks of the August rally.\n\nMomentum is clearly building, but macro headwinds and thin summer liquidity still cast a shadow over spot markets. \n\nHow are you playing this current streak? Are you scaling in here, or waiting for a sharper pullback before adding exposure?",
+    "hasImage": true,
+    "eventFingerprint": "2f48745bf33ec7cf20fc85d5",
+    "timestamp": "2026-09-30T19:47:59.044Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 691,
+    "text": "Zero-click exploits don't wait for permission.\n\nApple has pushed out an emergency patch for iOS after confirming a zero-day vulnerability was actively targeted in sophisticated attacks. \n\nThe flaw allowed malicious code execution without user interaction. \n\nIf your devices haven't updated yet, check settings and patch immediately.",
+    "hasImage": true,
+    "eventFingerprint": "61a594a3f1ea85bb9a83c4f3",
+    "timestamp": "2026-09-30T19:48:21.702Z"
   }
 ]

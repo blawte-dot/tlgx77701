@@ -25461,5 +25461,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "HANetf Teams Up With HSBC To Launch First GBP &#038; EUR-Hedged Bitcoin Products",
+    "link": "https://www.newsbtc.com/institutional/hanetf-teams-up-with-hsbc-to-launch-first-gbp-eur-hedged-bitcoin-produ/",
+    "summary": "In a major development confirmed on SEPTEMBER 30, 2026, Confirmed announcement/filing for HANetf Teams Up With HSBC To Launch First GBP &#38; EUR-Hedged Bitcoin Products. This operational move highlights expanding activity across the digital asset ecosystem and underscores key developments for market participants. Key Operational Milestones &#38; Context According to primary regulatory and corporate filings verified on SEPTEMBER 30, 2026, this development introduces crucial infrastructure enhanc",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/b424d8fa68ea4a5eb52d5f60ad108492.png.jpeg?fit=750%2C422",
+    "publishedAt": "2026-09-30T16:00:00.000Z",
+    "collectedAt": "2026-09-30T19:47:51.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2ab80101f58f0ddc9c5b20bf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-09-30T19:47:54.727Z",
+    "outcome": {
+      "event": {
+        "title": "HANetf Teams Up With HSBC To Launch First GBP &#038; EUR-Hedged Bitcoin Products",
+        "fingerprint": "2ab80101f58f0ddc9c5b20bf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 687,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ether.Fi: How whale buying could extend ETHFI’s 10% price rally",
+    "link": "https://ambcrypto.com/ether-fi-how-whale-buying-could-extend-ethfis-10-price-rally/",
+    "summary": "ETHFI has recorded significant gains as its trading volume hit $120 million, with whale buying and retail futures activity fueling bullish momentum.",
+    "image": null,
+    "publishedAt": "2026-09-30T18:00:37.000Z",
+    "collectedAt": "2026-09-30T19:47:51.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9497759c55be6ec73d5e806b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-09-30T19:47:56.513Z",
+    "outcome": {
+      "event": {
+        "title": "Ether.Fi: How whale buying could extend ETHFI’s 10% price rally",
+        "fingerprint": "9497759c55be6ec73d5e806b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 688,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin steadies as soft PCE cools October Fed rate hike bets",
+    "link": "https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
+    "summary": "Core PCE rose just 0.2% in August, easing pressure for an October Fed hike. Bitcoin trades near $83,700 as rising Treasury yields cap gains.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/03/20250312_Markets_Category.jpg",
+    "publishedAt": "2026-09-30T16:10:36.000Z",
+    "collectedAt": "2026-09-30T19:47:51.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "52bcea91ffa02564bdf82b4b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T19:47:57.724Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin steadies as soft PCE cools October Fed rate hike bets",
+        "fingerprint": "52bcea91ffa02564bdf82b4b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 689,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+    "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
+    "summary": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
+    "publishedAt": "2026-09-30T17:27:43.000Z",
+    "collectedAt": "2026-09-30T19:47:51.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2f48745bf33ec7cf20fc85d5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T19:47:59.049Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+        "fingerprint": "2f48745bf33ec7cf20fc85d5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 690,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Apple Patches iOS Flaw That Could Let Attackers Run Malicious Code on iPhones",
+    "link": "https://cryptopotato.com/apple-patches-ios-flaw-that-could-let-attackers-run-malicious-code-on-iphones/",
+    "summary": "Apple released a security update after confirming an iOS vulnerability may have been exploited in highly sophisticated targeted attacks.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/01/Warning_AppleMac.jpg",
+    "publishedAt": "2026-09-30T04:06:21.000Z",
+    "collectedAt": "2026-09-30T19:47:51.963Z",
+    "corroboratingSources": 1,
+    "fingerprint": "61a594a3f1ea85bb9a83c4f3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T19:48:21.709Z",
+    "outcome": {
+      "event": {
+        "title": "Apple Patches iOS Flaw That Could Let Attackers Run Malicious Code on iPhones",
+        "fingerprint": "61a594a3f1ea85bb9a83c4f3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 691,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
