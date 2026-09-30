@@ -4027,5 +4027,40 @@
     "hasImage": true,
     "eventFingerprint": "2001af870272dddbb96e7137",
     "timestamp": "2026-09-30T07:55:25.522Z"
+  },
+  {
+    "messageId": 682,
+    "text": "Code is law until it intersects with criminal code. ⚖️\n\nFollowing the $387.5M Bitget exploit, THORChain developers face a complex legal gray area because the decentralized protocol cannot—or will not—block addresses linked to the stolen funds. \n\nCrypto lawyer Yuriy Brisov notes that while immutability is core to decentralized finance, developer liability under money laundering statutes depends heavily on jurisdiction, degree of control, and intent. \n\nAs cross-chain bridges handle increasingly institutional-scale liquidity, this clash between unstoppable code and state-enforced compliance is moving from theory to the courtroom.",
+    "hasImage": true,
+    "eventFingerprint": "6b60ed6387389b9a83eecb10",
+    "timestamp": "2026-09-30T14:35:18.591Z"
+  },
+  {
+    "messageId": 683,
+    "text": "Weeks before funds began draining, the infrastructure was already being mapped.\n\nSecurity firm SlowMist has linked last month’s Bitget security breach to malicious activity that first appeared on August 31, pointing to a targeted zero-day exploit. \n\nOn-chain analysis shows the operation bypassed two separate security products using a custom withdrawal tool built specifically for the attack. \n\nWhile the exact scale of the compromise is still being audited, the timeline suggests the exploit vector was tested and refined well in advance of the actual theft.",
+    "hasImage": true,
+    "eventFingerprint": "85589e2531f45fd25ce9920e",
+    "timestamp": "2026-09-30T14:35:20.432Z"
+  },
+  {
+    "messageId": 684,
+    "text": "3 conditions separate a compliant token buyback from an unregistered distribution. \n\nThe SEC’s updated guidance lands just as protocol treasury spending on open-market repurchases reaches $638 million. \n\nAt the center of the shift is a new requirement: buybacks cannot rely on a central administrative party to coordinate or execute the mechanics. \n\nFor developers, the math just changed. The question is no longer simply how much capital a project allocates to support its asset, but whether the mechanism itself implies an ongoing managerial effort.",
+    "hasImage": true,
+    "eventFingerprint": "13bd3d8eee06005f6482e250",
+    "timestamp": "2026-09-30T14:35:24.572Z"
+  },
+  {
+    "messageId": 685,
+    "text": "Bitcoin funds just stacked another massive week while Ether products abruptly flatlined.\n\nSpot BTC vehicles pulled in $3.1 billion over their latest streak, showing sustained institutional appetite even as ETH ETFs shed $3 million and Zcash products leaked $8 million to start the week.\n\nAre allocators quietly rotating out of altcoin vehicles entirely to concentrate risk in Bitcoin, or is this brief red patch for Ether just noise? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "f1e8564c8d95389e35cb8233",
+    "timestamp": "2026-09-30T14:35:26.065Z"
+  },
+  {
+    "messageId": 686,
+    "text": "Offering one-thousand times leverage on a crypto casino platform is a fast track to account liquidation for anyone who treats derivatives like a slot machine. \n\nBetFury has launched a new futures product reaching up to 1000x multipliers, directly merging high-risk crypto derivatives with in-house gaming tools. \n\nExtreme leverage amplifies minor market wicks into total capital loss within seconds. Proceed with extreme caution.",
+    "hasImage": true,
+    "eventFingerprint": "31bf60450632b2574fdbeaef",
+    "timestamp": "2026-09-30T14:35:34.277Z"
   }
 ]
