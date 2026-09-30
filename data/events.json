@@ -24846,5 +24846,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+    "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+    "summary": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-29T04:17:20.000Z",
+    "collectedAt": "2026-09-30T01:01:50.586Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f33455432b8d665e1b1dcb29",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T01:01:52.957Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+        "fingerprint": "f33455432b8d665e1b1dcb29"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 672,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
+    "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
+    "summary": "Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/etf-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-09-29T18:18:33.000Z",
+    "collectedAt": "2026-09-30T01:01:50.586Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ee5dd39144ff51536f5cff3e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T01:01:54.360Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
+        "fingerprint": "ee5dd39144ff51536f5cff3e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 673,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "HANetf Debuts Euro-Hedged Bitcoin Fund in World First",
+    "link": "https://bitcoinmagazine.com/news/hanetf-debuts-bitcoin-euro-etf",
+    "summary": "Bitcoin Magazine\n\nHANetf Debuts Euro-Hedged Bitcoin Fund in World First\nEuropean BTC investors can typically be exposed to both volatile swings in the cryptocurrency’s price as well as the dollar’s move against the euro. A new fund aims to fix that. \nThis post HANetf Debuts Euro-Hedged Bitcoin Fund in World First first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/HANetf-Debuts-Euro-Hedged-Bitcoin-Fund-in-World-First.jpg",
+    "publishedAt": "2026-09-29T19:08:47.000Z",
+    "collectedAt": "2026-09-30T01:01:50.586Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3ff58b2c8a64c154b0cbae86",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T01:01:55.768Z",
+    "outcome": {
+      "event": {
+        "title": "HANetf Debuts Euro-Hedged Bitcoin Fund in World First",
+        "fingerprint": "3ff58b2c8a64c154b0cbae86"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 674,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "A $7 billion crypto ETF plumbing boom just ran into the IRS",
+    "link": "https://cryptoslate.com/a-7-billion-crypto-etf-plumbing-boom-just-ran-into-the-irs/",
+    "summary": "The Internal Revenue Service (IRS) is scrutinizing a crypto-linked ETF tax strategy as Washington intensifies its campaign against structures designed to avoid taxable gains. The Treasury Department and IRS identified digital assets as one area where fund managers may be stretching tax provisions beyond their intended purpose, opening the door to additional rules or enforcement. [&#8230;]\nThe post A $7 billion crypto ETF plumbing boom just ran into the IRS appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-etf-irs-pressure.webp",
+    "publishedAt": "2026-09-29T15:51:12.000Z",
+    "collectedAt": "2026-09-30T01:01:50.586Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b528e5436c27674e163f5a61",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T01:01:57.283Z",
+    "outcome": {
+      "event": {
+        "title": "A $7 billion crypto ETF plumbing boom just ran into the IRS",
+        "fingerprint": "b528e5436c27674e163f5a61"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 675,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s $84,000 wall gets harder to break as ETF inflows sink to $31 million",
+    "link": "https://cryptoslate.com/bitcoins-84000-wall-gets-harder-to-break-as-etf-inflows-sink-to-31-million/",
+    "summary": "US Bitcoin exchange-traded funds drew just $31 million in inflows on Sept. 28 as institutional demand weakened while BTC stalled below a major supply barrier. According to SoSoValue data, BlackRock’s iShares Bitcoin Trust (IBIT) led the session with $54.84 million in inflows, adding about 657 Bitcoin and lifting its holdings back above 800,000 BTC for [&#8230;]\nThe post Bitcoin’s $84,000 wall gets harder to break as ETF inflows sink to $31 million appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-trickle.webp",
+    "publishedAt": "2026-09-29T14:20:15.000Z",
+    "collectedAt": "2026-09-30T01:01:50.586Z",
+    "corroboratingSources": 1,
+    "fingerprint": "35d76fe7035372b4b387550c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-09-30T01:01:58.692Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s $84,000 wall gets harder to break as ETF inflows sink to $31 million",
+        "fingerprint": "35d76fe7035372b4b387550c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 676,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
