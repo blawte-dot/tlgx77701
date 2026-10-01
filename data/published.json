@@ -4795,5 +4795,45 @@
     "hasImage": true,
     "eventFingerprint": "1665083fe29ce42b581b6bbf",
     "timestamp": "2026-10-01T11:20:13.099Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 706,
+    "text": "Security vulnerabilities have pushed third-quarter crypto losses beyond the $1 billion mark.\n\nIndustry data confirms that Q3 incidents totaled $1.26 billion across 247 separate events. September proved to be the most damaging month of the year, accounting for approximately $769 million of that total—largely driven by the recent $388 million exploit of Bitget’s ecosystem.\n\nThe scale of these losses underscores persistent infrastructure risks. While decentralized protocols remain frequent targets, centralized exchange vulnerabilities continue to account for a significant share of total capital outflow.\n\nMarket participants are increasingly focused on how these recurring security gaps impact platform liquidity and institutional confidence moving forward.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "e8c65c1e0f5c4240ea3b6565",
+    "timestamp": "2026-10-01T17:57:53.182Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 707,
+    "text": "Institutional sentiment toward Bitcoin is shifting with extreme velocity.\n\nCitibank has just issued a revised 12-month price target of $113,000 for BTC, marking a sharp pivot from the bank's cautious outlook issued only three months ago. \n\nThe move follows a clear reversal in market dynamics, driven primarily by renewed demand from spot Bitcoin ETFs. Analysts at the firm are pointing to the stabilization of institutional flows as a primary catalyst for the adjustment.\n\nWhile this upward revision signals a significant change in internal modeling, it serves as a stark reminder of how quickly Wall Street sentiment flips when liquidity returns to the order book. \n\nEyes remain on the sustainability of current ETF volume to validate this new institutional consensus.",
+    "hasImage": true,
+    "eventFingerprint": "09648250d84303aeb584ca6d",
+    "timestamp": "2026-10-01T17:57:56.902Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 708,
+    "text": "Stablecoin issuers have emerged as a significant, albeit nuanced, buyer of U.S. Treasury debt.\n\nA new study from the San Francisco Fed indicates that the rapid growth of stablecoin reserves is providing a meaningful offset to the ongoing retreat of Chinese capital from the Treasury market. \n\nThe research highlights a key distinction in appetite: stablecoin issuers are heavily concentrated in the short-term bill market, favoring liquidity and safety. Conversely, China’s reduction in exposure has been most pronounced in longer-dated securities.\n\nWhile the demand from stablecoin protocols supports the broader Treasury ecosystem, the Fed authors note that the long-term impact remains tethered to issuer behavior. \n\nFuture stability in this demand will depend largely on the underlying profile of stablecoin holders and how these issuers manage their balance sheets as regulatory scrutiny intensifies.",
+    "hasImage": true,
+    "eventFingerprint": "a934446d6a7ba438e31168cd",
+    "timestamp": "2026-10-01T17:58:00.397Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 709,
+    "text": "NEAR Intents has been hit by a $3.8 million exploit. \n\nThe cross-chain trading protocol confirmed a security vulnerability yesterday that impacted deposits and withdrawals across multiple networks. \n\nThe team behind the project has stated they intend to reimburse all affected users. Investigations into the root cause of the bug are currently ongoing.",
+    "hasImage": true,
+    "eventFingerprint": "04257618bc9164ed1b3e1ad3",
+    "timestamp": "2026-10-01T17:58:03.390Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 710,
+    "text": "Institutional momentum has hit a sudden wall.\n\nThe nine-day, $3 billion inflow streak for spot Bitcoin ETFs has officially snapped, with $149 million in net outflows recorded yesterday. \n\nEthereum products faced similar pressure. U.S. spot ETH ETFs logged $59.6 million in net exits, with Fidelity’s FETH fund accounting for $26.6 million of that total.\n\nData via The Block confirms the reversal, marking a shift in the recent buying trend that defined the past two weeks of market activity.",
+    "hasImage": true,
+    "eventFingerprint": "7d3ae09c8cb8fbb8f53c839f",
+    "timestamp": "2026-10-01T17:58:06.871Z"
   }
 ]

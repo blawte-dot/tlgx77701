@@ -26271,5 +26271,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+    "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
+    "publishedAt": "2026-10-01T13:35:47.000Z",
+    "collectedAt": "2026-10-01T17:57:47.710Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e8c65c1e0f5c4240ea3b6565",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-01T17:57:53.187Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+        "fingerprint": "e8c65c1e0f5c4240ea3b6565"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 706,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Banking Behemoth Citibank Raises Bitcoin Target",
+    "link": "https://u.today/banking-behemoth-citibank-raises-bitcoin-target",
+    "summary": "Wall Street banking giant Citi has dramatically raised its 12-month Bitcoin price target to $113,000, reversing a major bearish revision made only three months ago as renewed ETF inflows.",
+    "image": null,
+    "publishedAt": "2026-10-01T15:38:31.000Z",
+    "collectedAt": "2026-10-01T17:57:47.711Z",
+    "corroboratingSources": 1,
+    "fingerprint": "09648250d84303aeb584ca6d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-01T17:57:56.906Z",
+    "outcome": {
+      "event": {
+        "title": "Banking Behemoth Citibank Raises Bitcoin Target",
+        "fingerprint": "09648250d84303aeb584ca6d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 707,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Stablecoin Treasury Growth Partly Offsets China’s Retreat, SF Fed Study Finds",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/stablecoin-treasury-growth-partly-offsets-china-s-retreat-sf-fed-study-finds",
+    "summary": "Issuers favor short-term debt, while China’s decline is mostly in longer-dated securities. The authors say additional demand depends on who buys stablecoins.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/c8509785704e48a8e29bbc7933d1e1c1e30a3143-2048x1152.png",
+    "publishedAt": "2026-10-01T17:42:51.000Z",
+    "collectedAt": "2026-10-01T17:57:47.711Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a934446d6a7ba438e31168cd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-01T17:58:00.402Z",
+    "outcome": {
+      "event": {
+        "title": "Stablecoin Treasury Growth Partly Offsets China’s Retreat, SF Fed Study Finds",
+        "fingerprint": "a934446d6a7ba438e31168cd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 708,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+    "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "summary": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-01T14:18:14.000Z",
+    "collectedAt": "2026-10-01T17:57:47.710Z",
+    "corroboratingSources": 1,
+    "fingerprint": "04257618bc9164ed1b3e1ad3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-01T17:58:03.396Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+        "fingerprint": "04257618bc9164ed1b3e1ad3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 709,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
+    "link": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
+    "summary": "Meanwhile, U.S. spot Ethereum ETFs saw $59.6 million in net outflows on Wednesday, led by $26.6 million exiting Fidelity's FETH fund.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
+    "publishedAt": "2026-10-01T12:17:06.000Z",
+    "collectedAt": "2026-10-01T17:57:47.710Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7d3ae09c8cb8fbb8f53c839f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-01T17:58:06.877Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
+        "fingerprint": "7d3ae09c8cb8fbb8f53c839f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 710,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
