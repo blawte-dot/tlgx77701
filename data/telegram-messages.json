@@ -4167,5 +4167,33 @@
     "hasImage": true,
     "eventFingerprint": "cdc82aaf0ecca078282550e3",
     "timestamp": "2026-10-01T04:00:38.689Z"
+  },
+  {
+    "messageId": 702,
+    "text": "Bitcoin is testing the patience of bulls at the $85,000 ceiling.\n\nThe start of the new quarter has brought price action squarely back into the familiar $82,000–$85,000 range. \n\nMomentum briefly pushed prices toward the $85,000 mark on Wednesday. The catalyst was a softer-than-expected U.S. inflation print, which briefly dampened expectations for aggressive Federal Reserve rate hikes.\n\nHowever, the breakout lacked the sustained conviction needed to flip resistance into support. \n\nSpot ETF inflows failed to provide the necessary tailwind to push the asset into discovery mode. With liquidity remaining thin at these levels, the market is currently oscillating without a clear directional trend. \n\nTraders are now watching to see if this consolidation serves as a base for another leg up or a cooling-off period before a deeper pullback.",
+    "hasImage": true,
+    "eventFingerprint": "4c35ebb90ed7fce551697040",
+    "timestamp": "2026-10-01T11:20:03.269Z"
+  },
+  {
+    "messageId": 703,
+    "text": "Wall Street’s appetite for NEAR is accelerating faster than anticipated.\n\nThe first spot NEAR ETF has surpassed $52.8 million in Assets Under Management (AUM) just two days after hitting the markets. \n\nBitwise CIO Matt Hougan signaled the milestone as a sign of a \"strong launch,\" highlighting immediate institutional interest in the underlying asset. \n\nFor a nascent fund, reaching the $50 million mark in under 48 hours is a notable metric. It signals that liquidity providers and institutional allocators are looking beyond the top two major assets for portfolio exposure.\n\nWhile the broader crypto market remains sensitive to macro volatility, this initial inflow suggests that NEAR is capturing significant mindshare among traditional finance gatekeepers. \n\n#NEAR",
+    "hasImage": true,
+    "eventFingerprint": "5782153cb273bc2628cbda11",
+    "timestamp": "2026-10-01T11:20:09.415Z"
+  },
+  {
+    "messageId": 704,
+    "text": "Your validator keys are only as safe as the software holding them.\n\nMetaMask users are hitting the emergency exit button after a security incident, triggering a mass exodus of Ethereum validators. \n\nWhile the actual loss is pinned at a modest 0.36 ETH, the sheer scale of the preemptive move—roughly 523,000 ETH—shows just how twitchy the infrastructure has become. \n\nTrust is easy to lose and expensive to move. \n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "b552be33d9c2155cfa7d83f8",
+    "timestamp": "2026-10-01T11:20:10.600Z"
+  },
+  {
+    "messageId": 705,
+    "text": "Institutional capital is quietly reshaping the Bitcoin landscape.\n\nSpot ETFs pulled in $6.34 billion during Q3, coinciding with a 42.71% rally for BTC. This marks the asset's strongest third-quarter performance since 2017.\n\nWhile historical data points to a bullish trend, the concentration of inflows highlights an increasing reliance on institutional flows to sustain price discovery. Monitor ETF movement closely as a primary indicator of market liquidity heading into Q4.",
+    "hasImage": true,
+    "eventFingerprint": "1665083fe29ce42b581b6bbf",
+    "timestamp": "2026-10-01T11:20:13.094Z"
   }
 ]

@@ -26076,5 +26076,200 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
+    "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
+    "summary": "Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn’t hold the move and spot ETFs didn’t help.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3cb861952a42171f818357d58de3a1a92f3c82c-1400x400.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-01T10:38:04.000Z",
+    "collectedAt": "2026-10-01T11:19:58.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4c35ebb90ed7fce551697040",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-01T11:20:03.279Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
+        "fingerprint": "4c35ebb90ed7fce551697040"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 702,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "MetaMask Confirms Security Incident and Begins Validator Exits to Protect Client Assets",
+    "link": "https://cryptopotato.com/metamask-confirms-security-incident-and-begins-validator-exits-to-protect-client-assets/",
+    "summary": "MetaMask stated that user wallets face no immediate threat following an undisclosed infrastructure security incident.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2022/06/Metamask_Fix.jpg",
+    "publishedAt": "2026-10-01T11:05:44.000Z",
+    "collectedAt": "2026-10-01T11:19:58.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aade3114489b15a697db010d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-01T11:20:04.368Z",
+    "outcome": {
+      "event": {
+        "title": "MetaMask Confirms Security Incident and Begins Validator Exits to Protect Client Assets",
+        "fingerprint": "aade3114489b15a697db010d"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "NEAR Crosses $52.8 Million ETF Threshold After Just Day 2, Bitwise CIO Hails 'Strong Launch'",
+    "link": "https://u.today/near-crosses-528-million-etf-threshold-after-just-day-2-bitwise-cio-hails-strong-launch",
+    "summary": "Bitwise CIO Matt Hougan breaks down the strong launch of the first spot NEAR ETF after crossing a major $52.8 million AUM milestone on Day 2.",
+    "image": null,
+    "publishedAt": "2026-10-01T09:11:05.000Z",
+    "collectedAt": "2026-10-01T11:19:58.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5782153cb273bc2628cbda11",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-01T11:20:09.423Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR Crosses $52.8 Million ETF Threshold After Just Day 2, Bitwise CIO Hails 'Strong Launch'",
+        "fingerprint": "5782153cb273bc2628cbda11"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 703,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+    "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+    "summary": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-01T07:06:30.000Z",
+    "collectedAt": "2026-10-01T11:19:58.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b552be33d9c2155cfa7d83f8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-01T11:20:10.609Z",
+    "outcome": {
+      "event": {
+        "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+        "fingerprint": "b552be33d9c2155cfa7d83f8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 704,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin gained 42.71% in Q3, its best third-quarter performance since 2017, as US spot ETFs attracted $6.34 billion in net inflows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V3AAFNW5YNB2QD9324SBKH/bitcoin-price-market-2.jpg",
+    "publishedAt": "2026-10-01T07:27:00.000Z",
+    "collectedAt": "2026-10-01T11:19:58.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1665083fe29ce42b581b6bbf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-01T11:20:13.103Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+        "fingerprint": "1665083fe29ce42b581b6bbf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 705,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
