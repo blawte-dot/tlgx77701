@@ -25871,5 +25871,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Kraken Completes Acquisition Of TradeStation Crypto Infrastructure Assets",
+    "link": "https://www.newsbtc.com/exchanges/kraken-completes-acquisition-of-tradestation-crypto-infrastructure-ass/",
+    "summary": "In a major development confirmed on SEPTEMBER 30, 2026, Confirmed announcement/filing for Kraken Completes Acquisition Of TradeStation Crypto Infrastructure Assets. This operational move highlights expanding activity across the digital asset ecosystem and underscores key developments for market participants. Key Operational Milestones &#38; Context According to primary regulatory and corporate filings verified on SEPTEMBER 30, 2026, this development introduces crucial infrastructure enhancements",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/b424d8fa68ea4a5eb52d5f60ad108492.png.jpeg?fit=750%2C422",
+    "publishedAt": "2026-10-01T02:00:00.000Z",
+    "collectedAt": "2026-10-01T04:00:31.162Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e4aad10cc706ce29c0c918db",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-01T04:00:33.584Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken Completes Acquisition Of TradeStation Crypto Infrastructure Assets",
+        "fingerprint": "e4aad10cc706ce29c0c918db"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 697,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+    "link": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
+    "summary": "The ChatGPT maker is pursuing fresh funding after delaying its public listing, while expanding its AI tools despite mounting safety concerns.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-09-30T08:50:22.000Z",
+    "collectedAt": "2026-10-01T04:00:31.162Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aa84fcb4143cec7e93ae9ec9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-01T04:00:35.046Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+        "fingerprint": "aa84fcb4143cec7e93ae9ec9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 698,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin enters its best season after a 43% surge, with $147,000 suddenly on the math",
+    "link": "https://cryptoslate.com/bitcoin-enters-its-best-season-after-a-43-surge-with-147000-suddenly-on-the-math/",
+    "summary": "Bitcoin is closing its strongest quarter since 2024 after leaving US stocks and gold far behind despite surging bond yields. The largest digital asset has gained about 43% in the third quarter, putting it on course for its second-best third-quarter since 2013 and its third-strongest quarterly advance since US spot Bitcoin exchange-traded funds began trading [&#8230;]\nThe post Bitcoin enters its best season after a 43% surge, with $147,000 suddenly on the math appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-q4-seasonality.webp",
+    "publishedAt": "2026-10-01T03:10:09.000Z",
+    "collectedAt": "2026-10-01T04:00:31.162Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4b0fca2e69628ec071e1993a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-01T04:00:36.352Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin enters its best season after a 43% surge, with $147,000 suddenly on the math",
+        "fingerprint": "4b0fca2e69628ec071e1993a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 699,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
+    "summary": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/kabosu-doge.png",
+    "publishedAt": "2026-09-30T18:23:57.000Z",
+    "collectedAt": "2026-10-01T04:00:31.162Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e6ebc34dd8a45b603065b505",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-01T04:00:37.589Z",
+    "outcome": {
+      "event": {
+        "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
+        "fingerprint": "e6ebc34dd8a45b603065b505"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 700,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Aave’s $50 million lending plan could lose money without a single default",
+    "link": "https://cryptoslate.com/aaves-50-million-lending-plan-could-lose-money-without-a-single-default/",
+    "summary": "The proposed BTC and ETH loans would pair custodied borrower collateral with DAO assets securing a separate source of funding.\nThe post Aave’s $50 million lending plan could lose money without a single default appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/09/aave_collateral_balance_risk.webp",
+    "publishedAt": "2026-09-30T18:20:26.000Z",
+    "collectedAt": "2026-10-01T04:00:31.162Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cdc82aaf0ecca078282550e3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-01T04:00:38.699Z",
+    "outcome": {
+      "event": {
+        "title": "Aave’s $50 million lending plan could lose money without a single default",
+        "fingerprint": "cdc82aaf0ecca078282550e3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 701,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -4723,5 +4723,45 @@
     "hasImage": true,
     "eventFingerprint": "2a5acef5aad4fa2664048a18",
     "timestamp": "2026-09-30T23:26:06.880Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 697,
+    "text": "2. That is the number of crypto brokerages left standing as Kraken absorbs TradeStation’s infrastructure assets.\n\nConsolidation isn't slowing down.\n\nRegulatory hurdles are weeding out the subscale players, leaving well-capitalized exchanges to sweep up the plumbing.\n\nThe backend keeps getting centralized even as the front end fragments.",
+    "hasImage": true,
+    "eventFingerprint": "e4aad10cc706ce29c0c918db",
+    "timestamp": "2026-10-01T04:00:33.580Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 698,
+    "text": "A $1.4 trillion private valuation keeps the public markets waiting.\n\nOpenAI is reportedly pursuing roughly $30 billion in new funding after pushing back its anticipated IPO timeline. \n\nThe capital push comes as the ChatGPT developer scales its infrastructure and expands its AI product suite, navigating mounting internal safety scrutiny and intense industry competition along the way. \n\nWhile the round underscores massive institutional appetite for private AI giants, the delay signals that traditional public markets may not yet be equipped to price the scale of capital expenditure currently required.",
+    "hasImage": true,
+    "eventFingerprint": "aa84fcb4143cec7e93ae9ec9",
+    "timestamp": "2026-10-01T04:00:35.041Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 699,
+    "text": "Gold and equities just watched the back of Bitcoin's jersey.\n\nA 43% quarterly rip doesn't happen by whispering. Q3 is wrapping up as the strongest run since 2024, leaving bond yields and traditional macro anxiety completely in the dust. \n\nWhen spot ETFs entered the chat, market mechanics changed. Now the math is pointing toward six figures, with $147,000 suddenly occupying serious models across the desk. \n\nHistory says Q4 is where things get genuinely loud.",
+    "hasImage": true,
+    "eventFingerprint": "4b0fca2e69628ec071e1993a",
+    "timestamp": "2026-10-01T04:00:36.347Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 700,
+    "text": "Dogecoin is getting its first zero-knowledge rollup with EVM compatibility, using DOGE itself to pay for gas fees on the new testnet.\n\nIt is an unexpected technical leap for a network built primarily as a peer-to-peer payment token. \n\nDoes adding smart contract infrastructure fundamentally change Dogecoin's long-term utility, or is this just another novelty experiment that will struggle to gain organic developer adoption? \n\n#Dogecoin",
+    "hasImage": true,
+    "eventFingerprint": "e6ebc34dd8a45b603065b505",
+    "timestamp": "2026-10-01T04:00:37.584Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 701,
+    "text": "Aave is cooking up a $50 million lending strategy where nobody even needs to default for the protocol to take a hit. \n\nThe proposal aims to pair custodied BTC and ETH collateral with DAO treasury funds to back a separate funding source. \n\nTurns out you don't need bad loans to engineer a structural loss when complex tokenomics enter the chat.",
+    "hasImage": true,
+    "eventFingerprint": "cdc82aaf0ecca078282550e3",
+    "timestamp": "2026-10-01T04:00:38.694Z"
   }
 ]
