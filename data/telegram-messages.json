@@ -4230,5 +4230,40 @@
     "hasImage": true,
     "eventFingerprint": "7d3ae09c8cb8fbb8f53c839f",
     "timestamp": "2026-10-01T17:58:06.865Z"
+  },
+  {
+    "messageId": 711,
+    "text": "NEAR’s institutional milestone is being overshadowed by a critical security failure.\n\nJust 48 hours after Bitwise launched a NEAR-focused investment product for US markets, the ecosystem is facing a liquidity stress test. NEAR Intents confirmed a security breach within its Omni infrastructure, leading to a loss of approximately $3.8 million.\n\nThe market reaction was swift. NEAR dropped roughly 10% to $4.86 as investors digested the vulnerability.\n\nThis exploit hits a sensitive nerve for the network. The protocol has been positioning itself as a core player in the AI-crypto narrative, courting institutional capital through its recent ETF entry. \n\nWhile the core NEAR blockchain remains unaffected, the incident serves as a reminder of the risks inherent in third-party integrations and cross-chain infrastructure. Developers are currently investigating the scope of the drain, but for now, the incident has effectively stalled the momentum gained from the product's Wall Street debut.",
+    "hasImage": true,
+    "eventFingerprint": "adbe3de9279d81b01ef093a3",
+    "timestamp": "2026-10-01T22:29:07.582Z"
+  },
+  {
+    "messageId": 712,
+    "text": "The SEC is tightening its grip on how investment funds manage digital assets.\n\nNew proposed rules aim to overhaul the custody standards for crypto holdings held by registered investment advisers. The regulator argues these measures are necessary to bolster oversight and protect client assets from platform insolvency or theft.\n\nUnder the proposal, advisers would be required to maintain \"qualified custodian\" status for crypto assets, placing higher compliance burdens on firms handling digital holdings. This marks a continuation of the agency’s push to bring crypto operations under the umbrella of traditional financial regulations.\n\nWhile proponents suggest this adds institutional legitimacy, industry critics warn the strict requirements could limit the availability of crypto-focused investment products. The proposal remains in the review stage as firms weigh the operational impact of these potential oversight changes.\n\n#CryptoRegulation",
+    "hasImage": true,
+    "eventFingerprint": "67c8a3541ee215356bfc9b0a",
+    "timestamp": "2026-10-01T22:29:11.277Z"
+  },
+  {
+    "messageId": 713,
+    "text": "The SEC is moving to tighten the net on crypto custody.\n\nThe agency has proposed new rules targeting how investment advisers and funds hold digital assets. This move would impose significantly stricter requirements on firms tasked with safeguarding client crypto holdings.\n\nThe timing is notable: the proposal marks one of the final official actions for Commissioner Hester Peirce’s Crypto Task Force before her departure this week.\n\nFor institutional market participants, this signals a shift toward a more rigorous, standardized regulatory landscape. Expect the compliance burden for crypto-native funds and custodial services to climb as the agency pushes to bring these assets under the traditional financial regulatory umbrella. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "d8342035c45a7ad20f3d3334",
+    "timestamp": "2026-10-01T22:29:14.051Z"
+  },
+  {
+    "messageId": 714,
+    "text": "Is your tax strategy about to change in Illinois?\n\nState officials have officially hit the brakes on the proposed 0.2% crypto tax. Implementation is now delayed by six months following intense industry pushback and pending lawsuits.\n\nCritics argued the legislation was rushed through the statehouse without adequate oversight. While this provides a temporary reprieve for digital asset holders in the region, the legal battle over the bill's validity remains ongoing.\n\nWe are monitoring the court proceedings for further developments.\n\n#CryptoTax",
+    "hasImage": true,
+    "eventFingerprint": "aba7a1f73cc84e40060bfbee",
+    "timestamp": "2026-10-01T22:29:17.652Z"
+  },
+  {
+    "messageId": 715,
+    "text": "Security vulnerability confirmed at NEAR Intents.\n\nThe platform has suffered a $3.8 million exploit linked to a bug impacting deposit and withdrawal functions. Developers state the incident followed a security breach involving Bitget, though specific technical overlaps remain under investigation.\n\nNEAR Intents has committed to a full compensation plan for affected users. Operations are currently being assessed for systemic risks. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "e0844715584e35cc461743e0",
+    "timestamp": "2026-10-01T22:29:20.234Z"
   }
 ]

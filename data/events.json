@@ -26476,5 +26476,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Wall Street arrived in NEAR just as a $4 billion-a-month app got hacked",
+    "link": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked/",
+    "summary": "NEAR’s new US ETF is facing its first stress test days after launch as a $3.8 million ecosystem exploit hit the token. NEAR fell about 10% to $4.86 after NEAR Intents disclosed a security incident involving its Omni deposit-and-withdrawal infrastructure. The selloff came less than two days after Bitwise opened the token to US exchange-traded [&#8230;]\nThe post Wall Street arrived in NEAR just as a $4 billion-a-month app got hacked appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/near-etf-risk-tightrope.webp",
+    "publishedAt": "2026-10-01T21:30:20.000Z",
+    "collectedAt": "2026-10-01T22:29:01.882Z",
+    "corroboratingSources": 1,
+    "fingerprint": "adbe3de9279d81b01ef093a3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-01T22:29:07.592Z",
+    "outcome": {
+      "event": {
+        "title": "Wall Street arrived in NEAR just as a $4 billion-a-month app got hacked",
+        "fingerprint": "adbe3de9279d81b01ef093a3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 711,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "SEC Proposes New Rules On Crypto Custody",
+    "link": "https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules",
+    "summary": "Bitcoin Magazine\n\nSEC Proposes New Rules On Crypto Custody \nThe regulator proposed new rules it ​said would ​help govern investment ⁠funds’ custody of ​crypto assets. \nThis post SEC Proposes New Rules On Crypto Custody  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/SEC-Green-Lights-Tokenized-Stock-Trading-Despite-Clarity-Act-Fail.jpg",
+    "publishedAt": "2026-10-01T21:09:53.000Z",
+    "collectedAt": "2026-10-01T22:29:01.882Z",
+    "corroboratingSources": 1,
+    "fingerprint": "67c8a3541ee215356bfc9b0a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-01T22:29:11.289Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Proposes New Rules On Crypto Custody",
+        "fingerprint": "67c8a3541ee215356bfc9b0a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 712,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+    "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+    "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-01T20:20:04.000Z",
+    "collectedAt": "2026-10-01T22:29:01.881Z",
+    "corroboratingSources": 4,
+    "fingerprint": "d8342035c45a7ad20f3d3334",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-01T22:29:14.062Z",
+    "outcome": {
+      "event": {
+        "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+        "fingerprint": "d8342035c45a7ad20f3d3334"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 713,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+    "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "State officials agreed to delay the 0.2% crypto tax for six months after lawsuits and industry pushback claimed the bill was rushed through the legislature.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W4DEMZ53S3Q9NK2GTJAT5R/hi-crypto-glossary-tax-2.jpg",
+    "publishedAt": "2026-10-01T18:01:49.000Z",
+    "collectedAt": "2026-10-01T22:29:01.882Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aba7a1f73cc84e40060bfbee",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-01T22:29:17.664Z",
+    "outcome": {
+      "event": {
+        "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+        "fingerprint": "aba7a1f73cc84e40060bfbee"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 714,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+    "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
+    "publishedAt": "2026-10-01T15:43:34.000Z",
+    "collectedAt": "2026-10-01T22:29:01.882Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e0844715584e35cc461743e0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-01T22:29:20.247Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+        "fingerprint": "e0844715584e35cc461743e0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 715,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
