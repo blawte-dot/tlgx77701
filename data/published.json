@@ -4915,5 +4915,45 @@
     "hasImage": true,
     "eventFingerprint": "541e9016da906647402a47f3",
     "timestamp": "2026-10-02T01:59:08.152Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 721,
+    "text": "The SEC is moving to tighten the regulatory perimeter around how investment advisers manage digital assets.\n\nA new proposal released today lays out specific requirements for crypto custody, effectively forcing advisers to utilize \"qualified custodians\" if they want to hold client assets.\n\nWhile the agency frames this as investor protection, the implications for the current self-custody landscape are significant. The proposal introduces strict conditions for using state trust companies as custodians and aims to close perceived loopholes that have allowed advisers to operate with limited oversight.\n\nWhy this matters: If finalized, the rule would fundamentally change the operational infrastructure for crypto-focused RIA firms. It forces a choice between rigid compliance standards and potentially exiting the custody of certain digital assets entirely.\n\nThe industry now has a 60-day window to provide public comment once the proposal hits the Federal Register. Expect the debate over whether this encourages institutional adoption or stifles decentralized infrastructure to intensify.",
+    "hasImage": true,
+    "eventFingerprint": "8067d171bc8e10a39eca6b6f",
+    "timestamp": "2026-10-02T08:16:49.481Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 722,
+    "text": "Institutional capital is quietly recalibrating its position in Bitcoin.\n\nUS spot bitcoin ETFs closed September with a collective $2.65 billion in net inflows. This represents the second-largest monthly accumulation since October 2025, signaling that institutional appetite remains robust despite broader macroeconomic volatility.\n\nThe consistent volume suggests that major allocators are treating current price action as a long-term entry point rather than a signal to exit. While retail interest often fluctuates with headline sentiment, the steady state of ETF flows indicates a maturing structural bid for the asset.\n\nThe resilience of these inflows suggests that the appetite for digital assets as a portfolio component is hardening, rather than softening, heading into the final quarter. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "6a9e4242cb410097c2873be5",
+    "timestamp": "2026-10-02T08:16:56.498Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 723,
+    "text": "The SEC’s custody barrier is finally shifting.\n\nA new proposal from the regulator aims to overhaul how digital assets are held, potentially creating a formal pathway for registered investment advisers and regulated funds to act as qualified custodians.\n\nIf finalized, this framework would replace current ambiguity with a structured compliance standard. It moves the conversation beyond \"if\" institutional capital can enter the space toward \"how\" it will be legally held.\n\nThe shift is significant because it addresses the primary friction point for traditional asset managers: the legal liability of digital asset storage. By establishing clear requirements for custody, the SEC is effectively pulling crypto into the perimeter of the existing financial system rather than keeping it on the fringes.\n\nWe are watching this closely as it moves through the proposal phase—clearer custody rules are the necessary precursor to the next wave of institutional product adoption.",
+    "hasImage": true,
+    "eventFingerprint": "864d11a9e075113425c0396a",
+    "timestamp": "2026-10-02T08:17:07.460Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 724,
+    "text": "Institutional banking is quietly integrating with the Solana network.\n\nNorth Dakota-based Roughrider has moved into production, bridging traditional finance with decentralized rails. The project utilizes VersaBank USA for issuance, enabling institutional-grade access for 90 regional banks across the state.\n\nThis marks a notable shift in how legacy financial institutions interact with high-throughput blockchains. While the core infrastructure is live, actual transaction volume remains undisclosed. \n\nThe move suggests a pivot toward regulated, permissioned experimentation on Solana’s architecture, testing whether public ledgers can support state-level banking compliance. We are tracking if this pilot expands beyond North Dakota or remains a contained sandbox for regional lenders.",
+    "hasImage": true,
+    "eventFingerprint": "2c8d52367451cdee3eddf29b",
+    "timestamp": "2026-10-02T08:17:11.745Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 725,
+    "text": "South Korea is clearing the path for a national digital asset infrastructure.\n\nThe Financial Services Commission has released a comprehensive framework for tokenized securities, signaling a clear shift toward institutional integration ahead of the projected 2027 rollout.\n\nKey proposals include:\n* Strict capital requirements for issuers.\n* Specific licensing protocols for OTC trading platforms.\n* Retail investment caps to mitigate market volatility.\n\nThis move marks a transition from experimental sandbox environments to a regulated, standardized market for tokenized real-world assets. The rules aim to provide a stable foundation for the domestic issuance and circulation of tokenized securities.",
+    "hasImage": true,
+    "eventFingerprint": "165b3ba4008df8f667e73528",
+    "timestamp": "2026-10-02T08:17:24.542Z"
   }
 ]
