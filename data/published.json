@@ -4875,5 +4875,45 @@
     "hasImage": true,
     "eventFingerprint": "e0844715584e35cc461743e0",
     "timestamp": "2026-10-01T22:29:20.241Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 716,
+    "text": "Institutional crypto custody just took a significant step toward decentralization.\n\nThe SEC has proposed a new framework that could allow investment advisers and funds to self-custody digital assets under specific conditions. Crucially, the proposal also outlines a path for state-chartered trust companies to serve as qualified custodians.\n\nFor years, the \"qualified custodian\" requirement has been a bottleneck for institutional capital, effectively forcing firms to rely on a handful of centralized banking giants. This proposal aims to bridge the gap between regulatory compliance and the ethos of self-sovereignty.\n\nIf finalized, this shift would fundamentally alter the market structure for fund managers, lowering the barrier to entry for smaller firms and reducing counterparty risk.\n\nThe proposal is now entering a period of public comment. We are tracking how this reconciles with the commission's broader enforcement stance on digital assets.",
+    "hasImage": true,
+    "eventFingerprint": "2095776892afe3f0f0d196c6",
+    "timestamp": "2026-10-02T01:58:47.615Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 717,
+    "text": "Security exploits in the crypto sector have drained $2.7 billion from the ecosystem so far in 2026.\n\nData from CertiK reveals a stark concentration of risk, with North Korea-linked actors accounting for over $1 billion of the total volume. While 658 separate incidents have been logged through September, recovery efforts remain marginal.\n\nAuthorities and protocols have successfully frozen or clawed back approximately $420.4 million. This leaves roughly $2.26 billion in permanently realized losses, averaging about $4.1 million per incident.\n\nThe numbers highlight a persistent vulnerability in decentralized infrastructure, where a high frequency of attacks continues to outpace the industry's remediation capabilities.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "6eed4439e067fd63ac8d41bd",
+    "timestamp": "2026-10-02T01:59:04.320Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 718,
+    "text": "Institutional access to digital assets is facing a structural shift.\n\nThe SEC is moving to amend custody requirements that have long hindered investment advisers from managing crypto-assets for their clients. Under current rules, many advisers struggle to meet the strict \"qualified custodian\" threshold, effectively limiting their ability to offer exposure to the broader crypto market.\n\nThe proposal aims to modernize these standards, potentially creating a clearer path for registered advisers to integrate digital holdings into their client portfolios. \n\nWhile the policy remains in the proposal stage, it marks a shift toward formalizing the infrastructure required for traditional financial intermediaries to act as legitimate custodians of digital assets. If finalized, this would lower the regulatory barrier for entry, allowing more institutional capital to move through established financial channels rather than fragmented alternatives.",
+    "hasImage": true,
+    "eventFingerprint": "3d4c8a0943903f1d445a8fcc",
+    "timestamp": "2026-10-02T01:59:05.662Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 719,
+    "text": "Institutional crypto custody is finally exiting the regulatory gray zone.\n\nThe SEC has proposed a new framework aimed at clarifying how investment advisers and funds handle digital assets. Under the plan, firms would gain a defined path to utilize state trust companies as custodians. \n\nPerhaps most significantly, the proposal outlines specific conditions under which self-custody would be permitted—a direct response to years of industry pressure for legal clarity. \n\nFor institutional allocators, this removes a major compliance hurdle that has kept many on the sidelines. If finalized, the rule effectively bridges the gap between traditional fiduciary standards and decentralized ownership, signaling a shift toward mainstream integration for crypto-asset management. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "292c3db932a9a58bda425cf6",
+    "timestamp": "2026-10-02T01:59:06.875Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 720,
+    "text": "Stablecoins are redefining how quickly capital can flee a jurisdiction.\n\nBecause these assets are highly liquid and settle around the clock, they offer a path for bank runs to move at digital speeds. A report from Cointelegraph highlights the dual nature of this shift: for some, it is a structural threat to traditional banking stability; for others, it is an inevitable evolution of global liquidity. \n\nWhether this represents a systemic risk or a necessary modernization of finance remains the central debate for regulators this year.",
+    "hasImage": true,
+    "eventFingerprint": "541e9016da906647402a47f3",
+    "timestamp": "2026-10-02T01:59:08.152Z"
   }
 ]
