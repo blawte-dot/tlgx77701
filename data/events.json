@@ -27091,5 +27091,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin sees big overnight rally as ETF demand returns before the next US jobs test",
+    "link": "https://cryptoslate.com/bitcoin-sees-big-overnight-rally-as-etf-demand-returns-before-the-next-us-jobs-test/",
+    "summary": "Fund inflows support the rebound, while reported short liquidations suggest an accelerator and inflation still clouds its durability.\nThe post Bitcoin sees big overnight rally as ETF demand returns before the next US jobs test appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-jobs-report-alarm.webp",
+    "publishedAt": "2026-10-02T11:30:01.000Z",
+    "collectedAt": "2026-10-02T15:20:39.769Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e862d7b63b85540bb9efb84f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-02T15:21:03.480Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin sees big overnight rally as ETF demand returns before the next US jobs test",
+        "fingerprint": "e862d7b63b85540bb9efb84f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 726,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Hester Peirce Leaves SEC After Years At The Center Of US Crypto Policy",
+    "link": "https://www.newsbtc.com/policy/hester-peirce-leaves-sec-crypto-task-force/",
+    "summary": "TL;DR SEC Commissioner Hester Peirce is concluding her tenure at the agency on October 2. Peirce became one of the most visible voices inside the SEC on digital-asset regulation and led the agency&#8217;s Crypto Task Force. Her departure comes while major crypto rulemakings on custody, token classification and market structure are still underway. Hester Peirce is leaving the Securities and Exchange Commission with US crypto policy in a very different place from where it stood when she joined the",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/photo_2026-09-29_12-18-56.jpg?fit=715%2C536",
+    "publishedAt": "2026-10-02T08:41:33.000Z",
+    "collectedAt": "2026-10-02T15:20:39.769Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aac60732b68f073ad40d6688",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-02T15:21:11.964Z",
+    "outcome": {
+      "event": {
+        "title": "Hester Peirce Leaves SEC After Years At The Center Of US Crypto Policy",
+        "fingerprint": "aac60732b68f073ad40d6688"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 727,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Why an $88 billion bank reserve drop doesn’t prove a Bitcoin liquidity squeeze &#8211; yet",
+    "link": "https://cryptoslate.com/why-an-88-billion-bank-reserve-drop-doesnt-prove-a-bitcoin-liquidity-squeeze-yet/",
+    "summary": "Wednesday reserves fell $88.236 billion while their weekly average rose $17.897 billion, exposing the limits of reserve-based Bitcoin liquidity signals.\nThe post Why an $88 billion bank reserve drop doesn’t prove a Bitcoin liquidity squeeze &#8211; yet appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-liquidity-crossroads-v2.webp",
+    "publishedAt": "2026-10-02T14:40:37.000Z",
+    "collectedAt": "2026-10-02T15:20:39.769Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d310df54dc4b8530e5282713",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-02T15:21:24.951Z",
+    "outcome": {
+      "event": {
+        "title": "Why an $88 billion bank reserve drop doesn’t prove a Bitcoin liquidity squeeze &#8211; yet",
+        "fingerprint": "d310df54dc4b8530e5282713"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 728,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Fiserv Puts Stablecoin Banking Platform Live With North Dakota Roughrider Coin",
+    "link": "https://www.newsbtc.com/business/fiserv-roughrider-coin-stablecoin-bank-platform/",
+    "summary": "TL;DR Fiserv says its digital-asset platform is now live with financial-institution clients. Bank of North Dakota&#8217;s dollar-backed Roughrider Coin is the first live use case, with VersaBank as issuer, Fireblocks providing digital-asset infrastructure and Solana processing transactions. The launch moves stablecoin settlement closer to the core banking systems already used by conventional financial institutions. Stablecoins are moving another step away from being a crypto-only payment rail. F",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/prime1.jpg?fit=512%2C288",
+    "publishedAt": "2026-10-02T08:41:39.000Z",
+    "collectedAt": "2026-10-02T15:20:39.769Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4233fbf409e77821d5a175f2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-02T15:22:25.870Z",
+    "outcome": {
+      "event": {
+        "title": "Fiserv Puts Stablecoin Banking Platform Live With North Dakota Roughrider Coin",
+        "fingerprint": "4233fbf409e77821d5a175f2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 729,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "&#8216;A bygone era’ &#8211; SEC proposes crypto self-custody framework for institutional investors",
+    "link": "https://ambcrypto.com/a-bygone-era-sec-proposes-crypto-self-custody-framework-for-institutional-investors/",
+    "summary": "SEC continues to offer guidance to the crypto sector.",
+    "image": null,
+    "publishedAt": "2026-10-02T14:00:53.000Z",
+    "collectedAt": "2026-10-02T15:20:39.769Z",
+    "corroboratingSources": 1,
+    "fingerprint": "308c3e7c02567529c075f7a8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-02T15:22:27.467Z",
+    "outcome": {
+      "event": {
+        "title": "&#8216;A bygone era’ &#8211; SEC proposes crypto self-custody framework for institutional investors",
+        "fingerprint": "308c3e7c02567529c075f7a8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 730,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

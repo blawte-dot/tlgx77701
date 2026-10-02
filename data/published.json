@@ -4955,5 +4955,45 @@
     "hasImage": true,
     "eventFingerprint": "165b3ba4008df8f667e73528",
     "timestamp": "2026-10-02T08:17:24.542Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 726,
+    "text": "Bitcoin is reclaiming lost ground as institutional capital shifts back into the market.\n\nSpot Bitcoin ETFs recorded a notable surge in overnight inflows, signaling renewed conviction from institutional buyers. This buying pressure, compounded by a cascade of short liquidations, has pushed the asset toward key resistance levels.\n\nWhile the momentum is clear, the broader macro environment remains fragile. Market participants are now recalibrating expectations ahead of the upcoming U.S. labor market report.\n\nStrong jobs data could dampen the narrative of aggressive rate cuts, potentially complicating the rally's durability. For now, price action remains tethered to the interplay between ETF demand and the tightening path of the Federal Reserve.",
+    "hasImage": true,
+    "eventFingerprint": "e862d7b63b85540bb9efb84f",
+    "timestamp": "2026-10-02T15:21:03.474Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 727,
+    "text": "The most vocal internal critic of US crypto regulation is stepping down.\n\nSEC Commissioner Hester Peirce officially concludes her tenure on October 2, ending years of high-profile dissent against the agency’s enforcement-first approach to digital assets.\n\nKnown for her frequent, meticulously argued dissents, Peirce served as a counterbalance to the SEC’s aggressive stance under Chair Gary Gensler. She spent years challenging the lack of clear regulatory frameworks, famously pushing for \"safe harbor\" provisions that would allow token projects a grace period to achieve decentralization.\n\nHer exit arrives at a critical juncture. Major rulemakings regarding digital asset custody, token classification, and market structure remain unfinished. With her departure, the SEC loses its primary voice advocating for a legislative-led, rather than litigation-led, path for the crypto industry.\n\nThe agency’s policy direction now faces significant uncertainty as these unresolved frameworks move toward completion without her dissenting vote on the table.",
+    "hasImage": true,
+    "eventFingerprint": "aac60732b68f073ad40d6688",
+    "timestamp": "2026-10-02T15:21:11.958Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 728,
+    "text": "Market volatility often masks the difference between noise and a true liquidity event.\n\nAn $88.236 billion single-day drop in bank reserves has prompted speculation about a looming Bitcoin liquidity squeeze. However, looking at the daily figure in isolation misses the broader trend.\n\nWhile the daily reserve balance contracted sharply on Wednesday, the weekly average actually climbed by $17.897 billion. \n\nThis discrepancy serves as a reminder that banking reserves are inherently volatile on a 24-hour basis. Relying on single-day spikes to predict systemic liquidity shifts for risk assets remains a precarious metric. \n\nUntil the weekly trend shifts decisively lower, the data does not yet support the narrative of a sustained liquidity crunch.",
+    "hasImage": true,
+    "eventFingerprint": "d310df54dc4b8530e5282713",
+    "timestamp": "2026-10-02T15:21:24.945Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 729,
+    "text": "Mainstream banking rails just bridged directly to Solana.\n\nFiserv has officially taken its digital-asset platform live, rolling out the Bank of North Dakota’s dollar-backed Roughrider Coin as its first real-world use case. \n\nInfrastructure is stacked heavy: VersaBank is issuing, Fireblocks handles custody, and Solana runs the settlement layer. \n\nStablecoins are quietly bypassing the crypto-native sandbox and integrating straight into the core infrastructure conventional banks already use.",
+    "hasImage": true,
+    "eventFingerprint": "4233fbf409e77821d5a175f2",
+    "timestamp": "2026-10-02T15:22:25.863Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 730,
+    "text": "Institutional crypto custody is getting a formal rulebook from Washington. \n\nThe SEC has introduced a proposed regulatory framework explicitly addressing how institutional investors handle self-custody digital assets. \n\nThe move marks another step by the commission toward defining boundaries for traditional finance participants entering the digital asset space. \n\nDetails on compliance requirements and implementation timelines are currently under review.",
+    "hasImage": true,
+    "eventFingerprint": "308c3e7c02567529c075f7a8",
+    "timestamp": "2026-10-02T15:22:27.461Z"
   }
 ]
