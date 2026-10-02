@@ -27296,5 +27296,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "SEC Proposes Rules That Could Change How Funds Custody Crypto",
+    "link": "https://cryptopotato.com/sec-proposes-rules-that-could-change-how-funds-custody-crypto/",
+    "summary": "SEC Chairman Paul Atkins said that the proposed rule could \"replace the grey of uncertainty created by custody rules crafted for a bygone era.\"",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/10/TheSEC.jpg",
+    "publishedAt": "2026-10-02T18:49:18.000Z",
+    "collectedAt": "2026-10-02T20:19:41.458Z",
+    "corroboratingSources": 5,
+    "fingerprint": "bd8681aafd2d7ab1b26c40a7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-02T20:19:43.645Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Proposes Rules That Could Change How Funds Custody Crypto",
+        "fingerprint": "bd8681aafd2d7ab1b26c40a7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 731,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Crypto hackers exploit third-party Aave tool to steal 114 ETH",
+    "link": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth/",
+    "summary": "A third-party lending adapter built on Aave was exploited to steal about 114 ETH, worth over $300,000, while the protocol itself remained unaffected. On Oct. 2, blockchain security firm SlowMist said the attacker compromised two Safe multisig wallets through a flaw in the FlashLoopAdapter used with Aave v3 positions. The exploit allowed the attacker to [&#8230;]\nThe post Crypto hackers exploit third-party Aave tool to steal 114 ETH appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-adapter-breach.webp",
+    "publishedAt": "2026-10-02T19:10:35.000Z",
+    "collectedAt": "2026-10-02T20:19:41.458Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a51221c7b6f24fcdbc6e2f21",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-02T20:19:44.840Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto hackers exploit third-party Aave tool to steal 114 ETH",
+        "fingerprint": "a51221c7b6f24fcdbc6e2f21"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 732,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Former SEC Boss Who Sued Ripple to Be Named AI Czar",
+    "link": "https://u.today/former-sec-boss-who-sued-ripple-to-be-named-ai-czar",
+    "summary": "Jay Clayton, the former SEC chairman best known in the crypto world for launching the agency’s landmark lawsuit against Ripple.",
+    "image": null,
+    "publishedAt": "2026-10-02T16:17:54.000Z",
+    "collectedAt": "2026-10-02T20:19:41.458Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b16a1095ca37fdaff8a92db5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-02T20:19:46.715Z",
+    "outcome": {
+      "event": {
+        "title": "Former SEC Boss Who Sued Ripple to Be Named AI Czar",
+        "fingerprint": "b16a1095ca37fdaff8a92db5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 733,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Evernorth's XRP ETF Nasdaq Listing Scheduled for October Date",
+    "link": "https://u.today/evernorths-xrp-etf-nasdaq-listing-scheduled-for-october-date",
+    "summary": "Evernorth's upcoming XRP ETF may begin trading on Nasdaq from October 8, as all major hurdles on its path to launch have been cleared.",
+    "image": null,
+    "publishedAt": "2026-10-02T15:51:13.000Z",
+    "collectedAt": "2026-10-02T20:19:41.458Z",
+    "corroboratingSources": 1,
+    "fingerprint": "35fc68a5034499b7f4cbda36",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-02T20:19:48.364Z",
+    "outcome": {
+      "event": {
+        "title": "Evernorth's XRP ETF Nasdaq Listing Scheduled for October Date",
+        "fingerprint": "35fc68a5034499b7f4cbda36"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 734,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "South Africa’s Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
+    "link": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
+    "summary": "Bitcoin Magazine\n\nSouth Africa’s Absa Becomes First Bank on the Continent to Custody Bitcoin: Report\nSouth African bank Absa has become the first African lender to custody bitcoin, according to reports.&#160; As reported first by Bloomberg on Friday, the Johannesburg-based lender will serve institutional clients, mostly by custodying bitcoin — but other digital assets will also be a part of the service.&#160; Banks worldwide are integrating or offering bitcoin-related products [&#8230;]\nThis pos",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/South-Africas-Absa-Becomes-First-Bank-on-the-Continent-to-Custody-Bitcoin.jpg",
+    "publishedAt": "2026-10-02T18:12:28.000Z",
+    "collectedAt": "2026-10-02T20:19:41.458Z",
+    "corroboratingSources": 1,
+    "fingerprint": "615a629b9663b21481baa583",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-02T20:19:50.073Z",
+    "outcome": {
+      "event": {
+        "title": "South Africa’s Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
+        "fingerprint": "615a629b9663b21481baa583"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 735,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

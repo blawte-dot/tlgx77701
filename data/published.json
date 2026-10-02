@@ -4995,5 +4995,45 @@
     "hasImage": true,
     "eventFingerprint": "308c3e7c02567529c075f7a8",
     "timestamp": "2026-10-02T15:22:27.461Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 731,
+    "text": "What happens when Wall Street is finally handed a legal map for digital assets?\n\nThe SEC just unveiled a proposed custody framework aimed at replacing years of regulatory ambiguity for institutional funds holding crypto. \n\nAgency leadership framed the move as a long-overdue modernization, stepping away from enforcement-heavy precedents toward formal rulemaking. \n\nFor institutional allocators, the absence of clear custody standards has long been the primary bottleneck keeping sideline capital out of digital assets. \n\nIf finalized, these rules could establish the first definitive legal bridge between traditional fund management and on-chain infrastructure. \n\nThe proposal enters a standard public comment window before any final votes take place.",
+    "hasImage": true,
+    "eventFingerprint": "bd8681aafd2d7ab1b26c40a7",
+    "timestamp": "2026-10-02T20:19:43.641Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 732,
+    "text": "Composability remains DeFi's greatest strength and its most persistent vulnerability. \n\nA third-party lending adapter built on Aave fell victim to an exploit earlier this week, resulting in the theft of roughly 114 ETH, valued at over $300,000. \n\nSecurity firm SlowMist reported that the attacker targeted two Safe multisig wallets by exploiting a flaw within the FlashLoopAdapter, which interacts with Aave v3 positions. \n\nCore Aave protocol contracts were not compromised in the incident. \n\nThe attack highlights the risks inherent in peripheral tooling. While base layer protocols undergo extensive audits, secondary adapters and custom integration layers frequently introduce unforeseen attack surfaces.\n\n#DeFi",
+    "hasImage": true,
+    "eventFingerprint": "a51221c7b6f24fcdbc6e2f21",
+    "timestamp": "2026-10-02T20:19:44.836Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 733,
+    "text": "From pursuing Ripple to steering the future of artificial intelligence. \n\nJay Clayton, the SEC chairman who launched the agency's landmark 2020 enforcement action against Ripple Labs, is reportedly set to take on a prominent role in national AI oversight. \n\nDuring his tenure at the Commission, Clayton also oversaw the crackdown on numerous initial coin offerings, shaping an enforcement-heavy era for US digital assets. \n\nNow, the former regulator's focus shifts from blockchain litigation to national technology policy.",
+    "hasImage": true,
+    "eventFingerprint": "b16a1095ca37fdaff8a92db5",
+    "timestamp": "2026-10-02T20:19:46.597Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 734,
+    "text": "Regulatory milestones are rarely this straightforward.\n\nEvernorth is reportedly cleared to launch its spot XRP exchange-traded fund on Nasdaq, with trading tentatively scheduled to begin on October 8. \n\nThe listing follows the resolution of key compliance hurdles that have historically slowed institutional token products in the US market. While final procedural sign-offs remain pending, market participants are watching closely to gauge institutional appetite for the asset via traditional brokerage accounts.",
+    "hasImage": true,
+    "eventFingerprint": "35fc68a5034499b7f4cbda36",
+    "timestamp": "2026-10-02T20:19:48.239Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 735,
+    "text": "African banking is entering the digital asset arena.\n\nAbsa has become the first major lender on the continent to offer institutional bitcoin custody, according to reports from Bloomberg. \n\nThe Johannesburg-based bank is launching the service initially for institutional clients, with plans to expand support to additional digital assets over time. \n\nTraditional finance continues to bridge the gap with crypto infrastructure, moving from advisory roles directly into asset safekeeping.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "615a629b9663b21481baa583",
+    "timestamp": "2026-10-02T20:19:50.068Z"
   }
 ]
