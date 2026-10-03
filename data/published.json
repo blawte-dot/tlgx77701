@@ -5155,5 +5155,45 @@
     "hasImage": true,
     "eventFingerprint": "18a909dceafcf5d206731ca4",
     "timestamp": "2026-10-03T11:33:26.765Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 751,
+    "text": "A public ultimatum just forced a complete $3.8 million recovery in the DeFi space.\n\nNEAR Intents recovered the entire stolen sum today after the exploiter was identified and handed a 48-hour deadline to return the funds. \n\nThe incident highlights a growing shift in how protocols handle attacks: rather than quietly negotiating behind closed doors or relying solely on prolonged law enforcement tracks, teams are increasingly combining on-chain tracking, public exposure, and direct pressure to force outcomes. \n\nNo funds remain outstanding, according to project updates.",
+    "hasImage": true,
+    "eventFingerprint": "4b029c174f79cfae85e58ac7",
+    "timestamp": "2026-10-03T15:40:38.929Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 752,
+    "text": "Six bank failures in 2026 alone are already outpacing the total from 2023 🚨\n\nThe headlines are calling back to Silicon Valley Bank, but the balance sheets tell an entirely different story. \n\nThose six failed institutions held a combined $1.43 billion in assets. \n\nBy comparison, the banking failures of 2023 represented roughly $552.54 billion. \n\nScale matters. While systemic risk is always on the radar, current liquidations are hitting micro-cap regional lenders rather than giants threatening the broader plumbing of the financial system.",
+    "hasImage": true,
+    "eventFingerprint": "fbdbf7c9e3fdd39475ef053b",
+    "timestamp": "2026-10-03T15:40:40.296Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 753,
+    "text": "Regulatory capture is rarely written down this clearly. \n\nThe SEC’s newly modeled compliance costs put a $433,833 annual price tag on basic adviser operations—before factoring in necessary technology spending. For independent operators and boutique crypto firms, that hurdle looks less like investor protection and more like an exit door. \n\nWhen compliance overhead prices out independent competition, does consolidation among mega-firms inevitably weaken the broader digital asset ecosystem? \n\nWhere do you draw the line between necessary market oversight and regulatory exclusion? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "625e834f9503cc841b8784a8",
+    "timestamp": "2026-10-03T15:40:41.680Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 754,
+    "text": "Onchain forensics have gotten entirely too fast for comfort. \n\nNEAR Intents caught the entity behind a recent $3.8 million exploit on BSC and dropped a public ultimatum: give it back in 48 hours or deal with the consequences. \n\nThe core protocol and NEAR token remained untouched during the incident, which was strictly isolated to USDT on Binance Smart Chain. \n\nClock is ticking.",
+    "hasImage": true,
+    "eventFingerprint": "c3122f47de030acfa38e596e",
+    "timestamp": "2026-10-03T15:40:42.795Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 755,
+    "text": "$2 is the key level traders are watching as speculation builds around a potential Nasdaq listing for Evernorth.\n\nCoverage from U.Today highlights how the planned market debut is feeding into broader discussion surrounding XRP price targets. \n\nNo official timeline or validation has been confirmed for the listing's direct mechanics yet, but market attention remains locked on the psychological threshold.",
+    "hasImage": true,
+    "eventFingerprint": "74c375db6cd5d3a18b66b619",
+    "timestamp": "2026-10-03T15:40:44.867Z"
   }
 ]

@@ -28116,5 +28116,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+    "link": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40T1J9CWEBBB07G6QG02X27/hi-5-greatest-hacks-in-the-cryptocurrency-industry.png",
+    "publishedAt": "2026-10-03T11:59:10.000Z",
+    "collectedAt": "2026-10-03T15:40:36.431Z",
+    "corroboratingSources": 2,
+    "fingerprint": "4b029c174f79cfae85e58ac7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-03T15:40:38.934Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+        "fingerprint": "4b029c174f79cfae85e58ac7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 751,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Six US banks have failed in 2026 but the numbers look nothing like 2023",
+    "link": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023/",
+    "summary": "Six US banks have failed in 2026 so far, which is one more than in 2023 and enough to make another banking-crisis headline practically write itself. But before we start reliving Silicon Valley Bank, it's worth looking at what those six banks actually held: about $1.43 billion in combined assets, compared with roughly $552.54 billion [&#8230;]\nThe post Six US banks have failed in 2026 but the numbers look nothing like 2023 appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/us-bank-failure-count.webp",
+    "publishedAt": "2026-10-03T13:20:17.000Z",
+    "collectedAt": "2026-10-03T15:40:36.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fbdbf7c9e3fdd39475ef053b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T15:40:40.302Z",
+    "outcome": {
+      "event": {
+        "title": "Six US banks have failed in 2026 but the numbers look nothing like 2023",
+        "fingerprint": "fbdbf7c9e3fdd39475ef053b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 752,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "New SEC crypto rules threaten small advisers, but big firms win",
+    "link": "https://cryptoslate.com/new-sec-crypto-rules-threaten-small-advisers-but-big-firms-win/",
+    "summary": "The SEC’s modeled $433,833 annual adviser cost subtotal excludes significant technology spending, raising questions about who can offer the fallback.\nThe post New SEC crypto rules threaten small advisers, but big firms win appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/sec-crypto-custody-scale-cost-standard.jpg",
+    "publishedAt": "2026-10-03T01:30:40.000Z",
+    "collectedAt": "2026-10-03T15:40:36.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "625e834f9503cc841b8784a8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T15:40:41.685Z",
+    "outcome": {
+      "event": {
+        "title": "New SEC crypto rules threaten small advisers, but big firms win",
+        "fingerprint": "625e834f9503cc841b8784a8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 753,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "NEAR Intents Identifies $3.8M Hacker, Gives Them 48 Hours to Return Funds",
+    "link": "https://cryptopotato.com/near-intents-identifies-3-8m-hacker-gives-them-48-hours-to-return-funds/",
+    "summary": "The exploit was isolated to USDT on BSC, and the core NEAR blockchain and its NEAR token were not affected at all.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2020/12/hacker_steal_cover.jpg",
+    "publishedAt": "2026-10-02T15:58:18.000Z",
+    "collectedAt": "2026-10-03T15:40:36.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c3122f47de030acfa38e596e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T15:40:42.800Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR Intents Identifies $3.8M Hacker, Gives Them 48 Hours to Return Funds",
+        "fingerprint": "c3122f47de030acfa38e596e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 754,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP to $2? Analyzing How Nasdaq Listing Could Impact Token Price",
+    "link": "https://u.today/xrp-to-2-analyzing-how-nasdaq-listing-could-impact-token-price",
+    "summary": "The upcoming Nasdaq listing of Evernorth and its relationship with the XRP $2 price target.",
+    "image": null,
+    "publishedAt": "2026-10-03T04:00:00.000Z",
+    "collectedAt": "2026-10-03T15:40:36.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "74c375db6cd5d3a18b66b619",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T15:40:44.872Z",
+    "outcome": {
+      "event": {
+        "title": "XRP to $2? Analyzing How Nasdaq Listing Could Impact Token Price",
+        "fingerprint": "74c375db6cd5d3a18b66b619"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 755,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
