@@ -27501,5 +27501,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin ETFs record $102M inflows &#8211; Why $85K matters for BTC now",
+    "link": "https://ambcrypto.com/bitcoin-etfs-record-102m-inflows-why-85k-matters-for-btc-now/",
+    "summary": "Bitcoin climbed 3% to a weekly high of $86,912 amid ETF inflows.",
+    "image": null,
+    "publishedAt": "2026-10-03T00:00:30.000Z",
+    "collectedAt": "2026-10-03T00:08:08.218Z",
+    "corroboratingSources": 1,
+    "fingerprint": "20eef90408ef5090fc8c7d13",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-03T00:08:11.962Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs record $102M inflows &#8211; Why $85K matters for BTC now",
+        "fingerprint": "20eef90408ef5090fc8c7d13"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 736,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+    "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+    "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26bc7ac9cd7444c2c14bec14b2e397a0fb35c8aa-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-02T21:23:20.000Z",
+    "collectedAt": "2026-10-03T00:08:08.217Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c565b535495a91dc74b42cff",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T00:08:13.119Z",
+    "outcome": {
+      "event": {
+        "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+        "fingerprint": "c565b535495a91dc74b42cff"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 737,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
+    "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+    "summary": "The former SEC chairman who may be tapped to oversee the Trump administration's AI work has a potentially divisive history as a watchdog of tech innovation.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dee7ca3ec92ba77eecf6dabbabbc08eb9f261f9b-6345x4230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-02T17:12:48.000Z",
+    "collectedAt": "2026-10-03T00:08:08.217Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b49f55d356e7d32cb8b12c91",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T00:08:14.437Z",
+    "outcome": {
+      "event": {
+        "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
+        "fingerprint": "b49f55d356e7d32cb8b12c91"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 738,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "ECB outlines three models for putting central bank money onchain",
+    "link": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
+    "summary": "The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ecb.png",
+    "publishedAt": "2026-10-02T10:17:39.000Z",
+    "collectedAt": "2026-10-03T00:08:08.217Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e7990ce3713bd1a7bd83d01",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T00:08:15.708Z",
+    "outcome": {
+      "event": {
+        "title": "ECB outlines three models for putting central bank money onchain",
+        "fingerprint": "3e7990ce3713bd1a7bd83d01"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 739,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
+    "link": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
+    "summary": "Robinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/kerbrat_option_C_darkgreen.jpg",
+    "publishedAt": "2026-10-02T05:04:41.000Z",
+    "collectedAt": "2026-10-03T00:08:08.217Z",
+    "corroboratingSources": 1,
+    "fingerprint": "11b05da249724748e6a48a2e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T00:08:16.748Z",
+    "outcome": {
+      "event": {
+        "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
+        "fingerprint": "11b05da249724748e6a48a2e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 740,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
