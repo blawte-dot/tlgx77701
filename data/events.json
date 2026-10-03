@@ -27911,5 +27911,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Community banks sue OCC over trust bank charters of crypto firms",
+    "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png",
+    "publishedAt": "2026-10-03T09:25:01.000Z",
+    "collectedAt": "2026-10-03T11:33:18.526Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5dcedbb342e41d388bb11c9e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-03T11:33:21.051Z",
+    "outcome": {
+      "event": {
+        "title": "Community banks sue OCC over trust bank charters of crypto firms",
+        "fingerprint": "5dcedbb342e41d388bb11c9e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 746,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+    "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
+    "summary": "Cooler inflation and two dovish Fed speakers have shifted the odds toward a rate hold, with payrolls due and CPI landing on October 14.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
+    "publishedAt": "2026-10-02T12:58:25.000Z",
+    "collectedAt": "2026-10-03T11:33:18.526Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7999974cf30f2b0e68ef9575",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T11:33:22.326Z",
+    "outcome": {
+      "event": {
+        "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+        "fingerprint": "7999974cf30f2b0e68ef9575"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 747,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
+    "link": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
+    "summary": "Hacks are never good, but a rapid response, user compensation and 1-hour bug fixing seems to top the spectrum of team reactions.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+    "publishedAt": "2026-10-02T12:19:00.000Z",
+    "collectedAt": "2026-10-03T11:33:18.526Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a7a9238a76c121a983353305",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T11:33:24.168Z",
+    "outcome": {
+      "event": {
+        "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
+        "fingerprint": "a7a9238a76c121a983353305"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 748,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "When the Banks Don&#8217;t Work, Bitcoin Does: Cornell University&#8217;s Adoption Index",
+    "link": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
+    "summary": "Bitcoin Magazine\n\nWhen the Banks Don&#8217;t Work, Bitcoin Does: Cornell University&#8217;s Adoption Index\nCornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. \nThis post When the Banks Don&#8217;t Work, Bitcoin Does: Cornell University&#8217;s Adoption Index first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-1.jpg",
+    "publishedAt": "2026-10-02T19:15:58.000Z",
+    "collectedAt": "2026-10-03T11:33:18.526Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dfe56586acd3f6258512509d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T11:33:25.285Z",
+    "outcome": {
+      "event": {
+        "title": "When the Banks Don&#8217;t Work, Bitcoin Does: Cornell University&#8217;s Adoption Index",
+        "fingerprint": "dfe56586acd3f6258512509d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 749,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "US judge kills Milei&#8217;s LIBRA memecoin lawsuit, leaving investors stranded",
+    "link": "https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/",
+    "summary": "A September 29 ruling closes the LIBRA/M3M3 district-court case after continuity, pleading and jurisdiction failures.\nThe post US judge kills Milei&#8217;s LIBRA memecoin lawsuit, leaving investors stranded appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/libra-rico-timeline-standard-v2.jpg",
+    "publishedAt": "2026-10-03T03:40:54.000Z",
+    "collectedAt": "2026-10-03T11:33:18.527Z",
+    "corroboratingSources": 1,
+    "fingerprint": "18a909dceafcf5d206731ca4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T11:33:26.770Z",
+    "outcome": {
+      "event": {
+        "title": "US judge kills Milei&#8217;s LIBRA memecoin lawsuit, leaving investors stranded",
+        "fingerprint": "18a909dceafcf5d206731ca4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 750,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
