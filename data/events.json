@@ -27706,5 +27706,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+    "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg",
+    "publishedAt": "2026-10-02T18:41:17.000Z",
+    "collectedAt": "2026-10-03T06:00:07.228Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fbabb4e7b216913ab2696d83",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T06:00:09.563Z",
+    "outcome": {
+      "event": {
+        "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+        "fingerprint": "fbabb4e7b216913ab2696d83"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 741,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
+    "publishedAt": "2026-10-02T11:40:21.000Z",
+    "collectedAt": "2026-10-03T06:00:07.228Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d1eeadffabc496143aa40b67",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T06:00:10.786Z",
+    "outcome": {
+      "event": {
+        "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+        "fingerprint": "d1eeadffabc496143aa40b67"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 742,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+    "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Aave founder Stani Kulechov said Aave v3 was unaffected after an attacker exploited a third-party adapter to drain about $305,000 from two Safe multisig wallets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png",
+    "publishedAt": "2026-10-02T09:30:49.000Z",
+    "collectedAt": "2026-10-03T06:00:07.228Z",
+    "corroboratingSources": 1,
+    "fingerprint": "53bd14c1a14549da9252314a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T06:00:11.897Z",
+    "outcome": {
+      "event": {
+        "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+        "fingerprint": "53bd14c1a14549da9252314a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 743,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin ETFs returned to inflows with $103 million, while Ether funds recorded a third straight day of net outflows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XRGDB871CK08HQ8XV7P478/hi-is-the-bitcoin-halving-likely-to-change-perception-around-crypto.jpg",
+    "publishedAt": "2026-10-02T08:20:08.000Z",
+    "collectedAt": "2026-10-03T06:00:07.228Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e628c6bb64b2a12afed39f36",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T06:00:13.268Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
+        "fingerprint": "e628c6bb64b2a12afed39f36"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 744,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+    "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+    "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png",
+    "publishedAt": "2026-10-02T21:16:04.000Z",
+    "collectedAt": "2026-10-03T06:00:07.228Z",
+    "corroboratingSources": 1,
+    "fingerprint": "33ed05682caa27ecee413977",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T06:00:14.370Z",
+    "outcome": {
+      "event": {
+        "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+        "fingerprint": "33ed05682caa27ecee413977"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 745,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

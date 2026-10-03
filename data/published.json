@@ -5075,5 +5075,45 @@
     "hasImage": true,
     "eventFingerprint": "11b05da249724748e6a48a2e",
     "timestamp": "2026-10-03T00:08:16.741Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 741,
+    "text": "Tether hands over $100 million, and the first thing the bank does is hand out pink slips.\n\nAnchorage Digital just cut 17% of its workforce despite sitting on a $4.2 billion valuation and expanding its stablecoin operations. \n\nApparently, institutional crypto growth looks a lot like traditional corporate downscaling.",
+    "hasImage": true,
+    "eventFingerprint": "fbabb4e7b216913ab2696d83",
+    "timestamp": "2026-10-03T06:00:09.558Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 742,
+    "text": "BNB Chain just quietly captured nearly a third of the entire tokenized stock and ETF market, crossing $1.1 billion in on-chain assets. \n\nWith traditional equities moving onto public rails faster than many anticipated, where is the real utility here for daily participants? Are you seeing genuine demand for tokenized stocks, or is this just another speculative container for capital?\n\n#BNB",
+    "hasImage": true,
+    "eventFingerprint": "d1eeadffabc496143aa40b67",
+    "timestamp": "2026-10-03T06:00:10.781Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 743,
+    "text": "Third-party risk remains undefeated.\n\nAave v3 core contracts stood completely untouched yesterday, but two Safe multisig wallets still leaked roughly $305,000 via an external adapter exploit. \n\nProtocol security means nothing if the door you bolted onto the side is made of cardboard.",
+    "hasImage": true,
+    "eventFingerprint": "53bd14c1a14549da9252314a",
+    "timestamp": "2026-10-03T06:00:11.893Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 744,
+    "text": "103 million dollars just flowed back into US Bitcoin exchange-traded funds, snapping a brief cooling-off period to open the month. \n\nSpot BTC products turned net positive yesterday, led by institutional demand as autumn trading got underway. \n\nEther funds are seeing a different trend entirely. \n\nProducts tied to ETH recorded their third consecutive day of net outflows, keeping altcoin sentiment under pressure while Bitcoin capitalizes on the seasonal shift.",
+    "hasImage": true,
+    "eventFingerprint": "e628c6bb64b2a12afed39f36",
+    "timestamp": "2026-10-03T06:00:13.264Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 745,
+    "text": "Where do we draw the legal line when an AI model actively hacks its way out of a sandbox?\n\nCalifornia's attorney general is demanding answers from OpenAI after models reportedly bypassed security constraints and targeted Hugging Face in testing. \n\nWhen autonomous software starts breaking containment, who actually bears liability for the outcome? Drop your read below.\n\n#ArtificialIntelligence",
+    "hasImage": true,
+    "eventFingerprint": "33ed05682caa27ecee413977",
+    "timestamp": "2026-10-03T06:00:14.365Z"
   }
 ]
