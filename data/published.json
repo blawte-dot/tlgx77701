@@ -5195,5 +5195,45 @@
     "hasImage": true,
     "eventFingerprint": "74c375db6cd5d3a18b66b619",
     "timestamp": "2026-10-03T15:40:44.867Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 756,
+    "text": "Traditional finance infrastructure is making another hard push toward public markets.\n\nLondon-headquartered embedded payments firm OpenPayd is targeting a Nasdaq listing by the end of this year. \n\nCEO Iana Dimitrova outlined plans to fund a U.S. market entry by April 2027, alongside targeted acquisitions for new licenses and tech capabilities. \n\nThe move highlights ongoing consolidation and expansion strategies among major fiat-crypto bridge providers as cross-border compliance standards tighten globally.",
+    "hasImage": true,
+    "eventFingerprint": "6fe1469fd8a5854a03045603",
+    "timestamp": "2026-10-03T18:58:58.025Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 757,
+    "text": "Traditional banking heavyweights are taking federal regulators to court over digital asset custody.\n\nA prominent banking association has filed a lawsuit against the Office of the Comptroller of the Currency, challenging federal authority to grant trust charters to cryptocurrency-focused firms. \n\nThe legal challenge argues that the agency overstepped its statutory bounds when approving specialized crypto operations. \n\nThe dispute marks another front in the ongoing regulatory battle over how digital assets integrate into the traditional financial system.",
+    "hasImage": true,
+    "eventFingerprint": "b4ccaaf5d699705a5f9ffc83",
+    "timestamp": "2026-10-03T18:58:59.633Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 758,
+    "text": "Wall Street is quietly sitting on a massive $1.2 trillion bet backed almost entirely by borrowed cash. \n\nHedge funds have piled into the basis trade, buying US Treasuries while simultaneously shorting futures to capture tiny yield spreads. \n\nThe mechanics depend on a steady stream of overnight repo financing to amplify those razor-thin returns. \n\nWhen funding markets tighten, positions unwind fast. \n\n#Treasuries",
+    "hasImage": true,
+    "eventFingerprint": "0d5be152b67fa930a88dab73",
+    "timestamp": "2026-10-03T18:59:00.695Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 759,
+    "text": "Ever notice how white-hat \"negotiations\" always end faster when the smart contract points directly at the exploiter's browser history?\n\nNEAR just closed the book on its $3.8 million headache after the attacker quietly slipped the funds back through the slot. \n\nProtocol security wins again, but the market didn't care. NEAR's price kept sliding straight down regardless of the happy ending, proving once more that traders care infinitely more about momentum than moral victories.",
+    "hasImage": true,
+    "eventFingerprint": "a2b336f8e36d1a84b7c86bed",
+    "timestamp": "2026-10-03T18:59:02.162Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 760,
+    "text": "Public ultimatums rarely end quietly in crypto security incidents.\n\nNEAR Intents GM Alex Shevchenko went public on Friday naming the $3.8 million exploit actor, backing the accusation with a 48-hour clock to return the funds before escalation. \n\nOn-chain recovery ultimatums have a mixed track record—some hackers fold under pressure, while others simply vanish into privacy tools. \n\nWhere do you stand on protocols going public with hacker identities versus handling negotiations behind closed doors?",
+    "hasImage": true,
+    "eventFingerprint": "8d66feec8968093361f4a8e8",
+    "timestamp": "2026-10-03T18:59:03.348Z"
   }
 ]

@@ -28321,5 +28321,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+    "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+    "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26685777b02289720baed417998ab31c5110fd17-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-03T16:00:00.000Z",
+    "collectedAt": "2026-10-03T18:58:55.716Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6fe1469fd8a5854a03045603",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-03T18:58:58.030Z",
+    "outcome": {
+      "event": {
+        "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+        "fingerprint": "6fe1469fd8a5854a03045603"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 756,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "‘Exceeded its authority!’ &#8211; Banking group sues OCC over crypto trust charter approvals",
+    "link": "https://ambcrypto.com/exceeded-its-authority-banking-group-sues-occ-over-crypto-trust-charter-approvals/",
+    "summary": "The fight between banks and the cryptocurrency industry is unlikely to end anytime soon.",
+    "image": null,
+    "publishedAt": "2026-10-03T09:15:14.000Z",
+    "collectedAt": "2026-10-03T18:58:55.717Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b4ccaaf5d699705a5f9ffc83",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-03T18:58:59.641Z",
+    "outcome": {
+      "event": {
+        "title": "‘Exceeded its authority!’ &#8211; Banking group sues OCC over crypto trust charter approvals",
+        "fingerprint": "b4ccaaf5d699705a5f9ffc83"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 757,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Hedge funds built a $1.2 trillion Treasury trade on money they have to keep borrowing",
+    "link": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing/",
+    "summary": "Companies can own a mountain of US government debt without betting that bond prices will rise. Hedge funds buy Treasury securities and sell futures against them to collect a small pricing gap, borrowing most of the purchase money to make the return worthwhile. The government gets another buyer, whose interest lasts as long as the [&#8230;]\nThe post Hedge funds built a $1.2 trillion Treasury trade on money they have to keep borrowing appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/hedge-fund-treasury-basis-trade-standard.jpg",
+    "publishedAt": "2026-10-03T18:40:22.000Z",
+    "collectedAt": "2026-10-03T18:58:55.717Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0d5be152b67fa930a88dab73",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-03T18:59:00.746Z",
+    "outcome": {
+      "event": {
+        "title": "Hedge funds built a $1.2 trillion Treasury trade on money they have to keep borrowing",
+        "fingerprint": "0d5be152b67fa930a88dab73"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 758,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "NEAR Intents ends probe after exploiter returns stolen $3.8M",
+    "link": "https://ambcrypto.com/near-intents-ends-probe-after-exploiter-returns-stolen-3-8m/",
+    "summary": "NEAR extended its price decline despite the fund recovery.",
+    "image": null,
+    "publishedAt": "2026-10-03T12:30:44.000Z",
+    "collectedAt": "2026-10-03T18:58:55.717Z",
+    "corroboratingSources": 2,
+    "fingerprint": "a2b336f8e36d1a84b7c86bed",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4.5,
+    "processedAt": "2026-10-03T18:59:02.167Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR Intents ends probe after exploiter returns stolen $3.8M",
+        "fingerprint": "a2b336f8e36d1a84b7c86bed"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 759,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+    "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
+    "publishedAt": "2026-10-02T02:02:13.000Z",
+    "collectedAt": "2026-10-03T18:58:55.717Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8d66feec8968093361f4a8e8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-03T18:59:03.353Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+        "fingerprint": "8d66feec8968093361f4a8e8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 760,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
