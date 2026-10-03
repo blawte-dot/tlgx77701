@@ -5235,5 +5235,45 @@
     "hasImage": true,
     "eventFingerprint": "8d66feec8968093361f4a8e8",
     "timestamp": "2026-10-03T18:59:03.348Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 761,
+    "text": "Traditional banking is drawing a hard legal line against digital asset infrastructure. 🏦\n\nThe Independent Community Bankers of America filed a federal lawsuit in Washington yesterday, targeting the Office of the Comptroller of the Currency. \n\nAt the center of the dispute is the OCC's national trust bank charter framework—the same regulatory bridge recently utilized by firms like Agora, Catena, and Bastion. \n\nPlaintiffs are asking the court to formally vacate both the underlying trust bank rule and Interpretive Letter 1176, arguing the agency overstepped its statutory authority. \n\nIf successful, the litigation could upend how digital asset custodians secure federal standing, forcing crypto firms to navigate a patchwork of state-level oversight instead.",
+    "hasImage": true,
+    "eventFingerprint": "37069737e729cec8980d6ca2",
+    "timestamp": "2026-10-03T22:04:57.965Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 762,
+    "text": "Can a federal banking charter be granted to digital asset firms without congressional sign-off?\n\nThat is the core question behind a new lawsuit filed by a major US banking trade group against the Office of the Comptroller of the Currency. \n\nAt issue is the recent wave of conditional approvals given to crypto-focused trust companies. \n\nTraditional lenders argue the OCC is overstepping its statutory authority by integrating digital asset firms into the federal safety net through the back door. \n\nThe outcome could stall institutional crypto integration or force a legislative showdown over who gets to define a bank.",
+    "hasImage": true,
+    "eventFingerprint": "e3afe3ec13a0a4035d2a728f",
+    "timestamp": "2026-10-03T22:04:59.178Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 763,
+    "text": "Law enforcement just closed in on the digital doorstep of an alleged cybercrime ring.\n\nSpanish National Police have arrested a 16-year-old minor accused of operating KillSec, a ransomware syndicate that targeted high-profile entities. \n\nInvestigators report the group relied on cryptocurrency demands to monetize their intrusions. Authorities are currently tracking those digital asset flows. \n\nA second suspect is now facing extradition proceedings to Puerto Rico as the cross-border probe continues.",
+    "hasImage": true,
+    "eventFingerprint": "7a743dc00cbefec883c86771",
+    "timestamp": "2026-10-03T22:05:00.330Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 764,
+    "text": "Hollywood accounting is finally getting an immutable ledger. \n\nPolymath and CineCity Studios are exploring a tokenized framework for independent film financing, trading opaque studio math for regulated digital securities and on-chain compliance. \n\nReal-world asset tokenization keeps wandering off the T-bill reservation. Next up: fractionalizing the next box-office bomb.",
+    "hasImage": true,
+    "eventFingerprint": "9b35e0e3ce1c66f2e35f332f",
+    "timestamp": "2026-10-03T22:05:01.488Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 765,
+    "text": "October historically brings volatility, and this month is no exception for major digital assets.\n\nBitcoin, Ethereum, and XRP head into the fourth quarter following strong Q3 performances, but structural risks are building beneath the surface. \n\nWatch closely for shifts in global liquidity and upcoming protocol milestones, including Ethereum's scheduled Glamsterdam testnet. ETF flow dynamics will also dictate near-term direction across spot markets. \n\nPosition accordingly as macro conditions evolve.",
+    "hasImage": true,
+    "eventFingerprint": "0b2f09c502844108120bd5f5",
+    "timestamp": "2026-10-03T22:05:03.737Z"
   }
 ]

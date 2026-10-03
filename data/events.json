@@ -28526,5 +28526,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
+    "link": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
+    "summary": "The Independent Community Bankers of America sued the OCC in federal court in Washington on Oct. 2, two weeks after the agency approved Agora National Trust Bank, Catena Trust Bank and Bastion Platforms. American Banker reported that the complaint asked the court to vacate the OCC's national trust bank rule and Interpretive Letter 1176. It [&#8230;]\nThe post Bankers sue to overturn OCC trust-bank rule used by crypto firms appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-trust-bank-gateway.webp",
+    "publishedAt": "2026-10-03T20:00:08.000Z",
+    "collectedAt": "2026-10-03T22:04:55.299Z",
+    "corroboratingSources": 1,
+    "fingerprint": "37069737e729cec8980d6ca2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-03T22:04:57.970Z",
+    "outcome": {
+      "event": {
+        "title": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
+        "fingerprint": "37069737e729cec8980d6ca2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 761,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "US Banking Group Sues OCC After Wave of Crypto Trust Bank Approvals",
+    "link": "https://cryptopotato.com/us-banking-group-sues-occ-after-wave-of-crypto-trust-bank-approvals/",
+    "summary": "The push to bring crypto companies deeper into the US federal banking system is facing new backlash.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2023/06/Lawsuit.jpg",
+    "publishedAt": "2026-10-03T19:35:13.000Z",
+    "collectedAt": "2026-10-03T22:04:55.299Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e3afe3ec13a0a4035d2a728f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-03T22:04:59.183Z",
+    "outcome": {
+      "event": {
+        "title": "US Banking Group Sues OCC After Wave of Crypto Trust Bank Approvals",
+        "fingerprint": "e3afe3ec13a0a4035d2a728f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 762,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
+    "link": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
+    "summary": "A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+    "publishedAt": "2026-10-02T09:12:54.000Z",
+    "collectedAt": "2026-10-03T22:04:55.299Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7a743dc00cbefec883c86771",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-03T22:05:00.335Z",
+    "outcome": {
+      "event": {
+        "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
+        "fingerprint": "7a743dc00cbefec883c86771"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 763,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Polymath And CineCity Explore Regulated Tokenized Film Investment Platform",
+    "link": "https://www.newsbtc.com/business/polymath-cinecity-tokenized-film-investment/",
+    "summary": "TL;DR Polymath and Chicago-based CineCity Studios are exploring a platform for financing independent film through regulated digital securities. Polymath would provide issuance, investor onboarding, compliance and lifecycle infrastructure, while CineCity contributes production-industry access. The platform is being explored; it is not yet a launched investment marketplace. Real-world asset tokenization is moving into a category that rarely appears beside Treasury bills and private credit: film pr",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/28775d04fcef46408d28542fb74a3c97.png?fit=750%2C422",
+    "publishedAt": "2026-10-02T08:41:46.000Z",
+    "collectedAt": "2026-10-03T22:04:55.299Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9b35e0e3ce1c66f2e35f332f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-03T22:05:01.493Z",
+    "outcome": {
+      "event": {
+        "title": "Polymath And CineCity Explore Regulated Tokenized Film Investment Platform",
+        "fingerprint": "9b35e0e3ce1c66f2e35f332f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 764,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "What to Expect in Crypto in October: Bitcoin, Ethereum and XRP",
+    "link": "https://u.today/opinions/what-to-expect-in-crypto-in-october-bitcoin-ethereum-and-xrp",
+    "summary": "Bitcoin, Ethereum and XRP enter October after a strong third quarter, with ETF flows, Ethereum's upcoming Glamsterdam testnet and shifting market liquidity among the key factors for crypto markets.",
+    "image": null,
+    "publishedAt": "2026-10-03T12:01:00.000Z",
+    "collectedAt": "2026-10-03T22:04:55.299Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0b2f09c502844108120bd5f5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-03T22:05:03.743Z",
+    "outcome": {
+      "event": {
+        "title": "What to Expect in Crypto in October: Bitcoin, Ethereum and XRP",
+        "fingerprint": "0b2f09c502844108120bd5f5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 765,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
