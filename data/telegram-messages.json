@@ -4720,5 +4720,40 @@
     "hasImage": true,
     "eventFingerprint": "ab1ea58e2a0465fc64c1b5ff",
     "timestamp": "2026-10-04T15:07:20.320Z"
+  },
+  {
+    "messageId": 781,
+    "text": "An architect of crypto's most contentious regulatory battles is stepping into the federal AI spotlight.\n\nDonald Trump has appointed former SEC Chair Jay Clayton to lead a newly formed federal push coordinating artificial intelligence policy. Clayton's tenure at the Commission is well remembered across digital asset markets, most notably for authorizing the agency's high-profile lawsuit against Ripple in December 2020. \n\nNow, the official who helped set the tone for years of regulation-by-enforcement in crypto is taking the helm of what the administration is terming a \"Super Intelligence Force.\" \n\nDetails on how the initiative will interact with existing agency frameworks remain light, but the leadership choice signals a distinct policy posture at the intersection of emerging technology and federal oversight.",
+    "hasImage": true,
+    "eventFingerprint": "9202347b5092f97c40632551",
+    "timestamp": "2026-10-04T19:00:38.363Z"
+  },
+  {
+    "messageId": 782,
+    "text": "Victims of the October Drift protocol exploit are staring down a heavy dilution event.\n\nThe platform opened its recovery quote today at roughly one cent per dollar of losses sustained. \n\nUsers redeeming tokens under the current framework must forfeit any future participation in the recovery pool for those burned assets. \n\nThe initial pricing reflects the severe structural deficit left in the wake of the breach, leaving affected holders to weigh immediate, fractional relief against long-term abandonment of claims.",
+    "hasImage": true,
+    "eventFingerprint": "9b0936d4b4665d74466b46bc",
+    "timestamp": "2026-10-04T19:00:39.473Z"
+  },
+  {
+    "messageId": 783,
+    "text": "Is a national trust charter becoming the crypto industry's backdoor into traditional banking? \n\nThe Independent Community Bankers of America has filed a lawsuit targeting the OCC. \n\nTheir core argument centers on risk: digital asset firms are gaining bank-like access without being held to the same regulatory safeguards as traditional institutions. \n\nDecisions made in this case could permanently alter how crypto interacts with the legacy financial system. \n\n#CryptoRegulation",
+    "hasImage": true,
+    "eventFingerprint": "af937eb0fca08cad63781464",
+    "timestamp": "2026-10-04T19:00:40.588Z"
+  },
+  {
+    "messageId": 784,
+    "text": "3 changes to Treasury borrowing rules are quietly heading for the stablecoin market. \n\nWashington is overhauling how financial firms leverage US government debt for cash. \n\nBecause major dollar-backed tokens rely on these exact same Treasury securities as reserves, the ripple effects could alter how issuers manage collateral. \n\nThe SEC and federal regulators are tightening the framework. \n\nMarkets are watching how quickly these compliance shifts hit reserve management.",
+    "hasImage": true,
+    "eventFingerprint": "702949021b14484a5e0732ec",
+    "timestamp": "2026-10-04T19:00:41.876Z"
+  },
+  {
+    "messageId": 785,
+    "text": "Stop ignoring the plumbing. \n\nWhile crypto Twitter argues over animal jpegs, Stellar quietly just captured 37% of the global real-world asset tokenization market in a single day. \n\nThat translates to $36.4 million in daily inflows, leaving plenty of retail-heavy chains in the rearview. \n\nBoring utility is starting to look awfully loud.",
+    "hasImage": true,
+    "eventFingerprint": "3b134b2f53283e1f8989c03c",
+    "timestamp": "2026-10-04T19:00:43.735Z"
   }
 ]

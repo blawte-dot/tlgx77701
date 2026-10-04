@@ -29346,5 +29346,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+    "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+    "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-jay-clayton-sec-gID_4.jpg",
+    "publishedAt": "2026-10-04T17:01:03.000Z",
+    "collectedAt": "2026-10-04T19:00:35.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9202347b5092f97c40632551",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-04T19:00:38.373Z",
+    "outcome": {
+      "event": {
+        "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+        "fingerprint": "9202347b5092f97c40632551"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 781,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Drift hack recovery opened near one cent per dollar lost",
+    "link": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost/",
+    "summary": "Drift's October 1 launch quote valued DFX near one cent per USDT lost, while redemption ends future pool participation for the tokens burned.\nThe post Drift hack recovery opened near one cent per dollar lost appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/dfx-burn-usdt-redemption.webp",
+    "publishedAt": "2026-10-04T17:20:02.000Z",
+    "collectedAt": "2026-10-04T19:00:35.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9b0936d4b4665d74466b46bc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-04T19:00:39.483Z",
+    "outcome": {
+      "event": {
+        "title": "Drift hack recovery opened near one cent per dollar lost",
+        "fingerprint": "9b0936d4b4665d74466b46bc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 782,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+    "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+    "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg",
+    "publishedAt": "2026-10-04T16:01:03.000Z",
+    "collectedAt": "2026-10-04T19:00:35.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "af937eb0fca08cad63781464",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-04T19:00:40.598Z",
+    "outcome": {
+      "event": {
+        "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+        "fingerprint": "af937eb0fca08cad63781464"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 783,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
+    "link": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
+    "summary": "US government debt is one of the easiest assets in the world to borrow against, which lets financial companies get cash without giving up their investments for good. Washington is rewriting the rules for that borrowing, and the result will reach crypto through the companies that keep Treasury securities behind their dollar tokens. The SEC [&#8230;]\nThe post New Treasury rules could change how stablecoin issuers get your dollars back appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-clearing-stablecoins-1.webp",
+    "publishedAt": "2026-10-04T18:40:36.000Z",
+    "collectedAt": "2026-10-04T19:00:35.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "702949021b14484a5e0732ec",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-04T19:00:41.886Z",
+    "outcome": {
+      "event": {
+        "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
+        "fingerprint": "702949021b14484a5e0732ec"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 784,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Stellar (XLM) Secures 37% of Global 24-Hour Real-World Asset Tokenization",
+    "link": "https://u.today/stellar-xlm-secures-37-of-global-24-hour-real-world-asset-tokenization",
+    "summary": "Stellar blockchain outpaces retail chains with $36.4 million in daily inflows, securing 37% of global RWA growth.",
+    "image": null,
+    "publishedAt": "2026-10-04T10:11:05.000Z",
+    "collectedAt": "2026-10-04T19:00:35.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3b134b2f53283e1f8989c03c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-04T19:00:43.745Z",
+    "outcome": {
+      "event": {
+        "title": "Stellar (XLM) Secures 37% of Global 24-Hour Real-World Asset Tokenization",
+        "fingerprint": "3b134b2f53283e1f8989c03c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 785,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
