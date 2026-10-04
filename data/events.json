@@ -28936,5 +28936,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Stablecoins may not drain banks of dollars but they can still make lending more expensive",
+    "link": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive/",
+    "summary": "Here's a hypothetical scenario: you want to use $100 out of your bank account to buy newly issued stablecoins. The company issuing the stablecoins takes your dollars, puts them in its own bank account, and gives you a balance you can send around on a blockchain. You got the product you wanted, and somewhere in [&#8230;]\nThe post Stablecoins may not drain banks of dollars but they can still make lending more expensive appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
+    "publishedAt": "2026-10-04T07:30:08.000Z",
+    "collectedAt": "2026-10-04T09:18:10.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab9416373b2e6625e4da0e9d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-04T09:18:12.828Z",
+    "outcome": {
+      "event": {
+        "title": "Stablecoins may not drain banks of dollars but they can still make lending more expensive",
+        "fingerprint": "ab9416373b2e6625e4da0e9d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 771,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Crypto Whales Scoop Up $3.6 Million in PUMP",
+    "link": "https://u.today/crypto-whales-scoop-up-36-million-in-pump",
+    "summary": "Crypto whales have snapped up roughly $3.6 million worth of PUMP as the token extends its explosive rally.",
+    "image": null,
+    "publishedAt": "2026-10-04T08:15:44.000Z",
+    "collectedAt": "2026-10-04T09:18:10.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5e3949c618cf23ec01f9eb42",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-04T09:18:14.410Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Whales Scoop Up $3.6 Million in PUMP",
+        "fingerprint": "5e3949c618cf23ec01f9eb42"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 772,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+    "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png",
+    "publishedAt": "2026-10-04T07:16:53.000Z",
+    "collectedAt": "2026-10-04T09:18:10.403Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4f9b2e553324b33a4413c8b1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-04T09:18:15.571Z",
+    "outcome": {
+      "event": {
+        "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+        "fingerprint": "4f9b2e553324b33a4413c8b1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 773,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Citi Turns More Bullish on Bitcoin and Strategy: Here Are the New Targets",
+    "link": "https://cryptopotato.com/citi-turns-more-bullish-on-bitcoin-and-strategy-here-are-the-new-targets/",
+    "summary": "The banking behemoth has increased both targets after the latest price developments.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/11/Citi.jpg",
+    "publishedAt": "2026-10-03T14:22:46.000Z",
+    "collectedAt": "2026-10-04T09:18:10.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "18580786a5f58d73d609895f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-04T09:18:16.765Z",
+    "outcome": {
+      "event": {
+        "title": "Citi Turns More Bullish on Bitcoin and Strategy: Here Are the New Targets",
+        "fingerprint": "18580786a5f58d73d609895f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 774,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Over $1.5 Billion in Bitcoin Tops BlackRock Holdings in One Month",
+    "link": "https://u.today/over-15-billion-in-bitcoin-tops-blackrock-holdings-in-one-month",
+    "summary": "BlackRock spent over $1.5 billion on recent Bitcoin purchases, expanding its holdings while retaining its dominance in the Bitcoin ETF market.",
+    "image": null,
+    "publishedAt": "2026-10-03T14:38:00.000Z",
+    "collectedAt": "2026-10-04T09:18:10.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8d53e66a689bd3e7706795ea",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-04T09:18:17.830Z",
+    "outcome": {
+      "event": {
+        "title": "Over $1.5 Billion in Bitcoin Tops BlackRock Holdings in One Month",
+        "fingerprint": "8d53e66a689bd3e7706795ea"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 775,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
