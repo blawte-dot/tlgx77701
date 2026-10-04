@@ -29141,5 +29141,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+    "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+    "summary": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png",
+    "publishedAt": "2026-10-04T15:01:03.000Z",
+    "collectedAt": "2026-10-04T15:07:12.208Z",
+    "corroboratingSources": 1,
+    "fingerprint": "541a9f4c36edd294a4affbca",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-04T15:07:14.369Z",
+    "outcome": {
+      "event": {
+        "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+        "fingerprint": "541a9f4c36edd294a4affbca"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 776,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
+    "link": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
+    "summary": "The products target triple daily futures-benchmark returns before fees, while registration effectiveness and a first trading date remain unconfirmed.\nThe post 3x Bitcoin and Ether futures funds clear SEC listing hurdle appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/3x-crypto-start-line.webp",
+    "publishedAt": "2026-10-04T14:20:32.000Z",
+    "collectedAt": "2026-10-04T15:07:12.208Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8ff801c39fe7c976f677edbb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-04T15:07:15.627Z",
+    "outcome": {
+      "event": {
+        "title": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
+        "fingerprint": "8ff801c39fe7c976f677edbb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 777,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "The same Fed rate hike can help stablecoins and hurt Bitcoin borrowers",
+    "link": "https://cryptoslate.com/the-same-fed-rate-hike-can-help-stablecoins-and-hurt-bitcoin-borrowers/",
+    "summary": "When you hold a dollar stablecoin, somebody else may be earning interest on the assets backing your balance, while a company borrowing to buy Bitcoin has to find the money to pay its lenders. Both businesses are crypto-native, but a higher interest rate can reward the first and eat into the economics of the second. [&#8230;]\nThe post The same Fed rate hike can help stablecoins and hurt Bitcoin borrowers appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-slot-machine-1.webp",
+    "publishedAt": "2026-10-04T13:20:06.000Z",
+    "collectedAt": "2026-10-04T15:07:12.208Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c58b116410f403cdc389dc54",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-04T15:07:16.978Z",
+    "outcome": {
+      "event": {
+        "title": "The same Fed rate hike can help stablecoins and hurt Bitcoin borrowers",
+        "fingerprint": "c58b116410f403cdc389dc54"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 778,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Why Huge XRP Banners Just Took Over a College Football Stadium",
+    "link": "https://u.today/why-huge-xrp-banners-just-took-over-a-college-football-stadium",
+    "summary": "Inside the aggressive multi-million dollar marketing pivot that put giant XRP banners on prime-time stadium screens.",
+    "image": null,
+    "publishedAt": "2026-10-04T11:46:15.000Z",
+    "collectedAt": "2026-10-04T15:07:12.208Z",
+    "corroboratingSources": 1,
+    "fingerprint": "295016d7a8bbc37a375eb893",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-04T15:07:19.185Z",
+    "outcome": {
+      "event": {
+        "title": "Why Huge XRP Banners Just Took Over a College Football Stadium",
+        "fingerprint": "295016d7a8bbc37a375eb893"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 779,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "India's Central Bank Remains Wary of Crypto While Backing Tokenization",
+    "link": "https://u.today/indias-central-bank-remains-wary-of-crypto-while-backing-tokenization",
+    "summary": "India’s central bank has reiterated its skepticism toward cryptocurrencies.",
+    "image": null,
+    "publishedAt": "2026-10-04T10:34:03.000Z",
+    "collectedAt": "2026-10-04T15:07:12.208Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab1ea58e2a0465fc64c1b5ff",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-04T15:07:20.327Z",
+    "outcome": {
+      "event": {
+        "title": "India's Central Bank Remains Wary of Crypto While Backing Tokenization",
+        "fingerprint": "ab1ea58e2a0465fc64c1b5ff"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 780,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

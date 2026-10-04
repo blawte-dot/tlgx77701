@@ -5355,5 +5355,45 @@
     "hasImage": true,
     "eventFingerprint": "8d53e66a689bd3e7706795ea",
     "timestamp": "2026-10-04T09:18:17.824Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 776,
+    "text": "Macro data just handed the market its October pivot.\n\nSpot Bitcoin ETFs pulled in $134.4 million over the first two sessions of the month, wiping out the prior day's outflows. \n\nThe catalyst wasn't crypto-native. A softer-than-expected jobs report cooled expectations for aggressive Federal Reserve rate hikes, sending immediate relief across risk assets. \n\nLiquidity narratives are shifting as Q4 gets underway, though the broader macro picture remains heavily data-dependent.",
+    "hasImage": true,
+    "eventFingerprint": "541a9f4c36edd294a4affbca",
+    "timestamp": "2026-10-04T15:07:14.366Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 777,
+    "text": "Leveraged crypto ETPs are knocking on the SEC's door once again.\n\nUnconfirmed reports suggest that applications for triple-leveraged Bitcoin and Ether futures funds have cleared initial regulatory hurdles for listing. \n\nThe proposed products aim to deliver three times the daily performance of their underlying futures benchmarks before fees and expenses. \n\nRegistration effectiveness and an official trading date remain unconfirmed at this stage. \n\nExtreme leverage products reset daily, exposing holders to severe compounding volatility risks during extended market drawdowns.",
+    "hasImage": true,
+    "eventFingerprint": "8ff801c39fe7c976f677edbb",
+    "timestamp": "2026-10-04T15:07:15.624Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 778,
+    "text": "Why does a single Federal Reserve rate hike pull in two entirely opposite directions for crypto? 📊\n\nWhen interest rates climb, the mechanics behind dollar stablecoins often shift into a higher gear. The yield generated on short-term Treasuries backing those tokens increases, rewarding issuers and holders alike. \n\nAt the exact same time, leverage-driven borrowers looking to accumulate Bitcoin face a very different reality. Their cost of capital rises, squeezing margins and punishing balance sheets that rely on cheap liquidity. \n\nTwo sectors operating within the same ecosystem, yet reacting to identical macro pressures with entirely divergent outcomes.",
+    "hasImage": true,
+    "eventFingerprint": "c58b116410f403cdc389dc54",
+    "timestamp": "2026-10-04T15:07:16.975Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 779,
+    "text": "Crypto marketing budgets are finding their way into the unlikeliest of prime-time arenas. \n\nGiant XRP banners dominated screens across a major college football stadium over the weekend, marking a notable escalation in retail-facing visibility. \n\nReports indicate the display is part of an aggressive, multi-million dollar push to capture mainstream attention well beyond traditional digital channels. \n\nWhile token adoption usually hinges on utility and regulatory clarity, large-scale physical branding continues to be a favored playbook for keeping legacy assets front and center.",
+    "hasImage": true,
+    "eventFingerprint": "295016d7a8bbc37a375eb893",
+    "timestamp": "2026-10-04T15:07:19.182Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 780,
+    "text": "2 sides of the ledger: the Reserve Bank of India continues pushing tokenization infrastructure forward while maintaining strict hostility toward decentralized cryptocurrencies.\n\nCan traditional finance successfully adopt blockchain tokenization while permanently shutting out permissionless digital assets like Bitcoin, or does one eventually force the acceptance of the other?\n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "ab1ea58e2a0465fc64c1b5ff",
+    "timestamp": "2026-10-04T15:07:20.323Z"
   }
 ]
