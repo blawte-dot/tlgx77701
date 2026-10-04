@@ -28731,5 +28731,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Crypto Hacks Hit $766M in September With Bitget and Liquid Leading Losses",
+    "link": "https://cryptopotato.com/crypto-hacks-hit-766m-in-september-with-bitget-and-liquid-leading-losses/",
+    "summary": "Strip out Bitget and Liquid, and the other 53 September hacks total about $59 million, less than half of the $136.3 million lost in August.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2020/12/hack_cover.jpg",
+    "publishedAt": "2026-10-03T22:10:18.000Z",
+    "collectedAt": "2026-10-04T02:22:31.688Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b79a5cebfdadcffd7a31fe53",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-04T02:22:33.468Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Hacks Hit $766M in September With Bitget and Liquid Leading Losses",
+        "fingerprint": "b79a5cebfdadcffd7a31fe53"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 766,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Outperforms Ethereum at October ETF Start",
+    "link": "https://u.today/xrp-outperforms-ethereum-at-october-etf-start",
+    "summary": "XRP ETFs begin the new month with a positive net inflow while Ethereum receives only a stretch of withdrawals as its institutional investors appear to be taking caution.",
+    "image": null,
+    "publishedAt": "2026-10-02T12:10:52.000Z",
+    "collectedAt": "2026-10-04T02:22:31.689Z",
+    "corroboratingSources": 1,
+    "fingerprint": "65a73710c53d05e758b93a9e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-04T02:22:35.084Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Outperforms Ethereum at October ETF Start",
+        "fingerprint": "65a73710c53d05e758b93a9e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 767,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Circle Urges EU to Replace Stablecoin Bank-Deposit Mandates",
+    "link": "https://thedefiant.io/converge/regulation/circle-urges-eu-to-replace-stablecoin-bank-deposit-mandates",
+    "summary": "The USDC issuer also wants to preserve cross-border co-issuance and create a recognition route for foreign stablecoins, while central banks demand stronger safeguards.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/fb89536f0495009619e2070f25621894e7e973df-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-02T16:10:56.000Z",
+    "collectedAt": "2026-10-04T02:22:31.689Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4603006b41ff01ae608852e6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-04T02:22:36.195Z",
+    "outcome": {
+      "event": {
+        "title": "Circle Urges EU to Replace Stablecoin Bank-Deposit Mandates",
+        "fingerprint": "4603006b41ff01ae608852e6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 768,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+    "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+    "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-10-03T17:01:03.000Z",
+    "collectedAt": "2026-10-04T02:22:31.688Z",
+    "corroboratingSources": 1,
+    "fingerprint": "432a4a312d71551d1334dc20",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-04T02:22:37.208Z",
+    "outcome": {
+      "event": {
+        "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+        "fingerprint": "432a4a312d71551d1334dc20"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 769,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+    "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+    "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2020/05/Screenshot-2020-05-06-at-12-gID_4.jpg",
+    "publishedAt": "2026-10-03T16:01:03.000Z",
+    "collectedAt": "2026-10-04T02:22:31.688Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9a0a0267899ef3a68ef27e40",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-04T02:22:38.228Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+        "fingerprint": "9a0a0267899ef3a68ef27e40"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 770,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

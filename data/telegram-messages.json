@@ -4615,5 +4615,40 @@
     "hasImage": true,
     "eventFingerprint": "0b2f09c502844108120bd5f5",
     "timestamp": "2026-10-03T22:05:03.731Z"
+  },
+  {
+    "messageId": 766,
+    "text": "September crypto hacks reached $766 million—but two incidents distorted the entire picture. \n\nBitget and Liquid accounted for the vast majority of the month's losses. \n\nWithout those two events, the remaining 53 reported exploits totaled roughly $59 million. \n\nThat baseline figure actually marks a sharp decline from August, when wider industry hacks totaled $136.3 million. \n\nSource: CryptoPotato",
+    "hasImage": true,
+    "eventFingerprint": "b79a5cebfdadcffd7a31fe53",
+    "timestamp": "2026-10-04T02:22:33.459Z"
+  },
+  {
+    "messageId": 767,
+    "text": "Is XRP flipping the institutional script on Ethereum as October gets underway?\n\nXRP exchange-traded products kicked off the month pulling in positive net inflows, moving directly against Ethereum's ongoing stretch of red-day withdrawals. \n\nAre capital allocators simply rotating risk out of ETH, or are we watching a genuine shift in institutional preference toward alternative Layer-1 assets right now? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "65a73710c53d05e758b93a9e",
+    "timestamp": "2026-10-04T02:22:35.075Z"
+  },
+  {
+    "messageId": 768,
+    "text": "Europe wants stablecoin issuers to hold up to 60 percent of reserves in traditional bank deposits. Circle is publicly pushing back against that mandate.\n\nThe USDC issuer argues that forcing heavy reliance on traditional banking infrastructure under MiCA rules creates systemic vulnerability rather than solving it. At the same time, central banks are demanding tighter safeguards before foreign stablecoins gain official recognition in the bloc.\n\nWhere do you draw the line here? \n\nDoes forcing stablecoins into traditional bank deposits undermine the core point of decentralized settlement, or is it a necessary safety net for retail adoption? Drop your take below.",
+    "hasImage": true,
+    "eventFingerprint": "4603006b41ff01ae608852e6",
+    "timestamp": "2026-10-04T02:22:36.187Z"
+  },
+  {
+    "messageId": 769,
+    "text": "How do you outpace state-sponsored hackers moving $387 million across four separate blockchains?\n\nChainalysis turned to artificial intelligence to solve the September breach of crypto exchange Bitget. \n\nInvestigators deployed in-house AI tools to map the cross-chain transfers in real time. \n\nThe firm attributes the heist to North Korea, pushing Pyongyang's estimated crypto thefts past the $1 billion threshold for the year.",
+    "hasImage": true,
+    "eventFingerprint": "432a4a312d71551d1334dc20",
+    "timestamp": "2026-10-04T02:22:37.200Z"
+  },
+  {
+    "messageId": 770,
+    "text": "Big tech is making it remarkably difficult to train your own local AI.\n\nFelix Kjellberg, better known as PewDiePie, revealed that OpenAI banned his account twice during the development of \"Ajax,\" an open-source, uncensored model designed to run entirely on consumer hardware. \n\nThe project aims to bypass cloud restrictions and censorship by operating directly from a user's personal PC. \n\nAccording to Decrypt, the sudden suspensions hit while developers were actively training the smaller-scale model. \n\nOpenAI has not yet commented on the specific account restrictions.",
+    "hasImage": true,
+    "eventFingerprint": "9a0a0267899ef3a68ef27e40",
+    "timestamp": "2026-10-04T02:22:38.219Z"
   }
 ]
