@@ -29961,5 +29961,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+    "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+    "summary": "NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet launch.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-05T04:41:35.000Z",
+    "collectedAt": "2026-10-05T08:15:55.508Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fab847b5aaef126f57af17a9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-05T08:15:57.454Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+        "fingerprint": "fab847b5aaef126f57af17a9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 796,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin ETF inflows reached a third straight week, while Ether ETFs swung to outflows and Zcash funds posted their first weekly outflow.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45D9ZNYHF2EN0M2AETZ4WY1/eth-btc-etf.jpg",
+    "publishedAt": "2026-10-05T08:00:49.000Z",
+    "collectedAt": "2026-10-05T08:15:55.508Z",
+    "corroboratingSources": 1,
+    "fingerprint": "74965cd4badaf62caa47d270",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-05T08:15:59.065Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
+        "fingerprint": "74965cd4badaf62caa47d270"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 797,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+    "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
+    "publishedAt": "2026-10-05T03:47:19.000Z",
+    "collectedAt": "2026-10-05T08:15:55.508Z",
+    "corroboratingSources": 1,
+    "fingerprint": "28cfc37b5f65fbd1db07f834",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-05T08:16:00.273Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+        "fingerprint": "28cfc37b5f65fbd1db07f834"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 798,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "W Group introduces hashbank’s integrated Web2 and Web3 banking experience",
+    "link": "https://ambcrypto.com/w-group-introduces-hashbanks-integrated-web2-and-web3-banking-experience/",
+    "summary": "Redefining digital banking, hashbank, part of W Group, is bringing fiat banking and external crypto transfers together in one app. W Group is pleased to share the next stage in the development of hashbank, a fully licensed universal digital bank that combines traditional banking services with the infrastructure of the open Web3 economy in oneContinue reading \"W Group introduces hashbank’s integrated Web2 and Web3 banking experience\"",
+    "image": null,
+    "publishedAt": "2026-10-05T08:00:58.000Z",
+    "collectedAt": "2026-10-05T08:15:55.509Z",
+    "corroboratingSources": 1,
+    "fingerprint": "46f4c8311a1b8c925bf0d73b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-05T08:16:02.109Z",
+    "outcome": {
+      "event": {
+        "title": "W Group introduces hashbank’s integrated Web2 and Web3 banking experience",
+        "fingerprint": "46f4c8311a1b8c925bf0d73b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 799,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Pump.fun volume hits $40M, beats Hyperliquid in revenue &#8211; Whales boost PUMP",
+    "link": "https://ambcrypto.com/pump-fun-volume-hits-40m-beats-hyperliquid-in-revenue-whales-boost-pump/",
+    "summary": "Pump.fun’s revenue momentum is gaining support from rising trading activity and fresh whale accumulation, strengthening the case for sustained growth.",
+    "image": null,
+    "publishedAt": "2026-10-05T06:00:41.000Z",
+    "collectedAt": "2026-10-05T08:15:55.509Z",
+    "corroboratingSources": 1,
+    "fingerprint": "20fb4af3f039a0cb4847bd77",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-05T08:16:03.180Z",
+    "outcome": {
+      "event": {
+        "title": "Pump.fun volume hits $40M, beats Hyperliquid in revenue &#8211; Whales boost PUMP",
+        "fingerprint": "20fb4af3f039a0cb4847bd77"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 800,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -5515,5 +5515,45 @@
     "hasImage": true,
     "eventFingerprint": "ab8cdd73092397d57210923e",
     "timestamp": "2026-10-05T01:34:00.718Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 796,
+    "text": "Speed is coming to privacy rails sooner than expected.\n\nThe upcoming Network Upgrade 7 has just deployed to Zcash's public testnet, slashing target block times from 75 seconds down to 25. \n\nFor developers, exchanges, and wallet operators, this gives the ecosystem an early live rehearsal ahead of a scheduled November mainnet transition. \n\nFaster finality addresses one of the primary usability bottlenecks historically facing zero-knowledge networks, bridging the gap between transaction privacy and user experience.\n\n#Zcash",
+    "hasImage": true,
+    "eventFingerprint": "fab847b5aaef126f57af17a9",
+    "timestamp": "2026-10-05T08:15:57.451Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 797,
+    "text": "Capital allocation between the two largest digital assets is diverging in real time.\n\nSpot Bitcoin exchange-traded funds secured their third consecutive week of net inflows, pulling in steady institutional capital even as broader macroeconomic crosscurrents kept risk assets on edge. \n\nEther products told the exact opposite story. \n\nUS spot Ethereum ETFs shed $138 million over the same period, marking a sharp reversal in sentiment and reflecting persistent capital rotation away from altcoin-tethered vehicles. \n\nMeanwhile, privacy-focused assets saw pressure of their own, with Zcash funds recording their first-ever weekly outflow since launch. \n\nThe data points to a market prioritizing concentration over diversification. Liquidity is tightening its focus, favoring Bitcoin's established structural bid while redemptions weigh on alternative layer-1 and privacy exposure.",
+    "hasImage": true,
+    "eventFingerprint": "74965cd4badaf62caa47d270",
+    "timestamp": "2026-10-05T08:15:59.062Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 798,
+    "text": "Zcash is speeding toward its most significant structural overhaul in years. \n\nThe NU7 upgrade is now live on the testnet, bringing a headline change: block times slashed to just 25 seconds. \n\nFor a privacy network balancing heavy cryptographic overhead with transaction throughput, faster finality has long been a core bottleneck. \n\nDevelopers now have a few weeks in a live test environment to stress-test the new parameters before the proposed mainnet activation in November. \n\nIf successful, NU7 could fundamentally shift how the protocol handles scalability and user experience. We're tracking mainnet readiness as the timeline approaches.",
+    "hasImage": true,
+    "eventFingerprint": "28cfc37b5f65fbd1db07f834",
+    "timestamp": "2026-10-05T08:16:00.269Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 799,
+    "text": "Bridging the gap between traditional finance and decentralized assets just got another contender. 💳\n\nW Group has officially rolled out hashbank, a fully licensed digital banking platform designed to merge standard fiat services with open Web3 infrastructure. \n\nThe application is built to handle everyday banking alongside external crypto transfers within a single interface, targeting the friction points users typically face when moving between traditional and digital economies. \n\nAs regulatory frameworks around hybrid financial services continue to evolve, integrated offerings like this highlight a growing push to consolidate digital asset management into conventional banking rails.",
+    "hasImage": true,
+    "eventFingerprint": "46f4c8311a1b8c925bf0d73b",
+    "timestamp": "2026-10-05T08:16:02.105Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 800,
+    "text": "On-chain activity on Pump.fun continues to defy broader market consolidation. \n\nDaily volume crossed $40 million yesterday, pushing protocol revenue past Layer-1 derivatives competitor Hyperliquid over the same period. \n\nOn-chain data shows fresh whale accumulation driving the latest surge in momentum, pointing to sustained engagement rather than a brief retail spike.",
+    "hasImage": true,
+    "eventFingerprint": "20fb4af3f039a0cb4847bd77",
+    "timestamp": "2026-10-05T08:16:03.175Z"
   }
 ]
