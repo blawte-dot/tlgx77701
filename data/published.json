@@ -5555,5 +5555,45 @@
     "hasImage": true,
     "eventFingerprint": "20fb4af3f039a0cb4847bd77",
     "timestamp": "2026-10-05T08:16:03.175Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 801,
+    "text": "Institutional crypto just got another round-the-clock liquidity pipeline in Asia and the Middle East.\n\nPayward, the parent company of Kraken, has integrated Singapore Gulf Bank to enable 24/7 US dollar settlements for select institutional clients. \n\nTransactions will move instantly through SGB Net, bypassing traditional banking hours that have historically bottlenecked weekend and overnight rebalancing. \n\nThe move highlights how regional digital asset banks are steadily building dedicated rails to capture offshore institutional volume outside Western banking hubs.",
+    "hasImage": true,
+    "eventFingerprint": "4d5bfeeab7c185704f4331f3",
+    "timestamp": "2026-10-05T17:50:09.614Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 802,
+    "text": "Leveraging triple exposure to an asset that is currently struggling to attract baseline spot inflows is an aggressive bet on market momentum. \n\nThe SEC has greenlit a 3x leveraged Ethereum ETF product, arriving while ETH continues to hold above the $2,700 level. \n\nUnderlying spot demand for existing Ethereum funds has remained relatively soft compared to historical Bitcoin product launches. \n\nAdding extreme leverage into an environment defined by sluggish organic demand amplifies downside risk for participants. Volatility decay and steep daily rebalancing costs make leveraged instruments poorly suited for long-term positioning. \n\nTraders are now weighing whether high-beta derivatives will spark renewed speculative interest or simply accelerate liquidations if macro conditions turn.\n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "cd03a6415e64cc6f2e82200b",
+    "timestamp": "2026-10-05T17:50:11.771Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 803,
+    "text": "Washington is moving to bring margined crypto trading under a single federal roof. \n\nThe Commodity Futures Trading Commission has officially launched rulemaking for leveraged retail digital asset transactions, introducing proposed frameworks known as Regulation CTX and CAM alongside a dedicated \"crypto asset market\" exchange designation. \n\nThe move targets margined, financed, and leveraged retail crypto products, setting the stage for standardized federal oversight where fragmented state rules previously applied. \n\nIndustry stakeholders have a designated comment window to weigh in on the rulebook before it advances.",
+    "hasImage": true,
+    "eventFingerprint": "e017e4e6bc441ce81d93a620",
+    "timestamp": "2026-10-05T17:50:13.029Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 804,
+    "text": "Are traditional equities finally moving on-chain? \n\nOKX and Intercontinental Exchange have filed a joint proposal to launch 24/7 tokenized stock trading under a new SEC Innovation Exemption. \n\nThe initial filing covers more than 60 major equities, including Nvidia and SpaceX, paired directly with stablecoins for round-the-clock settlement. \n\nMultiple outlets are now confirming the details as the regulatory framework takes shape. If approved, it marks a significant bridge between legacy capital markets and crypto liquidity infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "cd96bcf4365afe8b3582626f",
+    "timestamp": "2026-10-05T17:50:14.246Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 805,
+    "text": "3 major crypto outlets are covering this development simultaneously this morning. \n\nW Group has officially rolled out hashbank, a fully licensed universal digital bank designed to bridge traditional fiat services with external crypto transfers in a single interface. \n\nAs regulatory pressure forces traditional finance and digital assets closer together, integrated solutions attempting to bridge the custody gap are drawing intense market focus. \n\nOperations are based out of Zug, Switzerland, with broader rollout details currently unfolding.",
+    "hasImage": true,
+    "eventFingerprint": "b36ba83669ed96580513a21d",
+    "timestamp": "2026-10-05T17:50:15.590Z"
   }
 ]

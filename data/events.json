@@ -30166,5 +30166,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
+    "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank’s SGB Net",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg",
+    "publishedAt": "2026-10-05T08:56:10.000Z",
+    "collectedAt": "2026-10-05T17:50:07.096Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4d5bfeeab7c185704f4331f3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-05T17:50:09.620Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
+        "fingerprint": "4d5bfeeab7c185704f4331f3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 801,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "The SEC approved a 3x Ethereum ETF &#8211; Here&#8217;s what it means",
+    "link": "https://ambcrypto.com/the-sec-approved-a-3x-ethereum-etf-heres-what-it-means/",
+    "summary": "Ethereum’s 3x ETF listing path faces weak Spot ETF demand, while ETH remains above $2,700.",
+    "image": null,
+    "publishedAt": "2026-10-05T10:00:20.000Z",
+    "collectedAt": "2026-10-05T17:50:07.097Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cd03a6415e64cc6f2e82200b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-05T17:50:11.776Z",
+    "outcome": {
+      "event": {
+        "title": "The SEC approved a 3x Ethereum ETF &#8211; Here&#8217;s what it means",
+        "fingerprint": "cd03a6415e64cc6f2e82200b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 802,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
+    "link": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
+    "summary": "The CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new \"crypto asset market\" exchange.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
+    "publishedAt": "2026-10-05T16:09:02.000Z",
+    "collectedAt": "2026-10-05T17:50:07.096Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e017e4e6bc441ce81d93a620",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-05T17:50:13.036Z",
+    "outcome": {
+      "event": {
+        "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
+        "fingerprint": "e017e4e6bc441ce81d93a620"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 803,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+    "link": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+    "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-10-05T10:22:27.000Z",
+    "collectedAt": "2026-10-05T17:50:07.096Z",
+    "corroboratingSources": 2,
+    "fingerprint": "cd96bcf4365afe8b3582626f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-05T17:50:14.252Z",
+    "outcome": {
+      "event": {
+        "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+        "fingerprint": "cd96bcf4365afe8b3582626f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 804,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "W Group Introduces hashbank’s Integrated Web2 and Web3 Banking Experience",
+    "link": "https://cryptopotato.com/w-group-introduces-hashbanks-integrated-web2-and-web3-banking-experience/",
+    "summary": "[PRESS RELEASE &#8211; Zug, Switzerland, October 5th, 2026] hashbank, part of W Group, is redefining digital banking by bringing fiat banking and external crypto transfers together in one app W Group is pleased to share the next stage in the development of hashbank, a fully licensed universal digital bank that combines traditional banking services with [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/image_15_1790856257tuyKmVFazQ.jpg",
+    "publishedAt": "2026-10-05T08:45:26.000Z",
+    "collectedAt": "2026-10-05T17:50:07.096Z",
+    "corroboratingSources": 2,
+    "fingerprint": "b36ba83669ed96580513a21d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-05T17:50:15.595Z",
+    "outcome": {
+      "event": {
+        "title": "W Group Introduces hashbank’s Integrated Web2 and Web3 Banking Experience",
+        "fingerprint": "b36ba83669ed96580513a21d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 805,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
