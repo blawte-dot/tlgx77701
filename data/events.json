@@ -30371,5 +30371,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
+    "link": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The payments infrastructure company is seeking federal approval to offer stablecoin custody and related fiat services through a limited-purpose national trust bank.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46QKCZ18CWHSEVV2WKRKN0Z/hi-ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent1.png",
+    "publishedAt": "2026-10-05T19:53:52.000Z",
+    "collectedAt": "2026-10-05T23:41:47.801Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b5465dc452d316de398ec758",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-05T23:41:50.187Z",
+    "outcome": {
+      "event": {
+        "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
+        "fingerprint": "b5465dc452d316de398ec758"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 806,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
+    "link": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "CCI CEO Ji Hun Kim said that the organization “remains confident“ in the OCC’s approval of charters for crypto companies, despite a recent lawsuit and pushback from some lawmakers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46D5RCSRSBS45BN1HPS4AR1/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-2.jpg",
+    "publishedAt": "2026-10-05T19:15:22.000Z",
+    "collectedAt": "2026-10-05T23:41:47.801Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7ab5527c9ec9a71d4e4501a9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-05T23:41:52.205Z",
+    "outcome": {
+      "event": {
+        "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
+        "fingerprint": "7ab5527c9ec9a71d4e4501a9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 807,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Coinbase Business Chief: Big Banks Increasing BTC Exposure &#124; Shan Aggarwal",
+    "link": "https://bitcoinmagazine.com/videos/coinbase-business-chief-big-banks-increasing-btc-exposure-shan-aggarwal",
+    "summary": "Bitcoin Magazine\n\nCoinbase Business Chief: Big Banks Increasing BTC Exposure | Shan Aggarwal\nNew SEC rules could unlock advisor access to Bitcoin. Coinbase CBO Shan Aggarwal explains how Coinbase's custody infrastructure is paving the way.\nThis post Coinbase Business Chief: Big Banks Increasing BTC Exposure | Shan Aggarwal first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Coinbase-Business-Chief-Big-Banks-Increasing-BTC-Exposure-Shan-Aggarwal-.jpg",
+    "publishedAt": "2026-10-05T21:08:40.000Z",
+    "collectedAt": "2026-10-05T23:41:47.801Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0a6a28a45d95ff248de3ae00",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-05T23:41:53.804Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Business Chief: Big Banks Increasing BTC Exposure &#124; Shan Aggarwal",
+        "fingerprint": "0a6a28a45d95ff248de3ae00"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 808,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027",
+    "link": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
+    "summary": "There are currently two ETF applications tied to INJ — the 21Shares Injective ETF and the Canary Staked INJ ETF.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/eric-chen-2.jpg",
+    "publishedAt": "2026-10-05T08:42:20.000Z",
+    "collectedAt": "2026-10-05T23:41:47.801Z",
+    "corroboratingSources": 1,
+    "fingerprint": "57b123aa6327cf88f218c67c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-05T23:41:54.948Z",
+    "outcome": {
+      "event": {
+        "title": "Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027",
+        "fingerprint": "57b123aa6327cf88f218c67c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 809,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "CFTC makes its biggest move yet to bring offshore crypto trading back to the US",
+    "link": "https://cryptoslate.com/cftc-makes-its-biggest-move-yet-to-bring-offshore-crypto-trading-back-to-the-us/",
+    "summary": "The Commodity Futures Trading Commission (CFTC) is offering US crypto exchanges a federal route to retail leverage as Congress remains stalled on market-structure legislation. On Oct. 5, the financial regulatory agency opened rulemaking for Regulation Crypto Asset Transactions (CTX) and Regulation Crypto Asset Markets (CAM), which would create a national framework for platforms offering retail [&#8230;]\nThe post CFTC makes its biggest move yet to bring offshore crypto trading back to the US appe",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cftc-retail-leverage-route-standard.jpg",
+    "publishedAt": "2026-10-05T22:10:34.000Z",
+    "collectedAt": "2026-10-05T23:41:47.801Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9857bedb9445c88ce7ccb049",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-05T23:41:56.229Z",
+    "outcome": {
+      "event": {
+        "title": "CFTC makes its biggest move yet to bring offshore crypto trading back to the US",
+        "fingerprint": "9857bedb9445c88ce7ccb049"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 810,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
