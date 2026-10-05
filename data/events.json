@@ -29756,5 +29756,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin and Ethereum ETF Weekly Flows: The Good, the Bad, and the Concerning",
+    "link": "https://cryptopotato.com/bitcoin-and-ethereum-etf-weekly-flows-the-good-the-bad-and-the-concerning/",
+    "summary": "The past three weeks have been quite different for the funds.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/08/Bitcoin_Ethereum_ETF.jpg",
+    "publishedAt": "2026-10-04T17:52:34.000Z",
+    "collectedAt": "2026-10-05T01:33:53.289Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c022ef904083e37fc8e4618d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-05T01:33:55.308Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin and Ethereum ETF Weekly Flows: The Good, the Bad, and the Concerning",
+        "fingerprint": "c022ef904083e37fc8e4618d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 791,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "What Could Decide Bitcoin’s Q4? The Fed, Bond Yields, and One Crucial Price Level",
+    "link": "https://cryptopotato.com/what-could-decide-bitcoins-q4-the-fed-bond-yields-and-one-crucial-price-level/",
+    "summary": "The market structure is significantly different today, said one of the analysts we talked to.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/11/Bitcoin_Bear_Bull.jpg",
+    "publishedAt": "2026-10-04T16:10:42.000Z",
+    "collectedAt": "2026-10-05T01:33:53.289Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2983129843817dafc0fffe5c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-05T01:33:56.498Z",
+    "outcome": {
+      "event": {
+        "title": "What Could Decide Bitcoin’s Q4? The Fed, Bond Yields, and One Crucial Price Level",
+        "fingerprint": "2983129843817dafc0fffe5c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 792,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Analyst Explains What Can Trigger DOGE&#8217;s Next Double-Digit Surge",
+    "link": "https://cryptopotato.com/analyst-explains-what-can-trigger-doges-next-double-digit-surge/",
+    "summary": "Meanwhile, the cooling interest in the spot DOGE ETFs might be a warning sign.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/04/DOGE_CB-9.jpg",
+    "publishedAt": "2026-10-04T11:40:37.000Z",
+    "collectedAt": "2026-10-05T01:33:53.289Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e0ba3bf3fc03e42b73b77895",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-05T01:33:57.602Z",
+    "outcome": {
+      "event": {
+        "title": "Analyst Explains What Can Trigger DOGE&#8217;s Next Double-Digit Surge",
+        "fingerprint": "e0ba3bf3fc03e42b73b77895"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 793,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin recovery ‘not mature yet’ – Could BTC reclaim $126K by Q1 2027?",
+    "link": "https://ambcrypto.com/bitcoin-recovery-not-mature-yet-could-btc-reclaim-126k-by-q1-2027/",
+    "summary": "ETF buyers are returning. Who will absorb the coins that 2025 buyers keep selling?",
+    "image": null,
+    "publishedAt": "2026-10-04T12:00:10.000Z",
+    "collectedAt": "2026-10-05T01:33:53.289Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2a63a8ea4fe9f5fa02853434",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-05T01:33:59.506Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin recovery ‘not mature yet’ – Could BTC reclaim $126K by Q1 2027?",
+        "fingerprint": "2a63a8ea4fe9f5fa02853434"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 794,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Zcash gets a Washington lobbyist to push crypto policy",
+    "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg",
+    "publishedAt": "2026-10-05T00:35:34.000Z",
+    "collectedAt": "2026-10-05T01:33:53.289Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab8cdd73092397d57210923e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-10-05T01:34:00.723Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash gets a Washington lobbyist to push crypto policy",
+        "fingerprint": "ab8cdd73092397d57210923e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 795,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
