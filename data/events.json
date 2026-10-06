@@ -31191,5 +31191,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+    "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million investment.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49DR4VPPGS9RG9R18484EC5/hi-token-etf-victory-2.png",
+    "publishedAt": "2026-10-06T20:53:19.000Z",
+    "collectedAt": "2026-10-06T22:17:04.807Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6ec8d44cfc0fa708a0afaa0d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-06T22:17:07.053Z",
+    "outcome": {
+      "event": {
+        "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+        "fingerprint": "6ec8d44cfc0fa708a0afaa0d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 826,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "PassimPay secures MSB registration and expands crypto payment infrastructure to 122 countries",
+    "link": "https://ambcrypto.com/passimpay-secures-msb-registration-and-expands-crypto-payment-infrastructure-to-122-countries/",
+    "summary": "PassimPay, a crypto payment gateway for businesses, has secured Money Services Business (MSB) registration with the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) through NILESPAY FINANCE INC. The registration, No. C100000852, adds a formal Canadian regulatory registration to PassimPay’s payment infrastructure, which is available in 122 countries and supports 74+ cryptocurrencies. The stepContinue reading \"PassimPay secures MSB registration and expands crypto payment infr",
+    "image": null,
+    "publishedAt": "2026-10-06T13:35:18.000Z",
+    "collectedAt": "2026-10-06T22:17:04.808Z",
+    "corroboratingSources": 1,
+    "fingerprint": "634fb4f2ddbe07dc79a0318a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-06T22:17:08.846Z",
+    "outcome": {
+      "event": {
+        "title": "PassimPay secures MSB registration and expands crypto payment infrastructure to 122 countries",
+        "fingerprint": "634fb4f2ddbe07dc79a0318a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 827,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Winklevoss Twins File for Zcash ETF 13 Years After Historic Bitcoin ETF Bid",
+    "link": "https://u.today/winklevoss-twins-file-for-zcash-etf-13-years-after-historic-bitcoin-etf-bid",
+    "summary": "The Winklevoss twins have filed to launch a spot Zcash ETF.",
+    "image": null,
+    "publishedAt": "2026-10-06T20:02:38.000Z",
+    "collectedAt": "2026-10-06T22:17:04.808Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3db4f3d8e01719af5197a880",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-06T22:17:10.356Z",
+    "outcome": {
+      "event": {
+        "title": "Winklevoss Twins File for Zcash ETF 13 Years After Historic Bitcoin ETF Bid",
+        "fingerprint": "3db4f3d8e01719af5197a880"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 828,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+    "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+    "summary": "DeepSeek and Moonshot attract fresh capital ahead of planned listings, while OpenAI courts major investors.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec6883f4072ca0de54d52689a52ef6beeabbacac-7952x5304.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-06T09:25:36.000Z",
+    "collectedAt": "2026-10-06T22:17:04.807Z",
+    "corroboratingSources": 1,
+    "fingerprint": "662fe563fa119f650f4c7140",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-06T22:17:11.571Z",
+    "outcome": {
+      "event": {
+        "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+        "fingerprint": "662fe563fa119f650f4c7140"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 829,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs reversed two days of inflows as Bitcoin slipped below $86,000, trading roughly 32% below its October 2025 all-time high.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4824V2PK2P4PSFCXS89MPH7/hi-time-is-our-best-friend-bitcoins-12-month-trajectory-to-etf.jpg",
+    "publishedAt": "2026-10-06T08:14:17.000Z",
+    "collectedAt": "2026-10-06T22:17:04.807Z",
+    "corroboratingSources": 1,
+    "fingerprint": "824e301ca520fc792d1b38f6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-06T22:17:12.738Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
+        "fingerprint": "824e301ca520fc792d1b38f6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 830,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
