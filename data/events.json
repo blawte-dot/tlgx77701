@@ -30781,5 +30781,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Injective launches Trench Treasury as Canary files SEC ETF &#8211; Details",
+    "link": "https://ambcrypto.com/injective-launches-trench-treasury-as-canary-files-sec-etf-details/",
+    "summary": "Injective ecosystem saw two major developments; Injective Foundation launched the Trench Treasury while Canary Capital filed with the SEC for Staked INJ ETF.",
+    "image": null,
+    "publishedAt": "2026-10-06T11:00:46.000Z",
+    "collectedAt": "2026-10-06T11:45:28.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "10cc790b85c9a92be8f94474",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-06T11:45:31.670Z",
+    "outcome": {
+      "event": {
+        "title": "Injective launches Trench Treasury as Canary files SEC ETF &#8211; Details",
+        "fingerprint": "10cc790b85c9a92be8f94474"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 816,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
+    "link": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
+    "summary": "Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/don-davis.png",
+    "publishedAt": "2026-10-06T11:36:15.000Z",
+    "collectedAt": "2026-10-06T11:45:28.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "77c03074502bf26b791d9eb5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-06T11:45:33.175Z",
+    "outcome": {
+      "event": {
+        "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
+        "fingerprint": "77c03074502bf26b791d9eb5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 817,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "ZachXBT says he fronted $349,700 to infiltrate alleged Chinese launderers tied to Lazarus, Bybit hack",
+    "link": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767",
+    "summary": "Posing as a client, ZachXBT said he gathered intelligence that helped freeze funds tied to the $1.5 billion Bybit hack.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230411_Hack_Generic_4.jpg",
+    "publishedAt": "2026-10-06T09:51:47.000Z",
+    "collectedAt": "2026-10-06T11:45:28.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8b0814156c6193b95436e3d3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-06T11:45:34.557Z",
+    "outcome": {
+      "event": {
+        "title": "ZachXBT says he fronted $349,700 to infiltrate alleged Chinese launderers tied to Lazarus, Bybit hack",
+        "fingerprint": "8b0814156c6193b95436e3d3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 818,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+    "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489V6KADJ5PEVWVG55W2YFF/hi-quantum-threat-to-bitcoin-80000-btc-just-moved-after-14-years.jpg",
+    "publishedAt": "2026-10-06T09:59:12.000Z",
+    "collectedAt": "2026-10-06T11:45:28.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0e96c4ac00aa9a333b91a47a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-06T11:45:35.835Z",
+    "outcome": {
+      "event": {
+        "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+        "fingerprint": "0e96c4ac00aa9a333b91a47a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 819,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Solana Foundation targets settlement in seconds with DvP launch",
+    "link": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Solana DvP offers financial institutions an open-source settlement program designed to complete asset transfers and payments in seconds.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4860PG9THHFYD42RP00GSN1/hi-solana-sol-ecosystem-1.jpg",
+    "publishedAt": "2026-10-06T09:11:26.000Z",
+    "collectedAt": "2026-10-06T11:45:28.370Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f30def9a95b5af1e1b72bb0b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-06T11:45:37.001Z",
+    "outcome": {
+      "event": {
+        "title": "Solana Foundation targets settlement in seconds with DvP launch",
+        "fingerprint": "f30def9a95b5af1e1b72bb0b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 820,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
