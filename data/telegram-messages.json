@@ -4930,5 +4930,40 @@
     "hasImage": true,
     "eventFingerprint": "9857bedb9445c88ce7ccb049",
     "timestamp": "2026-10-05T23:41:56.219Z"
+  },
+  {
+    "messageId": 811,
+    "text": "Federal banking regulators are facing a coordinated pushback from traditional lenders just as new digital asset applicants step forward.\n\nRain has applied for a U.S. trust bank charter with the OCC. \n\nThe move places the firm directly in a growing queue of crypto businesses seeking federal oversight. \n\nThat filing comes at a delicate time. \n\nCommunity banking associations recently filed a lawsuit asking a federal court to overturn the OCC rules that make these very charters possible. \n\nThe argument centers on whether federal regulators are overstepping by granting national trust powers to institutions primarily handling digital assets. \n\nRain is betting on the federal framework anyway. \n\nIf the courts side with the community banks, the path for crypto-focused federal trust charters could narrow significantly.",
+    "hasImage": true,
+    "eventFingerprint": "e05b25a7b9213555a4dfefd7",
+    "timestamp": "2026-10-06T04:44:18.995Z"
+  },
+  {
+    "messageId": 812,
+    "text": "Legacy settlement systems are running out of time.\n\nThe Solana Foundation has rolled out an open-source program designed to process institutional-grade trades in mere seconds, cutting out days of traditional clearing friction. \n\nWhat makes this rollout notable isn't just the speed, but the pedigree behind the plumbing. JPMorgan provided direct input during development, marking a significant shift in how Wall Street engages with high-performance public ledgers. \n\nTraditional finance isn't just watching from the sidelines anymore. They are actively helping build the rails.",
+    "hasImage": true,
+    "eventFingerprint": "e00a114cb7fc5daa37dd7302",
+    "timestamp": "2026-10-06T04:44:20.214Z"
+  },
+  {
+    "messageId": 813,
+    "text": "The weekend banking blackout is officially becoming an artifact of the past.\n\nPayward, the parent company of Kraken, has integrated with Singapore Gulf Bank to roll out 24/7 institutional US-dollar funding across eligible jurisdictions. \n\nFor years, market makers and institutional desks have faced severe liquidity bottlenecks during traditional weekend banking hours. This infrastructure bridge aims to eliminate those friction points, enabling continuous fiat settlement when crypto markets are moving fastest. \n\nSGB plans to introduce customer-trade pricing in the coming months, pushing further into the commercial banking layer for digital assets. \n\n#CryptoMarkets",
+    "hasImage": true,
+    "eventFingerprint": "0a38f65fb3d29f511b88dc33",
+    "timestamp": "2026-10-06T04:44:21.359Z"
+  },
+  {
+    "messageId": 814,
+    "text": "Two new rulebooks are heading for the U.S. crypto market as the CFTC steps up to cover digital asset derivatives and related activity. \n\nYet the glaring gap remains untouched: direct spot-market trading still lacks a unified federal home between the SEC and the CFTC. \n\nWhere do you draw the line? \n\nDoes dual-agency oversight realistically protect retail traders, or does it just create more bureaucratic friction for exchanges trying to operate onshore? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "649dd03a9525f8bbbd763e1a",
+    "timestamp": "2026-10-06T04:44:22.665Z"
+  },
+  {
+    "messageId": 815,
+    "text": "Ten billion dollars is now sitting inside crypto lending vaults, and traditional credit rating agencies are finally moving in.\n\nS&P Global has just rolled out a dedicated evaluation framework for the sector, breaking down digital asset vaults across six distinct risk categories. \n\nAs institutional capital and complex yield strategies scale up, opaque risk parameters are facing formal scrutiny. \n\nThe era of unchecked vault yields is meeting traditional credit standards.",
+    "hasImage": true,
+    "eventFingerprint": "9f9f071f8eb7be2d7a792fad",
+    "timestamp": "2026-10-06T04:44:23.825Z"
   }
 ]
