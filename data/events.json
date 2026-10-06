@@ -30986,5 +30986,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Securitize stock jumps 8% amid South Korea tokenization push",
+    "link": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48YCR57ADWYMKFRMPMVX99K/real-world-assets-rwa-crypto.jpg",
+    "publishedAt": "2026-10-06T17:04:41.000Z",
+    "collectedAt": "2026-10-06T17:52:55.588Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5074e2c7d250fd9fdc8466fe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-06T17:52:58.147Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize stock jumps 8% amid South Korea tokenization push",
+        "fingerprint": "5074e2c7d250fd9fdc8466fe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 821,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan",
+    "link": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+    "summary": "An October 5 venue filing invokes a Bitcoin Fog appeal, showing why narrower privacy policies have not ended the Tornado Cash case.\nThe post DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/roman-storm-policy-tug.webp",
+    "publishedAt": "2026-10-06T17:00:37.000Z",
+    "collectedAt": "2026-10-06T17:52:55.588Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0bbab519c515b8c2f0ccd225",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-06T17:52:59.687Z",
+    "outcome": {
+      "event": {
+        "title": "DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan",
+        "fingerprint": "0bbab519c515b8c2f0ccd225"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 822,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Ethereum bears keep selling but ETH price stays near $2,700 as US spot ETFs record $206M in outflows",
+    "link": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
+    "summary": "Ethereum’s institutional demand is weakening around the same time derivatives positioning shows traders are selling aggressively without yet breaking the broader price structure. US spot ETH exchange-traded funds recorded $50.76 million of net outflows on Oct. 5, extending their losing streak to five consecutive sessions, according to SoSoValue data. The products have shed $205.88 million [&#8230;]\nThe post Ethereum bears keep selling but ETH price stays near $2,700 as US spot ETFs record $206M ",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-etf-whale-pressure.webp",
+    "publishedAt": "2026-10-06T14:50:42.000Z",
+    "collectedAt": "2026-10-06T17:52:55.588Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cb91d6173c1f7a8f34d51705",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-06T17:53:01.177Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum bears keep selling but ETH price stays near $2,700 as US spot ETFs record $206M in outflows",
+        "fingerprint": "cb91d6173c1f7a8f34d51705"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 823,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s proposed 3x ETF could reach CME’s futures threshold with just $362 million",
+    "link": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
+    "summary": "At ETHU's Oct. 6 disclosed futures valuation, a 3x Ethereum ETF with $362.1 million in assets would target about $1.09 billion of exposure. If held entirely in standard CME Ether futures, that would equal 8,000 contracts, CME's single-month and all-month accountability level. The SEC approved Cboe BZX's rule change to list Volatility Shares' proposed ETHK [&#8230;]\nThe post Ethereum’s proposed 3x ETF could reach CME’s futures threshold with just $362 million appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-cme-tugwar.webp",
+    "publishedAt": "2026-10-06T12:30:49.000Z",
+    "collectedAt": "2026-10-06T17:52:55.588Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a08e6e6f5d754c6be4a8b763",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-06T17:53:02.475Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum’s proposed 3x ETF could reach CME’s futures threshold with just $362 million",
+        "fingerprint": "a08e6e6f5d754c6be4a8b763"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 824,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
+    "link": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
+    "summary": "Winklevoss Asset Services filed for a spot Zcash ETF under ticker WINK, with Gemini as custodian and a 0.25% fee, rivaling Grayscale's ZCSH.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/03/winklevoss-twins-news.png",
+    "publishedAt": "2026-10-06T16:43:41.000Z",
+    "collectedAt": "2026-10-06T17:52:55.588Z",
+    "corroboratingSources": 1,
+    "fingerprint": "01e763aea71dad7dcd2cc815",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-06T17:53:03.978Z",
+    "outcome": {
+      "event": {
+        "title": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
+        "fingerprint": "01e763aea71dad7dcd2cc815"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 825,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

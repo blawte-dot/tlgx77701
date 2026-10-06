@@ -5000,5 +5000,40 @@
     "hasImage": true,
     "eventFingerprint": "f30def9a95b5af1e1b72bb0b",
     "timestamp": "2026-10-06T11:45:36.993Z"
+  },
+  {
+    "messageId": 821,
+    "text": "Is Seoul quietly becoming the next major testbed for real-world asset tokenization?\n\nSecuritize shares moved up 8% following a newly announced partnership with IT services giant LG CNS. \n\nThe move positions the firm directly inside South Korea’s regulatory perimeter just as authorities prepare a comprehensive framework for tokenized stocks, bonds, and funds. \n\nUnder current timelines, the regulatory shift goes live in February 2027. \n\nTraditional finance continues building its on-chain infrastructure well ahead of the official deadlines.\n\n#Securitize",
+    "hasImage": true,
+    "eventFingerprint": "5074e2c7d250fd9fdc8466fe",
+    "timestamp": "2026-10-06T17:52:58.134Z"
+  },
+  {
+    "messageId": 822,
+    "text": "The regulatory crackdown on crypto privacy is moving in two entirely opposite directions at once. \n\nFederal prosecutors are doubling down on the Tornado Cash case. A recent venue filing cites a prior Bitcoin Fog ruling to keep the prosecution alive, signaling that the DOJ views protocol developers as criminally liable regardless of shifting Treasury policies.\n\nMeanwhile, FinCEN has quietly dropped its controversial proposal requiring financial institutions to track and report convertible virtual currency mixing activities. \n\nThe retreat from surveillance rules at the Treasury contrasts sharply with the aggressive stance coming from the Justice Department. Privacy tech remains squarely in the crosshairs of federal prosecutors, even as broader reporting mandates stall out.",
+    "hasImage": true,
+    "eventFingerprint": "0bbab519c515b8c2f0ccd225",
+    "timestamp": "2026-10-06T17:52:59.674Z"
+  },
+  {
+    "messageId": 823,
+    "text": "US spot Ethereum funds are bleeding capital while aggressive derivatives sellers test key support levels—and $2,700 is holding for now. \n\nData from SoSoValue shows five consecutive sessions of net outflows, totaling $205.88 million as of October 5. \n\nInstitutional demand is visibly cooling off. Yet despite the heavy selling pressure and five straight days of ETF redemptions, broader price structure on ETH remains remarkably resilient near the $2,700 mark. \n\nTraders are leaning short in the derivatives market, but spot buyers continue to absorb the downside. \n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "cb91d6173c1f7a8f34d51705",
+    "timestamp": "2026-10-06T17:53:01.162Z"
+  },
+  {
+    "messageId": 824,
+    "text": "It takes surprisingly little capital to brush up against institutional risk limits in the crypto derivatives market.\n\nA proposed 3x leveraged Ethereum ETF filed by Volatility Shares would hit CME’s single-month and all-month accountability thresholds at just $362.1 million in assets under management. \n\nThat valuation translates to roughly $1.09 billion in total market exposure, or 8,000 standard CME Ether futures contracts. \n\nThe SEC recently approved Cboe BZX's rule change to list the product, setting up a clear test for how high-leverage crypto structures interact with traditional derivatives caps.",
+    "hasImage": true,
+    "eventFingerprint": "a08e6e6f5d754c6be4a8b763",
+    "timestamp": "2026-10-06T17:53:02.461Z"
+  },
+  {
+    "messageId": 825,
+    "text": "Privacy-focused assets are pushing deeper into the traditional ETF pipeline.\n\nWinklevoss Asset Services has filed an application for a spot Zcash exchange-traded fund. Proposed under the ticker WINK, the product carries a 0.25% management fee. \n\nGemini is designated as the custodian for the proposed fund, positioning the filing directly against existing alternatives in the market, including Grayscale's ZCSH vehicle. \n\nThe move marks another step by traditional financial service providers to package alternative layer-1 assets for standard brokerage accounts, even as regulatory scrutiny around privacy coins remains a persistent variable for issuers.\n\n#Zcash",
+    "hasImage": true,
+    "eventFingerprint": "01e763aea71dad7dcd2cc815",
+    "timestamp": "2026-10-06T17:53:03.964Z"
   }
 ]
