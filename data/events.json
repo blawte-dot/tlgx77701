@@ -32011,5 +32011,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+    "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
+    "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250919_Greyscale_News_2.jpg",
+    "publishedAt": "2026-10-07T18:37:17.000Z",
+    "collectedAt": "2026-10-07T22:39:09.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4e44e1498ea878b74c64f6ad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-07T22:39:47.270Z",
+    "outcome": {
+      "event": {
+        "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+        "fingerprint": "4e44e1498ea878b74c64f6ad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 846,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Winklevoss Zcash ETF Filing Brings Privacy Coin Exposure To Nasdaq",
+    "link": "https://www.newsbtc.com/altcoins/winklevoss-zcash-etf-filing-brings-privacy-coin-exposure-to-nasdaq/",
+    "summary": "Winklevoss Asset Services has filed an S-1 with the SEC for the Winklevoss Zcash ETF, a proposed Nasdaq-listed product designed to hold ZEC directly. The preliminary prospectus sets a 0.25% sponsor fee, while Winklevoss Capital has indicated nonbinding interest in purchasing up to $100 million of shares.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/5cbc74db64394915ab1c4b4435f65070.jpg?fit=750%2C422",
+    "publishedAt": "2026-10-07T22:00:00.000Z",
+    "collectedAt": "2026-10-07T22:39:09.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7cf493903e1654e64278901f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-07T22:39:48.609Z",
+    "outcome": {
+      "event": {
+        "title": "Winklevoss Zcash ETF Filing Brings Privacy Coin Exposure To Nasdaq",
+        "fingerprint": "7cf493903e1654e64278901f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 847,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "CASHCAT&#8217;s bearish week: 3 reasons why the meme token lost 21%",
+    "link": "https://ambcrypto.com/cashcats-bearish-week-3-reasons-why-the-meme-token-lost-21/",
+    "summary": "A whale's wallet hack, a broader market sell-off, and leverage amplify CASHCAT's losses.",
+    "image": null,
+    "publishedAt": "2026-10-07T22:00:22.000Z",
+    "collectedAt": "2026-10-07T22:39:09.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d135a6cdd3cd15beb870e8b4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-07T22:40:43.090Z",
+    "outcome": {
+      "event": {
+        "title": "CASHCAT&#8217;s bearish week: 3 reasons why the meme token lost 21%",
+        "fingerprint": "d135a6cdd3cd15beb870e8b4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "api_error",
+          "error": "Bad Request: failed to get HTTP URL content"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Ethereum ETFs Lose $201.9 Million As Bitcoin Funds Return To Inflows",
+    "link": "https://www.newsbtc.com/news/ethereum/ethereum-etfs-lose-201-9-million-as-bitcoin-funds-return-to-inflows/",
+    "summary": "US spot Ethereum ETFs recorded $201.9 million in net outflows on October 6, according to Farside Investors. Bitcoin ETFs moved the other way with roughly $118.8 million of net inflows, creating a sharp one-day divergence between institutional flows into the two largest crypto assets.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/5cbc74db64394915ab1c4b4435f65070.jpg?fit=750%2C422",
+    "publishedAt": "2026-10-07T21:00:00.000Z",
+    "collectedAt": "2026-10-07T22:39:09.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e0edb5ff9d46dd094d8b47e5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-07T22:40:45.087Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum ETFs Lose $201.9 Million As Bitcoin Funds Return To Inflows",
+        "fingerprint": "e0edb5ff9d46dd094d8b47e5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 848,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+    "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+    "summary": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
+    "publishedAt": "2026-10-07T20:16:04.000Z",
+    "collectedAt": "2026-10-07T22:39:09.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8234b8c0f373f8c2c4baddfb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T22:40:46.477Z",
+    "outcome": {
+      "event": {
+        "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+        "fingerprint": "8234b8c0f373f8c2c4baddfb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 849,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
