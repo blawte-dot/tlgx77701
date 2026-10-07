@@ -31396,5 +31396,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "link": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+    "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png",
+    "publishedAt": "2026-10-06T22:46:03.000Z",
+    "collectedAt": "2026-10-07T02:02:57.673Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a8fbec6da520c6c261ec5a69",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-07T02:03:00.083Z",
+    "outcome": {
+      "event": {
+        "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+        "fingerprint": "a8fbec6da520c6c261ec5a69"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 831,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Crypto &#8216;Godfather&#8217; Gets 78 Months For $37M Meta Fraud Scheme",
+    "link": "https://www.newsbtc.com/regulation/crypto-godfather-gets-78-months-for-37m-meta-fraud-scheme/",
+    "summary": "TL;DR Adam Iza, who called himself “The Godfather,” has been sentenced to 78 months in federal prison. Prosecutors said he stole more than $37 million from Meta through fraud involving access to business-manager accounts and credit lines. The court also ordered more than $23.4 million in restitution; Meta was a victim of the scheme, not a participant in it. A federal judge has sentenced self-proclaimed crypto entrepreneur Adam Iza to 78 months in prison, closing another chapter in a case that co",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/fac08d46731c4b6fa729f9b50b73515c.png?fit=750%2C422",
+    "publishedAt": "2026-10-06T16:00:43.000Z",
+    "collectedAt": "2026-10-07T02:02:57.673Z",
+    "corroboratingSources": 1,
+    "fingerprint": "94a670efa301ec98886f24db",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T02:03:01.170Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto &#8216;Godfather&#8217; Gets 78 Months For $37M Meta Fraud Scheme",
+        "fingerprint": "94a670efa301ec98886f24db"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 832,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "These 3 Factors Could Shape Bitcoin&#8217;s Post-Midterm Performance",
+    "link": "https://cryptopotato.com/these-3-factors-could-shape-bitcoins-post-midterm-performance/",
+    "summary": "Sustained ETF buying and progress on crypto regulation could help determine whether post-election optimism translates into lasting gains.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/04/Bitcoin_United_States-1.jpg",
+    "publishedAt": "2026-10-06T13:01:42.000Z",
+    "collectedAt": "2026-10-07T02:02:57.673Z",
+    "corroboratingSources": 1,
+    "fingerprint": "537f644a56a2ab5244d03c43",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T02:03:02.387Z",
+    "outcome": {
+      "event": {
+        "title": "These 3 Factors Could Shape Bitcoin&#8217;s Post-Midterm Performance",
+        "fingerprint": "537f644a56a2ab5244d03c43"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 833,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Grayscale&#8217;s Hyperliquid filing meets a $340M token unlock &#8211; $100 next for HYPE?",
+    "link": "https://ambcrypto.com/grayscales-hyperliquid-filing-meets-a-340m-token-unlock-100-next-for-hype/",
+    "summary": "Grayscale’s staking ETF filing lands as HYPE navigates a $340 million token unlock and rising whale demand.",
+    "image": null,
+    "publishedAt": "2026-10-06T15:00:33.000Z",
+    "collectedAt": "2026-10-07T02:02:57.673Z",
+    "corroboratingSources": 1,
+    "fingerprint": "744fa6d68ee564410d1c8f7c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T02:03:04.413Z",
+    "outcome": {
+      "event": {
+        "title": "Grayscale&#8217;s Hyperliquid filing meets a $340M token unlock &#8211; $100 next for HYPE?",
+        "fingerprint": "744fa6d68ee564410d1c8f7c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 834,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Agora’s OCC Approval Sets Up AUSD Move to a US Trust Bank",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank",
+    "summary": "The planned bank would take over issuance and reserves from Agora’s Bermuda entity, but must meet capital, liquidity and compliance conditions before opening.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/b1c01dc8631242a654e7df0952962c5196649bba-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-06T15:27:34.000Z",
+    "collectedAt": "2026-10-07T02:02:57.673Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5da1dc52acbfcce69a20635f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T02:03:05.692Z",
+    "outcome": {
+      "event": {
+        "title": "Agora’s OCC Approval Sets Up AUSD Move to a US Trust Bank",
+        "fingerprint": "5da1dc52acbfcce69a20635f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 835,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
