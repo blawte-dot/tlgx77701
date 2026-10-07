@@ -31601,5 +31601,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+    "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+    "summary": "The stablecoin payments company’s proposed New York trust bank would custody digital assets and dollars, manage stablecoin reserves and issue and redeem dollar-backed tokens.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a623e61743b25176fc14fe8438bbe43ad09a982b-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-07T09:09:06.000Z",
+    "collectedAt": "2026-10-07T09:45:25.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7e493127e3abca8874858d06",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-07T09:45:27.481Z",
+    "outcome": {
+      "event": {
+        "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+        "fingerprint": "7e493127e3abca8874858d06"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 836,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin ETFs returned to net inflows with $119 million on Tuesday despite falling prices, while Ether funds reached a six-session outflow streak totaling $408 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg",
+    "publishedAt": "2026-10-07T09:03:38.000Z",
+    "collectedAt": "2026-10-07T09:45:25.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "29b5e215526b10444128db1e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-07T09:45:29.451Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+        "fingerprint": "29b5e215526b10444128db1e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 837,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin (BTC) and XRP Dominate Solana and Other Spot ETFs",
+    "link": "https://u.today/bitcoin-btc-and-xrp-dominate-solana-and-other-spot-etfs",
+    "summary": "The cryptocurrency ETF market is largely dominated by a single asset and it's not that good.",
+    "image": null,
+    "publishedAt": "2026-10-07T08:15:00.000Z",
+    "collectedAt": "2026-10-07T09:45:25.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "48611f930ad56625d122d058",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-07T09:45:31.156Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin (BTC) and XRP Dominate Solana and Other Spot ETFs",
+        "fingerprint": "48611f930ad56625d122d058"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 838,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
+    "link": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
+    "summary": "Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
+    "publishedAt": "2026-10-07T03:57:21.000Z",
+    "collectedAt": "2026-10-07T09:45:25.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "84bbe5ef4fd1b595d88b4f20",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T09:45:32.234Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
+        "fingerprint": "84bbe5ef4fd1b595d88b4f20"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 839,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power",
+    "link": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+    "summary": "The new exception permits one eligible commissioner to form a quorum when every other sitting member is disqualified from the particular matter.\nThe post SEC drops to 2 members, and 1 hidden rule shifts crypto power appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/sec-one-member-quorum-standard.jpg",
+    "publishedAt": "2026-10-07T02:20:47.000Z",
+    "collectedAt": "2026-10-07T09:45:25.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "172a29cfff8187cd5c018612",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T09:45:33.482Z",
+    "outcome": {
+      "event": {
+        "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power",
+        "fingerprint": "172a29cfff8187cd5c018612"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 840,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
