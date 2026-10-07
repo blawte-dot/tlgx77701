@@ -31806,5 +31806,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive",
+    "link": "https://cryptoslate.com/bitcoins-liquidation-wave-shows-why-positive-etf-flows-offer-no-price-floor/",
+    "summary": "Fresh October 7 futures closures highlight the gap between a completed fund-flow tally and traders’ continuing margin exposure.\nThe post Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-etf-liquidation-gap.webp",
+    "publishedAt": "2026-10-07T12:20:29.000Z",
+    "collectedAt": "2026-10-07T17:13:05.183Z",
+    "corroboratingSources": 1,
+    "fingerprint": "51ecad024a0478f9f8d9c4cf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-07T17:13:07.639Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive",
+        "fingerprint": "51ecad024a0478f9f8d9c4cf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 841,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) Lands New South Korea Deal as Meritz Securities Explores Digital Asset Custody",
+    "link": "https://cryptopotato.com/ripple-xrp-lands-new-south-korea-deal-as-meritz-securities-explores-digital-asset-custody/",
+    "summary": "The partnership adds Ripple's custody and tokenization technology to Meritz Securities' plans for entering South Korea's digital asset sector.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/03/Ripple_Korea.jpg",
+    "publishedAt": "2026-10-07T10:58:47.000Z",
+    "collectedAt": "2026-10-07T17:13:05.183Z",
+    "corroboratingSources": 1,
+    "fingerprint": "caaf00d2d66e02df852ae604",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-07T17:13:09.181Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple (XRP) Lands New South Korea Deal as Meritz Securities Explores Digital Asset Custody",
+        "fingerprint": "caaf00d2d66e02df852ae604"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 842,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Russia’s Sberbank Given Green Light to Custody Bitcoin",
+    "link": "https://bitcoinmagazine.com/news/russia-sberbank-can-now-custody-bitcoin",
+    "summary": "Bitcoin Magazine\n\nRussia’s Sberbank Given Green Light to Custody Bitcoin \nRussia’s largest bank has announced it is the first in the country to have been approved to custody bitcoin.&#160; Sberbank said in an announcement Wednesday that the Bank of Russia gave the company the green light for “digital currency record-keeping” and to facilitate the transfer of such assets. It said that bitcoin and other, smaller [&#8230;]\nThis post Russia’s Sberbank Given Green Light to Custody Bitcoin  first appe",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-1.jpg",
+    "publishedAt": "2026-10-07T16:14:51.000Z",
+    "collectedAt": "2026-10-07T17:13:05.183Z",
+    "corroboratingSources": 1,
+    "fingerprint": "911b67af396f60c584958565",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-07T17:13:10.433Z",
+    "outcome": {
+      "event": {
+        "title": "Russia’s Sberbank Given Green Light to Custody Bitcoin",
+        "fingerprint": "911b67af396f60c584958565"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 843,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+    "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+    "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world assets with Tether.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c12c0da5096c612dda6d9ed83011bcd03b607f0-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-07T14:27:37.000Z",
+    "collectedAt": "2026-10-07T17:13:05.182Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dafd468cb72530f57a998cd2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T17:13:11.661Z",
+    "outcome": {
+      "event": {
+        "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+        "fingerprint": "dafd468cb72530f57a998cd2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 844,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+    "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+    "summary": "Bitcoin fell below $84,000 as oil climbed on Iranian tanker attacks, while smaller tokens fell harder and liquidations rose to $547 million.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-07T10:35:09.000Z",
+    "collectedAt": "2026-10-07T17:13:05.183Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6fe109d8dd33b773ec6d55ae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-07T17:13:13.153Z",
+    "outcome": {
+      "event": {
+        "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+        "fingerprint": "6fe109d8dd33b773ec6d55ae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 845,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

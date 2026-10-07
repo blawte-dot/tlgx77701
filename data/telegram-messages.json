@@ -5140,5 +5140,40 @@
     "hasImage": true,
     "eventFingerprint": "172a29cfff8187cd5c018612",
     "timestamp": "2026-10-07T09:45:33.472Z"
+  },
+  {
+    "messageId": 841,
+    "text": "How quickly does market sentiment reverse when leveraged positions are left exposed?\n\nBitcoin slid to $84,000 today, triggering $143 million in liquidations across derivatives desks. \n\nThe drop stands in contrast to spot market demand, where exchange-traded funds just registered positive net inflows. \n\nIt is a stark reminder that institutional capital entering through regulated funds does not protect speculative traders from sudden margin wipes during macro-driven pullbacks.",
+    "hasImage": true,
+    "eventFingerprint": "51ecad024a0478f9f8d9c4cf",
+    "timestamp": "2026-10-07T17:13:07.628Z"
+  },
+  {
+    "messageId": 842,
+    "text": "Institutional infrastructure in Asia's digital asset market continues to quietly expand. \n\nMeritz Securities has tapped Ripple to supply custody and tokenization technology as the South Korean financial giant prepares its entry into the sector. \n\nThe deal integrates Ripple Custody into Meritz's upcoming digital asset framework, positioning the firm to handle tokenized financial instruments under South Korea's evolving regulatory perimeter. \n\nWhile South Korea maintains strict oversight of digital asset intermediaries, traditional brokerages are steadily building the technical rails required for institutional-grade tokenization and custody. \n\nRipple's enterprise footprint in the region grows further as traditional finance firms build out proprietary digital asset capabilities ahead of broader market maturation.",
+    "hasImage": true,
+    "eventFingerprint": "caaf00d2d66e02df852ae604",
+    "timestamp": "2026-10-07T17:13:09.170Z"
+  },
+  {
+    "messageId": 843,
+    "text": "Sanctions are reshaping how traditional finance engages with crypto.\n\nRussia’s largest lender, Sberbank, has secured regulatory approval from the central bank to custody bitcoin and manage digital currency transactions. \n\nThe move makes Sberbank the first domestic institution cleared to handle client bitcoin holdings under local oversight. \n\nState-backed integration of digital assets highlights a notable shift in how major economies facing severe international restrictions are handling decentralized networks.",
+    "hasImage": true,
+    "eventFingerprint": "911b67af396f60c584958565",
+    "timestamp": "2026-10-07T17:13:10.421Z"
+  },
+  {
+    "messageId": 844,
+    "text": "Central Asian banking corridors are opening further to private digital asset infrastructure. \n\nThe National Bank of Kazakhstan announced a formal collaboration with Tether to examine a local currency-linked stablecoin and the tokenization of real-world assets. \n\nState-backed exploration of stablecoin frameworks continues to broaden across emerging markets, shifting the technology from decentralized experiments toward official financial infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "dafd468cb72530f57a998cd2",
+    "timestamp": "2026-10-07T17:13:11.649Z"
+  },
+  {
+    "messageId": 845,
+    "text": "Geopolitics just collided with the leveraged long trade. \n\nBitcoin dropped under $84,000 earlier today as crude oil spiked following reports of attacks on Iranian tankers. The macro shock triggered a swift unwinding across digital assets. \n\nTotal market liquidations reached $547 million over the past 24 hours. \n\nAltcoins bore the brunt of the downside pressure as margin positions were automatically closed out across major derivatives exchanges. Market participants are closely monitoring energy benchmarks as broader risk assets react to escalating Middle East tensions.",
+    "hasImage": true,
+    "eventFingerprint": "6fe109d8dd33b773ec6d55ae",
+    "timestamp": "2026-10-07T17:13:13.141Z"
   }
 ]
