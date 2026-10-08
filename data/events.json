@@ -32421,5 +32421,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+    "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+    "summary": "The bank would offer the service to institutions and accredited corporate investors, subject to regulatory requirements.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-08T09:32:13.000Z",
+    "collectedAt": "2026-10-08T09:55:56.553Z",
+    "corroboratingSources": 3,
+    "fingerprint": "5cf95b9098146a1e8fe54367",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-08T09:55:58.861Z",
+    "outcome": {
+      "event": {
+        "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+        "fingerprint": "5cf95b9098146a1e8fe54367"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 855,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Vitalik Buterin urges calm as AI raises new fears over Bitcoin and Ethereum cryptography security",
+    "link": "https://cryptoslate.com/vitalik-buterin-urges-calm-as-ai-raises-new-fears-over-bitcoin-and-ethereum-cryptography-security/",
+    "summary": "He favors unused addresses when migration is easy, while warning that AI could weaken cryptography designed to resist quantum attacks.\nThe post Vitalik Buterin urges calm as AI raises new fears over Bitcoin and Ethereum cryptography security appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/fresh-address-warning.webp",
+    "publishedAt": "2026-10-08T08:40:15.000Z",
+    "collectedAt": "2026-10-08T09:55:56.553Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9dd515fbad223f1bfd406161",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-08T09:55:59.913Z",
+    "outcome": {
+      "event": {
+        "title": "Vitalik Buterin urges calm as AI raises new fears over Bitcoin and Ethereum cryptography security",
+        "fingerprint": "9dd515fbad223f1bfd406161"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 856,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+    "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+    "summary": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-08T06:17:13.000Z",
+    "collectedAt": "2026-10-08T09:55:56.553Z",
+    "corroboratingSources": 1,
+    "fingerprint": "73dbc4bed5b7115bd8843a67",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-08T09:56:00.931Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+        "fingerprint": "73dbc4bed5b7115bd8843a67"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 857,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin ETFs erased October’s net inflows with $485 million in withdrawals, while Ether funds logged a seventh straight outflow session.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D50JPZN9J6RZ7XKC5FMJCE/485.png",
+    "publishedAt": "2026-10-08T07:30:42.000Z",
+    "collectedAt": "2026-10-08T09:55:56.553Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7706d10819b31b9694f8da76",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-08T09:56:02.155Z",
+    "outcome": {
+      "event": {
+        "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+        "fingerprint": "7706d10819b31b9694f8da76"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 858,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Struggles to Break Higher as ETF Demand Weakens: Bitfinex Alpha",
+    "link": "https://cryptopotato.com/bitcoin-struggles-to-break-higher-as-etf-demand-weakens-bitfinex-alpha/",
+    "summary": "The latest data shows weaker ETF demand and lower leverage, with key levels now likely to shape Bitcoin’s next move.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/01/Bitcoin_etf_Sell_Buy.jpg",
+    "publishedAt": "2026-10-07T20:11:16.000Z",
+    "collectedAt": "2026-10-08T09:55:56.554Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9634b3c872bee0ae602f55c0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-08T09:56:03.056Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Struggles to Break Higher as ETF Demand Weakens: Bitfinex Alpha",
+        "fingerprint": "9634b3c872bee0ae602f55c0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 859,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
