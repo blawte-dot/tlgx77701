@@ -32216,5 +32216,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Grayscale Adds BitGo To Hyperliquid Staking ETF Custody Setup",
+    "link": "https://www.newsbtc.com/business/grayscale-adds-bitgo-to-hyperliquid-staking-etf-custody-setup/",
+    "summary": "Grayscale has added BitGo Bank &#38; Trust as an additional custodian for a portion of the HYPE held by its Hyperliquid Staking ETF. The SEC filing shows how increasingly complex altcoin and staking products are building institutional custody structures around assets that once traded almost entirely inside crypto-native venues.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/5cbc74db64394915ab1c4b4435f65070.jpg?fit=750%2C422",
+    "publishedAt": "2026-10-08T02:00:00.000Z",
+    "collectedAt": "2026-10-08T02:28:20.759Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dc570dee0e76f80ccad489d4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-08T02:28:23.304Z",
+    "outcome": {
+      "event": {
+        "title": "Grayscale Adds BitGo To Hyperliquid Staking ETF Custody Setup",
+        "fingerprint": "dc570dee0e76f80ccad489d4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 850,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+    "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+    "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-10-07T19:46:04.000Z",
+    "collectedAt": "2026-10-08T02:28:20.759Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dc115f8a68532e80ecc26b92",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-08T02:28:24.394Z",
+    "outcome": {
+      "event": {
+        "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+        "fingerprint": "dc115f8a68532e80ecc26b92"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 851,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+    "link": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
+    "summary": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+    "publishedAt": "2026-10-07T19:10:31.000Z",
+    "collectedAt": "2026-10-08T02:28:20.759Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f7c582be4e2d407324e0fd20",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-08T02:28:25.343Z",
+    "outcome": {
+      "event": {
+        "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+        "fingerprint": "f7c582be4e2d407324e0fd20"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 852,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "XRP ETFs now hold $1.7 billion but took in just $4M last week",
+    "link": "https://cryptoslate.com/xrp-etfs-now-hold-1-7-billion-but-took-in-just-4m-last-week/",
+    "summary": "Franklin and Canary saw outflows on Oct. 6 even as the five tracked funds gained net inflows, while wallet migrations complicate the supply story.\nThe post XRP ETFs now hold $1.7 billion but took in just $4M last week appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-etf-market-pressure.webp",
+    "publishedAt": "2026-10-07T19:40:35.000Z",
+    "collectedAt": "2026-10-08T02:28:20.759Z",
+    "corroboratingSources": 1,
+    "fingerprint": "faba5de908f79f2a97877bc1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-08T02:28:26.460Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETFs now hold $1.7 billion but took in just $4M last week",
+        "fingerprint": "faba5de908f79f2a97877bc1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 853,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Ethereum falls 6%, leaving $1.35 billion in long bets at risk of liquidation",
+    "link": "https://cryptoslate.com/ethereum-falls-6-leaving-1-35-billion-in-long-bets-at-risk-of-liquidation/",
+    "summary": "Ethereum’s slide toward $2,500 has put about $1.35 billion of leveraged long positions at increasing risk of liquidation. CoinMarketCap data showed roughly $1.35 billion of ETH long exposure sat at liquidation levels below the prevailing price, compared with about $999.78 million of shorts vulnerable above it. The figures represent positions exposed across a range of [&#8230;]\nThe post Ethereum falls 6%, leaving $1.35 billion in long bets at risk of liquidation appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-liquidation-cliff.webp",
+    "publishedAt": "2026-10-07T18:40:43.000Z",
+    "collectedAt": "2026-10-08T02:28:20.759Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8852edb1c05d636616ef0bc9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-08T02:28:27.891Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum falls 6%, leaving $1.35 billion in long bets at risk of liquidation",
+        "fingerprint": "8852edb1c05d636616ef0bc9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 854,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

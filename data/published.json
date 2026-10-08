@@ -5947,5 +5947,45 @@
     "hasImage": true,
     "eventFingerprint": "8234b8c0f373f8c2c4baddfb",
     "timestamp": "2026-10-07T22:40:46.469Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 850,
+    "text": "Wall Street's custody net is widening to catch assets that used to live entirely off the grid.\n\nGrayscale has tapped BitGo Bank & Trust to safeguard a portion of the HYPE tokens underpinning its Hyperliquid Staking ETF, according to a recent SEC filing. \n\nThe move points to a quiet structural shift. As institutional vehicles push deeper into altcoin staking and native DeFi yields, they are forcing traditional, multi-custodian security models onto protocols that were built entirely for crypto-native venues. \n\nComplexity is scaling faster than the legacy infrastructure designed to hold it.",
+    "hasImage": true,
+    "eventFingerprint": "dc570dee0e76f80ccad489d4",
+    "timestamp": "2026-10-08T02:28:23.299Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 851,
+    "text": "Tether is moving deeper into sovereign infrastructure.\n\nThe stablecoin issuer has signed an agreement with the National Bank of Kazakhstan to explore a tenge-backed digital currency and tokenized real-world assets. \n\nThe partnership focuses on evaluating blockchain technology for Kazakhstan's financial sector, including central bank digital currency architecture and regulatory compliance frameworks. \n\nState-level adoption of stablecoin rails continues to expand outside of Western jurisdictions.",
+    "hasImage": true,
+    "eventFingerprint": "dc115f8a68532e80ecc26b92",
+    "timestamp": "2026-10-08T02:28:24.387Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 852,
+    "text": "Autonomous bots are no longer just trading memecoins.\n\nSeoul’s Yoido Full Gospel Church confirmed a database breach exposing 850,000 members, with security researchers uncovering evidence that AI agents were used to automate the raid. \n\nWhen machine learning starts handling offensive cyber operations at scale, traditional perimeter defense feels entirely outdated. \n\nWhere is the line between automated threat intelligence and fully autonomous attacks, and how quickly do security stacks need to adapt? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "f7c582be4e2d407324e0fd20",
+    "timestamp": "2026-10-08T02:28:25.337Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 853,
+    "text": "With $1.7 billion now locked in XRP funds but weekly inflows slowing to a trickle at just $4 million—alongside reported outflows at Franklin and Canary—institutional accumulation appears to be hitting a friction point.\n\nAre these outflows and slowing inflows a temporary pause before the next leg, or does this divergence signal that current price levels are testing institutional patience?",
+    "hasImage": true,
+    "eventFingerprint": "faba5de908f79f2a97877bc1",
+    "timestamp": "2026-10-08T02:28:26.455Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 854,
+    "text": "A six percent slide in ETH has brought a major cluster of leverage directly into the crosshairs.\n\nCoinMarketCap figures indicate roughly $1.35 billion in long exposure sits at liquidation levels beneath current market prices. \n\nBy comparison, vulnerable short positions overhead total approximately $999.78 million. \n\nAs the asset tests the approach toward $2,500, the imbalance leaves bulls heavily exposed to cascading margin pressure.",
+    "hasImage": true,
+    "eventFingerprint": "8852edb1c05d636616ef0bc9",
+    "timestamp": "2026-10-08T02:28:27.884Z"
   }
 ]
