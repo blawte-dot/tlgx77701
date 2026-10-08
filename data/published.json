@@ -6027,5 +6027,37 @@
     "hasImage": true,
     "eventFingerprint": "9634b3c872bee0ae602f55c0",
     "timestamp": "2026-10-08T09:56:03.050Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 860,
+    "text": "Three major U.S. equities are now live on Solana.\n\nSecuritize has deployed tokenized shares of Apple, Nvidia, and Tesla directly onto the network, marking another notable bridge between traditional capital markets and high-speed ledgers. \n\nTokenized real-world assets have steadily transitioned from experimental testnets to active production environments over the past year. \n\nFor Solana, capturing this deployment underscores its growing appeal for institutional issuers seeking sub-second settlement and low transaction overhead. \n\nExecution speed and throughput continue to drive enterprise adoption forward, even as broader market conditions fluctuate.",
+    "hasImage": true,
+    "eventFingerprint": "61645a816ac219e23a86fa87",
+    "timestamp": "2026-10-08T17:12:30.454Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 861,
+    "text": "Wall Street is finally meeting the Solana blockchain.\n\nSecuritize has officially launched tokenized US equities, starting with heavy hitters like Apple, Nvidia, and MicroStrategy. These aren’t synthetic derivatives; each token is backed 1:1 by real-world shares held in custody.\n\nThe move marks a shift in market infrastructure:\n\n• Settlement: Trades settle in USDC, bypassing traditional T+1 banking delays.\n• Yield: Dividend distributions are automated directly to token holders.\n• Compliance: The assets are fully regulated and integrated with existing securities frameworks.\n\nBy moving equity ownership on-chain, Securitize is targeting the friction currently inherent in legacy broker-dealer models. While institutional adoption of tokenized real-world assets (RWAs) remains in the early stages, moving high-liquidity stocks onto a high-throughput chain like Solana creates a blueprint for 24/7 global capital markets.",
+    "hasImage": true,
+    "eventFingerprint": "b9ea886fcb490bc53bd2d454",
+    "timestamp": "2026-10-08T17:13:05.794Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 862,
+    "text": "TradFi is finally running out of ways to ignore Solana.\n\nSecuritize is bringing tokenized Apple, Nvidia, and Tesla shares directly onto the Solana blockchain. These aren’t just synthetic mirrors; the firm is actively pushing for these assets to trade across NYSE and OKX ICE venues.\n\nWe’re moving past the \"crypto-native\" phase of tokenization. When the S&P 500 giants start settling on a high-throughput L1, the narrative shifts from speculation to infrastructure. \n\nWall Street isn't just watching anymore; they're migrating. ⚡️",
+    "hasImage": true,
+    "eventFingerprint": "68db48f108d0cf87e5a848ea",
+    "timestamp": "2026-10-08T17:13:06.991Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 863,
+    "text": "Institutional conviction is facing its first significant test in months.\n\nUS spot Bitcoin ETFs saw $484.9 million in net outflows on October 7, marking the largest single-day exit since June 25. BlackRock’s IBIT led the sell-side pressure, shedding $207.7 million as market volatility persists.\n\nEthereum funds are echoing the trend, hitting a nine-month high in net withdrawals. \n\nThe data, tracked by SoSoValue, highlights a broader shift in institutional appetite as the recent crypto rally loses momentum. This exodus suggests that major players are moving to lock in positions or mitigate exposure amid current macroeconomic uncertainty. 📉",
+    "hasImage": true,
+    "eventFingerprint": "515de62b63c49fb7d2482bb0",
+    "timestamp": "2026-10-08T17:13:08.175Z"
   }
 ]
