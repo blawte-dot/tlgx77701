@@ -6059,5 +6059,45 @@
     "hasImage": true,
     "eventFingerprint": "515de62b63c49fb7d2482bb0",
     "timestamp": "2026-10-08T17:13:08.175Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 864,
+    "text": "The collapse of FTX is being adapted for the screen.\n\nNetflix has released the trailer for a new series chronicling the rise and fall of Sam Bankman-Fried and Caroline Ellison. The project aims to dramatize the internal dynamics of Alameda Research and the subsequent implosion of the multibillion-dollar exchange.\n\nFor those following the legal aftermath: Bankman-Fried is currently serving a 25-year sentence in federal prison following his 2023 conviction on fraud and conspiracy charges. \n\nCaroline Ellison, who served as the government’s star witness during the trial, was released from custody this past January after completing her two-year sentence. \n\nThe series arrives as the crypto industry continues to navigate the regulatory and reputational fallout from the 2022 collapse.",
+    "hasImage": true,
+    "eventFingerprint": "ea1661cd04e71637d6a2620d",
+    "timestamp": "2026-10-08T22:50:46.826Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 865,
+    "text": "\"Uptober\" has hit a sharp reality check. \n\nSpot Bitcoin ETFs recorded a $484.9 million outflow yesterday, marking the largest single-day withdrawal since June. The sell-off signals a broader shift in risk appetite as macro pressures intensify.\n\nGlobal markets are currently grappling with a trifecta of tightening conditions:\n\n• Oil prices are hovering near the $100 per barrel mark.\n• Bond yields have climbed to their highest levels since 2002.\n• Fed rhetoric remains hawkish, signaling that the interest rate hiking cycle may not yet be over.\n\nCapital is rotating out of speculative assets as the cost of borrowing climbs and energy inflation threatens to keep interest rates elevated for longer than anticipated. Investors are clearly choosing safety over volatility in the current environment.",
+    "hasImage": true,
+    "eventFingerprint": "bba842a7431d37e76ac2c931",
+    "timestamp": "2026-10-08T22:50:48.219Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 866,
+    "text": "Macro headwinds are colliding with digital asset momentum as liquidity concerns resurface.\n\nBitcoin has slipped below the $81,000 level this week, reflecting a broader shift in risk sentiment. The primary pressure stems from a hawkish pivot in Federal Reserve commentary, fueling speculation that interest rates may stay higher for longer.\n\nCompounding the volatility, a sudden spike in oil prices has reignited inflationary anxieties. Markets are recalibrating as the prospect of persistent inflation forces a re-evaluation of the Fed’s path forward. \n\nInvestors are currently weighing the impact of tighter monetary policy against the structural demand for non-sovereign assets. With yields rising, capital rotation is intensifying, creating a more challenging environment for risk-on sectors across the board.",
+    "hasImage": true,
+    "eventFingerprint": "5b3f387471f30168f930a261",
+    "timestamp": "2026-10-08T22:50:49.796Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 867,
+    "text": "Wall Street is officially moving to Solana.\n\nSecuritize just launched a suite of tokenized stocks, bringing massive names like Nvidia, Apple, and Amazon onchain. These aren't synthetic proxies; each token is backed one-to-one by real shares, granting holders the same dividends and voting rights they would receive through a traditional brokerage.\n\nThis is a critical shift in market infrastructure. By leveraging Solana’s high-throughput architecture, Securitize is moving beyond the fragmented, high-fee environment of traditional settlement layers. \n\nThe launch features 12 initial assets, with plans to expand liquidity through integrations with the NYSE and OKX-ICE venues. For the crypto ecosystem, this marks a transition from speculative trading to the integration of real-world equities into high-speed decentralized rails. \n\nThe bridge between traditional finance and onchain settlement is narrowing.\n\n#RWA",
+    "hasImage": true,
+    "eventFingerprint": "92f4277736d57f55d1a9e8e5",
+    "timestamp": "2026-10-08T22:50:53.266Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 868,
+    "text": "Starknet may be preparing to break its dependence on Ethereum.\n\nStarkWare CEO Eli Ben-Sasson recently hinted at a potential shift to an independent Layer 1 network for the ecosystem. The core driver is timeline control: the team wants to implement quantum-resistant security protocols by 2027.\n\nWaiting for Ethereum’s own upgrades to reach that standard is currently seen as too slow for the project's internal roadmap.\n\nMoving to an independent chain would grant Starknet full sovereignty over its security stack and upgrade velocity. It marks a significant pivot from the current L2 model, potentially redefining the project's relationship with the Ethereum mainnet.\n\nWhether this move proceeds remains a strategic consideration rather than a confirmed timeline, but it highlights the growing tension between scaling solutions and the constraints of their host networks.",
+    "hasImage": true,
+    "eventFingerprint": "5eaaad151b46469ef0d0985e",
+    "timestamp": "2026-10-08T22:50:54.394Z"
   }
 ]

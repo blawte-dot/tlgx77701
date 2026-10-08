@@ -32821,5 +32821,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+    "link": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E9874D134FZFY2WSZBNXKY/hi-from-ellison-to-bankman-fried.png",
+    "publishedAt": "2026-10-08T18:17:35.000Z",
+    "collectedAt": "2026-10-08T22:50:44.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ea1661cd04e71637d6a2620d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-08T22:50:46.836Z",
+    "outcome": {
+      "event": {
+        "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+        "fingerprint": "ea1661cd04e71637d6a2620d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 864,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
+    "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
+    "summary": "Investors yanked $484.9 million out of spot Bitcoin ETFs in a single day. Oil is near $100, bond yields are at their highest since 2002, and the Fed isn't done hiking.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
+    "publishedAt": "2026-10-08T17:46:05.000Z",
+    "collectedAt": "2026-10-08T22:50:44.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bba842a7431d37e76ac2c931",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-08T22:50:48.224Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
+        "fingerprint": "bba842a7431d37e76ac2c931"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 865,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
+    "summary": "Bitcoin Magazine\n\nBitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough\nThe price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates. \nThis post Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-2.jpg",
+    "publishedAt": "2026-10-08T17:14:58.000Z",
+    "collectedAt": "2026-10-08T22:50:44.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5b3f387471f30168f930a261",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-08T22:50:49.800Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough",
+        "fingerprint": "5b3f387471f30168f930a261"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 866,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+    "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+    "summary": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
+    "publishedAt": "2026-10-08T15:10:49.000Z",
+    "collectedAt": "2026-10-08T22:50:44.563Z",
+    "corroboratingSources": 2,
+    "fingerprint": "92f4277736d57f55d1a9e8e5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-10-08T22:50:53.271Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+        "fingerprint": "92f4277736d57f55d1a9e8e5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 867,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Starknet Weighs Layer 1 Shift to Pursue Quantum Security by 2027",
+    "link": "https://thedefiant.io/news/blockchains/starknet-weighs-layer-1-shift-to-pursue-quantum-security-by-2027",
+    "summary": "An independent chain would let Starknet control security upgrades rather than wait for Ethereum, says StarkWare CEO Eli Ben-Sasson.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/e89b0d605841a503460ec2c2acfe79a66fc006dc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-08T21:01:42.000Z",
+    "collectedAt": "2026-10-08T22:50:44.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5eaaad151b46469ef0d0985e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-08T22:50:54.399Z",
+    "outcome": {
+      "event": {
+        "title": "Starknet Weighs Layer 1 Shift to Pursue Quantum Security by 2027",
+        "fingerprint": "5eaaad151b46469ef0d0985e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 868,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
