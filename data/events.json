@@ -33231,5 +33231,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+    "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+    "summary": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/88b757b3c8c8512886787d35a92ef84c372b789c-1376x768.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-09T06:51:32.000Z",
+    "collectedAt": "2026-10-09T09:59:41.495Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b424326b3c8c065da692f19a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-09T09:59:53.185Z",
+    "outcome": {
+      "event": {
+        "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+        "fingerprint": "b424326b3c8c065da692f19a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 874,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+    "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin dipped below $81,000, sparking mass crypto liquidations as traders sent BTC to exchanges at a loss.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp",
+    "publishedAt": "2026-10-09T09:50:01.000Z",
+    "collectedAt": "2026-10-09T09:59:41.495Z",
+    "corroboratingSources": 1,
+    "fingerprint": "905a2486b2d6798bd88b2075",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-09T10:00:07.442Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+        "fingerprint": "905a2486b2d6798bd88b2075"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 875,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "6 Reasons Bitcoin Crashed by $7K in 3 Days: Bull Market Over or Regular Correction?",
+    "link": "https://cryptopotato.com/6-reasons-bitcoin-crashed-by-7k-in-3-days-bull-market-over-or-regular-correction/",
+    "summary": "From major ETF outflows to another Fed rate-hike warning. Here's what pushed BTC south, and whether it was an anticipated event or there's more pain on the horizon.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/01/Bitcoin_Red_Decline.jpg",
+    "publishedAt": "2026-10-09T09:47:05.000Z",
+    "collectedAt": "2026-10-09T09:59:41.495Z",
+    "corroboratingSources": 1,
+    "fingerprint": "96cf9d278a65c1240f6d86e6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-09T10:00:12.274Z",
+    "outcome": {
+      "event": {
+        "title": "6 Reasons Bitcoin Crashed by $7K in 3 Days: Bull Market Over or Regular Correction?",
+        "fingerprint": "96cf9d278a65c1240f6d86e6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 876,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) Expands Wall Street Push With Leveraged ETF Swap Financing: Report",
+    "link": "https://cryptopotato.com/ripple-xrp-expands-wall-street-push-with-leveraged-etf-swap-financing-report/",
+    "summary": "Leveraged ETFs now manage more than $256 billion in the US, giving Ripple a large market for swap financing.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/03/Ripple_Wall_street.jpg",
+    "publishedAt": "2026-10-09T04:08:57.000Z",
+    "collectedAt": "2026-10-09T09:59:41.495Z",
+    "corroboratingSources": 1,
+    "fingerprint": "76fcec646cc9dd3c1c447204",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-09T10:00:17.203Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple (XRP) Expands Wall Street Push With Leveraged ETF Swap Financing: Report",
+        "fingerprint": "76fcec646cc9dd3c1c447204"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 877,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Ledger Turns Into 'Whales Safehouse' With New Upgrade: What It Changes for XRP Holders",
+    "link": "https://u.today/xrp-ledger-turns-into-whales-safehouse-with-new-upgrade-what-it-changes-for-xrp-holders",
+    "summary": "New XRPL upgrade changes wallet rules for big accounts to let them hide master keys offline.",
+    "image": null,
+    "publishedAt": "2026-10-09T09:06:05.000Z",
+    "collectedAt": "2026-10-09T09:59:41.496Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3737d085ba86443cb98aad54",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-09T10:00:20.673Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Ledger Turns Into 'Whales Safehouse' With New Upgrade: What It Changes for XRP Holders",
+        "fingerprint": "3737d085ba86443cb98aad54"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 878,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
