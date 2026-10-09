@@ -33026,5 +33026,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Securitize Launches Tokenized Apple, Nvidia and Tesla Stocks on Solana",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
+    "summary": "Eligible US and EU investors can access share-backed tokens through Securitize’s broker-dealer platform; trading on NYSE and OKXICE venues remains planned.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/4a22046ab98ffe42481628eb95de05f8e93a62bb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-08T15:10:15.000Z",
+    "collectedAt": "2026-10-09T02:44:44.650Z",
+    "corroboratingSources": 2,
+    "fingerprint": "ff48274677d2d4ce0f343b12",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-10-09T02:44:55.175Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize Launches Tokenized Apple, Nvidia and Tesla Stocks on Solana",
+        "fingerprint": "ff48274677d2d4ce0f343b12"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 869,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+    "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4EEEA4K0X2GAJFKB9A8T56C/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.png",
+    "publishedAt": "2026-10-08T19:31:38.000Z",
+    "collectedAt": "2026-10-09T02:44:44.650Z",
+    "corroboratingSources": 1,
+    "fingerprint": "027150e0f43371a87bf883e3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-09T02:45:03.787Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+        "fingerprint": "027150e0f43371a87bf883e3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 870,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Standard Chartered to expand crypto custody services in Singapore",
+    "link": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+    "summary": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/standard_chartered_news_editorial.jpg",
+    "publishedAt": "2026-10-08T07:55:14.000Z",
+    "collectedAt": "2026-10-09T02:44:44.650Z",
+    "corroboratingSources": 3,
+    "fingerprint": "3cf66db7b4961c79db354487",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-09T02:45:10.089Z",
+    "outcome": {
+      "event": {
+        "title": "Standard Chartered to expand crypto custody services in Singapore",
+        "fingerprint": "3cf66db7b4961c79db354487"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 871,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+    "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+    "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-America-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-10-08T16:44:20.000Z",
+    "collectedAt": "2026-10-09T02:44:44.650Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2af82ebd4b5dbacebcc2980e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-09T02:45:17.515Z",
+    "outcome": {
+      "event": {
+        "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+        "fingerprint": "2af82ebd4b5dbacebcc2980e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 872,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin crashes through $81,000 buy wall as $1 billion crypto liquidation bloodbath unfolds",
+    "link": "https://cryptoslate.com/bitcoin-crashes-through-81000-buy-wall-as-1-billion-crypto-liquidation-bloodbath-unfolds/",
+    "summary": "Bitcoin registered an intraday low near $80,000 as a cryptocurrency selloff triggered over $1 billion in liquidations, overwhelmingly hitting traders betting on higher prices. The largest cryptocurrency traded around $80,744 as of press time, down 3% over 24 hours and roughly 4% over the past week, extending a retreat from its recent attempt to reclaim [&#8230;]\nThe post Bitcoin crashes through $81,000 buy wall as $1 billion crypto liquidation bloodbath unfolds appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-fed-waterfall.webp",
+    "publishedAt": "2026-10-08T21:00:13.000Z",
+    "collectedAt": "2026-10-09T02:44:44.650Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b181e8c464f0c1561633dd75",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-09T02:45:26.817Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin crashes through $81,000 buy wall as $1 billion crypto liquidation bloodbath unfolds",
+        "fingerprint": "b181e8c464f0c1561633dd75"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 873,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -5336,5 +5336,40 @@
     "hasImage": true,
     "eventFingerprint": "5eaaad151b46469ef0d0985e",
     "timestamp": "2026-10-08T22:50:54.391Z"
+  },
+  {
+    "messageId": 869,
+    "text": "The lines between TradFi and DeFi are blurring further today as major equities hit the blockchain.\n\nSecuritize has officially launched tokenized versions of Apple, Nvidia, and Tesla on the Solana network. This move allows eligible US and EU investors to hold share-backed tokens, bridging traditional market assets with the speed and composability of high-throughput chains.\n\nThe significance here isn't just the ticker symbols involved. By utilizing Solana, Securitize is signaling a shift toward real-time settlement and 24/7 accessibility for assets historically trapped behind the constraints of legacy market hours. \n\nWhile trading remains tied to traditional venue schedules via NYSE and OKXICE, the infrastructure for permissionless, tokenized capital markets is maturing. We are moving closer to a model where blue-chip equity exposure operates with the same liquidity dynamics as native crypto assets. \n\nThe integration is live for institutional and eligible retail participants now.",
+    "hasImage": true,
+    "eventFingerprint": "ff48274677d2d4ce0f343b12",
+    "timestamp": "2026-10-09T02:44:55.163Z"
+  },
+  {
+    "messageId": 870,
+    "text": "Tokenization is finally moving from experimental pilots to blue-chip equity access.\n\nSecuritize has launched tokenized shares of 12 major US companies on the Solana blockchain, sending their underlying stock up over 10% on the news.\n\nThe offering provides eligible investors with full dividend and voting rights tied to the tokens. More importantly, the firm is positioning the infrastructure for 24/7 market access, a significant departure from traditional exchange hours.\n\nWhile the current scope remains limited to eligible participants, the shift signals a broader institutional push to bridge traditional equity markets with high-throughput distributed ledgers.",
+    "hasImage": true,
+    "eventFingerprint": "027150e0f43371a87bf883e3",
+    "timestamp": "2026-10-09T02:45:03.771Z"
+  },
+  {
+    "messageId": 871,
+    "text": "Institutional adoption of digital assets just hit a new milestone in a major financial hub.\n\nStandard Chartered is officially expanding its crypto custody services into Singapore. This move deepens the bank's existing footprint, which already spans the UAE, Luxembourg, and Hong Kong.\n\nBy integrating custody infrastructure into one of the world's most critical regulatory environments, the bank is signaling that institutional-grade oversight for digital assets is becoming a core banking requirement rather than an outlier project. \n\nThe move reflects a clear trend: traditional finance is moving past the experimental phase and into permanent infrastructure build-outs.",
+    "hasImage": true,
+    "eventFingerprint": "3cf66db7b4961c79db354487",
+    "timestamp": "2026-10-09T02:45:10.077Z"
+  },
+  {
+    "messageId": 872,
+    "text": "Billions in government-held Bitcoin are on the move.\n\nOn-chain data from Arkham Intelligence shows a wallet associated with the 2016 Bitfinex hack has transferred 12,267 BTC to an unlabeled address. \n\nThe funds, valued at approximately $1 billion, were seized by U.S. authorities following the conviction of Ilya Lichtenstein. \n\nThe destination address currently holds no history of exchange interaction. We are monitoring for any signs of movement to centralized platforms.",
+    "hasImage": true,
+    "eventFingerprint": "2af82ebd4b5dbacebcc2980e",
+    "timestamp": "2026-10-09T02:45:17.503Z"
+  },
+  {
+    "messageId": 873,
+    "text": "$1 billion in liquidations just wiped out the $81,000 support floor.\n\nBitcoin is testing the $80,000 level after a sharp intraday reversal, leaving long-bias traders exposed and reeling. This liquidity flush has reset the immediate outlook, cooling the recent momentum that pushed prices toward new highs.\n\nWith leverage largely cleared from the board, is this a necessary shakeout to consolidate at lower levels, or are we looking at the start of a deeper technical breakdown?",
+    "hasImage": true,
+    "eventFingerprint": "b181e8c464f0c1561633dd75",
+    "timestamp": "2026-10-09T02:45:26.802Z"
   }
 ]
