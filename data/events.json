@@ -33436,5 +33436,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
+    "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+    "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/thai-sec-crypto-etfs.png",
+    "publishedAt": "2026-10-09T10:40:59.000Z",
+    "collectedAt": "2026-10-09T16:56:23.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1d71dbdc27abd9a74d6cbadc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-09T16:56:26.023Z",
+    "outcome": {
+      "event": {
+        "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
+        "fingerprint": "1d71dbdc27abd9a74d6cbadc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 879,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+    "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+    "summary": "Alex Mashinsky, already serving 12 years for fraud, settled New York’s civil case over claims he misled Celsius customers about the failed crypto lender’s safety.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d54b6f8ef3c2e7601e8a8736bec9c49b0b11698-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-09T14:55:23.000Z",
+    "collectedAt": "2026-10-09T16:56:23.938Z",
+    "corroboratingSources": 3,
+    "fingerprint": "bae71be08057f49800a877d7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-09T16:56:27.309Z",
+    "outcome": {
+      "event": {
+        "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+        "fingerprint": "bae71be08057f49800a877d7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 880,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+    "link": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+    "summary": "Bitcoin Magazine\n\nCalamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030\nIs Bitcoin headed for a $1M awakening by 2030? Calamos CEO John Koudounis explains why institutional bank lending and ETF access will drive the surge.\nThis post Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030 first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Calamos-Investments-CEO-John-Koudounis-Bitcoin-Will-Hit-1M-by-2030-.jpg",
+    "publishedAt": "2026-10-09T13:28:10.000Z",
+    "collectedAt": "2026-10-09T16:56:23.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "af806caa6738ac36f39994e7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-09T16:56:28.687Z",
+    "outcome": {
+      "event": {
+        "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+        "fingerprint": "af806caa6738ac36f39994e7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 881,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+    "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+    "summary": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/70284126e74d9b4b82638d4995ed0ba9820e80a9-4883x2747.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-09T10:16:55.000Z",
+    "collectedAt": "2026-10-09T16:56:23.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d9930b84659151465edcf703",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-09T16:56:29.817Z",
+    "outcome": {
+      "event": {
+        "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+        "fingerprint": "d9930b84659151465edcf703"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 882,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding $641 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg",
+    "publishedAt": "2026-10-09T07:34:44.000Z",
+    "collectedAt": "2026-10-09T16:56:23.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5b4d9d92894bc1f0fd7a3116",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-09T16:56:30.899Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+        "fingerprint": "5b4d9d92894bc1f0fd7a3116"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 883,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

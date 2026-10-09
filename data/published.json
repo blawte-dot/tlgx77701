@@ -6179,5 +6179,45 @@
     "hasImage": true,
     "eventFingerprint": "3737d085ba86443cb98aad54",
     "timestamp": "2026-10-09T10:00:20.666Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 879,
+    "text": "Institutional gatekeepers in Southeast Asia are narrowing the field for crypto access.\n\nThailand’s Securities and Exchange Commission has officially finalized the regulatory framework for spot crypto ETFs, restricting the initial rollout exclusively to Bitcoin and Ether. \n\nThe new rules, effective October 16, establish strict protocols for fund managers. Key requirements include:\n\n- Mandatory third-party custody solutions.\n- Enhanced risk-disclosure mandates for retail investors.\n- Standardized liquidity and trading venue requirements.\n\nBy limiting the scope to the two largest assets by market cap, regulators are signaling a preference for established, high-liquidity tokens over the broader altcoin market. This move brings Thailand into alignment with global trends toward regulated institutional crypto vehicles, though the SEC is maintaining a cautious stance on speculative exposure.\n\n#Thailand",
+    "hasImage": true,
+    "eventFingerprint": "1d71dbdc27abd9a74d6cbadc",
+    "timestamp": "2026-10-09T16:56:26.019Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 880,
+    "text": "The courtroom door has effectively slammed shut on Alex Mashinsky.\n\nThe former Celsius CEO has reached a settlement with the New York Attorney General, agreeing to pay up to $35 million in restitution and accepting a permanent ban from the cryptocurrency industry. \n\nThis civil resolution runs parallel to his existing 12-year prison sentence for fraud. For market participants, the outcome serves as a definitive punctuation mark on the collapse of Celsius, a platform that once managed billions in user assets before filing for bankruptcy in 2022.\n\nThe AG’s investigation centered on allegations that Mashinsky misled retail customers about the platform's stability, masking the high-risk nature of its yields. While the monetary recovery aims to provide some relief to those who lost funds, the lifetime ban underscores the shift in regulatory appetite: executives found liable for deceptive practices are increasingly being barred from participation in the digital asset sector entirely.\n\n#Celsius",
+    "hasImage": true,
+    "eventFingerprint": "bae71be08057f49800a877d7",
+    "timestamp": "2026-10-09T16:56:27.305Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 881,
+    "text": "Institutional adoption is shifting from speculative interest to long-term price forecasting.\n\nJohn Koudounis, CEO of Calamos Investments, projects Bitcoin will reach a $1 million valuation by 2030. He identifies two primary catalysts behind this aggressive outlook: the expansion of institutional bank lending and the structural integration provided by spot ETFs.\n\nKoudounis argues that as traditional financial institutions normalize Bitcoin as a collateralized asset, liquidity will move beyond retail participants and into the core of the global banking system. \n\nWhile the $1 million mark remains a speculative target, the firm’s focus on the plumbing of institutional finance suggests that the next phase of market maturity will be defined by how Bitcoin integrates into existing debt and lending markets. \n\nThe path to seven figures will likely depend on whether this infrastructure can withstand the volatility inherent in decentralized assets.",
+    "hasImage": true,
+    "eventFingerprint": "af806caa6738ac36f39994e7",
+    "timestamp": "2026-10-09T16:56:28.684Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 882,
+    "text": "Thai regulators are moving faster than expected on institutional crypto access. \n\nStarting October 16, local asset managers gain the green light to list Bitcoin and Ether ETFs on the Thai stock exchange. This formalizes a regulated pipeline for domestic capital that has previously relied on offshore platforms or decentralized alternatives.\n\nWith the market already saturated by US and Hong Kong spot ETFs, does this regional rollout provide meaningful new buy-side pressure, or is it simply playing catch-up to global liquidity trends? \n\n#Thailand",
+    "hasImage": true,
+    "eventFingerprint": "d9930b84659151465edcf703",
+    "timestamp": "2026-10-09T16:56:29.813Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 883,
+    "text": "Institutional appetite for spot crypto ETFs is cooling rapidly as October outflows surge toward the $1 billion mark.\n\nBitcoin ETFs shed $244 million on Thursday alone, snapping a period of relative stability. Meanwhile, Ether funds are facing sustained pressure, marking eight consecutive sessions of outflows totaling $641 million.\n\nThe data, reported via Cointelegraph, signals a significant shift in capital flow as investors reassess their positions amid broader market volatility. \n\n#CryptoMarkets",
+    "hasImage": true,
+    "eventFingerprint": "5b4d9d92894bc1f0fd7a3116",
+    "timestamp": "2026-10-09T16:56:30.894Z"
   }
 ]
