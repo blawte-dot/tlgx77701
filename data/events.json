@@ -33641,5 +33641,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
+    "link": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
+    "summary": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/05/Screenshot-2023-05-03-at-11.49.08.png",
+    "publishedAt": "2026-10-09T14:16:15.000Z",
+    "collectedAt": "2026-10-09T21:29:12.321Z",
+    "corroboratingSources": 3,
+    "fingerprint": "18d36eb8639edb2ab3332e4b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-09T21:29:28.248Z",
+    "outcome": {
+      "event": {
+        "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
+        "fingerprint": "18d36eb8639edb2ab3332e4b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 884,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Terrifying iPhone Exploit Threatens Crypto Holders",
+    "link": "https://u.today/terrifying-iphone-exploit-threatens-crypto-holders",
+    "summary": "A dangerous iPhone exploit continues to threaten crypto holders, with hackers targeting popular wallets such as Coinbase, MetaMask and Trust Wallet to steal sensitive data and recovery phrases.",
+    "image": null,
+    "publishedAt": "2026-10-09T20:51:57.000Z",
+    "collectedAt": "2026-10-09T21:29:12.321Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bf1cae1bd8280098f6c74364",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-09T21:29:39.530Z",
+    "outcome": {
+      "event": {
+        "title": "Terrifying iPhone Exploit Threatens Crypto Holders",
+        "fingerprint": "bf1cae1bd8280098f6c74364"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 885,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Binance to Restrict 8 Services and Delist 22 Tokens in Brazil",
+    "link": "https://cryptopotato.com/binance-to-restrict-8-services-and-delist-22-tokens-in-brazil/",
+    "summary": "The product restrictions are regulatory changes, while existing token balances will remain in customer accounts after the delisting.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/BinanceBrazil_CB.jpg",
+    "publishedAt": "2026-10-09T20:29:25.000Z",
+    "collectedAt": "2026-10-09T21:29:12.321Z",
+    "corroboratingSources": 2,
+    "fingerprint": "e94350b5aa5946ea32f59da2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9.5,
+    "processedAt": "2026-10-09T21:29:52.974Z",
+    "outcome": {
+      "event": {
+        "title": "Binance to Restrict 8 Services and Delist 22 Tokens in Brazil",
+        "fingerprint": "e94350b5aa5946ea32f59da2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 886,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Ledger hack scare nears $90 million as Tether moves to freeze stolen USDT",
+    "link": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
+    "summary": "Suspected Ledger wallet thefts are approaching $90 million as Tether freezes USDT stablecoin linked to the incident, according to blockchain investigators. In an Oct. 9 statement, the crypto hardware wallet maker said it was investigating reports that customers lost funds after buying devices from CryptoBilis, an authorized reseller operating in Southeast Asia. As a precaution, [&#8230;]\nThe post Ledger hack scare nears $90 million as Tether moves to freeze stolen USDT appeared first on CryptoSl",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-frozen-crypto-assets.webp",
+    "publishedAt": "2026-10-09T21:10:39.000Z",
+    "collectedAt": "2026-10-09T21:29:12.321Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f668e3dd2d7004ad0f0a393b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-09T21:29:54.229Z",
+    "outcome": {
+      "event": {
+        "title": "Ledger hack scare nears $90 million as Tether moves to freeze stolen USDT",
+        "fingerprint": "f668e3dd2d7004ad0f0a393b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 887,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+    "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BAEH9JKD3WDH6MG84JNW/interviewalex-mashinsky2.png",
+    "publishedAt": "2026-10-09T20:14:02.000Z",
+    "collectedAt": "2026-10-09T21:29:12.321Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d53dc367e04ba1d522b02e55",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-09T21:29:55.226Z",
+    "outcome": {
+      "event": {
+        "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+        "fingerprint": "d53dc367e04ba1d522b02e55"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 888,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

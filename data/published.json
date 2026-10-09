@@ -6219,5 +6219,45 @@
     "hasImage": true,
     "eventFingerprint": "5b4d9d92894bc1f0fd7a3116",
     "timestamp": "2026-10-09T16:56:30.894Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 884,
+    "text": "The era of \"crypto king\" impunity is closing.\n\nNew York Attorney General Letitia James has secured up to $35 million in a settlement with former Celsius CEO Alex Mashinsky. The agreement does more than recoup funds; it imposes a permanent ban on Mashinsky from participating in the securities and crypto industries.\n\nThis resolution marks a definitive end to the civil litigation surrounding the collapse of the lending platform, which left hundreds of thousands of retail users with frozen assets when it filed for bankruptcy in 2022.\n\nWhile the financial penalty is significant, the industry-wide ban serves as a stark regulatory signal. Regulators are no longer just seeking fines—they are actively removing key architects of the 2022 market contagion from the ecosystem entirely.\n\nFor the market, the focus remains on the ongoing criminal trial, where Mashinsky continues to face federal fraud charges. Today’s settlement clears a major civil hurdle, but the legal pressure on former industry executives remains at an all-time high.",
+    "hasImage": true,
+    "eventFingerprint": "18d36eb8639edb2ab3332e4b",
+    "timestamp": "2026-10-09T21:29:28.239Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 885,
+    "text": "Your iPhone may be the weakest link in your security stack.\n\nA sophisticated exploit is currently targeting iOS devices, specifically hunting for sensitive data stored within popular crypto wallets. Reports indicate that hackers are successfully accessing application sandboxes to extract private keys and recovery phrases from Coinbase, MetaMask, and Trust Wallet.\n\nThe exploit bypasses standard mobile protections, turning a device intended for convenience into a significant liability for self-custody. \n\nIf you hold significant assets, the risk profile of mobile-based management has shifted. Security experts recommend moving substantial holdings to dedicated hardware cold storage. At a minimum, ensure your iOS is updated to the latest version and audit the permissions granted to any third-party applications. \n\nIf you rely on your phone for active trading, assume the device is compromised until proven otherwise.",
+    "hasImage": true,
+    "eventFingerprint": "bf1cae1bd8280098f6c74364",
+    "timestamp": "2026-10-09T21:29:39.521Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 886,
+    "text": "Binance is tightening its footprint in Brazil, signaling a shift in how major exchanges navigate tightening local compliance frameworks.\n\nThe exchange is set to restrict 8 specific services and delist 22 trading pairs for users in the region. These moves are regulatory-driven, aimed at aligning operations with evolving oversight from Brazilian authorities.\n\nCrucially, existing token balances are unaffected; users will retain access to their holdings after the delisting process. \n\nThis isn't just about a change in product—it highlights the intensifying pressure global platforms face to secure long-term operational viability in key emerging markets. As regulators move from observation to enforcement, expect further adjustments in localized product suites.\n\n#Brazil",
+    "hasImage": true,
+    "eventFingerprint": "e94350b5aa5946ea32f59da2",
+    "timestamp": "2026-10-09T21:29:52.966Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 887,
+    "text": "Your hardware wallet might be a point of failure if it didn't come directly from the source.\n\nTotal losses from a suspected Ledger-related security breach are nearing $90 million, with blockchain investigators tracking the movement of stolen assets. Tether has confirmed it is freezing USDT addresses linked to the exploit.\n\nThe vulnerability appears to stem from devices purchased through CryptoBilis, a Southeast Asia-based reseller. Ledger is currently investigating reports that these specific units were compromised before reaching customers. \n\nWhile the exact mechanics of the breach are still under analysis, the incident highlights a critical supply chain risk: authorized status does not always guarantee the integrity of the hardware. If you are using a device sourced from a third party, exercise extreme caution and consider migrating funds to a wallet with a verified, direct-from-manufacturer origin.",
+    "hasImage": true,
+    "eventFingerprint": "f668e3dd2d7004ad0f0a393b",
+    "timestamp": "2026-10-09T21:29:54.221Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 888,
+    "text": "The era of Alex Mashinsky in New York finance is officially over.\n\nNew York authorities have secured a permanent ban against the former Celsius CEO, effectively barring him from participating in the securities, commodities, and cryptocurrency industries within the state.\n\nThe agreement settles a 2023 civil fraud lawsuit, forcing Mashinsky to pay $35 million. The settlement concludes one of the most high-profile regulatory crackdowns following the collapse of the lending platform. \n\nMashinsky is currently facing separate criminal charges in federal court.",
+    "hasImage": true,
+    "eventFingerprint": "d53dc367e04ba1d522b02e55",
+    "timestamp": "2026-10-09T21:29:55.218Z"
   }
 ]
