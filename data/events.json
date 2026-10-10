@@ -34666,5 +34666,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin ETFs&#8217; momentum could &#8216;not last too long&#8217; — Ecoinometrics",
+    "link": "https://ambcrypto.com/bitcoin-etfs-momentum-could-not-last-too-long-ecoinometrics/",
+    "summary": "Is Bitcoin ETF losing steam to other altcoin ETFs stealing the spotlight?",
+    "image": null,
+    "publishedAt": "2026-10-10T22:00:09.000Z",
+    "collectedAt": "2026-10-10T23:11:36.875Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d0f19eec3d7ec7b723b05023",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-10T23:11:39.615Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs&#8217; momentum could &#8216;not last too long&#8217; — Ecoinometrics",
+        "fingerprint": "d0f19eec3d7ec7b723b05023"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 909,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XRP price slips below $1.50 &#8211; Can ETF demand fuel a recovery?",
+    "link": "https://ambcrypto.com/xrp-price-slips-below-1-50-can-etf-demand-fuel-a-recovery/",
+    "summary": "XRP ETF divergence deepens as evernorth and xrpl add to the bull case.",
+    "image": null,
+    "publishedAt": "2026-10-10T21:00:19.000Z",
+    "collectedAt": "2026-10-10T23:11:36.875Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6380668cff1a91cfc01b8cef",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T23:11:40.612Z",
+    "outcome": {
+      "event": {
+        "title": "XRP price slips below $1.50 &#8211; Can ETF demand fuel a recovery?",
+        "fingerprint": "6380668cff1a91cfc01b8cef"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 910,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Kalshi Probes Bets on Trump’s Press Secretary Pick, WSJ Reports",
+    "link": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
+    "summary": "Three wagers costing about $19, $74 and $80 preceded reports of Katie Zacharia’s selection. The contract has settled Yes, but individual withdrawal restrictions remain unclear.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/0e74e5c95100864c263d3adec7e87748a1abb686-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-09T21:57:10.000Z",
+    "collectedAt": "2026-10-10T23:11:36.875Z",
+    "corroboratingSources": 2,
+    "fingerprint": "0c528bd153e23012b74e814d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4.5,
+    "processedAt": "2026-10-10T23:11:41.549Z",
+    "outcome": {
+      "event": {
+        "title": "Kalshi Probes Bets on Trump’s Press Secretary Pick, WSJ Reports",
+        "fingerprint": "0c528bd153e23012b74e814d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 911,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Crypto Liquidations Cross $1 Billion Mark: Short Squeeze or Bearish Market Begin?",
+    "link": "https://u.today/crypto-liquidations-cross-1-billion-mark-short-squeeze-or-bearish-market-begin",
+    "summary": "Liquidation volume is surging, with a possibility of reaching levels that might start off the bear market.",
+    "image": null,
+    "publishedAt": "2026-10-09T10:20:00.000Z",
+    "collectedAt": "2026-10-10T23:11:36.875Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5affb221484bb16fcc1ff7f0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-10T23:11:42.526Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Liquidations Cross $1 Billion Mark: Short Squeeze or Bearish Market Begin?",
+        "fingerprint": "5affb221484bb16fcc1ff7f0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 912,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ethereum (ETH) Bloodbath: Largest Whales Get Liquidated",
+    "link": "https://u.today/ethereum-eth-bloodbath-largest-whales-get-liquidated",
+    "summary": "Ethereum whales keep on betting on the market downfall, but the liquidity thresholds are getting thinner.",
+    "image": null,
+    "publishedAt": "2026-10-09T08:05:00.000Z",
+    "collectedAt": "2026-10-10T23:11:36.875Z",
+    "corroboratingSources": 1,
+    "fingerprint": "24c78f990f7baf9d7d95f6d8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-10T23:11:43.403Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum (ETH) Bloodbath: Largest Whales Get Liquidated",
+        "fingerprint": "24c78f990f7baf9d7d95f6d8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 913,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
