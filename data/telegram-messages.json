@@ -5511,5 +5511,40 @@
     "hasImage": true,
     "eventFingerprint": "893ea1b94d25b36c36493548",
     "timestamp": "2026-10-10T01:30:35.470Z"
+  },
+  {
+    "messageId": 894,
+    "text": "The Federal Reserve is signaling a willingness to pause rate hikes before inflation hits the 2% target.\n\nMinutes from the October 7 release confirm that officials may halt increases if they determine the economy is already on a trajectory toward that goal. Despite aggressive borrowing costs, the committee remains wary of strong consumer spending and persistent price pressures that have historically defied expectations.\n\nThe core question remains: Is the Fed misreading the economic data, or is a \"soft landing\" actually achievable without driving inflation all the way to 2%? \n\nWe want to hear your take. Do you believe the Fed has enough control to pause early, or will this premature pivot risk a second wave of inflation?",
+    "hasImage": true,
+    "eventFingerprint": "613de543c192e7c91cb59d93",
+    "timestamp": "2026-10-10T08:04:22.439Z"
+  },
+  {
+    "messageId": 895,
+    "text": "The house always wins, but apparently, the house manager still gets to keep his personal stash.\n\nAlex Mashinsky is barred from the industry for life, but the terms of his settlement carve out a specific exception: he’s still allowed to trade his own crypto. \n\nThe $25 million judgment against him can be satisfied by a DOJ payment, while a separate $10 million penalty hangs in the balance based on his sentence completion. It’s a clean exit from the C-suite, provided he can foot the bill. \n\nFor the depositors who lost everything while he was \"earning yield,\" the irony is likely lost on no one.",
+    "hasImage": true,
+    "eventFingerprint": "ab7692e5eb08b35130c0a190",
+    "timestamp": "2026-10-10T08:04:26.553Z"
+  },
+  {
+    "messageId": 896,
+    "text": "A sharp public disagreement has emerged between Cardano’s Charles Hoskinson and Ethereum’s Vitalik Buterin regarding the future of cryptographic security.\n\nHoskinson has publicly challenged Buterin’s recent skepticism toward lattice-based cryptography, claiming the Ethereum co-founder is undermining the development of quantum-resistant defenses. \n\nAt issue are Buterin’s comments suggesting that AI-driven mathematical breakthroughs could render current security standards obsolete. Hoskinson argues that this perspective ignores decades of rigorous research and risks discouraging developers from adopting necessary safeguards. \n\nNote: While Hoskinson’s criticism of Buterin’s stance is documented, the potential impact on the industry’s quantum-resistant roadmap remains an unverified and highly debated concern among technical experts.",
+    "hasImage": true,
+    "eventFingerprint": "ce8955f36ea789cf3b728431",
+    "timestamp": "2026-10-10T08:04:27.651Z"
+  },
+  {
+    "messageId": 897,
+    "text": "70 million dollars gone in a single position.\n\nThe latest market-wide sell-off has claimed some of the largest players in the ecosystem, with one whale suffering a loss of nearly $70 million in ETH.\n\nVolatilities have proven unforgiving for leveraged traders. On-chain data indicates that major accounts were liquidated on both long and short positions as the price action whipsawed across the board.\n\nThe scale of these losses highlights the heightened risk environment currently facing large-scale market participants.",
+    "hasImage": true,
+    "eventFingerprint": "0ebaf529f31e5e87565af1c4",
+    "timestamp": "2026-10-10T08:04:28.903Z"
+  },
+  {
+    "messageId": 898,
+    "text": "Hardware wallet security is under scrutiny following a major exploit of a Ledger reseller.\n\nBinance founder Changpeng Zhao has advised users to exercise a two-week \"quarantine\" period for any new hardware wallet devices. \n\nThis warning follows a security breach resulting in approximately $86 million in losses. The incident highlights the risks associated with third-party vendors and supply chain vulnerabilities. \n\nUsers are encouraged to source hardware wallets exclusively from official manufacturers to mitigate compromise risks.\n\n#Ledger",
+    "hasImage": true,
+    "eventFingerprint": "2cfe8058cb7a649845b8d242",
+    "timestamp": "2026-10-10T08:04:31.332Z"
   }
 ]

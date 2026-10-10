@@ -34051,5 +34051,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Inflation target of 2% may not stop the next Fed rate freeze",
+    "link": "https://cryptoslate.com/what-would-actually-stop-the-fed-from-raising-rates-again/",
+    "summary": "The Fed can stop raising rates before inflation reaches 2% if officials believe the economy's already heading there without another increase. September's meeting left most unconvinced, with strong spending and persistent price increases outweighing the strain expensive borrowing was putting on parts of the economy. The minutes released Oct. 7 explain the thinking behind that [&#8230;]\nThe post Inflation target of 2% may not stop the next Fed rate freeze appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/fed-zipper-squeeze.webp",
+    "publishedAt": "2026-10-10T07:00:05.000Z",
+    "collectedAt": "2026-10-10T08:04:19.220Z",
+    "corroboratingSources": 1,
+    "fingerprint": "613de543c192e7c91cb59d93",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-10T08:04:22.451Z",
+    "outcome": {
+      "event": {
+        "title": "Inflation target of 2% may not stop the next Fed rate freeze",
+        "fingerprint": "613de543c192e7c91cb59d93"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 894,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Celsius founder faces lifetime ban, but can trade his own crypto",
+    "link": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+    "summary": "A qualifying DOJ payment can satisfy the $25 million obligation, while a separate $10 million judgment has a sentence-completion condition with exceptions.\nThe post Celsius founder faces lifetime ban, but can trade his own crypto appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/mashinsky-new-york-settlement-standard.jpg",
+    "publishedAt": "2026-10-10T01:50:00.000Z",
+    "collectedAt": "2026-10-10T08:04:19.220Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab7692e5eb08b35130c0a190",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T08:04:26.563Z",
+    "outcome": {
+      "event": {
+        "title": "Celsius founder faces lifetime ban, but can trade his own crypto",
+        "fingerprint": "ab7692e5eb08b35130c0a190"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 895,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Hoskinson says Vitalik’s AI warning could delay the internet’s quantum defenses",
+    "link": "https://cryptoslate.com/cardanos-hoskinson-hoskinson-slams-vitalik-buterins-ai-doomsday-warning-as-a-threat-to-cryptos-quantum-future/",
+    "summary": "Cardano founder Charles Hoskinson accused Vitalik Buterin of undermining quantum-resistant cryptography with speculative warnings about AI-driven mathematical breakthroughs. In an Oct. 9 post, Hoskinson challenged the Ethereum co-founder's skepticism toward lattice-based cryptography, arguing that decades of security research had already accounted for the technology's known weaknesses. He warned that encouraging developers to abandon established approaches [&#8230;]\nThe post Hoskinson says Vital",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/quantum-crypto-strategy-debate.webp",
+    "publishedAt": "2026-10-09T19:00:27.000Z",
+    "collectedAt": "2026-10-10T08:04:19.220Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ce8955f36ea789cf3b728431",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T08:04:27.663Z",
+    "outcome": {
+      "event": {
+        "title": "Hoskinson says Vitalik’s AI warning could delay the internet’s quantum defenses",
+        "fingerprint": "ce8955f36ea789cf3b728431"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 896,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "One Whale Lost Nearly $70M in ETH &#8211; Another Got Wrecked Long and Short",
+    "link": "https://cryptopotato.com/one-whale-lost-nearly-70m-in-eth-another-got-wrecked-long-and-short/",
+    "summary": "The market-wide sell-off produced another brutal round of liquidations among some of the largest players.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/05/Whales_CB.jpg",
+    "publishedAt": "2026-10-09T12:55:47.000Z",
+    "collectedAt": "2026-10-10T08:04:19.220Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0ebaf529f31e5e87565af1c4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T08:04:28.914Z",
+    "outcome": {
+      "event": {
+        "title": "One Whale Lost Nearly $70M in ETH &#8211; Another Got Wrecked Long and Short",
+        "fingerprint": "0ebaf529f31e5e87565af1c4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 897,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance Founder CZ Urges Wallet 'Quarantine' After $86 Million Ledger Reseller Hack",
+    "link": "https://u.today/binance-founder-cz-urges-wallet-quarantine-after-86-million-ledger-reseller-hack",
+    "summary": "Binance founder Changpeng Zhao advises a two-week freeze on new devices after an $86 million exploit hits Ledger.",
+    "image": null,
+    "publishedAt": "2026-10-09T17:26:15.000Z",
+    "collectedAt": "2026-10-10T08:04:19.220Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2cfe8058cb7a649845b8d242",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T08:04:31.342Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Founder CZ Urges Wallet 'Quarantine' After $86 Million Ledger Reseller Hack",
+        "fingerprint": "2cfe8058cb7a649845b8d242"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 898,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
