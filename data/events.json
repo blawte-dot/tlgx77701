@@ -33846,5 +33846,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+    "link": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+    "summary": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png",
+    "publishedAt": "2026-10-09T16:07:07.000Z",
+    "collectedAt": "2026-10-10T01:30:06.998Z",
+    "corroboratingSources": 3,
+    "fingerprint": "780e77f44739c938586c2789",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-10T01:30:17.811Z",
+    "outcome": {
+      "event": {
+        "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+        "fingerprint": "780e77f44739c938586c2789"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 889,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
+    "link": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
+    "summary": "Former FTX COO Constance Wang says Netflix's \"The Altruists\" misrepresents FTX's collapse and turns it into a love story.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231003_FTX_3_News.jpg",
+    "publishedAt": "2026-10-09T18:51:45.000Z",
+    "collectedAt": "2026-10-10T01:30:06.998Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8609f4475e54620be6fb22e6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T01:30:19.055Z",
+    "outcome": {
+      "event": {
+        "title": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
+        "fingerprint": "8609f4475e54620be6fb22e6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 890,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+    "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FA1413AR809PCC2V0XRTMJ/thailand.jpg",
+    "publishedAt": "2026-10-09T03:08:51.000Z",
+    "collectedAt": "2026-10-10T01:30:06.998Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e3811b5ed00a0ca0215cb377",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T01:30:31.393Z",
+    "outcome": {
+      "event": {
+        "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+        "fingerprint": "e3811b5ed00a0ca0215cb377"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 891,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "‘We Know Where It Is’: Treasury Secretary Threatens To Freeze $1B of Iran’s Crypto",
+    "link": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+    "summary": "Bitcoin Magazine\n\n‘We Know Where It Is’: Treasury Secretary Threatens To Freeze $1B of Iran’s Crypto\nThe U.S. will seize $1 billion of Iran’s crypto this week, U.S. Treasury Secretary Scott Bessent has said. It isn’t clear which asset though. \nThis post ‘We Know Where It Is’: Treasury Secretary Threatens To Freeze $1B of Iran’s Crypto first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://www.youtube.com/embed/X-evyDD2x3o",
+    "publishedAt": "2026-10-09T20:10:14.000Z",
+    "collectedAt": "2026-10-10T01:30:06.998Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5226809eb373cf3cc728e026",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T01:30:34.365Z",
+    "outcome": {
+      "event": {
+        "title": "‘We Know Where It Is’: Treasury Secretary Threatens To Freeze $1B of Iran’s Crypto",
+        "fingerprint": "5226809eb373cf3cc728e026"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 892,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
+    "summary": "Bitcoin Magazine\n\nBitcoin ETFs Shed $729M in Two Days as Investors Reverse Course\nInvestors have fast cashed out of bitcoin exchange-traded funds this week. It’s showing in the price. \nThis post Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-ETFs-Shed-729M-in-Two-Days-as-Investors-Reverse-Course.jpg",
+    "publishedAt": "2026-10-09T17:11:16.000Z",
+    "collectedAt": "2026-10-10T01:30:06.998Z",
+    "corroboratingSources": 1,
+    "fingerprint": "893ea1b94d25b36c36493548",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T01:30:35.483Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+        "fingerprint": "893ea1b94d25b36c36493548"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 893,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
