@@ -34461,5 +34461,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Being right about Bitcoin won&#8217;t save your 3x leveraged ETF position",
+    "link": "https://cryptoslate.com/being-right-about-bitcoin-wont-save-your-3x-leveraged-etf-position/",
+    "summary": "Bitcoin's next recovery could vindicate your investment thesis but leave your leveraged fund deep in the red, because the fund's daily reset can make waiting a pretty expensive habit. Getting Bitcoin right and actually making money on Bitcoin are becoming two different skills, especially now that Wall Street is preparing products for people who don't [&#8230;]\nThe post Being right about Bitcoin won&#8217;t save your 3x leveraged ETF position appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-river-recovery.webp",
+    "publishedAt": "2026-10-10T17:00:12.000Z",
+    "collectedAt": "2026-10-10T19:42:41.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3b060ad5fb63678a29501911",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-10T19:42:53.786Z",
+    "outcome": {
+      "event": {
+        "title": "Being right about Bitcoin won&#8217;t save your 3x leveraged ETF position",
+        "fingerprint": "3b060ad5fb63678a29501911"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 904,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+    "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+    "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Kalshi_News_2.jpg",
+    "publishedAt": "2026-10-10T18:35:25.000Z",
+    "collectedAt": "2026-10-10T19:42:41.753Z",
+    "corroboratingSources": 2,
+    "fingerprint": "1c481bc310048a66f83a7321",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6.5,
+    "processedAt": "2026-10-10T19:43:02.729Z",
+    "outcome": {
+      "event": {
+        "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+        "fingerprint": "1c481bc310048a66f83a7321"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 905,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+    "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+    "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Ethereum-and-Solana-ETF-Divergence1_clean.png",
+    "publishedAt": "2026-10-10T15:10:37.000Z",
+    "collectedAt": "2026-10-10T19:42:41.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "60ee332549a56241e7c30866",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T19:43:17.699Z",
+    "outcome": {
+      "event": {
+        "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+        "fingerprint": "60ee332549a56241e7c30866"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 906,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin ETFs Bleed $484.9 Million As BlackRock Leads A Broad Day Of Outflows",
+    "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-etfs-bleed-484-9-million-as-blackrock-leads-a-broad-day-of/",
+    "summary": "US spot Bitcoin ETFs recorded $484.9 million in net outflows on October 7, according to Farside Investors. BlackRock's IBIT led the withdrawals with $207.7 million leaving the fund, while Fidelity and ARK also posted nine-figure outflows.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/5cbc74db64394915ab1c4b4435f65070.jpg?fit=750%2C422",
+    "publishedAt": "2026-10-08T20:00:00.000Z",
+    "collectedAt": "2026-10-10T19:42:41.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ae68ee5f1e8147269433b1c6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-10T19:43:22.583Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Bleed $484.9 Million As BlackRock Leads A Broad Day Of Outflows",
+        "fingerprint": "ae68ee5f1e8147269433b1c6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 907,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "ESMA Sets 3-Month Exit for Non-MiCA Stablecoins, Pulls Custody Into Scope",
+    "link": "https://cryptopotato.com/esma-sets-3-month-exit-for-non-mica-stablecoins-pulls-custody-into-scope/",
+    "summary": "In January 2025, ESMA said custody and transfers of non-compliant stablecoins could carry on after delisting. Thursday's opinion brings both into scope.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2022/03/European_Union.jpg",
+    "publishedAt": "2026-10-09T06:01:36.000Z",
+    "collectedAt": "2026-10-10T19:42:41.753Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d1b7ca67b7cf01126d60c9eb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-10T19:43:24.195Z",
+    "outcome": {
+      "event": {
+        "title": "ESMA Sets 3-Month Exit for Non-MiCA Stablecoins, Pulls Custody Into Scope",
+        "fingerprint": "d1b7ca67b7cf01126d60c9eb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 908,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -5581,5 +5581,40 @@
     "hasImage": true,
     "eventFingerprint": "3b4d2fd2c1b040528fa26a86",
     "timestamp": "2026-10-10T15:01:29.698Z"
+  },
+  {
+    "messageId": 904,
+    "text": "Your conviction is perfect, but your math is broken.\n\nWall Street’s 3x leveraged ETFs are designed to liquidate your thesis while you’re waiting for the bounce. Because these products reset daily, sideways chop bleeds your capital regardless of where Bitcoin eventually lands.\n\nBeing right about the asset and being right about the instrument are no longer the same skill. If you aren't accounting for volatility decay, you’re just paying a premium to get stopped out before the recovery.",
+    "hasImage": true,
+    "eventFingerprint": "3b060ad5fb63678a29501911",
+    "timestamp": "2026-10-10T19:42:53.778Z"
+  },
+  {
+    "messageId": 905,
+    "text": "Prediction markets are facing fresh scrutiny following suspicious activity on Kalshi.\n\nThree wagers totaling roughly $173 were placed on Karoline Leavitt as the incoming White House press secretary just before the announcement went public. Those positions are now set to pay out approximately $9,600.\n\nKalshi has confirmed it is investigating the trades.\n\nThe incident highlights a growing tension for decentralized and regulated prediction platforms: as liquidity and volume migrate to these markets, they increasingly become targets for potential information leakage. With billions now flowing through election and political betting, the integrity of these platforms is being tested in real-time.",
+    "hasImage": true,
+    "eventFingerprint": "1c481bc310048a66f83a7321",
+    "timestamp": "2026-10-10T19:43:02.680Z"
+  },
+  {
+    "messageId": 906,
+    "text": "The honeymoon phase for spot ETFs is officially hitting a reality check. \n\nEther funds just marked their ninth consecutive day of outflows, while Solana’s impressive 14-week inflow streak finally snapped. \n\nCapital is rotating out across the board, with Bitcoin, ETH, and SOL products all closing the week in the red. The market is clearly taking a breather from the institutional narrative.",
+    "hasImage": true,
+    "eventFingerprint": "60ee332549a56241e7c30866",
+    "timestamp": "2026-10-10T19:43:17.690Z"
+  },
+  {
+    "messageId": 907,
+    "text": "Institutional appetite has hit a sharp reversal.\n\nUS spot Bitcoin ETFs shed a combined $484.9 million on October 7, marking one of the sector's most difficult sessions in recent weeks.\n\nData from Farside Investors shows BlackRock’s IBIT led the retreat with $207.7 million in outflows. Fidelity and ARK Invest followed suit, each recording nine-figure exits from their respective funds. \n\nThe broad-based selling suggests a cooling of the recent momentum that had characterized the institutional bid through late September.",
+    "hasImage": true,
+    "eventFingerprint": "ae68ee5f1e8147269433b1c6",
+    "timestamp": "2026-10-10T19:43:22.570Z"
+  },
+  {
+    "messageId": 908,
+    "text": "Europe just tightened the screw on non-compliant stablecoins much faster than expected.\n\nThe European Securities and Markets Authority issued a sharp reversal on Thursday. \n\nCustody and transfers of non-MiCA stablecoins are no longer permitted to carry on after exchanges drop them. \n\nFirms now face a strict three-month wind-down window to pull these assets from their books entirely. \n\nThe shift upends earlier guidance from January that allowed ongoing custody services post-delisting.",
+    "hasImage": true,
+    "eventFingerprint": "d1b7ca67b7cf01126d60c9eb",
+    "timestamp": "2026-10-10T19:43:24.185Z"
   }
 ]
