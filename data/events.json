@@ -34256,5 +34256,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s weekend rebound faces an $80,400 test after nearly $730 million in ETF outflows",
+    "link": "https://cryptoslate.com/bitcoin-faces-weekend-test-as-80400-level-determines-next-move/",
+    "summary": "Bitcoin traded near $82,900 in PerpFinder’s Oct. 10, 09:36 UTC snapshot, with traders watching whether the weekend rebound brings fresh leverage or further position unwinding. The same snapshot put Binance BTC futures open interest at $7.70 billion and showed longs receiving funding, indicating negative funding. Saturday’s Deribit expiry has already settled at 08:00 UTC; Sunday’s [&#8230;]\nThe post Bitcoin’s weekend rebound faces an $80,400 test after nearly $730 million in ETF outflows appeared",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/570893-featured-upload.jpg",
+    "publishedAt": "2026-10-10T13:00:34.000Z",
+    "collectedAt": "2026-10-10T15:01:20.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a8b66e39118374d724a45b65",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-10T15:01:23.274Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s weekend rebound faces an $80,400 test after nearly $730 million in ETF outflows",
+        "fingerprint": "a8b66e39118374d724a45b65"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 899,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple-Backed Evernorth Secures Major Deal Ahead of Nasdaq Listing: Why Is XRP Price Still Down?",
+    "link": "https://u.today/ripple-backed-evernorth-secures-major-deal-ahead-of-nasdaq-listing-why-is-xrp-price-still-down",
+    "summary": "Evernorth has completed its SPAC merger, preparing to list on Nasdaq with approximately 473 million XRP and $300 million in cash proceeds. Yet XRP continues to decline.",
+    "image": null,
+    "publishedAt": "2026-10-10T13:05:12.000Z",
+    "collectedAt": "2026-10-10T15:01:20.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d54f2589600a2ff4ed3558ad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-10T15:01:25.646Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple-Backed Evernorth Secures Major Deal Ahead of Nasdaq Listing: Why Is XRP Price Still Down?",
+        "fingerprint": "d54f2589600a2ff4ed3558ad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 900,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Cardano Midnight Scores Key Japan Exchange Listing",
+    "link": "https://u.today/cardano-midnight-scores-key-japan-exchange-listing",
+    "summary": "The listing marks key step in Midnight’s expansion into the Japanese market.",
+    "image": null,
+    "publishedAt": "2026-10-10T12:15:52.000Z",
+    "collectedAt": "2026-10-10T15:01:20.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "59dc1b2549da3396f40b9e40",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T15:01:27.016Z",
+    "outcome": {
+      "event": {
+        "title": "Cardano Midnight Scores Key Japan Exchange Listing",
+        "fingerprint": "59dc1b2549da3396f40b9e40"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 901,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin Breaks Three-Week ETF Inflow Streak With Over $680 Million Withdrawn",
+    "link": "https://u.today/bitcoin-breaks-three-week-etf-inflow-streak-with-over-680-million-withdrawn",
+    "summary": "Bitcoin has closed the last ETF weekly trading session on a weak note as netflow provides a negative balance amid rising sell activity.",
+    "image": null,
+    "publishedAt": "2026-10-10T12:06:06.000Z",
+    "collectedAt": "2026-10-10T15:01:20.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b179ea4b8b231f80e60fde60",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T15:01:28.072Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Breaks Three-Week ETF Inflow Streak With Over $680 Million Withdrawn",
+        "fingerprint": "b179ea4b8b231f80e60fde60"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 902,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Assessing whether ONDO crypto could reclaim $0.50 despite $4.4M whale sale",
+    "link": "https://ambcrypto.com/assessing-whether-ondo-crypto-could-reclaim-0-50-despite-4-4m-whale-sale/",
+    "summary": "A whale sold 9 million ONDO after offering liquidity on Uniswap for 5 months.",
+    "image": null,
+    "publishedAt": "2026-10-09T22:00:55.000Z",
+    "collectedAt": "2026-10-10T15:01:20.563Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3b4d2fd2c1b040528fa26a86",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-10T15:01:29.710Z",
+    "outcome": {
+      "event": {
+        "title": "Assessing whether ONDO crypto could reclaim $0.50 despite $4.4M whale sale",
+        "fingerprint": "3b4d2fd2c1b040528fa26a86"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 903,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

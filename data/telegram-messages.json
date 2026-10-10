@@ -5546,5 +5546,40 @@
     "hasImage": true,
     "eventFingerprint": "2cfe8058cb7a649845b8d242",
     "timestamp": "2026-10-10T08:04:31.332Z"
+  },
+  {
+    "messageId": 899,
+    "text": "Bitcoin is wrestling with a critical liquidity test as institutional sentiment shifts.\n\nAfter nearly $730 million flowed out of spot BTC ETFs, the asset is attempting a weekend recovery. Price action currently hinges on a major support test at $80,400.\n\nData from the Oct. 10 09:36 UTC snapshot shows Bitcoin trading near $82,900. Binance BTC futures open interest stands at $7.70 billion, with negative funding rates confirming that traders are leaning into shorts despite the rebound.\n\nMarket participants are now watching to see if this weekend price discovery triggers a fresh wave of leveraged positioning or if further unwinding is on the horizon. All eyes remain on whether the $80,400 level holds as the market processes the recent institutional outflows.",
+    "hasImage": true,
+    "eventFingerprint": "a8b66e39118374d724a45b65",
+    "timestamp": "2026-10-10T15:01:23.260Z"
+  },
+  {
+    "messageId": 900,
+    "text": "Capital allocation is failing to support XRP despite a major corporate milestone.\n\nEvernorth has finalized its SPAC merger, positioning the entity for a Nasdaq listing with 473 million XRP and $300 million in cash reserves on the balance sheet. \n\nTypically, such treasury developments signal institutional confidence and potential upward pressure. Instead, XRP is facing sustained selling. \n\nThe disconnect between the asset’s underlying treasury strength and its market performance suggests that either the market is indifferent to the listing or that broader liquidity trends are outweighing company-specific developments.\n\nInvestors should note that internal treasury holdings rarely guarantee price floors in a high-beta market environment.",
+    "hasImage": true,
+    "eventFingerprint": "d54f2589600a2ff4ed3558ad",
+    "timestamp": "2026-10-10T15:01:25.247Z"
+  },
+  {
+    "messageId": 901,
+    "text": "Cardano-linked sidechain Midnight has secured a key listing on a major Japanese exchange.\n\nThe move marks a strategic expansion for the privacy-focused network into one of the world's most strictly regulated crypto markets. \n\nJapan’s Financial Services Agency maintains rigorous criteria for token listings, making this a notable milestone for the project’s infrastructure development.\n\n#Cardano",
+    "hasImage": true,
+    "eventFingerprint": "59dc1b2549da3396f40b9e40",
+    "timestamp": "2026-10-10T15:01:27.003Z"
+  },
+  {
+    "messageId": 902,
+    "text": "The three-week streak of Bitcoin ETF inflows has officially snapped.\n\nNet outflows hit $680 million as the trading week concluded, marking a sharp pivot in sentiment. Sustained sell-side pressure appears to be outpacing institutional demand for the first time since mid-May.\n\nMarket participants are now closely watching to see if this represents a brief pause or the start of a broader liquidity shift.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "b179ea4b8b231f80e60fde60",
+    "timestamp": "2026-10-10T15:01:28.058Z"
+  },
+  {
+    "messageId": 903,
+    "text": "Selling pressure mounts as a major ONDO whale exits the market.\n\nAn identified wallet offloaded 9 million ONDO tokens following a five-month liquidity provision period on Uniswap. The sale, valued at approximately $4.4 million, marks a significant liquidation event for the asset.\n\nMarket participants are now closely watching the $0.50 level for signs of support. While the sell-off has increased circulating supply, technical analysts remain divided on whether demand can absorb the recent exit before further downside occurs.\n\n#ONDO",
+    "hasImage": true,
+    "eventFingerprint": "3b4d2fd2c1b040528fa26a86",
+    "timestamp": "2026-10-10T15:01:29.698Z"
   }
 ]
