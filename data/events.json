@@ -35076,5 +35076,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk",
+    "link": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
+    "summary": "Testing produced spendable XRP, but the disclosure reports no evidence of public-network exploitation and explains why the fix took effect immediately.\nThe post AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-ledger-patch-security.webp",
+    "publishedAt": "2026-10-11T10:30:30.000Z",
+    "collectedAt": "2026-10-11T10:34:36.477Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f396e1dc51a2228842eaa3f0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-11T10:34:38.792Z",
+    "outcome": {
+      "event": {
+        "title": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk",
+        "fingerprint": "f396e1dc51a2228842eaa3f0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 919,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Warns About AI Threat Following Bug That Could Have Created Billions of XRP",
+    "link": "https://u.today/ripple-warns-about-ai-threat-following-bug-that-could-have-created-billions-of-xrp",
+    "summary": "Ripple engineer Mayukha Vadari has warned that AI is making critical security vulnerabilities easier to uncover and exploit.",
+    "image": null,
+    "publishedAt": "2026-10-11T06:34:13.000Z",
+    "collectedAt": "2026-10-11T10:34:36.477Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b04d4e6d555e234bb0d31512",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-11T10:34:40.514Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Warns About AI Threat Following Bug That Could Have Created Billions of XRP",
+        "fingerprint": "b04d4e6d555e234bb0d31512"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 920,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin ETFs gain $21M after shedding $681M &#8211; Can CPI rescue Uptober?",
+    "link": "https://ambcrypto.com/bitcoin-etfs-gain-21m-after-shedding-681m-can-cpi-rescue-uptober/",
+    "summary": "A $60K warning competes with bullish bets. Which positions survive the inflation releases?",
+    "image": null,
+    "publishedAt": "2026-10-11T10:00:56.000Z",
+    "collectedAt": "2026-10-11T10:34:36.477Z",
+    "corroboratingSources": 1,
+    "fingerprint": "91b75d61701f5b86e47bdc3f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-11T10:34:41.708Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs gain $21M after shedding $681M &#8211; Can CPI rescue Uptober?",
+        "fingerprint": "91b75d61701f5b86e47bdc3f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 921,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "65 Billion SHIB in 24 Hours: Shiba Inu Selling Pressure Is Fading",
+    "link": "https://u.today/65-billion-shib-in-24-hours-shiba-inu-selling-pressure-is-fading",
+    "summary": "Shiba Inu's ongoing price volatility has seen exchange activity turn extremely bearish, but its recent netflow suggests that the sell-off pressure may be easing.",
+    "image": null,
+    "publishedAt": "2026-10-11T09:32:00.000Z",
+    "collectedAt": "2026-10-11T10:34:36.477Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9c99b5e064aa4a4d8d22570b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-11T10:34:42.991Z",
+    "outcome": {
+      "event": {
+        "title": "65 Billion SHIB in 24 Hours: Shiba Inu Selling Pressure Is Fading",
+        "fingerprint": "9c99b5e064aa4a4d8d22570b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 922,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Can Near Protocol (NEAR) Finally Break $5.3? This Is Why It Looks Unbreakable",
+    "link": "https://u.today/can-near-protocol-near-finally-break-53-this-is-why-it-looks-unbreakable",
+    "summary": "Near Protocol's strong run need some serious inflows to secure trend continuation.",
+    "image": null,
+    "publishedAt": "2026-10-11T09:30:00.000Z",
+    "collectedAt": "2026-10-11T10:34:36.477Z",
+    "corroboratingSources": 1,
+    "fingerprint": "beb648f135f1d857abf91a98",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-11T10:34:44.112Z",
+    "outcome": {
+      "event": {
+        "title": "Can Near Protocol (NEAR) Finally Break $5.3? This Is Why It Looks Unbreakable",
+        "fingerprint": "beb648f135f1d857abf91a98"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 923,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

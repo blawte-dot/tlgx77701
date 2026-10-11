@@ -5686,5 +5686,40 @@
     "hasImage": true,
     "eventFingerprint": "cf8cd8317ce572e734641448",
     "timestamp": "2026-10-11T03:50:29.992Z"
+  },
+  {
+    "messageId": 919,
+    "text": "18 trillion tokens out of thin air sounds like a solid afternoon for a central bank. \n\nFor the XRP Ledger, it was a newly discovered code flaw that put a $94 billion market temporarily in the crosshairs. \n\nTesting reportedly produced spendable XRP, but the disclosure found no evidence of public exploitation before a fix was deployed. \n\nAI found the bug. The patch beat the exploit. Move along.",
+    "hasImage": true,
+    "eventFingerprint": "f396e1dc51a2228842eaa3f0",
+    "timestamp": "2026-10-11T10:34:38.778Z"
+  },
+  {
+    "messageId": 920,
+    "text": "What happens when AI starts auditing code faster than the engineers who wrote it?\n\nRipple is sounding the alarm after a recent bug exposed the network to potential multi-billion-dollar minting risks. \n\nAccording to engineer Mayukha Vadari, artificial intelligence is rapidly lowering the barrier for bad actors to find and weaponize critical codebase vulnerabilities. \n\nThe warning highlights an escalating arms race across the crypto sector, where projects must now deploy advanced automated defenses just to stay ahead of automated attacks. \n\n#Ripple",
+    "hasImage": true,
+    "eventFingerprint": "b04d4e6d555e234bb0d31512",
+    "timestamp": "2026-10-11T10:34:40.500Z"
+  },
+  {
+    "messageId": 921,
+    "text": "681 million dollars left spot Bitcoin exchange-traded funds in a brutal wave of outflows before a modest 21 million dollar recovery surfaced. \n\nMarkets are now bracing for incoming consumer price index data. \n\nTrading desks are weighing a potential test of the 60,000 dollar support level against lingering seasonal optimism tied to the historically bullish month of October. \n\nInflation prints this week will likely determine whether buyers can sustain momentum or if deeper downside pressure takes hold.",
+    "hasImage": true,
+    "eventFingerprint": "91b75d61701f5b86e47bdc3f",
+    "timestamp": "2026-10-11T10:34:41.695Z"
+  },
+  {
+    "messageId": 922,
+    "text": "While Shiba Inu charts continue to whipsaw, the underlying ledger tells a quieter story. \n\nOver 65 billion SHIB left centralized exchanges in the last 24 hours. \n\nExchange netflows have swung sharply into the negative. That kind of sustained outflow historically points to accumulation rather than immediate dumping, suggesting exhaustion among short-term sellers. \n\nVolatility remains high, but the heavy liquidation pressure on spot desks is visibly cooling.",
+    "hasImage": true,
+    "eventFingerprint": "9c99b5e064aa4a4d8d22570b",
+    "timestamp": "2026-10-11T10:34:42.976Z"
+  },
+  {
+    "messageId": 923,
+    "text": "What does it actually take to turn an unbreakable ceiling into a floor? \n\nNEAR has been putting on a clinic in steady accumulation, but gravity around the $5.30 resistance is proving remarkably stubborn. \n\nCharts don't care about narrative momentum until real capital forces the issue. \n\nUntil those fresh inflows show up on-chain, this level remains a hard line in the sand rather than a launching pad.",
+    "hasImage": true,
+    "eventFingerprint": "beb648f135f1d857abf91a98",
+    "timestamp": "2026-10-11T10:34:44.098Z"
   }
 ]
