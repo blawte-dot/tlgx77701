@@ -34871,5 +34871,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Can Optimism crypto extend its recovery? THESE signals offer clues",
+    "link": "https://ambcrypto.com/can-optimism-crypto-extend-its-recovery-these-signals-offer-clues/",
+    "summary": "Optimism’s Open Interest, positive Funding Rate, and whale activity point to a potential continuation of its bullish rebound.",
+    "image": null,
+    "publishedAt": "2026-10-10T17:30:02.000Z",
+    "collectedAt": "2026-10-11T03:50:21.715Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2a364c61dda37dfbe676108a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-11T03:50:25.342Z",
+    "outcome": {
+      "event": {
+        "title": "Can Optimism crypto extend its recovery? THESE signals offer clues",
+        "fingerprint": "2a364c61dda37dfbe676108a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 914,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Mashinsky Accepts Lifetime Industry Ban and Up to $35 Million in Conditional Payments",
+    "link": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
+    "summary": "The New York settlement ties the money to federal forfeiture and prison-sentence conditions, adding to existing FTC and CFTC restrictions.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/d0de5d1b2fd249490a1db348cae8e06785dabd4a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-09T14:27:18.000Z",
+    "collectedAt": "2026-10-11T03:50:21.715Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9ab2cefc7e2ccb022f0e21e1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-11T03:50:26.403Z",
+    "outcome": {
+      "event": {
+        "title": "Mashinsky Accepts Lifetime Industry Ban and Up to $35 Million in Conditional Payments",
+        "fingerprint": "9ab2cefc7e2ccb022f0e21e1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 915,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+    "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+    "summary": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg",
+    "publishedAt": "2026-10-10T13:01:03.000Z",
+    "collectedAt": "2026-10-11T03:50:21.714Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1636f411b7bbc87e33e6f2e3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-11T03:50:27.605Z",
+    "outcome": {
+      "event": {
+        "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+        "fingerprint": "1636f411b7bbc87e33e6f2e3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 916,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "CFTC proposes a divide between prediction contracts and sportsbook wagers",
+    "link": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers/",
+    "summary": "An event-contract proposal and separate casino-wager rule sharpen the federal classification boundary while leaving state-law access disputes unresolved.\nThe post CFTC proposes a divide between prediction contracts and sportsbook wagers appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cftc-sportsbook-divide.webp",
+    "publishedAt": "2026-10-10T16:00:40.000Z",
+    "collectedAt": "2026-10-11T03:50:21.715Z",
+    "corroboratingSources": 1,
+    "fingerprint": "30775647f86acbc7b8be5f24",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-11T03:50:28.772Z",
+    "outcome": {
+      "event": {
+        "title": "CFTC proposes a divide between prediction contracts and sportsbook wagers",
+        "fingerprint": "30775647f86acbc7b8be5f24"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 917,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Stealing $1.5B in crypto is easy, cashing out is the trap",
+    "link": "https://cryptoslate.com/the-business-that-turns-north-korean-stolen-crypto-into-spendable-money/",
+    "summary": "North Korean hackers stole around $1.5 billion from Bybit in February 2025. While the hack itself has been widely covered and analyzed, few have focused on what happened afterward and what became of the stolen funds. To move all that money, hackers needed to rely on an entire network of people willing to handle stolen [&#8230;]\nThe post Stealing $1.5B in crypto is easy, cashing out is the trap appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/shadow-broker-profile.webp",
+    "publishedAt": "2026-10-10T12:00:37.000Z",
+    "collectedAt": "2026-10-11T03:50:21.715Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cf8cd8317ce572e734641448",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-11T03:50:30.007Z",
+    "outcome": {
+      "event": {
+        "title": "Stealing $1.5B in crypto is easy, cashing out is the trap",
+        "fingerprint": "cf8cd8317ce572e734641448"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 918,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

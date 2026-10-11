@@ -5651,5 +5651,40 @@
     "hasImage": true,
     "eventFingerprint": "24c78f990f7baf9d7d95f6d8",
     "timestamp": "2026-10-10T23:11:43.392Z"
+  },
+  {
+    "messageId": 914,
+    "text": "Whale wallets are quietly shifting position on Optimism while the broader market looks elsewhere. \n\nDerivatives data shows a notable convergence: Open Interest is climbing alongside consistently positive funding rates. \n\nThat combination points to renewed capital entering long positions rather than short-term speculative churn. \n\nWhether this momentum holds depends on whether spot demand can sustain the pressure at current resistance levels.",
+    "hasImage": true,
+    "eventFingerprint": "2a364c61dda37dfbe676108a",
+    "timestamp": "2026-10-11T03:50:25.329Z"
+  },
+  {
+    "messageId": 915,
+    "text": "35 million dollars and a permanent exit from the industry.\n\nCelsius founder Alex Mashinsky has agreed to a lifetime ban alongside a massive conditional settlement with New York authorities, linking the financial penalties directly to federal forfeiture proceedings and his ongoing prison sentence. \n\nThe agreement compounds existing restrictions previously imposed by both the FTC and the CFTC, formally closing another chapter of the 2022 platform collapse.",
+    "hasImage": true,
+    "eventFingerprint": "9ab2cefc7e2ccb022f0e21e1",
+    "timestamp": "2026-10-11T03:50:26.390Z"
+  },
+  {
+    "messageId": 916,
+    "text": "France really looked at its budget deficit and decided the answer was taxing stablecoin swaps.\n\nA parliamentary committee backed both a crypto-to-crypto swap levy and an exit tax on wealthy token holders earlier today. \n\nThe kicker? They immediately voted down the rest of the revenue bill anyway. \n\nBureaucracy moves fast when there's digital yield to clip, even if the math doesn't actually add up.",
+    "hasImage": true,
+    "eventFingerprint": "1636f411b7bbc87e33e6f2e3",
+    "timestamp": "2026-10-11T03:50:27.592Z"
+  },
+  {
+    "messageId": 917,
+    "text": "Two federal rulebooks are about to decide whether betting on the next president is finance or just sports gambling with better PR.\n\nThe CFTC just drew a sharp regulatory line between prediction contracts and standard casino wagers. \n\nWall Street gets its complex event derivatives. Main Street sportsbooks keep sweating state regulators. \n\nSame bet, completely different jurisdiction.",
+    "hasImage": true,
+    "eventFingerprint": "30775647f86acbc7b8be5f24",
+    "timestamp": "2026-10-11T03:50:28.758Z"
+  },
+  {
+    "messageId": 918,
+    "text": "The hardest part of a $1.5 billion heist isn't breaking the vault. It's finding enough middlemen to launder the loot without getting caught.\n\nFollowing February's massive Bybit exploit, North Korean operators have had to navigate an increasingly surveilled on-chain landscape just to move the funds. \n\nHow does an ecosystem that prides itself on censorship resistance effectively stop state-sponsored syndicates from cashing out? Where is the primary friction point—exchanges, OTC brokers, or cross-chain bridges? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "cf8cd8317ce572e734641448",
+    "timestamp": "2026-10-11T03:50:29.992Z"
   }
 ]
