@@ -6539,5 +6539,45 @@
     "hasImage": true,
     "eventFingerprint": "beb648f135f1d857abf91a98",
     "timestamp": "2026-10-11T10:34:44.105Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 924,
+    "text": "That is the consecutive number of negative sessions for Ethereum exchange-traded funds as October selling pressure deepens across institutional products. \n\nBitcoin funds aren't faring much better. Through the first seven trading days of the month, spot BTC vehicles have shed $386.3 million in net outflows, reversing momentum after late-summer accumulation.\n\nSolana-linked products are also reflecting the broader risk-off tilt in digital assets, keeping all three major institutional exposures underwater as macro headwinds persist into Q4.",
+    "hasImage": true,
+    "eventFingerprint": "aac37e1aae10f802fb7c9cf6",
+    "timestamp": "2026-10-11T16:31:47.790Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 925,
+    "text": "The classic market-neutral basis trade is quietly breaking down for funds caught between traditional and decentralized books. \n\nWhen a fund holds a profitable short on CME and a bleeding long on Hyperliquid, the math only works if capital flows freely between them. \n\nIt doesn't. \n\nFragmented margin requirements mean a sharp downside move can trigger liquidations on-chain long before CME profits can be realized and withdrawn. \n\nCross-margin efficiency remains the industry's biggest unsolved plumbing issue. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "0aaf079c0cec8c236903c06a",
+    "timestamp": "2026-10-11T16:31:49.303Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 926,
+    "text": "Your iPhone could be leaking your crypto seed data every fifteen seconds without a single notification. \n\nA newly detailed spyware framework dubbed P7 DarkSword targets iOS devices with remote commands designed to sweep imToken and other wallet applications, according to a recent threat report from security firm iVerify. \n\nThe exploit chain relies on deep system-level compromise to siphon sensitive application data at aggressive intervals. \n\nWhile the vector requires an initial breach rather than a simple zero-click download, the automation makes active compromises far more destructive for mobile asset holders.",
+    "hasImage": true,
+    "eventFingerprint": "9aa52b4491089127c8cac1dc",
+    "timestamp": "2026-10-11T16:31:50.555Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 927,
+    "text": "Are altcoin flows decoupling from the broader market leaders?\n\nWhile US-listed XRP products just notched their 13th straight week of net inflows, major capital poured out of Bitcoin, Ethereum, and Solana funds—shedding a combined $1.25 billion through October 9. Bitcoin alone accounted for $681.1 million in withdrawals.\n\nIs this sustained interest in XRP a sign of shifting institutional appetite, or just a temporary divergence while majors correct? Drop your take below.",
+    "hasImage": true,
+    "eventFingerprint": "b0a8731616ee8a1ca01b1ba7",
+    "timestamp": "2026-10-11T16:31:51.781Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 928,
+    "text": "Phishing season came early for hardware wallet users. \n\nAttackers hijacked Coldcard’s X account yesterday, weaponizing recent industry trauma to push fresh malicious links. \n\nIrony died the moment a security-first brand got social-engineered. \n\nDevice firmware might be air-gapped, but your timeline clearly isn't.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "b29a217abd488592ef0aa876",
+    "timestamp": "2026-10-11T16:31:53.455Z"
   }
 ]

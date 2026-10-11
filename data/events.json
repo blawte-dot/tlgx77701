@@ -35281,5 +35281,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+    "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+    "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+    "publishedAt": "2026-10-11T16:01:03.000Z",
+    "collectedAt": "2026-10-11T16:31:45.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aac37e1aae10f802fb7c9cf6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-11T16:31:47.796Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+        "fingerprint": "aac37e1aae10f802fb7c9cf6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 924,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin hedge funds face a liquidation trap when their collateral is split across markets",
+    "link": "https://cryptoslate.com/bitcoin-hedge-funds-face-a-liquidation-trap-when-their-collateral-is-split-across-markets/",
+    "summary": "Here's a hypothetical situation: a hedge fund is making money, but one of its exchanges is about to liquidate its position anyway. Bitcoin has fallen, its short position on CME is profitable, and the matching long on Hyperliquid is bleeding cash. The two trades were designed to offset each other, but Hyperliquid can't use profits [&#8230;]\nThe post Bitcoin hedge funds face a liquidation trap when their collateral is split across markets appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-hedge-margin-pressure.webp",
+    "publishedAt": "2026-10-11T16:00:20.000Z",
+    "collectedAt": "2026-10-11T16:31:45.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0aaf079c0cec8c236903c06a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-11T16:31:49.310Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin hedge funds face a liquidation trap when their collateral is split across markets",
+        "fingerprint": "0aaf079c0cec8c236903c06a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 925,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds",
+    "link": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
+    "summary": "iVerify’s P7 DarkSword report describes remote commands to collect imToken-related data after an iPhone is compromised.\nThe post New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/iphone-spyware-wallet-exposure.webp",
+    "publishedAt": "2026-10-11T13:00:14.000Z",
+    "collectedAt": "2026-10-11T16:31:45.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9aa52b4491089127c8cac1dc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-11T16:31:50.562Z",
+    "outcome": {
+      "event": {
+        "title": "New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds",
+        "fingerprint": "9aa52b4491089127c8cac1dc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 926,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "XRP ETFs extend a 13-week inflow streak as Bitcoin, Ethereum and Solana funds shed $1.25 billion",
+    "link": "https://cryptoslate.com/bitcoin-ethereum-and-solana-etfs-lose-1-25-billion-as-xrp-extends-13-week-inflow-streak/",
+    "summary": "US-listed XRP ETFs extended their inflow streak to 13 weeks as Bitcoin, Ethereum and Solana funds suffered nearly $1.25 billion in combined withdrawals during the week ended Oct. 9. Bitcoin ETFs recorded $681.1 million in net withdrawals, while Ethereum products shed $542.07 million and Solana funds lost $24.81 million, according to SoSoValue’s Bitcoin, Ethereum and [&#8230;]\nThe post XRP ETFs extend a 13-week inflow streak as Bitcoin, Ethereum and Solana funds shed $1.25 billion appeared first ",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-versus-crypto-etfs.webp",
+    "publishedAt": "2026-10-11T14:00:41.000Z",
+    "collectedAt": "2026-10-11T16:31:45.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b0a8731616ee8a1ca01b1ba7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-11T16:31:51.788Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETFs extend a 13-week inflow streak as Bitcoin, Ethereum and Solana funds shed $1.25 billion",
+        "fingerprint": "b0a8731616ee8a1ca01b1ba7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 927,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Coldcard Bitcoin Wallet Maker Compromised Again, This Time Online",
+    "link": "https://u.today/coldcard-bitcoin-wallet-maker-compromised-again-this-time-online",
+    "summary": "Coldcard X account hijacked to exploit user trauma from July’s $130 million wallet crisis, yet device makers claim internal security is intact.",
+    "image": null,
+    "publishedAt": "2026-10-11T10:22:05.000Z",
+    "collectedAt": "2026-10-11T16:31:45.404Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b29a217abd488592ef0aa876",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-11T16:31:53.462Z",
+    "outcome": {
+      "event": {
+        "title": "Coldcard Bitcoin Wallet Maker Compromised Again, This Time Online",
+        "fingerprint": "b29a217abd488592ef0aa876"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 928,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
