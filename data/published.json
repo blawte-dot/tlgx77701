@@ -6579,5 +6579,45 @@
     "hasImage": true,
     "eventFingerprint": "b29a217abd488592ef0aa876",
     "timestamp": "2026-10-11T16:31:53.455Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 929,
+    "text": "Liquidation engines only work if the collateral can actually be sold before the debt goes underwater. \n\nRecent borrower snapshots on Aave highlight a recurring structural risk in DeFi: large positions backed by assets that require hours to settle or cash out on-chain. \n\nWhen market velocity outpaces redemption times, protocol safety modules bear the brunt. \n\nThe core question isn't just whether positions are overcollateralized, but whether exit liquidity exists in real time when volatility spikes.",
+    "hasImage": true,
+    "eventFingerprint": "9f33aef92d18aaacbb0f5758",
+    "timestamp": "2026-10-11T20:46:35.866Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 930,
+    "text": "Don't look now, but someone just caught a falling knife with both hands.\n\nA single whale scooped up $32 million in ZEC following a 34% drawdown, betting heavily that privacy coins have some fight left in them. \n\nThe $1000 level is now the ultimate line in the sand as macro headwinds build. Whether that whale just bought the bottom or funded an expensive lesson is about to play out in real time.",
+    "hasImage": true,
+    "eventFingerprint": "ecabc7ec4b02518fc5b11604",
+    "timestamp": "2026-10-11T20:46:37.908Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 931,
+    "text": "Hardware security under direct scrutiny. ⚠️\n\nLedger has now confirmed physical tampering in at least one affected device, escalating a hardware security incident that demands immediate attention from cold-storage users. \n\nUnconfirmed reports are also spreading across social channels suggesting compromised units may have reached users in Europe. \n\nIndependent outlets are actively tracking the situation as it develops. Anyone holding hardware wallets should monitor official security channels closely while details are verified.\n\n#Ledger",
+    "hasImage": true,
+    "eventFingerprint": "c0c8647dddb20d957f3e2fe5",
+    "timestamp": "2026-10-11T20:46:38.969Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 932,
+    "text": "The regulatory tug-of-war over prediction markets just escalated.\n\nThe CFTC has introduced two new proposals designed to draw a sharp legal line between prediction contracts and casino gambling. \n\nBehind the technical language lies a clear strategy: setting the stage for a high-stakes US Supreme Court battle over whether federal regulators or state authorities hold ultimate jurisdiction. \n\nAs derivatives platforms increasingly intersect with mainstream finance and politics, the outcome of this jurisdictional clash will reshape the US landscape for decentralized wagering and event contracts.",
+    "hasImage": true,
+    "eventFingerprint": "ea12f96ace1b72a787a98fe1",
+    "timestamp": "2026-10-11T20:46:40.584Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 933,
+    "text": "Traditional equity markets shut their doors at 4 p.m., but tokenized representations and synthetic rails are keeping U.S. shares moving long after the closing bell rings.\n\nTrading American semiconductor companies and mega-cap tech while Wall Street sleeps opens up new avenues for global liquidity, but it also decouples price discovery from traditional clearinghouses and primary exchange oversight. \n\nWhen off-hours leveraged bets start driving the underlying sentiment before the opening bell even rings tomorrow, who is actually setting the fair value of these equities? \n\nDrop your read on 24/7 equity trading below.",
+    "hasImage": true,
+    "eventFingerprint": "54f9d43d6f8080b8e414142c",
+    "timestamp": "2026-10-11T20:46:41.797Z"
   }
 ]

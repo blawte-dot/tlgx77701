@@ -35486,5 +35486,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Some Aave loans sit near liquidation with collateral that can take hours to cash out",
+    "link": "https://cryptoslate.com/aaves-yield-collateral-markets-reveal-a-thin-cushion-before-liquidation/",
+    "summary": "October 9 borrower snapshots put the focus on whether collateral sales or redemptions can fund stablecoin repayment.\nThe post Some Aave loans sit near liquidation with collateral that can take hours to cash out appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-liquidation-balance.webp",
+    "publishedAt": "2026-10-11T20:00:33.000Z",
+    "collectedAt": "2026-10-11T20:46:33.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9f33aef92d18aaacbb0f5758",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-11T20:46:35.873Z",
+    "outcome": {
+      "event": {
+        "title": "Some Aave loans sit near liquidation with collateral that can take hours to cash out",
+        "fingerprint": "9f33aef92d18aaacbb0f5758"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 929,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Zcash whale buys $32M after 34% drop – Can ZEC defend $1000?",
+    "link": "https://ambcrypto.com/zcash-whale-buys-32m-after-34-drop-can-zec-defend-1000/",
+    "summary": "Will ZEC hold above $1000 ahead of extra macro volatility",
+    "image": null,
+    "publishedAt": "2026-10-11T19:00:51.000Z",
+    "collectedAt": "2026-10-11T20:46:33.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ecabc7ec4b02518fc5b11604",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-11T20:46:37.915Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash whale buys $32M after 34% drop – Can ZEC defend $1000?",
+        "fingerprint": "ecabc7ec4b02518fc5b11604"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 930,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ledger Confirms Hardware Implant as Tampered Wallet Reports Allegedly Spread to Europe",
+    "link": "https://cryptopotato.com/ledger-confirms-hardware-implant-as-tampered-wallet-reports-allegedly-spread-to-europe/",
+    "summary": "The company confirmed physical tampering in at least one affected device. In addition, reports emerged that the incident has spread to Europe.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2023/12/Ledger_Security.jpg",
+    "publishedAt": "2026-10-11T18:37:09.000Z",
+    "collectedAt": "2026-10-11T20:46:33.621Z",
+    "corroboratingSources": 2,
+    "fingerprint": "c0c8647dddb20d957f3e2fe5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 3.5,
+    "processedAt": "2026-10-11T20:46:38.975Z",
+    "outcome": {
+      "event": {
+        "title": "Ledger Confirms Hardware Implant as Tampered Wallet Reports Allegedly Spread to Europe",
+        "fingerprint": "c0c8647dddb20d957f3e2fe5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 931,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+    "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
+    "publishedAt": "2026-10-11T07:50:00.000Z",
+    "collectedAt": "2026-10-11T20:46:33.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ea12f96ace1b72a787a98fe1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-11T20:46:40.592Z",
+    "outcome": {
+      "event": {
+        "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+        "fingerprint": "ea12f96ace1b72a787a98fe1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 932,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "What happens when crypto trades stocks while Wall Street sleeps?",
+    "link": "https://cryptoslate.com/who-prices-a-stock-index-when-its-shares-arent-trading/",
+    "summary": "Wall Street closes at 4 p.m., but apparently that's becoming more of a suggestion than a rule. You can now spend the evening watching Netflix and making leveraged bets on American semiconductor companies while the exchange where their shares trade is closed. Crypto has spent years making financial markets available at every hour of the [&#8230;]\nThe post What happens when crypto trades stocks while Wall Street sleeps? appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cracked-clock-market-cycles.webp",
+    "publishedAt": "2026-10-11T12:00:20.000Z",
+    "collectedAt": "2026-10-11T20:46:33.621Z",
+    "corroboratingSources": 1,
+    "fingerprint": "54f9d43d6f8080b8e414142c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-11T20:46:41.805Z",
+    "outcome": {
+      "event": {
+        "title": "What happens when crypto trades stocks while Wall Street sleeps?",
+        "fingerprint": "54f9d43d6f8080b8e414142c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 933,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
