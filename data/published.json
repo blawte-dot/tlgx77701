@@ -6619,5 +6619,45 @@
     "hasImage": true,
     "eventFingerprint": "54f9d43d6f8080b8e414142c",
     "timestamp": "2026-10-11T20:46:41.797Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 934,
+    "text": "Hardware wallet security assumptions are taking another hit this week.\n\nA European user has reported receiving a compromised Ledger device purchased directly from a major retailer, raising fresh questions about retail supply chain integrity. \n\nMeanwhile, security researchers deployed artificial intelligence to uncover a critical vulnerability in the XRP ledger—a theoretical exploit valued at astronomical sums. \n\nThe find netted the researchers a $250,000 bug bounty. \n\nSource: Cointelegraph",
+    "hasImage": true,
+    "eventFingerprint": "eb311330769971c60e1b5242",
+    "timestamp": "2026-10-12T00:11:37.561Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 935,
+    "text": "Ethereum buyers are walking through a minefield right now. \n\nSpot ETFs just bled $542 million in outflows, yet leveraged traders on Bitfinex are doubling down on heavy long positions anyway. \n\nThe $2,560 resistance level continues to cap any meaningful upside momentum. Until that ceiling breaks, this fragile rebound remains entirely at the mercy of derivatives positioning.",
+    "hasImage": true,
+    "eventFingerprint": "73e90ffaf7aac3312d65122a",
+    "timestamp": "2026-10-12T00:11:39.169Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 936,
+    "text": "$564 million walked out the door this week. 📉\n\nBitcoin exchange-traded funds just posted their heaviest weekly outflows in three months, matching a broader tightening across digital asset products. \n\nEthereum investment vehicles are feeling an even sharper squeeze. Funds tracking the second-largest cryptocurrency have now extended their uninterrupted losing streak back to September 28 without a single day of net inflows. \n\nMarkets are adjusting positions as macro pressure persists.",
+    "hasImage": true,
+    "eventFingerprint": "50c43c42507bdb340aa9a252",
+    "timestamp": "2026-10-12T00:11:40.184Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 937,
+    "text": "7 percent. That is how much XRP shed over the past week even as its investment products managed to log another consecutive block of net inflows against the broader market slump.\n\nFlows and spot prices are telling entirely different stories right now. \n\nWhere do you stand on this divergence—does steady ETF accumulation signal quiet accumulation before a relief rally, or is the persistent downward drag in spot price telling us the institutional interest isn't enough to offset broader distribution? \n\n#XRP",
+    "hasImage": true,
+    "eventFingerprint": "55d8a780d8c3f5c3532cc027",
+    "timestamp": "2026-10-12T00:11:41.499Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 938,
+    "text": "Why are global central banks quietly stacking bullion at a pace not seen in decades?\n\nChina's state reserves have expanded for nearly two straight years, marking one of the most sustained accumulation streaks in modern financial history. \n\nOfficial data confirms the streak continues unabated, underscoring a broader shift in sovereign asset management amid mounting geopolitical and currency risks.",
+    "hasImage": true,
+    "eventFingerprint": "4ed7261e5efe02080a20f833",
+    "timestamp": "2026-10-12T00:11:43.168Z"
   }
 ]

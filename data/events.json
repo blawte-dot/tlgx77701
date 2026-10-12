@@ -35691,5 +35691,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png",
+    "publishedAt": "2026-10-11T22:57:53.000Z",
+    "collectedAt": "2026-10-12T00:11:35.574Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eb311330769971c60e1b5242",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-12T00:11:37.568Z",
+    "outcome": {
+      "event": {
+        "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+        "fingerprint": "eb311330769971c60e1b5242"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 934,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Decoding Ethereum’s stalled rebound as Bitfinex longs defy $542M ETF outflows",
+    "link": "https://ambcrypto.com/decoding-ethereums-stalled-rebound-as-bitfinex-longs-defy-542m-etf-outflows/",
+    "summary": "Ethereum’s rebound remains fragile as $2,560 resistance and aggressive Bitfinex longs put buyers under pressure.",
+    "image": null,
+    "publishedAt": "2026-10-11T23:00:55.000Z",
+    "collectedAt": "2026-10-12T00:11:35.574Z",
+    "corroboratingSources": 1,
+    "fingerprint": "73e90ffaf7aac3312d65122a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-12T00:11:39.177Z",
+    "outcome": {
+      "event": {
+        "title": "Decoding Ethereum’s stalled rebound as Bitfinex longs defy $542M ETF outflows",
+        "fingerprint": "73e90ffaf7aac3312d65122a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 935,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin ETF Weekly Outflows Hit 3-Month High, Ethereum Funds Extend Losing Streak",
+    "link": "https://cryptopotato.com/bitcoin-etf-weekly-outflows-hit-3-month-high-ethereum-funds-extend-losing-streak/",
+    "summary": "The financial vehicles tracking the largest altcoin have not seen a green day since September 28.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Ethereum_ETF.jpg",
+    "publishedAt": "2026-10-11T16:29:17.000Z",
+    "collectedAt": "2026-10-12T00:11:35.574Z",
+    "corroboratingSources": 1,
+    "fingerprint": "50c43c42507bdb340aa9a252",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-12T00:11:40.190Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF Weekly Outflows Hit 3-Month High, Ethereum Funds Extend Losing Streak",
+        "fingerprint": "50c43c42507bdb340aa9a252"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 936,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple ETFs Defy Crypto Slump With Another Green Week but XRP Price Sinks",
+    "link": "https://cryptopotato.com/ripple-etfs-defy-crypto-slump-with-another-green-week-but-xrp-price-sinks/",
+    "summary": "XRP rebounded from the recent lows but it's still down by over 7% weekly.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Ripple_ETF.jpg",
+    "publishedAt": "2026-10-11T14:36:29.000Z",
+    "collectedAt": "2026-10-12T00:11:35.574Z",
+    "corroboratingSources": 1,
+    "fingerprint": "55d8a780d8c3f5c3532cc027",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-12T00:11:41.552Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple ETFs Defy Crypto Slump With Another Green Week but XRP Price Sinks",
+        "fingerprint": "55d8a780d8c3f5c3532cc027"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 937,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "China’s Gold Buying Spree Accelerates as Central Banks Keep Stockpiling Bullion",
+    "link": "https://cryptopotato.com/chinas-gold-buying-spree-accelerates-as-central-banks-keep-stockpiling-bullion/",
+    "summary": "China has accelerated its gold accumulation spree again, with its streak lasting almost two years straight.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/12/China.jpg",
+    "publishedAt": "2026-10-11T07:24:55.000Z",
+    "collectedAt": "2026-10-12T00:11:35.574Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4ed7261e5efe02080a20f833",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-12T00:11:43.175Z",
+    "outcome": {
+      "event": {
+        "title": "China’s Gold Buying Spree Accelerates as Central Banks Keep Stockpiling Bullion",
+        "fingerprint": "4ed7261e5efe02080a20f833"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 938,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
