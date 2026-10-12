@@ -36306,5 +36306,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+    "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
+    "summary": "Bitcoin Magazine\n\nSouth Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans\nThe South Korean bank has become the first in the country to offer the bitcoin-related service. \nThis post South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg",
+    "publishedAt": "2026-10-12T22:06:36.000Z",
+    "collectedAt": "2026-10-12T23:27:56.119Z",
+    "corroboratingSources": 2,
+    "fingerprint": "2bd4c2d9e4eb2646b6082f35",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-10-12T23:27:58.316Z",
+    "outcome": {
+      "event": {
+        "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+        "fingerprint": "2bd4c2d9e4eb2646b6082f35"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 949,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves",
+    "link": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+    "summary": "For affiliated issuers with separate reserves, redemption demand could concentrate at one entity while moving backing across borders faces frictions.\nThe post Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-redemption-reserve-bottleneck.webp",
+    "publishedAt": "2026-10-12T22:10:30.000Z",
+    "collectedAt": "2026-10-12T23:27:56.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "14791d7ff6d498ac9a4cfdf8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-12T23:27:59.484Z",
+    "outcome": {
+      "event": {
+        "title": "Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves",
+        "fingerprint": "14791d7ff6d498ac9a4cfdf8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 950,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+    "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+    "summary": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca35baafe5c46bb4b2cfe659ffd824568e1c8cbf-3072x1534.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-12T10:27:00.000Z",
+    "collectedAt": "2026-10-12T23:27:56.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c3c59596b859dcde1726cae5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-12T23:28:00.712Z",
+    "outcome": {
+      "event": {
+        "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+        "fingerprint": "c3c59596b859dcde1726cae5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 951,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+    "link": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+    "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News.jpg",
+    "publishedAt": "2026-10-12T17:06:25.000Z",
+    "collectedAt": "2026-10-12T23:27:56.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a695001c8071b80f6ccdc1ce",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-12T23:28:01.727Z",
+    "outcome": {
+      "event": {
+        "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+        "fingerprint": "a695001c8071b80f6ccdc1ce"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 952,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "FTX’s crypto mining venture is now used to advance AI",
+    "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RW88XV464BJDJNJTY3D37E/hi-top-5-biggest-mining-farms.jpg",
+    "publishedAt": "2026-10-12T21:11:26.000Z",
+    "collectedAt": "2026-10-12T23:27:56.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4913c30346a3d3336ed6f42c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-12T23:28:02.823Z",
+    "outcome": {
+      "event": {
+        "title": "FTX’s crypto mining venture is now used to advance AI",
+        "fingerprint": "4913c30346a3d3336ed6f42c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 953,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

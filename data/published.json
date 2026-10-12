@@ -6739,5 +6739,45 @@
     "hasImage": true,
     "eventFingerprint": "b987ab500ea8e638186b1499",
     "timestamp": "2026-10-12T16:30:09.163Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 949,
+    "text": "Institutional liquidity in Asia just crossed a major threshold. \n\nJeonbuk Bank has quietly become the first traditional financial institution in South Korea to roll out Bitcoin-backed loans. \n\nFor years, local banking access remained tightly constrained by regulatory friction. \n\nThis move signals a sharp shift in how regulated lenders view crypto collateral inside one of the world's most active retail markets. \n\nCredit availability tied directly to digital assets bridges traditional banking infrastructure with decentralized collateral models. \n\nWatch for whether domestic competitors follow suit as regulatory pressure in Seoul continues to evolve.",
+    "hasImage": true,
+    "eventFingerprint": "2bd4c2d9e4eb2646b6082f35",
+    "timestamp": "2026-10-12T23:27:58.311Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 950,
+    "text": "Full reserves don't eliminate the risk of a systemic bank run in the stablecoin sector.\n\nAccording to a new warning from global regulators, the $300 billion market remains vulnerable to sudden redemption shocks. \n\nFor issuers operating with affiliated entities and segregated reserves, heavy demand can quickly concentrate on a single entity. \n\nCross-border frictions and delayed asset mobility can then trap backing where it is not immediately needed, compounding liquidity stress during market-wide panic.",
+    "hasImage": true,
+    "eventFingerprint": "14791d7ff6d498ac9a4cfdf8",
+    "timestamp": "2026-10-12T23:27:59.478Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 951,
+    "text": "From bankruptcy estate to artificial intelligence. \n\nSWI Group just secured 800 million euros, roughly $894 million, to pivot Genesis Digital Assets away from proof-of-work mining entirely. \n\nThe infrastructure acquired from the FTX fallout is getting a very different tenant. Instead of hashing blocks, those former bitcoin mining racks are being rewired for large-scale AI data centers. \n\nThe market has spoken: power capacity is the new digital gold, and compute pays better than coin.",
+    "hasImage": true,
+    "eventFingerprint": "c3c59596b859dcde1726cae5",
+    "timestamp": "2026-10-12T23:28:00.707Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 952,
+    "text": "Traditional finance just discovered that putting stocks on Solana is good for business. \n\nStoneX raised its price target for Securitize by 50% this week, bumping SECZ from $12 to $18. The catalyst? New revenue rolling in straight from their tokenized trading platform. \n\nWall Street likes a new line on the balance sheet, even if it runs on a blockchain. \n\n#Securitize",
+    "hasImage": true,
+    "eventFingerprint": "a695001c8071b80f6ccdc1ce",
+    "timestamp": "2026-10-12T23:28:01.720Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 953,
+    "text": "Who would have guessed a bankrupt crypto exchange's pre-collapse mining investments would end up quietly pivoting toward artificial intelligence infrastructure?\n\nBefore its November 2022 collapse, FTX quietly secured a 20% equity stake in Genesis Digital Assets. \n\nNow, those same digital asset mining resources are being redirected to feed the booming demand for AI compute. \n\nWhat is your read on this asset evolution? Let us know below.",
+    "hasImage": true,
+    "eventFingerprint": "4913c30346a3d3336ed6f42c",
+    "timestamp": "2026-10-12T23:28:02.817Z"
   }
 ]
