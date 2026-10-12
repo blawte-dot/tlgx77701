@@ -35896,5 +35896,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+    "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+    "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-12T04:49:30.000Z",
+    "collectedAt": "2026-10-12T06:55:58.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aa236b7cb58c2c8f15a0059b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-12T06:56:09.671Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+        "fingerprint": "aa236b7cb58c2c8f15a0059b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 939,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+    "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QBHGDKZ7W5F58K506PQBRF/g20-meeting.png",
+    "publishedAt": "2026-10-12T06:30:21.000Z",
+    "collectedAt": "2026-10-12T06:55:58.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2bacb33794803a710dd3751e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-12T06:56:24.741Z",
+    "outcome": {
+      "event": {
+        "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+        "fingerprint": "2bacb33794803a710dd3751e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 940,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+    "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PTZZ4W2YTP18XY2SMEBFG3/xrpl.jpg",
+    "publishedAt": "2026-10-12T01:21:29.000Z",
+    "collectedAt": "2026-10-12T06:55:58.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c2ede984aa4550a579a61a3f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-12T06:56:35.696Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+        "fingerprint": "c2ede984aa4550a579a61a3f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 941,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Defends Local Bottom Despite Revelation of Crypto's Largest Near-Miss Hack",
+    "link": "https://u.today/xrp-defends-local-bottom-despite-revelation-of-cryptos-largest-near-miss-hack",
+    "summary": "XRP holds its ground despite the shock disclosure of a 10-year-old code flaw that put the entire network at risk.",
+    "image": null,
+    "publishedAt": "2026-10-11T11:23:05.000Z",
+    "collectedAt": "2026-10-12T06:55:58.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9b603a6ffcc0e9019b458256",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-12T06:56:44.391Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Defends Local Bottom Despite Revelation of Crypto's Largest Near-Miss Hack",
+        "fingerprint": "9b603a6ffcc0e9019b458256"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 942,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Dogecoin Spot Flows Drop 599% in Week as Whales Readjust Strategy",
+    "link": "https://u.today/dogecoin-spot-flows-drop-599-in-week-as-whales-readjust-strategy",
+    "summary": "599% drop highlights notable change in Dogecoin’s spot-flow picture, with the market now watching what comes next.",
+    "image": null,
+    "publishedAt": "2026-10-11T11:15:00.000Z",
+    "collectedAt": "2026-10-12T06:55:58.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "170753a7ee435d69651f73a7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-12T06:56:55.673Z",
+    "outcome": {
+      "event": {
+        "title": "Dogecoin Spot Flows Drop 599% in Week as Whales Readjust Strategy",
+        "fingerprint": "170753a7ee435d69651f73a7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 943,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

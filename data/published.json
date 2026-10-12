@@ -6659,5 +6659,45 @@
     "hasImage": true,
     "eventFingerprint": "4ed7261e5efe02080a20f833",
     "timestamp": "2026-10-12T00:11:43.168Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 939,
+    "text": "Macro divergence is defining the start of the week. \n\nBitcoin is holding firmly above $84,000, entirely unfazed by a heavy wave of redemptions that saw spot ETFs shed more than $600 million last week. \n\nAt the same time, crude oil is sliding lower, easing broader inflation pressures that typically weigh on risk assets. \n\nSpot demand is absorbing the ETF outflow pressure for now, keeping weekend gains intact as traditional markets open. 📉",
+    "hasImage": true,
+    "eventFingerprint": "aa236b7cb58c2c8f15a0059b",
+    "timestamp": "2026-10-12T06:56:09.664Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 940,
+    "text": "Regulators are moving from warning shots to coordinated policy.\n\nThe Financial Stability Board has formally flagged cross-border stablecoin vulnerabilities and AI-driven cybersecurity threats ahead of the G20 summit. \n\nThe global watchdog is pressing policymakers for stricter safeguards across traditional finance and digital asset rails, signaling that regulatory scrutiny on multi-jurisdiction stablecoin flows is about to tighten.",
+    "hasImage": true,
+    "eventFingerprint": "2bacb33794803a710dd3751e",
+    "timestamp": "2026-10-12T06:56:24.733Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 941,
+    "text": "Since when is an \"unlimited money glitch\" patch considered non-consensual?\n\nThe XRP Ledger Foundation is pushing back this week after critics claimed their recent emergency security fix was shoved down validator throats. \n\nApparently, forcing node operators to stop an infinite token bug without a lengthy debate is now authoritarian. \n\nNothing says decentralized governance quite like scrambling to plug a hole while everyone pretends it is a feature.",
+    "hasImage": true,
+    "eventFingerprint": "c2ede984aa4550a579a61a3f",
+    "timestamp": "2026-10-12T06:56:35.688Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 942,
+    "text": "A decade-old code flaw nearly wiped out the entire XRP ledger, but markets are refusing to panic. 🚨\n\nReports reveal developers quietly patched a critical vulnerability back in 2014 that could have allowed an attacker to drain accounts network-wide. \n\nDespite the scale of the near-miss, XRP has held its local support level as trading volumes remain steady. \n\n#XRP",
+    "hasImage": true,
+    "eventFingerprint": "9b603a6ffcc0e9019b458256",
+    "timestamp": "2026-10-12T06:56:44.382Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 943,
+    "text": "A staggering 599% collapse in weekly spot flows leaves Dogecoin traders searching for direction as large holders seemingly step to the sidelines. \n\nWith capital exiting the spot market at that speed, the immediate question is whether this marks a temporary cooling-off period or the start of a deeper liquidity drain. \n\nHow are you adjusting your exposure to DOGE right now? Are you treating this massive drop in flows as a warning sign or just routine noise?",
+    "hasImage": true,
+    "eventFingerprint": "170753a7ee435d69651f73a7",
+    "timestamp": "2026-10-12T06:56:55.666Z"
   }
 ]
