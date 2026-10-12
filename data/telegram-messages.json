@@ -5861,5 +5861,40 @@
     "hasImage": true,
     "eventFingerprint": "170753a7ee435d69651f73a7",
     "timestamp": "2026-10-12T06:56:55.659Z"
+  },
+  {
+    "messageId": 944,
+    "text": "Hong Kong is quietly becoming a key testing ground for institutional Solana access.\n\nPando Asset Management has scheduled the launch of its spot Solana ETF for later this month, marking the second such product to arrive in the special administrative region. \n\nWhile US markets remain hesitant on Solana investment vehicles amid ongoing regulatory ambiguity from the SEC, Asian financial hubs are moving ahead with structured products to capture demand. \n\nThe listing comes as regional exchanges expand their digital asset offerings beyond Bitcoin and Ethereum, testing whether broader altcoin exposure can attract traditional capital allocators. \n\nVolume and initial AUM figures will offer a clearer picture of whether institutional appetite extends past the two largest assets once trading goes live.",
+    "hasImage": true,
+    "eventFingerprint": "ac2a8cf6c665fd5226dad35b",
+    "timestamp": "2026-10-12T16:30:03.606Z"
+  },
+  {
+    "messageId": 945,
+    "text": "Hong Kong's institutional crypto shelf is expanding just as autumn trading kicks off.\n\nPando Asset Management has scheduled an October 13 listing for its spot Solana exchange-traded fund on the local stock exchange.\n\nThe new product carries a 0.60% annual management fee. \n\nIt enters a nascent market alongside ChinaAMC’s existing Solana ETF, which held $8.58 million in assets under management at the close of August. \n\nWhile mainland capital remains largely restricted from direct access, the incremental rollout of regulated regional products continues to build institutional infrastructure across Asian trading hubs.",
+    "hasImage": true,
+    "eventFingerprint": "ddd9c2afabfa1dc6c4333d02",
+    "timestamp": "2026-10-12T16:30:04.968Z"
+  },
+  {
+    "messageId": 946,
+    "text": "One major South Korean commercial lender is reportedly moving into crypto-backed corporate credit.\n\nUnconfirmed reports indicate Jeonbuk Bank has begun offering business loans secured by Bitcoin, utilizing a third-party custodian to manage the underlying collateral. \n\nIf verified, the step marks a notable shift in institutional integration for the region's banking sector, bridging traditional commercial credit with digital asset holdings under regulated oversight.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "cef7acd884e1d448362beadb",
+    "timestamp": "2026-10-12T16:30:06.234Z"
+  },
+  {
+    "messageId": 947,
+    "text": "Bangkok is cutting out the offshore middlemen.\n\nThailand’s securities regulator has officially finalized rules for local spot Bitcoin and Ethereum exchange-traded funds, opening the door to institutional capital starting October 16. \n\nThe framework matches global standards in asset selection, but draws a hard line on retail access. Investors must complete mandatory product-risk education before placing a single trade, reflecting a regulatory approach that welcomes institutional inflows while attempting to curb pure speculation. \n\nWith the global crypto ETF market hovering around $120 billion, Southeast Asia’s second-largest economy is positioning itself as a compliant regional hub. Regulators are betting that clear guardrails will draw domestic wealth back onto local books rather than leaving it on overseas exchanges.",
+    "hasImage": true,
+    "eventFingerprint": "18e45959c0707b581d166479",
+    "timestamp": "2026-10-12T16:30:07.722Z"
+  },
+  {
+    "messageId": 948,
+    "text": "How many compromised hardware wallets are sitting on European retail shelves right now?\n\nA second hardware wallet buyer has come forward reporting a tampered device purchased through traditional retail channels, raising fresh questions about supply chain security for physical crypto storage. \n\nThe customer purchased the unit from a MediaMarkt outlet and pointed to distributor Aqipa as part of the supply chain. \n\nLedger's support team maintains that previously confirmed tampering incidents are isolated to a separate vendor, CryptoBilis. \n\nThis second device is now en route back to Ledger headquarters for forensic analysis. \n\nFor now, industry analysts reiterate a fundamental rule: always initialize hardware wallets using official companion software that verifies device integrity upon first connection, regardless of where the box was bought.",
+    "hasImage": true,
+    "eventFingerprint": "b987ab500ea8e638186b1499",
+    "timestamp": "2026-10-12T16:30:09.158Z"
   }
 ]

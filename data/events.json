@@ -36101,5 +36101,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Another Spot Solana ETF Set to Launch This Month",
+    "link": "https://u.today/another-spot-solana-etf-set-to-launch-this-month",
+    "summary": "Solana is preparing to launch its second ETF in Hong Kong as Pando schedules the listing of its Solana fund for this month.",
+    "image": null,
+    "publishedAt": "2026-10-12T12:01:20.000Z",
+    "collectedAt": "2026-10-12T16:30:00.283Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ac2a8cf6c665fd5226dad35b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-12T16:30:03.614Z",
+    "outcome": {
+      "event": {
+        "title": "Another Spot Solana ETF Set to Launch This Month",
+        "fingerprint": "ac2a8cf6c665fd5226dad35b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 944,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Pando Sets Oct. 13 Hong Kong Listing for Spot Solana ETF",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/pando-sets-oct-13-hong-kong-listing-for-spot-solana-etf",
+    "summary": "The fund will charge a 0.60% annual management fee, adding another option alongside ChinaAMC’s Solana ETF, which held $8.58 million at the end of August.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/72342c98325725dfa49ae09a0286b4c3407714ed-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-12T15:23:48.000Z",
+    "collectedAt": "2026-10-12T16:30:00.284Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ddd9c2afabfa1dc6c4333d02",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-12T16:30:04.976Z",
+    "outcome": {
+      "event": {
+        "title": "Pando Sets Oct. 13 Hong Kong Listing for Spot Solana ETF",
+        "fingerprint": "ddd9c2afabfa1dc6c4333d02"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 945,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+    "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QKGRPPCEHYJ6JB01H5VKKA/south-korea-bank.png",
+    "publishedAt": "2026-10-12T08:45:58.000Z",
+    "collectedAt": "2026-10-12T16:30:00.283Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cef7acd884e1d448362beadb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-12T16:30:06.242Z",
+    "outcome": {
+      "event": {
+        "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+        "fingerprint": "cef7acd884e1d448362beadb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 946,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
+    "link": "https://cryptoslate.com/thailand-wants-a-piece-of-the-120-billion-bitcoin-and-ethereum-etf-market-but-on-its-own-terms/",
+    "summary": "The SEC says the framework takes effect Oct. 16, with Bitcoin and Ethereum initially eligible and product-risk education required before trading.\nThe post Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/thailand-bitcoin-etf-rules.webp",
+    "publishedAt": "2026-10-12T12:00:46.000Z",
+    "collectedAt": "2026-10-12T16:30:00.283Z",
+    "corroboratingSources": 1,
+    "fingerprint": "18e45959c0707b581d166479",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-12T16:30:07.732Z",
+    "outcome": {
+      "event": {
+        "title": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
+        "fingerprint": "18e45959c0707b581d166479"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 947,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Buyer Reports Second Tampered Ledger From MediaMarkt, Calls for Recall",
+    "link": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
+    "summary": "Ledger Support still says confirmed cases involve CryptoBilis. The buyer named distributor Aqipa and said the second device is being sent to Ledger for analysis.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/3c95d98352f4d247d4b0f4173b96509c33638895-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-12T15:21:38.000Z",
+    "collectedAt": "2026-10-12T16:30:00.284Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b987ab500ea8e638186b1499",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-12T16:30:09.167Z",
+    "outcome": {
+      "event": {
+        "title": "Buyer Reports Second Tampered Ledger From MediaMarkt, Calls for Recall",
+        "fingerprint": "b987ab500ea8e638186b1499"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 948,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
