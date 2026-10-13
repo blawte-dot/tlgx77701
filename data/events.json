@@ -36716,5 +36716,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+    "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TJ29HRXGHBG9K7W07M6RBV/sbernew2.jpg",
+    "publishedAt": "2026-10-13T12:22:24.000Z",
+    "collectedAt": "2026-10-13T13:30:36.256Z",
+    "corroboratingSources": 1,
+    "fingerprint": "15894007b25be006b57c185a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-13T13:31:30.479Z",
+    "outcome": {
+      "event": {
+        "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+        "fingerprint": "15894007b25be006b57c185a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 959,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+    "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+    "summary": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4431859b83445fdd3e02e984cae83412cc8949df-3264x2040.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-13T11:02:47.000Z",
+    "collectedAt": "2026-10-13T13:30:36.256Z",
+    "corroboratingSources": 1,
+    "fingerprint": "03b19eb02b9e1f0e42707e59",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-13T13:31:34.423Z",
+    "outcome": {
+      "event": {
+        "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+        "fingerprint": "03b19eb02b9e1f0e42707e59"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 960,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+    "link": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TNNXR2NKTWJ28W4SJ53VKF/hi-goldman-sachs-and-crypto-recap-bank.jpg",
+    "publishedAt": "2026-10-13T13:17:17.000Z",
+    "collectedAt": "2026-10-13T13:30:36.256Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4f834cbdf5ea2e986fc7e23f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-13T13:31:43.911Z",
+    "outcome": {
+      "event": {
+        "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+        "fingerprint": "4f834cbdf5ea2e986fc7e23f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 961,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Sky’s $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route",
+    "link": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger/",
+    "summary": "Sky’s October 9 PSM disclosure highlights existing conversion liquidity, while borrowing and token migration need not bring matching new dollars into crypto.\nThe post Sky’s $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/psm-liquidity-cash-flow.webp",
+    "publishedAt": "2026-10-13T13:00:58.000Z",
+    "collectedAt": "2026-10-13T13:30:36.256Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c82eb751731fe207cb3cd88e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-13T13:31:48.706Z",
+    "outcome": {
+      "event": {
+        "title": "Sky’s $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route",
+        "fingerprint": "c82eb751731fe207cb3cd88e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 962,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Analysis: More Danger Ahead as BTC Remains Below Broken Trendline?",
+    "link": "https://cryptopotato.com/bitcoin-price-analysis-more-danger-ahead-as-btc-remains-below-broken-trendline/",
+    "summary": "Bitcoin has rebounded toward $83.3K after another test of nearby demand, but the recovery remains below the broken trendline support. Renewed big-whale spot activity adds another factor to watch, as large orders could introduce selling pressure while BTC struggles to reclaim resistance. Bitcoin Price Analysis: The Daily Chart On the daily timeframe, Bitcoin’s rejection from [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/BTC-D-1-1.jpg",
+    "publishedAt": "2026-10-13T13:25:52.000Z",
+    "collectedAt": "2026-10-13T13:30:36.256Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab2cd3d761dd50948e3a6a98",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-13T13:31:54.797Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Analysis: More Danger Ahead as BTC Remains Below Broken Trendline?",
+        "fingerprint": "ab2cd3d761dd50948e3a6a98"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 963,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
