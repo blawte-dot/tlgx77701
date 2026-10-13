@@ -6001,5 +6001,40 @@
     "hasImage": true,
     "eventFingerprint": "ab2cd3d761dd50948e3a6a98",
     "timestamp": "2026-10-13T13:31:54.785Z"
+  },
+  {
+    "messageId": 964,
+    "text": "A silent shift in SEC quorum rules may redefine how crypto is regulated from the inside out.\n\nThe agency recently updated its internal protocols, effectively lowering the barrier for decision-making during leadership vacancies or transitions. In the absence of comprehensive market structure legislation from Congress, these procedural adjustments grant the Commission newfound agility to push through policy changes without a full bench.\n\nIndustry analysts suggest this could streamline the rulemaking process, potentially signaling a pivot in how the SEC classifies digital assets or oversees market participants. \n\nRather than waiting for a legislative consensus that remains stalled, the agency is positioning itself to govern through administrative action. For the crypto sector, this means the next phase of oversight may be dictated by internal agency mechanics rather than open debate on Capitol Hill.\n\n#CryptoRegulation",
+    "hasImage": true,
+    "eventFingerprint": "6855ba8475367d2c9e162d2d",
+    "timestamp": "2026-10-13T20:03:37.485Z"
+  },
+  {
+    "messageId": 965,
+    "text": "Quantum-resistant security for Bitcoin just became significantly more accessible.\n\nNew research confirms the cost of generating quantum-safe protection for legacy Bitcoin wallets has dropped by 82% due to advancements in GPU computation.\n\nThe development targets roughly 6 million BTC currently held in older address formats susceptible to future quantum decryption. \n\nPractical application remains limited for now, however. Conventional funding signatures and restricted direct miner access prevent immediate, widespread implementation of these safeguards. \n\nWhile the barrier to entry is falling, securing the network’s legacy supply remains a technical race against evolving computing power.",
+    "hasImage": true,
+    "eventFingerprint": "862613995d8722756e623a41",
+    "timestamp": "2026-10-13T20:03:43.072Z"
+  },
+  {
+    "messageId": 966,
+    "text": "Hardware wallet security is facing a major supply-chain overhaul.\n\nTrezor is terminating relationships with a significant portion of its authorized resellers effective immediately. The move follows the high-profile security vulnerabilities recently exposed in the Ledger ecosystem. \n\nBy centralizing distribution, the company aims to mitigate the risk of tampered hardware reaching end users. Expect stricter verification protocols for all remaining partners as the industry pivots toward tighter supply-chain controls.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "b9e0bf4c5879ac354cea3793",
+    "timestamp": "2026-10-13T20:03:55.551Z"
+  },
+  {
+    "messageId": 967,
+    "text": "The SEC just handed everyone a map of the XRP boardroom, and it looks like a family reunion.\n\nNew regulatory filings confirm the primary architects behind the Ripple ecosystem are also the primary stakeholders in its latest Nasdaq-listed exposure. Between Chris Larsen, the Ripple treasury, and SBI Holdings, the concentration of ownership is stark.\n\nWhile the market obsesses over price action, the institutional structure remains firmly consolidated at the top. Decentralization is a spectrum, and this filing just provided a very clear look at where the ledger actually ends.",
+    "hasImage": true,
+    "eventFingerprint": "24a0419530deec15906f2acd",
+    "timestamp": "2026-10-13T20:04:06.326Z"
+  },
+  {
+    "messageId": 968,
+    "text": "A dormant giant has finally awakened.\n\nA Bitcoin whale that received its holdings just days before the March 2020 Covid-19 market crash has moved 5,474 BTC, valued at approximately $378 million.\n\nThe wallet remained untouched through four years of extreme volatility, surviving the depths of the 2020 liquidity crisis and subsequent market cycles. \n\nOn-chain data confirms the stash was moved earlier today. There is no public indication yet regarding whether the funds were sent to an exchange or another cold storage address.",
+    "hasImage": true,
+    "eventFingerprint": "f401be8f96c7b6b2813c84cf",
+    "timestamp": "2026-10-13T20:04:14.750Z"
   }
 ]

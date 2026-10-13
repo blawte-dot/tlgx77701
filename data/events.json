@@ -36921,5 +36921,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+    "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TVYVZ1FNMZJVJ3R95B1ES5/sec-meeting-edited.png",
+    "publishedAt": "2026-10-13T16:51:25.000Z",
+    "collectedAt": "2026-10-13T20:03:27.436Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6855ba8475367d2c9e162d2d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-13T20:03:37.501Z",
+    "outcome": {
+      "event": {
+        "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+        "fingerprint": "6855ba8475367d2c9e162d2d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 964,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin&#8217;s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC",
+    "link": "https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc/",
+    "summary": "Cheaper GPU computation supports specially prepared QSB spends, while conventional funding signatures and direct miner access limit practical use.\nThe post Bitcoin&#8217;s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-qsb-transition-risk.webp",
+    "publishedAt": "2026-10-13T14:20:26.000Z",
+    "collectedAt": "2026-10-13T20:03:27.436Z",
+    "corroboratingSources": 1,
+    "fingerprint": "862613995d8722756e623a41",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-13T20:03:43.090Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin&#8217;s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC",
+        "fingerprint": "862613995d8722756e623a41"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 965,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Trezor Cuts Ties With Resellers After Major Ledger Security Scare",
+    "link": "https://u.today/trezor-cuts-ties-with-resellers-after-major-ledger-security-scare",
+    "summary": "Hardware wallet giant Trezor is severing ties with a significant portion of its authorized resellers following the massive Ledger supply-chain security scare, introducing stricter controls to protect customers from potential attacks.",
+    "image": null,
+    "publishedAt": "2026-10-13T18:06:12.000Z",
+    "collectedAt": "2026-10-13T20:03:27.436Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b9e0bf4c5879ac354cea3793",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-13T20:03:55.563Z",
+    "outcome": {
+      "event": {
+        "title": "Trezor Cuts Ties With Resellers After Major Ledger Security Scare",
+        "fingerprint": "b9e0bf4c5879ac354cea3793"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 966,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Who Really Owns Nasdaq's New XRP Stock? Fresh SEC Filing Names Key Ripple Insiders",
+    "link": "https://u.today/who-really-owns-nasdaqs-new-xrp-stock-fresh-sec-filing-names-key-ripple-insiders",
+    "summary": "SEC report exposes who really owns Nasdaq's new XRP stock, revealing massive stakes held by Chris Larsen, Ripple, and SBI Holdings.",
+    "image": null,
+    "publishedAt": "2026-10-13T16:48:15.000Z",
+    "collectedAt": "2026-10-13T20:03:27.436Z",
+    "corroboratingSources": 1,
+    "fingerprint": "24a0419530deec15906f2acd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-13T20:04:06.343Z",
+    "outcome": {
+      "event": {
+        "title": "Who Really Owns Nasdaq's New XRP Stock? Fresh SEC Filing Names Key Ripple Insiders",
+        "fingerprint": "24a0419530deec15906f2acd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 967,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+    "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+    "summary": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9c17b7c061b6a82996756c392a64b62872157fb-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-13T05:45:10.000Z",
+    "collectedAt": "2026-10-13T20:03:27.436Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f401be8f96c7b6b2813c84cf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-13T20:04:14.765Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+        "fingerprint": "f401be8f96c7b6b2813c84cf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 968,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
