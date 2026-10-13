@@ -36511,5 +36511,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Can Hong Kong’s new Solana ETF reverse October’s weak fund demand?",
+    "link": "https://ambcrypto.com/can-hong-kongs-new-solana-etf-reverse-octobers-weak-fund-demand/",
+    "summary": "Solana’s Hong Kong ETF launch coincides with $3 billion in USDC supply and rising short liquidity, raising questions about a potential SOL bear trap.",
+    "image": null,
+    "publishedAt": "2026-10-13T04:00:10.000Z",
+    "collectedAt": "2026-10-13T05:21:30.192Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3759e17e70c0b4eed5bd55c2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-13T05:21:33.644Z",
+    "outcome": {
+      "event": {
+        "title": "Can Hong Kong’s new Solana ETF reverse October’s weak fund demand?",
+        "fingerprint": "3759e17e70c0b4eed5bd55c2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 954,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+    "link": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+    "summary": "Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
+    "publishedAt": "2026-10-13T01:57:49.000Z",
+    "collectedAt": "2026-10-13T05:21:30.192Z",
+    "corroboratingSources": 1,
+    "fingerprint": "64d59ab34900d0555ecffaf5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-13T05:21:34.679Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+        "fingerprint": "64d59ab34900d0555ecffaf5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 955,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+    "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R688Z9BFT3CGH1NFQ6QZ8X/hi-ledger3.jpg",
+    "publishedAt": "2026-10-12T14:07:00.000Z",
+    "collectedAt": "2026-10-13T05:21:30.192Z",
+    "corroboratingSources": 1,
+    "fingerprint": "61706a92885258a0d1c4cc78",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-13T05:21:35.961Z",
+    "outcome": {
+      "event": {
+        "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+        "fingerprint": "61706a92885258a0d1c4cc78"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 956,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Willem Middelkoop: Bitcoin is the Fastest Horse &#8211; Why the Debasement Trade Takes it to $1M",
+    "link": "https://bitcoinmagazine.com/videos/willem-middelkoop-bitcoin-is-the-fastest-horse-why-the-debasement-trade-takes-it-to-1m",
+    "summary": "Bitcoin Magazine\n\nWillem Middelkoop: Bitcoin is the Fastest Horse &#8211; Why the Debasement Trade Takes it to $1M\nCentral banks buy record gold, so why not Bitcoin? Willem Middelkoop explains why authority favors controllable assets while institutions turn to ETFs.\nThis post Willem Middelkoop: Bitcoin is the Fastest Horse &#8211; Why the Debasement Trade Takes it to $1M first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Willem-Middelkoop-Bitcoin-is-the-Fastest-Horse-Why-the-Debasement-Trade-Takes-it-to-1M-.jpg",
+    "publishedAt": "2026-10-12T15:00:28.000Z",
+    "collectedAt": "2026-10-13T05:21:30.192Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f0f5a4798b92d9bb4f20e89c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-13T05:21:37.059Z",
+    "outcome": {
+      "event": {
+        "title": "Willem Middelkoop: Bitcoin is the Fastest Horse &#8211; Why the Debasement Trade Takes it to $1M",
+        "fingerprint": "f0f5a4798b92d9bb4f20e89c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 957,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Standard Chartered brings Ripple&#8217;s RLUSD into banking custody after $765 million quarterly surge",
+    "link": "https://cryptoslate.com/standard-chartered-brings-ripples-rlusd-into-banking-custody-after-765-million-quarterly-surge/",
+    "summary": "Eligible clients can custody XRPL-issued RLUSD through the DIFC branch; the planned LMAX collateral link remains conditional and undated.\nThe post Standard Chartered brings Ripple&#8217;s RLUSD into banking custody after $765 million quarterly surge appeared first on CryptoSlate.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/rlusd-dubai-custody-compass.webp",
+    "publishedAt": "2026-10-12T19:30:19.000Z",
+    "collectedAt": "2026-10-13T05:21:30.192Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bcec31250da22c0382c52762",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-13T05:21:38.266Z",
+    "outcome": {
+      "event": {
+        "title": "Standard Chartered brings Ripple&#8217;s RLUSD into banking custody after $765 million quarterly surge",
+        "fingerprint": "bcec31250da22c0382c52762"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 958,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

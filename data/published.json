@@ -6779,5 +6779,45 @@
     "hasImage": true,
     "eventFingerprint": "4913c30346a3d3336ed6f42c",
     "timestamp": "2026-10-12T23:28:02.817Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 954,
+    "text": "Asia is making its next big play for digital asset liquidity.\n\nHong Kong is rolling out a new Solana exchange-traded fund just as regional demand has cooled off from September highs. \n\nBeneath the headline product launch, market mechanics tell a complex story. On-chain data shows roughly $3 billion in new USDC supply sitting on the sidelines, while short liquidity builds across major derivatives desks. \n\nTiming remains the critical variable. October historically brings shifting macro correlations, and institutional products rarely spark immediate spot rallies without broader macro tailwinds. \n\nWhether this regional vehicle absorbs the excess short pressure or simply adds to the noise depends entirely on how secondary market volume behaves through the weekly close. \n\n#Solana",
+    "hasImage": true,
+    "eventFingerprint": "3759e17e70c0b4eed5bd55c2",
+    "timestamp": "2026-10-13T05:21:33.638Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 955,
+    "text": "Over $770 million in leveraged positions just vanished from the market in a single day. \n\nBitcoin dropped under $82,000 as the broader crypto market faced a sharp wave of liquidations over the past 24 hours. \n\nLong positions bore the heavy weight of the sell-off, accounting for roughly $685.6 million of the total flush, according to data from The Block. \n\nMarket conditions remain volatile as traders reassess exposure following the sudden downside break.",
+    "hasImage": true,
+    "eventFingerprint": "64d59ab34900d0555ecffaf5",
+    "timestamp": "2026-10-13T05:21:34.672Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 956,
+    "text": "Hardware security just took a structural hit.\n\nAn unauthorized implant discovered in a Ledger device has shifted the entire self-custody versus institutional custody debate over night. \n\nThe incident is forcing a hard look at hardware wallet trust assumptions. \n\nFor retail holders valuing absolute sovereignty, air-gapped devices have long been the gold standard. \n\nNow, attention is pivoting back toward regulated spot Bitcoin ETFs as a zero-maintenance alternative that eliminates physical device risk entirely—at the cost of counterparty exposure. \n\nSecurity models are evolving, and the trade-offs between physical possession and institutional custody have never been sharper.",
+    "hasImage": true,
+    "eventFingerprint": "61706a92885258a0d1c4cc78",
+    "timestamp": "2026-10-13T05:21:35.955Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 957,
+    "text": "Central banks are hoarding gold at record rates while sovereign debt spirals upward. \n\nCommodity-expert Willem Middelkoop argues this ongoing currency debasement makes Bitcoin the ultimate \"fastest horse\" in the race, pointing to a potential $1 million valuation as institutional ETF adoption accelerates. \n\nAre traditional institutions waking up to the debasement trade, or is $1M still an unrealistic target for the next decade? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "f0f5a4798b92d9bb4f20e89c",
+    "timestamp": "2026-10-13T05:21:37.051Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 958,
+    "text": "Traditional banking is quietly building a bridge to Ripple infrastructure.\n\nStandard Chartered’s DIFC branch is now offering custody for XRPL-issued RLUSD, arriving right on the heels of a $765 million quarterly volume surge. \n\nMeanwhile, plans to link the stablecoin as collateral on LMAX remain conditional and without a firm timeline. \n\nAre institutional custody rails like this the missing catalyst for broader stablecoin adoption outside of DeFi, or is traditional finance still moving too cautiously to matter? \n\n#Ripple",
+    "hasImage": true,
+    "eventFingerprint": "bcec31250da22c0382c52762",
+    "timestamp": "2026-10-13T05:21:38.259Z"
   }
 ]
