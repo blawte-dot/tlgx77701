@@ -37126,5 +37126,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+    "link": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+    "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png",
+    "publishedAt": "2026-10-13T21:16:04.000Z",
+    "collectedAt": "2026-10-14T00:07:08.695Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a5768c89ae485cbe19fb32f2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-14T00:07:11.039Z",
+    "outcome": {
+      "event": {
+        "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+        "fingerprint": "a5768c89ae485cbe19fb32f2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 969,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Do Bitcoin ETFs Remove Custody Risk? Analysts Disagree",
+    "link": "https://cryptopotato.com/do-bitcoin-etfs-remove-custody-risk-analysts-disagree/",
+    "summary": "Lopp says ETFs are too new to have faced a catastrophe, and nearly all share one custodian. The question: thousands of amateurs or one pro?",
+    "image": "https://cryptopotato.com/wp-content/uploads/2023/12/Bitcoin_ETF_New.jpg",
+    "publishedAt": "2026-10-13T15:01:18.000Z",
+    "collectedAt": "2026-10-14T00:07:08.695Z",
+    "corroboratingSources": 1,
+    "fingerprint": "60990febed7dca674145b35e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-14T00:07:12.418Z",
+    "outcome": {
+      "event": {
+        "title": "Do Bitcoin ETFs Remove Custody Risk? Analysts Disagree",
+        "fingerprint": "60990febed7dca674145b35e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 970,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "BNY and Citadel Securities Use Tokenized Treasury in Overnight Repo",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
+    "summary": "A two-year note settled within minutes on BNY’s private digital ledger before Citadel Securities used it to raise cash.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/8bdc87762b7d43688a1b4ff35a93e30b920f2346-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-13T20:47:14.000Z",
+    "collectedAt": "2026-10-14T00:07:08.695Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9a6d2de67e78484edccd5b04",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-14T00:07:13.523Z",
+    "outcome": {
+      "event": {
+        "title": "BNY and Citadel Securities Use Tokenized Treasury in Overnight Repo",
+        "fingerprint": "9a6d2de67e78484edccd5b04"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 971,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Anza Sets Oct. 21 for Solana’s Alpenglow Mainnet Upgrade",
+    "link": "https://thedefiant.io/news/blockchains/anza-sets-oct-21-for-solana-s-alpenglow-mainnet-upgrade",
+    "summary": "The upgrade targets 150-millisecond finality, while validators and block-data providers face software changes before the switch.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/7390486007cf0f64478497302a43d96dbd8ac68c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-13T15:06:22.000Z",
+    "collectedAt": "2026-10-14T00:07:08.695Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d2a89853b7cec1a0af86b9a9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-14T00:07:14.428Z",
+    "outcome": {
+      "event": {
+        "title": "Anza Sets Oct. 21 for Solana’s Alpenglow Mainnet Upgrade",
+        "fingerprint": "d2a89853b7cec1a0af86b9a9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 972,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Privacy by Default. Disclosure by Choice: Ricchezza Coin Prepares to Launch Layer 1 Privacy Ecosystem",
+    "link": "https://cryptopotato.com/privacy-by-default-disclosure-by-choice-ricchezza-coin-prepares-to-launch-layer-1-privacy-ecosystem/",
+    "summary": "[PRESS RELEASE &#8211; Panama City, Panama, October 13th, 2026] Ricchezza Coin and the Ricchezza Network are preparing for a planned fourth-quarter 2026 launch, entering a cryptocurrency sector long dominated by two companies, Ricchezza believes there is room for a third approach. Built as a proprietary privacy-focused Layer 1 blockchain, Ricchezza Network is being designed around [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/1000229770_1791594135Ok3WuDIWRw.jpg",
+    "publishedAt": "2026-10-13T14:39:08.000Z",
+    "collectedAt": "2026-10-14T00:07:08.695Z",
+    "corroboratingSources": 1,
+    "fingerprint": "959850726564340d3c2ed372",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-14T00:07:15.976Z",
+    "outcome": {
+      "event": {
+        "title": "Privacy by Default. Disclosure by Choice: Ricchezza Coin Prepares to Launch Layer 1 Privacy Ecosystem",
+        "fingerprint": "959850726564340d3c2ed372"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 973,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

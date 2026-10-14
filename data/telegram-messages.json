@@ -6036,5 +6036,40 @@
     "hasImage": true,
     "eventFingerprint": "f401be8f96c7b6b2813c84cf",
     "timestamp": "2026-10-13T20:04:14.750Z"
+  },
+  {
+    "messageId": 969,
+    "text": "From a $1 billion valuation to a Delaware bankruptcy filing in record time.\n\nCharacter.AI is officially on the auction block, with Disney reportedly kicking the tires at a $20 million price tag. Two weeks ago, the platform was busy launching new models; today, it’s fighting for its survival.\n\nIf no buyer steps up, the servers go dark. In a final nod to its user base, the platform has started directing distressed fans to grief resources.\n\nSilicon Valley’s \"unicorn\" cycle remains undefeated.",
+    "hasImage": true,
+    "eventFingerprint": "a5768c89ae485cbe19fb32f2",
+    "timestamp": "2026-10-14T00:07:11.024Z"
+  },
+  {
+    "messageId": 970,
+    "text": "Institutional custody is not a fail-safe for Bitcoin.\n\nWhile spot ETFs offer regulated exposure, reliance on a centralized custodian introduces a different profile of risk compared to self-custody. Jameson Lopp points out that these products have yet to face a genuine stress test.\n\nThe structural concern: nearly all US-listed ETFs share the same primary custodian. \n\nMarket participants remain divided on the trade-off. Proponents argue that professional security infrastructure mitigates individual error, while critics warn that concentrating assets under a single entity creates a massive, albeit well-defended, honeypot.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "60990febed7dca674145b35e",
+    "timestamp": "2026-10-14T00:07:12.404Z"
+  },
+  {
+    "messageId": 971,
+    "text": "Institutional finance just moved a step closer to instant settlement.\n\nBNY and Citadel Securities have successfully completed a live repo transaction using tokenized U.S. Treasuries. A two-year note was tokenized on BNY’s private ledger and settled in minutes, allowing Citadel to immediately secure liquidity against the asset.\n\nThis pilot marks a significant shift from the standard T+1 settlement cycle, demonstrating how distributed ledger technology can reduce capital friction in overnight markets. If scaled, this could fundamentally alter how major firms manage collateral and liquidity.\n\n#Tokenization",
+    "hasImage": true,
+    "eventFingerprint": "9a6d2de67e78484edccd5b04",
+    "timestamp": "2026-10-14T00:07:13.509Z"
+  },
+  {
+    "messageId": 972,
+    "text": "Solana is pushing for faster finality.\n\nAnza has scheduled the \"Alpenglow\" mainnet upgrade for October 21. The primary objective of this update is to achieve 150-millisecond block finality, a significant performance target for the network.\n\nValidators and block-data providers are required to update their software ahead of the transition to ensure compatibility. This shift marks another step in Solana’s ongoing efforts to reduce latency and improve transaction reliability.\n\n#Solana",
+    "hasImage": true,
+    "eventFingerprint": "d2a89853b7cec1a0af86b9a9",
+    "timestamp": "2026-10-14T00:07:14.414Z"
+  },
+  {
+    "messageId": 973,
+    "text": "Privacy coins are bracing for a fresh regulatory battleground.\n\nRicchezza Network has announced plans to launch a proprietary Layer 1 privacy-focused blockchain in Q4 2026. The project aims to challenge the established duopoly in the privacy sector by offering a \"disclosure by choice\" model.\n\nWhile the team positions itself as a third-way alternative, the regulatory environment for privacy-centric protocols remains hostile. Projects in this category frequently face heightened scrutiny from global financial regulators and potential delistings from centralized exchanges.\n\nWe are tracking developments as the network moves toward its Q4 launch date.\n\n#CryptoNews",
+    "hasImage": true,
+    "eventFingerprint": "959850726564340d3c2ed372",
+    "timestamp": "2026-10-14T00:07:15.961Z"
   }
 ]
