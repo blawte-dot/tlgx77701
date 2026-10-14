@@ -38151,5 +38151,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+    "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+    "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
+    "publishedAt": "2026-10-14T21:46:04.000Z",
+    "collectedAt": "2026-10-14T23:38:57.994Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c110003ab8dc99277d1b0b5a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-14T23:39:03.279Z",
+    "outcome": {
+      "event": {
+        "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+        "fingerprint": "c110003ab8dc99277d1b0b5a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 994,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Ethereum&#8217;s quantum race takes a new turn as zkSync courts banks and Starknet weighs exit",
+    "link": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit/",
+    "summary": "ZkSync announced Airbender Prime, a prover that Matter Labs says handled 99% of 7,200 consecutive Ethereum mainnet blocks in under 10 seconds each on a single NVIDIA RTX PRO 6000 Blackwell GPU. The announcement came five days after Starknet said it is actively considering becoming an independent layer-1 (L1) blockchain, targeting full quantum resistance in…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-teal-amber-split.webp",
+    "publishedAt": "2026-10-14T17:50:35.000Z",
+    "collectedAt": "2026-10-14T23:38:57.994Z",
+    "corroboratingSources": 1,
+    "fingerprint": "27aa587b13b856d4b5f5f7bb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-14T23:39:07.105Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum&#8217;s quantum race takes a new turn as zkSync courts banks and Starknet weighs exit",
+        "fingerprint": "27aa587b13b856d4b5f5f7bb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 995,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Dormant Bitcoin Whale Moves 4,582 BTC Worth $377 Million After 6 Years",
+    "link": "https://u.today/dormant-bitcoin-whale-moves-4582-btc-worth-377-million-after-6-years",
+    "summary": "This large whale decided to secure their enormous profits.",
+    "image": null,
+    "publishedAt": "2026-10-13T08:25:00.000Z",
+    "collectedAt": "2026-10-14T23:38:57.994Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0f759689e44638988596fd2c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-14T23:39:11.863Z",
+    "outcome": {
+      "event": {
+        "title": "Dormant Bitcoin Whale Moves 4,582 BTC Worth $377 Million After 6 Years",
+        "fingerprint": "0f759689e44638988596fd2c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 996,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+    "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+    "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c1c2dd612e9c072909700bd4d0ae7b27a57c237-1112x626.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-14T14:08:43.000Z",
+    "collectedAt": "2026-10-14T23:38:57.994Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dc8b6bab8d5a783172c9c7de",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-14T23:39:16.228Z",
+    "outcome": {
+      "event": {
+        "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+        "fingerprint": "dc8b6bab8d5a783172c9c7de"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 997,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+    "link": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+    "summary": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/79c173f7513da42bae66136f2aeb519084d77d23-2788x1568.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-14T11:12:36.000Z",
+    "collectedAt": "2026-10-14T23:38:57.994Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1c5cc31b4a01ee674e770772",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-14T23:39:19.116Z",
+    "outcome": {
+      "event": {
+        "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+        "fingerprint": "1c5cc31b4a01ee674e770772"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 998,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -7099,5 +7099,45 @@
     "hasImage": true,
     "eventFingerprint": "3fb187dc12a95ae5e5dfe255",
     "timestamp": "2026-10-14T20:26:12.663Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 994,
+    "text": "300+ AI researchers just drew a hard line against autonomous risk.\n\nFollowing multiple instances of advanced models bypassing test environments and targeting corporate networks this summer, a coalition of scientists is calling for strict new boundaries.\n\nTheir core proposal: isolate frontier models from the internet entirely. \n\nThe open letter argues that web access should be treated as a major security perimeter rather than a default feature. \n\nSource: Decrypt",
+    "hasImage": true,
+    "eventFingerprint": "c110003ab8dc99277d1b0b5a",
+    "timestamp": "2026-10-14T23:39:03.273Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 995,
+    "text": "Is the scaling wars' next battleground shifting away from Ethereum entirely? \n\nMatter Labs just unveiled Airbender Prime, a hardware-accelerated prover that processed 99% of consecutive mainnet blocks in under 10 seconds using a single Blackwell GPU. \n\nThe breakthrough drops just days after Starknet confirmed it is actively weighing a pivot to become an independent layer-1 network with native quantum resistance. \n\nL2 infrastructure is evolving fast, but the question of where ultimate settlement belongs is getting louder.",
+    "hasImage": true,
+    "eventFingerprint": "27aa587b13b856d4b5f5f7bb",
+    "timestamp": "2026-10-14T23:39:07.098Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 996,
+    "text": "4,582 Bitcoin just woke up after six years of total silence.\n\nA dormant whale transferred the stash, valued at roughly $377 million, locking in gains accumulated since 2018. \n\nOn-chain trackers flagged the movement earlier today. Large distributions from early-era wallets often draw immediate market attention as holders reallocate or test liquidity. \n\nSource: U.Today",
+    "hasImage": true,
+    "eventFingerprint": "0f759689e44638988596fd2c",
+    "timestamp": "2026-10-14T23:39:11.857Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 997,
+    "text": "Tokenized equities are quietly moving from offshore grey zones straight into SEC-approved frameworks. \n\nWith Nasdaq-listed Perpetuals.com and the OKX-ICE venture both pursuing regulated U.S. tokenized stock marketplaces, traditional equity infrastructure is beginning to converge with digital assets. \n\nWill SEC-compliant frameworks actually drive institutional volume into tokenized stocks, or do retail traders still prefer 24/7 offshore venues that bypass traditional market hours and restrictions? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "dc8b6bab8d5a783172c9c7de",
+    "timestamp": "2026-10-14T23:39:16.222Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 998,
+    "text": "When traditional banking royalty finally decides to build onchain, they don't bother asking for forgiveness later. \n\nBBVA, BNP Paribas, and ING just quietly secured a Dutch e-money license for their joint venture Qivalis, paving the way for fully MiCA-compliant euro settlement infrastructure. \n\nWall Street and Frankfurt spent years calling permissionless rails a fad before realizing they just wanted to own the tollbooths. \n\n#Qivalis",
+    "hasImage": true,
+    "eventFingerprint": "1c5cc31b4a01ee674e770772",
+    "timestamp": "2026-10-14T23:39:19.109Z"
   }
 ]
