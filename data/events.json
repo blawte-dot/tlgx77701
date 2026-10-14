@@ -37946,5 +37946,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Kraken moves to acquire $181 million European bank in major push beyond crypto trading",
+    "link": "https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank-in-major-push-beyond-crypto-trading/",
+    "summary": "Kraken&#039;s parent company, Payward, has agreed to acquire a European bank as it expands beyond cryptocurrency trading into traditional financial services. On Oct. 14, the company announced a definitive agreement to purchase Saldo Finance Oy, a Finnish holding company that owns Lithuania-based Saldo Bank. The acquisition would give Payward control of a licensed European banking…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-europe.webp",
+    "publishedAt": "2026-10-14T19:50:24.000Z",
+    "collectedAt": "2026-10-14T20:25:45.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "39e130a5ac5e6f8a8e745b20",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-14T20:25:51.804Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken moves to acquire $181 million European bank in major push beyond crypto trading",
+        "fingerprint": "39e130a5ac5e6f8a8e745b20"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 989,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+    "link": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X497VFYF2ZYRYC78M441M5/hi-what-is-a-decentralized-money-market-and-kraken-1.jpg",
+    "publishedAt": "2026-10-14T12:26:05.000Z",
+    "collectedAt": "2026-10-14T20:25:45.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3ab46826e35f2b2bc3ba0bfd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-14T20:25:56.211Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+        "fingerprint": "3ab46826e35f2b2bc3ba0bfd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 990,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+    "link": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
+    "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart’s detention.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/12/20191210_Hex-FTC-SEC.jpg",
+    "publishedAt": "2026-10-14T15:53:15.000Z",
+    "collectedAt": "2026-10-14T20:25:45.668Z",
+    "corroboratingSources": 3,
+    "fingerprint": "039bb287426e276bbd998faa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-14T20:26:03.198Z",
+    "outcome": {
+      "event": {
+        "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+        "fingerprint": "039bb287426e276bbd998faa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 991,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "OCC report finds debanking efforts tied to crypto activities",
+    "link": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XH42GKYW5YXWF51G1CR9RV/hi-banks-and-crypto.jpg",
+    "publishedAt": "2026-10-14T17:03:20.000Z",
+    "collectedAt": "2026-10-14T20:25:45.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6bea2c24ff86ec79cf1a5a92",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-14T20:26:08.764Z",
+    "outcome": {
+      "event": {
+        "title": "OCC report finds debanking efforts tied to crypto activities",
+        "fingerprint": "6bea2c24ff86ec79cf1a5a92"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 992,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+    "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+    "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-10-14T19:46:03.000Z",
+    "collectedAt": "2026-10-14T20:25:45.668Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3fb187dc12a95ae5e5dfe255",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-14T20:26:12.674Z",
+    "outcome": {
+      "event": {
+        "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+        "fingerprint": "3fb187dc12a95ae5e5dfe255"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 993,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
