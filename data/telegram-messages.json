@@ -6071,5 +6071,40 @@
     "hasImage": true,
     "eventFingerprint": "959850726564340d3c2ed372",
     "timestamp": "2026-10-14T00:07:15.961Z"
+  },
+  {
+    "messageId": 974,
+    "text": "The Fed is bracing for an AI-induced supply crunch that could outlast the current interest rate cycle.\n\nNew York Fed President John Williams signaled today that the structural impacts of artificial intelligence on the labor market and supply chains may linger for at least two years.\n\nDespite current disinflation trends, Williams reaffirmed his stance that one additional rate hike may be necessary before the year ends to ensure price stability. \n\nThe commentary highlights a growing divide between market expectations of a \"soft landing\" and the Fed's concern that AI-driven productivity shifts might keep inflation pressures stickier than anticipated.\n\nPolicy remains firmly data-dependent, but the message is clear: the central bank is preparing for a longer period of restrictive policy to navigate this technological transition.",
+    "hasImage": true,
+    "eventFingerprint": "0f3b6d9539cbe0c4fcf1dedb",
+    "timestamp": "2026-10-14T05:46:25.345Z"
+  },
+  {
+    "messageId": 975,
+    "text": "Russia’s largest lender is quietly positioning itself to become a primary gateway for domestic digital asset trading.\n\nSberbank has confirmed it is inching toward the launch of a crypto trading platform, signaling a potential shift in how institutional capital interacts with digital assets in the region. \n\nThe bank noted that the timeline is currently tethered to two specific conditions:\n\n1. Final approval from the Bank of Russia regarding its pending application.\n2. The formalization of secondary legislation required to operationalize existing crypto laws.\n\nWhile the Bank of Russia has historically maintained a cautious—and often restrictive—stance on decentralized assets, Sberbank’s progress suggests a possible path forward for regulated, state-sanctioned participation.\n\nWe are tracking the regulatory rollout closely. The operational green light remains dependent on the central bank clearing these final legislative hurdles.",
+    "hasImage": true,
+    "eventFingerprint": "3e8830da169b133c48a9e9cf",
+    "timestamp": "2026-10-14T05:46:30.928Z"
+  },
+  {
+    "messageId": 976,
+    "text": "Ripple is making a strategic play for the heart of the Asian financial sector.\n\nThe firm has officially partnered with Meritz Securities, marking its first major entry into the South Korean securities market. This collaboration is set to focus on two core areas: institutional-grade cryptocurrency custody and the broader tokenization of real-world assets.\n\nBy aligning with a top-tier domestic institution, Ripple is positioning its infrastructure to capture demand from Korean firms looking to bridge traditional finance with blockchain technology. \n\nThis move follows a trend of expanded Ripple operations across the Asia-Pacific region, emphasizing a shift toward enterprise-level utility as the company continues to navigate ongoing legal and regulatory environments in the West. \n\nThe move signals a long-term play to integrate XRP Ledger capabilities into established capital markets. We will be tracking the technical scope of the custody pilot as details emerge.",
+    "hasImage": true,
+    "eventFingerprint": "105597610c75da0e4338051d",
+    "timestamp": "2026-10-14T05:46:33.157Z"
+  },
+  {
+    "messageId": 977,
+    "text": "One whale just wiped $2.64M off the books and NEAR is feeling every cent of it.\n\nThe asset is down 12% in a sharp correction that has traders questioning the rally’s durability. With price action pressing against the $4.50 support level, the market is deciding whether this is a routine shakeout or the start of a deeper slide.\n\nSupport levels aren't suggestions, but they’re currently the only thing standing between here and a much colder trend. Keep an eye on the volume; the liquidation cleared the deck, but the buyers haven't checked back in yet.",
+    "hasImage": true,
+    "eventFingerprint": "c841004793183e73e5b3778e",
+    "timestamp": "2026-10-14T05:46:34.795Z"
+  },
+  {
+    "messageId": 978,
+    "text": "Solana is preparing a fundamental shift to its network architecture.\n\nThe network has scheduled the \"Alpenglow\" upgrade for October 21. This update introduces a new validator voting system designed to achieve 150-millisecond block finality. \n\nKey implications for the network:\n\n* Vote transactions will be removed from blocks entirely.\n* Headline transaction counts may drop significantly, even if actual user activity remains unchanged.\n* The change aims to streamline consensus and improve overall network efficiency.\n\nThe update marks a transition away from current voting mechanisms to refine how Solana processes state changes.",
+    "hasImage": true,
+    "eventFingerprint": "2226566f31e038d72224a237",
+    "timestamp": "2026-10-14T05:46:36.298Z"
   }
 ]

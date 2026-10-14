@@ -37331,5 +37331,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+    "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg",
+    "publishedAt": "2026-10-14T05:30:10.000Z",
+    "collectedAt": "2026-10-14T05:46:23.078Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0f3b6d9539cbe0c4fcf1dedb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-14T05:46:25.356Z",
+    "outcome": {
+      "event": {
+        "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+        "fingerprint": "0f3b6d9539cbe0c4fcf1dedb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 974,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Sberbank Moves Closer to Crypto Trading Launch After Bank of Russia Approval",
+    "link": "https://cryptopotato.com/sberbank-moves-closer-to-crypto-trading-launch-after-bank-of-russia-approval/",
+    "summary": "The bank said the launch date depends on two things. One is the central bank's decision on its application. The other is the readiness of the regulations that put the law into effect.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/08/Sberbank.jpg",
+    "publishedAt": "2026-10-14T04:08:12.000Z",
+    "collectedAt": "2026-10-14T05:46:23.078Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e8830da169b133c48a9e9cf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-14T05:46:30.940Z",
+    "outcome": {
+      "event": {
+        "title": "Sberbank Moves Closer to Crypto Trading Launch After Bank of Russia Approval",
+        "fingerprint": "3e8830da169b133c48a9e9cf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 975,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Secures Major Korean Securities Partnership",
+    "link": "https://u.today/ripple-secures-major-korean-securities-partnership",
+    "summary": "Ripple has secured its first partnership with a South Korean securities firm, teaming up with Meritz Securities to explore institutional crypto custody and tokenization as it expands its footprint in the country's financial sector.",
+    "image": null,
+    "publishedAt": "2026-10-14T05:23:26.000Z",
+    "collectedAt": "2026-10-14T05:46:23.079Z",
+    "corroboratingSources": 1,
+    "fingerprint": "105597610c75da0e4338051d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-14T05:46:33.168Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Secures Major Korean Securities Partnership",
+        "fingerprint": "105597610c75da0e4338051d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 976,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "NEAR falls 12% after $2.64M whale liquidation &#8211; Will $4.50 hold or break?",
+    "link": "https://ambcrypto.com/near-falls-12-after-2-64m-whale-liquidation-will-4-50-hold-or-break/",
+    "summary": "It is either NEAR's correction has overstayed or its rally is close to an end.",
+    "image": null,
+    "publishedAt": "2026-10-14T03:00:25.000Z",
+    "collectedAt": "2026-10-14T05:46:23.079Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c841004793183e73e5b3778e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-14T05:46:34.807Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR falls 12% after $2.64M whale liquidation &#8211; Will $4.50 hold or break?",
+        "fingerprint": "c841004793183e73e5b3778e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 977,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+    "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+    "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-14T04:11:16.000Z",
+    "collectedAt": "2026-10-14T05:46:23.078Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2226566f31e038d72224a237",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-14T05:46:36.309Z",
+    "outcome": {
+      "event": {
+        "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+        "fingerprint": "2226566f31e038d72224a237"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 978,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
