@@ -37536,5 +37536,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Coins.ph says Philippine central bank license intact amid revocation claims",
+    "link": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Coins.ph says its Philippine central bank license remains intact amid reports of possible revocation over alleged offshore gambling transactions.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X032AH60WSFZS8XJQF1MPR/ph-license.png",
+    "publishedAt": "2026-10-14T10:55:55.000Z",
+    "collectedAt": "2026-10-14T11:07:51.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cb768110ba93d85b7904ee76",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-14T11:07:53.712Z",
+    "outcome": {
+      "event": {
+        "title": "Coins.ph says Philippine central bank license intact amid revocation claims",
+        "fingerprint": "cb768110ba93d85b7904ee76"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 979,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bank of America backed crypto AML rules but reported over $5 billion in suspicious activity late",
+    "link": "https://cryptoslate.com/bank-of-america-backed-strict-crypto-aml-rules-before-admitting-5-billion-reporting-failure/",
+    "summary": "In December 2023, Senator Elizabeth Warren asked Bank of America CEO Brian Moynihan whether crypto companies handling financial transactions should follow the same anti-money-laundering rules as banks. “Absolutely,” he said. On Oct. 13, Treasury announced more than $1.2 billion in penalties against his bank. FinCEN found that Bank of America admitted to willfully violating the…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-compliance-tangle.webp",
+    "publishedAt": "2026-10-14T10:10:28.000Z",
+    "collectedAt": "2026-10-14T11:07:51.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "04ca36643b9b8e5d36ba1888",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-14T11:07:56.118Z",
+    "outcome": {
+      "event": {
+        "title": "Bank of America backed crypto AML rules but reported over $5 billion in suspicious activity late",
+        "fingerprint": "04ca36643b9b8e5d36ba1888"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 980,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Whales Resume Buying After Months of Selling: CryptoQuant",
+    "link": "https://cryptopotato.com/bitcoin-whales-resume-buying-after-months-of-selling-cryptoquant/",
+    "summary": "Whale holdings have reached their highest level since November 2025, while large borrowers are taking on more debt backed by Bitcoin.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/01/Bitcoin_Whales.jpg",
+    "publishedAt": "2026-10-14T10:00:48.000Z",
+    "collectedAt": "2026-10-14T11:07:51.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "40d49b54e7017b03a049a34b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-14T11:07:58.300Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Whales Resume Buying After Months of Selling: CryptoQuant",
+        "fingerprint": "40d49b54e7017b03a049a34b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 981,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Binance updates Anthropic mark per second to stop liquidation",
+    "link": "https://cryptoslate.com/binance-updates-anthropic-mark-per-second-to-stop-liquidation/",
+    "summary": "Shunyet Jan describes Binance’s perpetual pricing method, while 21Shares’ certificate adds issuer-only recourse, affiliated note terms and costs beyond the 1% fee.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/anthropic-synthetic-etp-pricing-standard.jpg",
+    "publishedAt": "2026-10-14T07:20:13.000Z",
+    "collectedAt": "2026-10-14T11:07:51.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "608db7107ef08d23ae702a29",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-14T11:08:04.955Z",
+    "outcome": {
+      "event": {
+        "title": "Binance updates Anthropic mark per second to stop liquidation",
+        "fingerprint": "608db7107ef08d23ae702a29"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 982,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "2,200% on Hyperliquid (HYPE): Whale Who Bought at $3.5 Cashes Out",
+    "link": "https://u.today/2200-on-hyperliquid-hype-whale-who-bought-at-35-cashes-out",
+    "summary": "Hyperliquid whales take profits after successfully shoveling the token at a relatively low price.",
+    "image": null,
+    "publishedAt": "2026-10-14T08:30:00.000Z",
+    "collectedAt": "2026-10-14T11:07:51.102Z",
+    "corroboratingSources": 1,
+    "fingerprint": "afe9baee90a585d7322beaf2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-14T11:08:19.198Z",
+    "outcome": {
+      "event": {
+        "title": "2,200% on Hyperliquid (HYPE): Whale Who Bought at $3.5 Cashes Out",
+        "fingerprint": "afe9baee90a585d7322beaf2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 983,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

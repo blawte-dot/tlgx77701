@@ -6979,5 +6979,45 @@
     "hasImage": true,
     "eventFingerprint": "2226566f31e038d72224a237",
     "timestamp": "2026-10-14T05:46:36.303Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 979,
+    "text": "Regulatory scrutiny is tightening around one of the Philippines' largest crypto exchanges.\n\nCoins.ph is formally pushing back against circulating rumors that its Bangko Sentral ng Pilipinas (BSP) license is facing revocation. The exchange maintains its operating status remains fully intact despite the noise.\n\nThese claims, which remain unverified, allege the platform could be penalized for processing offshore gambling transactions. \n\nThe exchange has not provided a detailed breakdown of the internal investigation, but the public denial serves as a direct response to the mounting speculation regarding its compliance standing. We are monitoring for official confirmation from the regulator.",
+    "hasImage": true,
+    "eventFingerprint": "cb768110ba93d85b7904ee76",
+    "timestamp": "2026-10-14T11:07:53.707Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 980,
+    "text": "Bank of America’s advocacy for stricter crypto oversight is clashing with its own regulatory track record.\n\nCEO Brian Moynihan told Senator Elizabeth Warren in late 2023 that crypto firms must adhere to the same anti-money laundering (AML) standards as traditional banks. He insisted, “Absolutely.”\n\nThe Treasury Department’s recent findings suggest the bank has struggled to meet those same standards itself. \n\nOn October 13, the Treasury announced over $1.2 billion in penalties against Bank of America. FinCEN identified that the institution admitted to willfully violating AML requirements. \n\nReports indicate the bank processed more than $5 billion in suspicious activity, raising questions about the efficacy of legacy banking controls compared to the industry they are currently pushing to regulate.",
+    "hasImage": true,
+    "eventFingerprint": "04ca36643b9b8e5d36ba1888",
+    "timestamp": "2026-10-14T11:07:56.112Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 981,
+    "text": "The smart money is officially done playing defense.\n\nAfter months of consistent outflows, Bitcoin whales have pivoted back to accumulation, pushing holdings to their highest levels since November. \n\nIt’s a classic re-leveraging cycle: they aren't just buying, they’re borrowing against their stacks to keep the momentum moving. The sideline capital is finally finding a home again.",
+    "hasImage": true,
+    "eventFingerprint": "40d49b54e7017b03a049a34b",
+    "timestamp": "2026-10-14T11:07:58.294Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 982,
+    "text": "Binance is adjusting its liquidation mechanics to prevent forced sell-offs during volatility.\n\nThe exchange has updated its perpetual pricing model to track Anthropic’s mark-per-second, a shift aimed at smoothing out price discrepancies that trigger liquidations. Analyst Shunyet Jan noted that this transition moves the exchange toward a more precise, real-time pricing anchor for derivatives.\n\nSeparately, 21Shares is expanding its product infrastructure. Their latest certificate includes issuer-only recourse clauses and introduces cost structures that extend beyond the standard 1% management fee.\n\nInvestors should review the specific terms of these notes, as they carry legal and financial obligations distinct from standard spot holdings.",
+    "hasImage": true,
+    "eventFingerprint": "608db7107ef08d23ae702a29",
+    "timestamp": "2026-10-14T11:08:04.948Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 983,
+    "text": "A whale just realized a 2,200% gain on Hyperliquid, dumping a position bought at $3.50 into the recent rally.\n\nThis is a textbook example of \"smart money\" liquidity harvesting during high volatility. While the asset has surged, seeing early entrants take massive off-ramps often signals a shift in local sentiment.\n\nAre you viewing this exit as a sign that the HYPE rally is exhausted, or is this just standard profit-taking before another leg up?",
+    "hasImage": true,
+    "eventFingerprint": "afe9baee90a585d7322beaf2",
+    "timestamp": "2026-10-14T11:08:19.191Z"
   }
 ]
