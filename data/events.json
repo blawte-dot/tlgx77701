@@ -37741,5 +37741,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin plunges to $81,300 support as Fed hike odds hit 55% amid $100 million crypto wipeout",
+    "link": "https://cryptoslate.com/bitcoin-plunges-to-81300-support-as-fed-hike-odds-hit-55-amid-100-million-crypto-wipeout/",
+    "summary": "Bitcoin fell below $83,000 on Wednesday as hotter-than-expected US core inflation data revived expectations of further Federal Reserve interest rate hikes, triggering a fresh wave of liquidations across the cryptocurrency market. CoinGlass data showed that over $100 million in leveraged positions were liquidated in the hour after the inflation report was released. This also pushed…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalys",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-inflation-rate-pressure.webp",
+    "publishedAt": "2026-10-14T15:00:32.000Z",
+    "collectedAt": "2026-10-14T16:28:26.290Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d398c2eae79c8e0d81559453",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-14T16:28:30.416Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin plunges to $81,300 support as Fed hike odds hit 55% amid $100 million crypto wipeout",
+        "fingerprint": "d398c2eae79c8e0d81559453"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 984,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin whales accumulate ahead of crucial US inflation report as $744 million exits ETFs",
+    "link": "https://cryptoslate.com/bitcoin-whales-accumulate-ahead-of-crucial-us-inflation-report-as-744-million-exits-etfs/",
+    "summary": "Bitcoin whales are accumulating before Wednesday&#039;s US inflation report, despite $744 million in recent spot ETF withdrawals. According to an Oct. 13 CryptoQuant report, large holders have increased their combined Bitcoin holdings to 3.03 million BTC, with accumulation accelerating to its fastest monthly pace since February. The buying contrasts with $744.3 million in net withdrawals…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The ",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-inflation-paper-boat.webp",
+    "publishedAt": "2026-10-14T13:30:53.000Z",
+    "collectedAt": "2026-10-14T16:28:26.290Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1c2a7d4f72204750d95637b8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-14T16:28:31.883Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin whales accumulate ahead of crucial US inflation report as $744 million exits ETFs",
+        "fingerprint": "1c2a7d4f72204750d95637b8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 985,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ethereum Whale Lands 17,786% Gains in Nine Years",
+    "link": "https://u.today/ethereum-whale-lands-17786-gains-in-nine-years",
+    "summary": "Ancient Ethereum whale takes profits after selling nine-year-old Ether stash for $15.95 million, securing substantial gains.",
+    "image": null,
+    "publishedAt": "2026-10-14T16:02:26.000Z",
+    "collectedAt": "2026-10-14T16:28:26.290Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1ff207012e169e15ce163f51",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-14T16:28:34.187Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum Whale Lands 17,786% Gains in Nine Years",
+        "fingerprint": "1ff207012e169e15ce163f51"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 986,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Sectora Foundation Announces Final Testing of Four Products and $SECT Token Availability on Uniswap",
+    "link": "https://ambcrypto.com/sectora-foundation-announces-final-testing-of-four-products-and-sect-token-availability-on-uniswap/",
+    "summary": "Sectora Foundation today announced that four of its products have completed interface development and entered final testing on the testnet ahead of launch. The company’s #SECT token, which serves as the token of its cybersecurity network for crypto infrastructure and tokenized assets, is available on Uniswap (SECT/USDT pair on Ethereum).  The token has a totalContinue reading \"Sectora Foundation Announces Final Testing of Four Products and $SECT Token Availability on Uniswap\"",
+    "image": null,
+    "publishedAt": "2026-10-14T15:35:06.000Z",
+    "collectedAt": "2026-10-14T16:28:26.290Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9eb64bbda80c20e42d674391",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-14T16:28:35.665Z",
+    "outcome": {
+      "event": {
+        "title": "Sectora Foundation Announces Final Testing of Four Products and $SECT Token Availability on Uniswap",
+        "fingerprint": "9eb64bbda80c20e42d674391"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 987,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+    "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+    "summary": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c6a8d9e5fa0a7902d01bc64094e514fa9a1ac32b-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-14T13:07:45.000Z",
+    "collectedAt": "2026-10-14T16:28:26.290Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9f0a87b70e2fb7ff9eabcb45",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-14T16:28:36.843Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+        "fingerprint": "9f0a87b70e2fb7ff9eabcb45"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 988,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
