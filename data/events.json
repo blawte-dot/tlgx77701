@@ -39176,5 +39176,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+    "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+    "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-10-15T20:31:04.000Z",
+    "collectedAt": "2026-10-15T21:15:42.321Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6451a1523dd1d98a9b495042",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-15T21:15:44.589Z",
+    "outcome": {
+      "event": {
+        "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+        "fingerprint": "6451a1523dd1d98a9b495042"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1019,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+    "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M501MR4NFX8WGM2DEYYC2STT/hi-could-those-who-left-mastercard-come-back3.jpg",
+    "publishedAt": "2026-10-15T15:46:05.000Z",
+    "collectedAt": "2026-10-15T21:15:42.321Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b2d889dd4fd576ab457922a5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-15T21:15:46.035Z",
+    "outcome": {
+      "event": {
+        "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+        "fingerprint": "b2d889dd4fd576ab457922a5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1020,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+    "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authorities.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg",
+    "publishedAt": "2026-10-15T20:21:11.000Z",
+    "collectedAt": "2026-10-15T21:15:42.321Z",
+    "corroboratingSources": 1,
+    "fingerprint": "868885c0aeed1abc51ba22cc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-15T21:15:47.210Z",
+    "outcome": {
+      "event": {
+        "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+        "fingerprint": "868885c0aeed1abc51ba22cc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1021,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+    "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZXEK5DTKX65782NKWA8C3M/russia-p2p-ban-illustration-1.png",
+    "publishedAt": "2026-10-15T14:22:43.000Z",
+    "collectedAt": "2026-10-15T21:15:42.321Z",
+    "corroboratingSources": 1,
+    "fingerprint": "97c2fd8e758be9474553cabb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-15T21:15:48.436Z",
+    "outcome": {
+      "event": {
+        "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+        "fingerprint": "97c2fd8e758be9474553cabb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1022,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+    "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
+    "summary": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+    "publishedAt": "2026-10-15T15:20:41.000Z",
+    "collectedAt": "2026-10-15T21:15:42.321Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a83c125b498ca7ebaf569aa3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-15T21:15:49.486Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+        "fingerprint": "a83c125b498ca7ebaf569aa3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1023,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
