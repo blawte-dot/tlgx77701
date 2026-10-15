@@ -38766,5 +38766,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+    "link": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
+    "publishedAt": "2026-10-15T10:00:00.000Z",
+    "collectedAt": "2026-10-15T13:55:04.191Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b63bd3f6a69b2da77261309b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-15T13:55:11.691Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+        "fingerprint": "b63bd3f6a69b2da77261309b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1009,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Safe Launches Safenet Aegis Security Network on Three Chains",
+    "link": "https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains",
+    "summary": "Checks cost 0.40 USDC, paid to security providers, while onchain enforcement requires enabling a Guard on the Safe account.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/d581e6b5d662742c605804038d7c7b9c6c5814d7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-15T13:38:04.000Z",
+    "collectedAt": "2026-10-15T13:55:04.192Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c0fa5a7e8bcdfe48a95ebde7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-15T13:55:21.274Z",
+    "outcome": {
+      "event": {
+        "title": "Safe Launches Safenet Aegis Security Network on Three Chains",
+        "fingerprint": "c0fa5a7e8bcdfe48a95ebde7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1010,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
+    "link": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y6THP0WR3ZHNE9G3WXBFF6/courtroom-scene-edit-brisov.png",
+    "publishedAt": "2026-10-15T13:30:00.000Z",
+    "collectedAt": "2026-10-15T13:55:04.191Z",
+    "corroboratingSources": 1,
+    "fingerprint": "121b696e152774809f8b43da",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-15T13:55:29.158Z",
+    "outcome": {
+      "event": {
+        "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
+        "fingerprint": "121b696e152774809f8b43da"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1011,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
+    "link": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
+    "summary": "Bitcoin Magazine\n\nCharles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst\nWhat will push Bitcoin to new highs? Charles Edwards breaks down key catalysts, from Fed policy shifts and government adoption to ETF institutional inflows.\nThis post Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Charles-Edwards-Why-Quantum-Risk-Could-Be-MASSIVE-BTC-Upside-Catalyst-.jpg",
+    "publishedAt": "2026-10-15T13:28:48.000Z",
+    "collectedAt": "2026-10-15T13:55:04.192Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8fa610401a0df037203126fb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-15T13:55:35.166Z",
+    "outcome": {
+      "event": {
+        "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
+        "fingerprint": "8fa610401a0df037203126fb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1012,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+    "link": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Thailand’s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares expects modest initial inflows as existing investment options compete for demand.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z7M52YNHC4A063CV7T5G1J/hi-thailand-and-blockchain-etf-1.jpg",
+    "publishedAt": "2026-10-15T09:36:20.000Z",
+    "collectedAt": "2026-10-15T13:55:04.191Z",
+    "corroboratingSources": 1,
+    "fingerprint": "de6eb3161bad5403ff58e96b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-15T13:55:36.274Z",
+    "outcome": {
+      "event": {
+        "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+        "fingerprint": "de6eb3161bad5403ff58e96b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1013,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

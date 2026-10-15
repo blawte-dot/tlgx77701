@@ -6316,5 +6316,40 @@
     "hasImage": true,
     "eventFingerprint": "6abc146627d785a624dc0a77",
     "timestamp": "2026-10-15T08:49:06.519Z"
+  },
+  {
+    "messageId": 1009,
+    "text": "The real vulnerability isn't your private key; it's the quiet software sitting two layers beneath it.\n\nThird-party developer tools and compromised infrastructure components drove roughly 77% of all crypto hack losses in Q3, according to new data from Hacken. \n\nWith total quarterly losses pushing toward $1.2 billion—accelerated by major incidents like the Bitget and Liquid exploits—audits focused solely on smart contract logic are fighting yesterday's war. \n\nWhen foundational software dependencies bypass security reviews, entire protocol stacks inherit the risk.",
+    "hasImage": true,
+    "eventFingerprint": "b63bd3f6a69b2da77261309b",
+    "timestamp": "2026-10-15T13:55:11.676Z"
+  },
+  {
+    "messageId": 1010,
+    "text": "Security infrastructure on multichain accounts just got an upgrade with clear economic incentives built right in.\n\nSafe has deployed Safenet Aegis, a new security network operating across three distinct chains. \n\nThe architecture introduces a micro-fee model: security checks cost 0.40 USDC per transaction, routed directly to the providers running the validation infrastructure. \n\nExecuting actual onchain enforcement still requires users to explicitly enable a Guard on their Safe account. \n\nIt is a pragmatic step toward decentralized transaction screening, though real-world adoption will depend on how smoothly those Guard integrations perform under heavy market conditions.",
+    "hasImage": true,
+    "eventFingerprint": "c0fa5a7e8bcdfe48a95ebde7",
+    "timestamp": "2026-10-15T13:55:21.261Z"
+  },
+  {
+    "messageId": 1011,
+    "text": "A change in Washington leadership does not automatically erase federal rulemaking. \n\nRecent pro-crypto guidance issued by the SEC and CFTC is facing renewed scrutiny over whether these frameworks can survive legal challenges or a future administration's rollback. \n\nAdministrative law sets a high bar for dismantling established rules. Agencies cannot simply reverse course on a whim; they must follow strict notice-and-comment procedures and provide a reasoned explanation for any shift. \n\nEven so, rules built on agency interpretation rather than explicit legislation remain vulnerable in court. \n\nThe durability of these policies depends less on political will and more on whether they can withstand judicial review under the Administrative Procedure Act.",
+    "hasImage": true,
+    "eventFingerprint": "121b696e152774809f8b43da",
+    "timestamp": "2026-10-15T13:55:29.140Z"
+  },
+  {
+    "messageId": 1012,
+    "text": "Quantum computing is typically framed as an existential threat to Bitcoin. \n\nCapricorn Investments founder Charles Edwards argues the exact opposite could happen.\n\nIn a recent breakdown covering macro tailwinds, ETF inflows, and shifting Federal Reserve policy, Edwards points to quantum risk as a potential macro catalyst for Bitcoin adoption. \n\nThe threat of quantum decryption could force nation-states and institutions to accumulate BTC faster than previously planned, shifting the asset from a speculative hedge into an inescapable monetary fortress. \n\nWhile the cryptography timeline remains debated by computer scientists, the narrative shift alone introduces a novel dynamic for long-term holders.",
+    "hasImage": true,
+    "eventFingerprint": "8fa610401a0df037203126fb",
+    "timestamp": "2026-10-15T13:55:35.151Z"
+  },
+  {
+    "messageId": 1013,
+    "text": "Don't expect a flood of institutional capital from Thailand's newly minted crypto funds just yet. \n\nThailand’s regulatory green light for Bitcoin and Ether ETFs officially takes effect on Friday. \n\nHowever, digital asset manager CoinShares warns that initial inflows will likely remain modest. \n\nLocal investors already have access to established channels for crypto exposure, meaning these new vehicles face stiff competition for existing demand from day one.",
+    "hasImage": true,
+    "eventFingerprint": "de6eb3161bad5403ff58e96b",
+    "timestamp": "2026-10-15T13:55:36.260Z"
   }
 ]
