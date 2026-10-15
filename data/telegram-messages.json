@@ -6281,5 +6281,40 @@
     "hasImage": true,
     "eventFingerprint": "1388848e018710418f62e367",
     "timestamp": "2026-10-15T03:05:09.066Z"
+  },
+  {
+    "messageId": 1004,
+    "text": "Over one hundred financial institutions in South Korea just failed a systemic security audit.\n\nSeoul is moving to overhaul national cybersecurity frameworks following a wave of targeted attacks against local banks and digital asset firms. \n\nInvestigators identified vulnerabilities across 130 entities, prompting regulators to draft mandatory defense upgrades and stricter compliance reviews. \n\nThe upcoming enforcement underscores a growing friction between rapid fintech adoption and structural infrastructure hardening across major Asian jurisdictions.\n\n#SouthKorea",
+    "hasImage": true,
+    "eventFingerprint": "29312798aef0eeaa857f36d0",
+    "timestamp": "2026-10-15T08:48:49.130Z"
+  },
+  {
+    "messageId": 1005,
+    "text": "Your bank account might be the next casualty in an escalating quiet war on digital assets. \n\nFederal regulators have just flagged nine major US banking institutions for quietly restricting or outright blocking customer accounts linked to cryptocurrency activity. \n\nIt is a systemic bottleneck that has long frustrated traders and firms alike. But the tide could be shifting. \n\nFresh guidance from the Office of the Comptroller of the Currency is starting to push back against arbitrary debanking. While anti-money laundering controls and sanctions compliance remain non-negotiable, regulators are drawing clearer lines between legitimate risk management and unjustified financial exclusion. \n\nAccess is still governed by strict operational assessments. Yet the era of banks shutting down crypto rails without transparent justification is facing renewed federal scrutiny. \n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "6e294898b351dd626e1fd67d",
+    "timestamp": "2026-10-15T08:48:53.458Z"
+  },
+  {
+    "messageId": 1006,
+    "text": "Seoul traders just watched 8% evaporate while Wall Street debates whether the Fed is going to hike rates because inflation refused to cooperate on Wednesday. \n\nOctober rate hike odds spiked to nearly 50% before cooling off, proving that macro anxiety moves faster than any liquidity cycle. Bitcoin is feeling the weight of the pivot math. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "65386932f158963f23d4f1b3",
+    "timestamp": "2026-10-15T08:48:57.603Z"
+  },
+  {
+    "messageId": 1007,
+    "text": "Institutional capital is taking a step back from Bitcoin.\n\nU.S. spot Bitcoin ETFs shed $261 million over the latest reporting stretch, extending a broader cooling period for digital asset products. \n\nFresh data shows funds recorded $151 million in net outflows since Monday alone, following a heavier $681 million exit the prior week. \n\nBucking the wider market trend, select altcoin vehicles—notably XRP investment products—managed to attract net inflows over the same period.",
+    "hasImage": true,
+    "eventFingerprint": "ae24e2d4b3f23e5a91a626bf",
+    "timestamp": "2026-10-15T08:49:02.547Z"
+  },
+  {
+    "messageId": 1008,
+    "text": "Wall Street discovered the exit liquidity isn't just memecoins anymore.\n\nUS SUI exchange products just notched their fifth consecutive week of net inflows, pulling in roughly 14 million tokens total over the stretch. \n\nTradFi allocators are actually reading whitepapers now. Or at least letting algorithms do it for them.\n\n#SUI",
+    "hasImage": true,
+    "eventFingerprint": "6abc146627d785a624dc0a77",
+    "timestamp": "2026-10-15T08:49:06.519Z"
   }
 ]
