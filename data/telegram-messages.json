@@ -6246,5 +6246,40 @@
     "hasImage": true,
     "eventFingerprint": "1c5cc31b4a01ee674e770772",
     "timestamp": "2026-10-14T23:39:19.101Z"
+  },
+  {
+    "messageId": 999,
+    "text": "Tradfi loves nothing more than inventing a new word for something that already exists, except maybe lending against U.S. debt. \n\nBNY and Citadel Securities just ran the first tokenized Treasury repo on a major triparty platform. \n\nTranslation: Wall Street is slowly, quietly putting collateral on-chain while everyone else argues about profile pictures.",
+    "hasImage": true,
+    "eventFingerprint": "d445e287f831bcedf9f9da86",
+    "timestamp": "2026-10-15T03:04:47.646Z"
+  },
+  {
+    "messageId": 1000,
+    "text": "Regulatory reach in the US stablecoin market just expanded significantly.\n\nPolygon Labs has finalized its acquisition of Coinme, securing 37 state money transmitter licenses in the process. \n\nThe deal brings licensed payment infrastructure across 48 US states directly under Polygon's stablecoin network, bridging on-chain settlement with traditional state-level compliance frameworks. \n\nIntegration details and rollout timelines for existing Coinme services under the Polygon umbrella remain under review as licensing transfers are processed.",
+    "hasImage": true,
+    "eventFingerprint": "c499bc0e6e1866c28bb1064e",
+    "timestamp": "2026-10-15T03:04:53.239Z"
+  },
+  {
+    "messageId": 1001,
+    "text": "Keep an eye on Moscow. \n\nRussia’s central bank just cleared Sberbank to roll out crypto exchange products this coming December. \n\nFrom state resistance to state integration. The institutional pivot keeps accelerating whether the traditional guard likes it or not.\n\n#Crypto",
+    "hasImage": true,
+    "eventFingerprint": "f468e1d3e3b468e7f41729b1",
+    "timestamp": "2026-10-15T03:04:59.133Z"
+  },
+  {
+    "messageId": 1002,
+    "text": "Traditional banking is no longer off-limits for major crypto exchanges. \n\nPayward, the parent company of Kraken, has moved to acquire Saldo Bank in a strategic push to expand its financial services footprint across Europe. \n\nThe deal marks a notable shift as digital asset platforms increasingly seek direct integration with traditional fiat rails.",
+    "hasImage": true,
+    "eventFingerprint": "d7a7ec3138358b030d95b1d6",
+    "timestamp": "2026-10-15T03:05:03.343Z"
+  },
+  {
+    "messageId": 1003,
+    "text": "Traditional finance and digital asset rails are quietly converging in Asia while US infrastructure builds out in parallel. \n\nRipple just secured its fourth South Korean institutional partnership of the year, teaming up with Meritz for custody and tokenization initiatives as local regulations mature. \n\nAt the same time, the firm is pushing into traditional US brokerage infrastructure. \n\nThe strategy is clear: position foundational ledger technology inside legacy securities markets before regulatory frameworks fully solidify. Watch how institutional custody pipelines evolve across both jurisdictions.",
+    "hasImage": true,
+    "eventFingerprint": "1388848e018710418f62e367",
+    "timestamp": "2026-10-15T03:05:09.066Z"
   }
 ]
