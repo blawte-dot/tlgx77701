@@ -6351,5 +6351,40 @@
     "hasImage": true,
     "eventFingerprint": "de6eb3161bad5403ff58e96b",
     "timestamp": "2026-10-15T13:55:36.260Z"
+  },
+  {
+    "messageId": 1014,
+    "text": "The six-figure milestone is fading from view as macro pressures catch up to the market.\n\nBitcoin briefly touched an intraday low of $79,730 before stabilizing near $82,000, capping a violent correction that swept across exchanges. \n\nThe catalyst came from hotter-than-expected US wholesale inflation data, which immediately stoked fears that the Federal Reserve could keep interest rates elevated longer than anticipated. \n\nThat shift in sentiment triggered nearly $940 million in total liquidations, flushing out over 176,000 leveraged traders in a single sweep. \n\nAttention has now pivoted to the $78,000 zone as key technical support while macro volatility dictates the near-term trend.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "806dcd59a0e6044c901584db",
+    "timestamp": "2026-10-15T17:59:43.563Z"
+  },
+  {
+    "messageId": 1015,
+    "text": "Are large holders quietly draining exchange reserves while institutional products leak capital? \n\nBitcoin faces a familiar tug-of-war as mounting whale withdrawals tighten available supply on the open market. \n\nAt the same time, US spot exchange-traded funds just absorbed roughly $760 million in net outflows, offsetting much of that accumulation pressure. \n\nPrice action now sits at a crossroads between persistent spot demand from long-term entities and shifting institutional flows. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "b7abc2b221dd40c87cd67a3e",
+    "timestamp": "2026-10-15T17:59:45.517Z"
+  },
+  {
+    "messageId": 1016,
+    "text": "What happens when an $1.8 billion corporate bet finally meets the live payments rail?\n\nMastercard and BVNK just launched their joint Global Money Platform, marking the card giant's first major product integration since acquiring the stablecoin infrastructure firm. \n\nFinancial institutions, fintechs, and enterprises can now hold, convert, and spend both fiat and stablecoins through a single API. Agentic commerce support is already on the roadmap for automated machine-to-machine payouts.\n\nLegacy rails and crypto networks are no longer running in parallel. They are actively converging at the infrastructure layer.",
+    "hasImage": true,
+    "eventFingerprint": "45d8bbc5b3f4950d869c1c4b",
+    "timestamp": "2026-10-15T17:59:50.389Z"
+  },
+  {
+    "messageId": 1017,
+    "text": "Europe’s regulatory landscape just got a little more crowded.\n\nBingX’s European arm has officially cleared Austria’s Financial Market Authority, securing a MiCAR license to operate across 29 EEA jurisdictions. \n\nFor the exchange, it’s a gateway to a unified continental market. For the industry, it's yet another sign that operating in Europe now requires formal regulatory alignment over offshore flexibility. \n\nPassporting arrangements are underway. Execution follows. \n\n#BingX",
+    "hasImage": true,
+    "eventFingerprint": "48c50839d47bcdf45916ca06",
+    "timestamp": "2026-10-15T17:59:51.662Z"
+  },
+  {
+    "messageId": 1018,
+    "text": "Three major exploits in just 24 hours have pushed crypto security concerns back to the forefront of the market. \n\nData shows 207 separate hacks occurred in the first half of 2026 alone. \n\nNow, fresh incidents raising questions across the industry as H2 gets underway point to persistent vulnerabilities in protocol architecture and smart contract design. \n\nDevelopers and security firms are scrambling to patch the fallout, while market participants reassess systemic risk across multiple chains. \n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "d821ab486a17079366df7b28",
+    "timestamp": "2026-10-15T17:59:52.934Z"
   }
 ]
