@@ -39381,5 +39381,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Hyperliquid whale stakes $100M – So why is HYPE still below $80?",
+    "link": "https://ambcrypto.com/hyperliquid-whale-stakes-100m-so-why-is-hype-still-below-80/",
+    "summary": "A $100 million staking commitment revealed one whale’s patience. HYPE’s derivatives traders offered a less comfortable near-term picture.",
+    "image": null,
+    "publishedAt": "2026-10-15T23:00:50.000Z",
+    "collectedAt": "2026-10-16T00:03:24.253Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4f3a8670e769ffb2157653d4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-16T00:03:27.997Z",
+    "outcome": {
+      "event": {
+        "title": "Hyperliquid whale stakes $100M – So why is HYPE still below $80?",
+        "fingerprint": "4f3a8670e769ffb2157653d4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1024,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+    "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50Q9CPRKY0N68C9BSYHP5PM/asia-express-12.jpg",
+    "publishedAt": "2026-10-15T22:42:58.000Z",
+    "collectedAt": "2026-10-16T00:03:24.253Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1aea686bada8b7fa04985473",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T00:03:29.414Z",
+    "outcome": {
+      "event": {
+        "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+        "fingerprint": "1aea686bada8b7fa04985473"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1025,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "South Korea names two crypto firms in breach wave that also hit major banks",
+    "link": "https://cryptoslate.com/south-korea-names-two-crypto-firms-in-breach-wave-that-also-hit-major-banks/",
+    "summary": "Streami and Pravang are among 16 affected financial companies as the FSC outlines plans for a wider security overhaul.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/korean-customer-data-vault.webp",
+    "publishedAt": "2026-10-15T19:00:53.000Z",
+    "collectedAt": "2026-10-16T00:03:24.253Z",
+    "corroboratingSources": 1,
+    "fingerprint": "37a5f98ae5c1d96bfbe6679b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T00:03:30.895Z",
+    "outcome": {
+      "event": {
+        "title": "South Korea names two crypto firms in breach wave that also hit major banks",
+        "fingerprint": "37a5f98ae5c1d96bfbe6679b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1026,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Crypto Market Faces $932 Million Overnight Liquidation: XRP, DOGE, NEAR in Focus",
+    "link": "https://u.today/crypto-market-faces-932-million-overnight-liquidation-xrp-doge-near-in-focus",
+    "summary": "Overnight liquidations hit $932 million as XRP, DOGE, and NEAR face deep corrections before a sudden market reversal.",
+    "image": null,
+    "publishedAt": "2026-10-15T16:05:30.000Z",
+    "collectedAt": "2026-10-16T00:03:24.253Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a7336334b70e86be44345b3b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T00:03:31.976Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Market Faces $932 Million Overnight Liquidation: XRP, DOGE, NEAR in Focus",
+        "fingerprint": "a7336334b70e86be44345b3b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1027,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Cardano (ADA) Faces 5747% Liquidation Imbalance as Longs Get Hit in Market Selloff",
+    "link": "https://u.today/cardano-ada-faces-5747-liquidation-imbalance-as-longs-get-hit-in-market-selloff",
+    "summary": "Cardano’s 5,747% liquidation Imbalance raises fresh questions for ADA bulls.",
+    "image": null,
+    "publishedAt": "2026-10-15T14:45:00.000Z",
+    "collectedAt": "2026-10-16T00:03:24.253Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6c76051e2109687c053b603f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T00:03:33.233Z",
+    "outcome": {
+      "event": {
+        "title": "Cardano (ADA) Faces 5747% Liquidation Imbalance as Longs Get Hit in Market Selloff",
+        "fingerprint": "6c76051e2109687c053b603f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1028,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
