@@ -39996,5 +39996,200 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+    "link": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Germany’s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52C27XC6AZN9X7AWRXZJ2FR/hi-world-bank-initiatives-deutsche-bank.jpg",
+    "publishedAt": "2026-10-16T13:33:40.000Z",
+    "collectedAt": "2026-10-16T15:10:26.083Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2d4d3adba4f044c5034f910d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-16T15:10:34.741Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+        "fingerprint": "2d4d3adba4f044c5034f910d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1039,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple Pushes RLUSD Deeper Into Banking With New Cross River Partnership",
+    "link": "https://cryptopotato.com/ripple-pushes-rlusd-deeper-into-banking-with-new-cross-river-partnership/",
+    "summary": "New Jersey-based Cross River Bank has partnered with Ripple to bring RLUSD into its banking platform. The integration will support transactions on the XRP Ledger and allow customers to use the stablecoin alongside traditional payment methods. RLUSD Joins Cross River&#8217;s Payment Rails Cross River will integrate RLUSD into its Core Operating System, which connects financial [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/12/rlusd2.jpg",
+    "publishedAt": "2026-10-16T11:30:30.000Z",
+    "collectedAt": "2026-10-16T15:10:26.083Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8849db8cee8e951f2bf3d219",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-16T15:10:41.473Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Pushes RLUSD Deeper Into Banking With New Cross River Partnership",
+        "fingerprint": "8849db8cee8e951f2bf3d219"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1040,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Major Crypto Exchange Announces October Asset Delistings, XRP Safe",
+    "link": "https://u.today/major-crypto-exchange-announces-october-asset-delistings-xrp-safe",
+    "summary": "Major Korean crypto exchange reveals upcoming asset delistings.",
+    "image": null,
+    "publishedAt": "2026-10-16T13:30:20.000Z",
+    "collectedAt": "2026-10-16T15:10:26.083Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a740b986382cecd029ae53f4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-16T15:10:47.225Z",
+    "outcome": {
+      "event": {
+        "title": "Major Crypto Exchange Announces October Asset Delistings, XRP Safe",
+        "fingerprint": "a740b986382cecd029ae53f4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1041,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Japan Megabanks Test First Joint Yen Stablecoin: Where Does XRP Fit?",
+    "link": "https://u.today/japan-megabanks-test-first-joint-yen-stablecoin-where-does-xrp-fit",
+    "summary": "Japan’s megabanks just tested their own stablecoin, but they can’t seem to escape the shadow of their deep history with XRP.",
+    "image": null,
+    "publishedAt": "2026-10-16T14:22:15.000Z",
+    "collectedAt": "2026-10-16T15:10:26.083Z",
+    "corroboratingSources": 1,
+    "fingerprint": "42ac4bdbca2411e5e51438a3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-16T15:11:05.409Z",
+    "outcome": {
+      "event": {
+        "title": "Japan Megabanks Test First Joint Yen Stablecoin: Where Does XRP Fit?",
+        "fingerprint": "42ac4bdbca2411e5e51438a3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1042,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
+    "link": "https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption",
+    "summary": "The company run by former FTX Europe head Patrick Gruhn says it has published a notice of intent to rely on the SEC's five-year relief. A 30-day waiting period follows.",
+    "image": "https://cdn.thedefiant.io/nasdaq-perps-cropped-jpg-0d610cce-5419-404c-bcf9-f92fe421a53b.jpg",
+    "publishedAt": "2026-10-16T14:32:00.000Z",
+    "collectedAt": "2026-10-16T15:10:26.083Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4cb109bf7c737ad32576b057",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-16T15:11:07.184Z",
+    "outcome": {
+      "event": {
+        "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
+        "fingerprint": "4cb109bf7c737ad32576b057"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
   }
 ]

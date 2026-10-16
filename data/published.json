@@ -7459,5 +7459,37 @@
     "hasImage": true,
     "eventFingerprint": "b3bbc26466c48ef0efbab531",
     "timestamp": "2026-10-16T10:39:08.851Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1039,
+    "text": "Wall Street giants are quietly positioning themselves for the next phase of digital asset infrastructure.\n\nUnconfirmed reports suggest Deutsche Bank is preparing to roll out its cryptocurrency custody services in Germany, with subsequent expansion plans targeting key financial hubs across Asia. \n\nWhile the bank has yet to issue a formal confirmation, the reported move aligns with a broader institutional push into regulated digital asset management. \n\nTraditional banking institutions continue to build out backend infrastructure despite shifting macroeconomic headwinds. \n\nAs regulatory frameworks in Europe and Asia mature, legacy financial players are laying the groundwork to capture institutional volume.",
+    "hasImage": true,
+    "eventFingerprint": "2d4d3adba4f044c5034f910d",
+    "timestamp": "2026-10-16T15:10:34.735Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1040,
+    "text": "Traditional banking rails and the XRP Ledger are moving a step closer.\n\nNew Jersey-based Cross River Bank has formally partnered with Ripple to integrate RLUSD directly into its Core Operating System. \n\nThe move allows institutional customers to settle transactions using the stablecoin alongside legacy payment methods, bridging traditional financial infrastructure with ledger-based settlement. \n\nCross River's infrastructure already powers a significant portion of fintech and banking API integrations in the US, making this deployment a notable distribution channel for Ripple's dollar-pegged asset as regulatory scrutiny around stablecoins persists. \n\n#Ripple",
+    "hasImage": true,
+    "eventFingerprint": "8849db8cee8e951f2bf3d219",
+    "timestamp": "2026-10-16T15:10:41.466Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1041,
+    "text": "South Korea's exchanges are tightening compliance thresholds, and traders holding smaller-cap tokens are paying the price.\n\nUpbit announced a fresh wave of asset removals scheduled for October, citing liquidity issues and project viability concerns. \n\nWhile market bellwethers like XRP cleared the review and remain fully supported, dozens of lesser-known trading pairs face termination. \n\nProjects failing to meet ongoing regulatory and volume standards continue to find themselves squeezed off major order books as exchanges consolidate risk.",
+    "hasImage": true,
+    "eventFingerprint": "a740b986382cecd029ae53f4",
+    "timestamp": "2026-10-16T15:10:47.220Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1042,
+    "text": "Japan's largest financial institutions are quietly rewriting the mechanics of domestic settlement. \n\nA new joint trial involving the country's megabanks has successfully tested a native yen-pegged stablecoin, marking a major step toward digitized commercial banking. \n\nYet market attention immediately drifted back to a familiar incumbent. \n\nFor years, Japanese banking giants have experimented with XRP for cross-border liquidity rails through ventures like SBI Ripple Asia. While this new stablecoin trial targets domestic corporate settlement and tokenized deposits, the infrastructure overlap is hard to ignore. \n\nCommercial banks want the speed of blockchain without surrendering control over the underlying currency. Whether these two systems ultimately compete or converge will dictate how institutional capital moves across Asia.",
+    "hasImage": true,
+    "eventFingerprint": "42ac4bdbca2411e5e51438a3",
+    "timestamp": "2026-10-16T15:11:05.404Z"
   }
 ]
