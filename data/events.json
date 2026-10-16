@@ -40396,5 +40396,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Deutsche Bank to Launch Bitcoin and Ethereum Custody Within Weeks",
+    "link": "https://u.today/deutsche-bank-to-launch-bitcoin-and-ethereum-custody-within-weeks",
+    "summary": "Deutsche Bank, Germany's largest bank, is preparing to launch Bitcoin and Ethereum custody services within weeks.",
+    "image": null,
+    "publishedAt": "2026-10-16T15:31:12.000Z",
+    "collectedAt": "2026-10-16T22:28:54.816Z",
+    "corroboratingSources": 3,
+    "fingerprint": "e33e07971ee91c13fa9f53bf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-16T22:28:57.626Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank to Launch Bitcoin and Ethereum Custody Within Weeks",
+        "fingerprint": "e33e07971ee91c13fa9f53bf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1048,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+    "link": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
+    "summary": "Bitcoin Magazine\n\nBFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons\nCPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State Colin Crossman on regulatory outlook.\nThis post BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-1.webp",
+    "publishedAt": "2026-10-16T19:44:29.000Z",
+    "collectedAt": "2026-10-16T22:28:54.816Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cfe3e991a1d56b00b6aa42fe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-16T22:28:58.860Z",
+    "outcome": {
+      "event": {
+        "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+        "fingerprint": "cfe3e991a1d56b00b6aa42fe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1049,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Up 11% after Coinbase, Deribit listing, can PONS breach $0.34 next?",
+    "link": "https://ambcrypto.com/up-11-after-coinbase-deribit-listing-can-pons-breach-0-34-next/",
+    "summary": "PONS showed signs of recovery with a double-digit uptick thanks to its big listing day.",
+    "image": null,
+    "publishedAt": "2026-10-16T22:00:36.000Z",
+    "collectedAt": "2026-10-16T22:28:54.816Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f68df56c04ba3b082968fe58",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-16T22:28:59.910Z",
+    "outcome": {
+      "event": {
+        "title": "Up 11% after Coinbase, Deribit listing, can PONS breach $0.34 next?",
+        "fingerprint": "f68df56c04ba3b082968fe58"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1050,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N6H9GGJM3JZN42WG1X5JC/kevin-warsh-2-3-960x640.webp",
+    "publishedAt": "2026-10-16T15:45:43.000Z",
+    "collectedAt": "2026-10-16T22:28:54.816Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4669e07beeef8486802608d7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T22:29:00.997Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+        "fingerprint": "4669e07beeef8486802608d7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1051,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Filecoin &#8211; How rising whale demand could extend FIL&#8217;s 14% gains",
+    "link": "https://ambcrypto.com/filecoin-why-rising-whale-demand-could-extend-fils-14-gains/",
+    "summary": "On-chain activity, perpetual market metrics, and whale involvement all point to further gains for FIL.",
+    "image": null,
+    "publishedAt": "2026-10-16T16:00:45.000Z",
+    "collectedAt": "2026-10-16T22:28:54.816Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8d29d9087f142d1313f4dc46",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T22:29:01.913Z",
+    "outcome": {
+      "event": {
+        "title": "Filecoin &#8211; How rising whale demand could extend FIL&#8217;s 14% gains",
+        "fingerprint": "8d29d9087f142d1313f4dc46"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1052,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
