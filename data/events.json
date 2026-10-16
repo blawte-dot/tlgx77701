@@ -40191,5 +40191,210 @@
         "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
+    "link": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
+    "summary": "Bitcoin Magazine\n\nDeutsche Bank To Debut Bitcoin Custody Within Weeks: Report\nThe German lender is moving fast with its crypto custody service. \nThis post Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image7_1920x1080.png",
+    "publishedAt": "2026-10-16T16:35:55.000Z",
+    "collectedAt": "2026-10-16T19:16:26.438Z",
+    "corroboratingSources": 3,
+    "fingerprint": "54be151ff52e25ff0d67ca2b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-16T19:16:32.605Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
+        "fingerprint": "54be151ff52e25ff0d67ca2b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1043,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Tether backs Saber Money’s payment expansion across Asia and the Gulf",
+    "link": "https://ambcrypto.com/tether-backs-saber-moneys-payment-expansion-across-asia-and-the-gulf/",
+    "summary": "Saber plans to use fresh backing for licenses, banking partnerships, and business payments, but has not named its next markets or expansion timetable.",
+    "image": null,
+    "publishedAt": "2026-10-16T18:30:26.000Z",
+    "collectedAt": "2026-10-16T19:16:26.439Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab64996d56a702b74cadac79",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-16T19:16:39.200Z",
+    "outcome": {
+      "event": {
+        "title": "Tether backs Saber Money’s payment expansion across Asia and the Gulf",
+        "fingerprint": "ab64996d56a702b74cadac79"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1044,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Why NEAR crypto&#8217;s 12% rally could extend after Sunrise partnership",
+    "link": "https://ambcrypto.com/why-near-cryptos-12-rally-could-extend-after-sunrise-partnership/",
+    "summary": "NEAR Protocol is attracting renewed attention after its partnership with Sunrise expanded access to Solana markets.",
+    "image": null,
+    "publishedAt": "2026-10-16T18:00:21.000Z",
+    "collectedAt": "2026-10-16T19:16:26.439Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7f7612a910848b136f128064",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-16T19:16:44.265Z",
+    "outcome": {
+      "event": {
+        "title": "Why NEAR crypto&#8217;s 12% rally could extend after Sunrise partnership",
+        "fingerprint": "7f7612a910848b136f128064"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1045,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Google's Quantum Breakthrough Sparks Fresh Crypto Security Concerns",
+    "link": "https://u.today/googles-quantum-breakthrough-sparks-fresh-crypto-security-concerns",
+    "summary": "Google's latest quantum computing breakthrough has reignited concerns about cryptocurrency security, bringing quantum computers one step closer to potentially breaking the cryptography protecting Bitcoin and other major cryptocurrencies.",
+    "image": null,
+    "publishedAt": "2026-10-16T18:42:37.000Z",
+    "collectedAt": "2026-10-16T19:16:26.439Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1c80f2eacf98bdf13d4ca5d1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-16T19:16:52.235Z",
+    "outcome": {
+      "event": {
+        "title": "Google's Quantum Breakthrough Sparks Fresh Crypto Security Concerns",
+        "fingerprint": "1c80f2eacf98bdf13d4ca5d1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1046,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+    "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+    "summary": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff44eeb11e3fa7d86694b7c0742d390ad2ff526f-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-16T10:41:03.000Z",
+    "collectedAt": "2026-10-16T19:16:26.438Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a85daa7e74d1be5698117071",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T19:16:58.207Z",
+    "outcome": {
+      "event": {
+        "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+        "fingerprint": "a85daa7e74d1be5698117071"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1047,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
