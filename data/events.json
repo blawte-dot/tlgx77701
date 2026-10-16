@@ -39791,5 +39791,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "MEXC AI Trading Report Reveals 85% of Crypto Traders Use AI, But Most Limit Its Control Over Funds",
+    "link": "https://www.newsbtc.com/news/mexc-ai-trading-report-reveals-85-of-crypto-traders-use-ai-but-most-limit-its-control-over-funds/",
+    "summary": "Mutsamudu, Comoros, October 16, 2026 — MEXC, a global cryptocurrency exchange, released its AI Trading Report, based on a survey of 3,708 crypto traders. The report examines how respondents use AI, how much trading authority they would delegate, and what protective measures they expect from platforms. Blockchain security firm Hacken contributed technical analysis of risks associated with AI agent trading and the controls designed to address them. Key takeaways: 84.8% of surveyed crypto users hav",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/photo_2026-10-16_06-11-22.jpg?fit=715%2C536",
+    "publishedAt": "2026-10-16T10:31:38.000Z",
+    "collectedAt": "2026-10-16T10:38:40.447Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c0d7de82d4329af0fd351f92",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-16T10:38:47.255Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC AI Trading Report Reveals 85% of Crypto Traders Use AI, But Most Limit Its Control Over Funds",
+        "fingerprint": "c0d7de82d4329af0fd351f92"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1034,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Fed Chair Warsh’s Bangkok Speech: 4 Key Takeaways and What They Mean for Bitcoin",
+    "link": "https://cryptopotato.com/fed-chair-warshs-bangkok-speech-4-key-takeaways-and-what-they-mean-for-bitcoin/",
+    "summary": "Here's what Warsh signaled about the upcoming FOMC meeting and whether the central bank plans to hike rates again.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/01/KevinWarsh-min.jpg",
+    "publishedAt": "2026-10-16T07:56:22.000Z",
+    "collectedAt": "2026-10-16T10:38:40.447Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8b5eec92815e7de8481aae1d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-16T10:38:58.835Z",
+    "outcome": {
+      "event": {
+        "title": "Fed Chair Warsh’s Bangkok Speech: 4 Key Takeaways and What They Mean for Bitcoin",
+        "fingerprint": "8b5eec92815e7de8481aae1d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1035,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "OCC flags 9 top U.S banks for debanking crypto industry between 2020-2025: Report",
+    "link": "https://ambcrypto.com/occ-flags-9-top-u-s-banks-for-debanking-crypto-industry-between-2020-2025-report/",
+    "summary": "It seems the banks vs. crypto fight is far from being over.",
+    "image": null,
+    "publishedAt": "2026-10-16T07:00:32.000Z",
+    "collectedAt": "2026-10-16T10:38:40.447Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1a547fecc2f9aa40fdac85fe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-16T10:39:01.245Z",
+    "outcome": {
+      "event": {
+        "title": "OCC flags 9 top U.S banks for debanking crypto industry between 2020-2025: Report",
+        "fingerprint": "1a547fecc2f9aa40fdac85fe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1036,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "MEXC Releases October 2026 Proof of Reserves, Reinforcing User Trust Through Verifiable Transparency",
+    "link": "https://www.newsbtc.com/news/mexc-releases-october-2026-proof-of-reserves-reinforcing-user-trust-through-verifiable-transparency/",
+    "summary": "Mutsamudu, Comoros, October 16, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has released its October 2026 Proof of Reserves (PoR) report. Independently audited by Hacken, the report confirms that the platform’s reserves continue to fully cover user holdings across all major reserve assets. As part of its commitment to putting users first, MEXC publishes monthly reserve data that users can independently verify, reinforcing user trust through transparency. According to the audit report,",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/photo_2026-10-16_09-39-13.jpg?fit=715%2C536",
+    "publishedAt": "2026-10-16T10:34:30.000Z",
+    "collectedAt": "2026-10-16T10:38:40.447Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1074045a14cada9c04616067",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T10:39:05.557Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC Releases October 2026 Proof of Reserves, Reinforcing User Trust Through Verifiable Transparency",
+        "fingerprint": "1074045a14cada9c04616067"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1037,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "ChangeNOW Announces NOW AI After Resolving Website Integration Vulnerability",
+    "link": "https://cryptopotato.com/changenow-announces-now-ai-after-resolving-website-integration-vulnerability/",
+    "summary": "[PRESS RELEASE &#8211; Kingstown, Saint Vincent and the Grenadines, October 15th, 2026] On October 15, with the help of independent security researchers, we found a vulnerability affecting one of the integrations used on the ChangeNOW website. The vulnerability has now been fixed. We currently have no evidence that it was exploited. But we also can’t [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/NOW_AI_3_1792096128EibQhuGSph.jpg",
+    "publishedAt": "2026-10-16T05:32:57.000Z",
+    "collectedAt": "2026-10-16T10:38:40.447Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b3bbc26466c48ef0efbab531",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-16T10:39:08.857Z",
+    "outcome": {
+      "event": {
+        "title": "ChangeNOW Announces NOW AI After Resolving Website Integration Vulnerability",
+        "fingerprint": "b3bbc26466c48ef0efbab531"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1038,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
