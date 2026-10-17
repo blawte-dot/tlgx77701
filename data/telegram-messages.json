@@ -6729,5 +6729,40 @@
     "hasImage": true,
     "eventFingerprint": "5ea5d8d33bdd9711432671cd",
     "timestamp": "2026-10-17T11:20:32.619Z"
+  },
+  {
+    "messageId": 1068,
+    "text": "Crypto infrastructure is quietly pivoting to eat the middleman's lunch.\n\nPolygon’s recent acquisition of Coinme isn't just about expanding crypto-to-cash rails. According to CEO Marc Boiron, it is a deliberate move to bypass traditional heavyweights like Visa and Stripe. \n\nBy taking direct control of customer relationships, the network aims to capture revenue streams that historically leaked to payment intermediaries. \n\nIt marks a clear shift for layer-2 scaling solutions: moving beyond transaction throughput to capture the high-margin payment layer itself.",
+    "hasImage": true,
+    "eventFingerprint": "93fc463cab59edef1dd17d0e",
+    "timestamp": "2026-10-17T14:54:46.984Z"
+  },
+  {
+    "messageId": 1069,
+    "text": "Why are traditional banking giants quietly building the rails for digital assets?\n\nDeutsche Bank is nearing the commercial rollout of its institutional cryptocurrency custody platform, targeting professional clients in Germany as part of a broader push into tokenized finance. \n\nThe initiative moves beyond preliminary testing, signaling that mainstream European lenders view digital asset infrastructure as a long-term necessity rather than a temporary trend. \n\nIntegration with established banking systems continues to advance, bridging traditional finance and crypto markets step by step.",
+    "hasImage": true,
+    "eventFingerprint": "1bbed6246b4199e280e0287e",
+    "timestamp": "2026-10-17T14:54:48.145Z"
+  },
+  {
+    "messageId": 1070,
+    "text": "Institutional capital just hit the brakes on US spot Bitcoin funds. \n\nData from Farside Investors shows US Bitcoin ETFs bled $82.4 million in net outflows during the Friday session. \n\nBlackRock’s IBIT drove the majority of the retreat with $71.8 million in withdrawals, while Fidelity’s FBTC saw a more modest $10.6 million exit. \n\nThe reversal breaks a prior accumulation streak and points to a shifting risk appetite among institutional allocators heading into the weekend.",
+    "hasImage": true,
+    "eventFingerprint": "6c615ce00c4bbff169f152a1",
+    "timestamp": "2026-10-17T14:54:49.293Z"
+  },
+  {
+    "messageId": 1071,
+    "text": "Who knew the fiercest rival to decentralized money would just be a bank offering an extra penny of interest?\n\nA new BIS working paper reveals that a measly one basis point bump in U.S. deposit rates is enough to dent ten-week stablecoin growth from 15 percent down to 12. \n\nTurns out tokenized dollars have a price tag, and it is remarkably low.",
+    "hasImage": true,
+    "eventFingerprint": "29dc99b21dbfca01ac011580",
+    "timestamp": "2026-10-17T14:54:50.728Z"
+  },
+  {
+    "messageId": 1072,
+    "text": "Two years without a mainnet outage is an undeniable milestone for Solana. \n\nYet Fidelity's latest report highlights lingering structural risks: heavy concentrations in stake, hosting, and client software that still demand close watching. \n\nWhere do you draw the line between network reliability and decentralization risk? \n\nAre these infrastructure bottlenecks a dealbreaker for institutional adoption, or just growing pains for a high-throughput chain? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "0b39ea104fd2c208e9c68ded",
+    "timestamp": "2026-10-17T14:54:52.898Z"
   }
 ]

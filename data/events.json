@@ -41216,5 +41216,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+    "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+    "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/17a22400ba8564ddb87b37a6804dbab225691183-4139x2759.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-17T14:00:00.000Z",
+    "collectedAt": "2026-10-17T14:54:45.009Z",
+    "corroboratingSources": 1,
+    "fingerprint": "93fc463cab59edef1dd17d0e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-17T14:54:46.995Z",
+    "outcome": {
+      "event": {
+        "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+        "fingerprint": "93fc463cab59edef1dd17d0e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1068,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Deutsche Bank Nears Bitcoin Custody Launch As Crypto Push Expands Beyond Europe",
+    "link": "https://www.newsbtc.com/crypto-news/deutsche-bank-nears-bitcoin-custody-launch-as-crypto-push-expands-beyo/",
+    "summary": "TL;DR: Deutsche Bank is preparing to introduce institutional digital asset custody services, initially targeting professional clients in Germany. The planned platform is part of a wider effort to connect cryptocurrencies and tokenized assets to established banking infrastructure. Deutsche Bank is nearing the commercial launch of its institutional cryptocurrency custody business, another sign that major European lenders increasingly regard digital assets as part of mainstream financial services. ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N06.png?fit=750%2C422",
+    "publishedAt": "2026-10-17T14:13:00.000Z",
+    "collectedAt": "2026-10-17T14:54:45.009Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1bbed6246b4199e280e0287e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-17T14:54:48.160Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank Nears Bitcoin Custody Launch As Crypto Push Expands Beyond Europe",
+        "fingerprint": "1bbed6246b4199e280e0287e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1069,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin ETFs Lose $82 Million As BlackRock Leads Friday&#8217;s Withdrawals",
+    "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-etfs-lose-82-million-as-blackrock-leads-friday-s-withdrawals/",
+    "summary": "TL;DR: US spot Bitcoin ETFs recorded approximately $82.4 million in net outflows on October 16. BlackRock&#8217;s IBIT accounted for $71.8 million of withdrawals, with Fidelity&#8217;s FBTC recording about $10.6 million. BlackRock&#8217;s flagship spot Bitcoin ETF accounted for most of the selling as US-listed Bitcoin investment funds closed Friday&#8217;s session with net withdrawals of approximately $82.4 million. Farside Investors&#8217; figures show that the iShares Bitcoin Trust, known as I",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N04.png?fit=750%2C422",
+    "publishedAt": "2026-10-17T12:13:00.000Z",
+    "collectedAt": "2026-10-17T14:54:45.009Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6c615ce00c4bbff169f152a1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-17T14:54:49.473Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Lose $82 Million As BlackRock Leads Friday&#8217;s Withdrawals",
+        "fingerprint": "6c615ce00c4bbff169f152a1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1070,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+    "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+    "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-17T12:00:00.000Z",
+    "collectedAt": "2026-10-17T14:54:45.009Z",
+    "corroboratingSources": 1,
+    "fingerprint": "29dc99b21dbfca01ac011580",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-17T14:54:51.113Z",
+    "outcome": {
+      "event": {
+        "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+        "fingerprint": "29dc99b21dbfca01ac011580"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1071,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+    "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatility-with-several-options-solana.jpg",
+    "publishedAt": "2026-10-17T12:58:03.000Z",
+    "collectedAt": "2026-10-17T14:54:45.009Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0b39ea104fd2c208e9c68ded",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-17T14:54:52.912Z",
+    "outcome": {
+      "event": {
+        "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+        "fingerprint": "0b39ea104fd2c208e9c68ded"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1072,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
