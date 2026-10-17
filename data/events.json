@@ -41421,5 +41421,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Grayscale Opens DeFi And AI Crypto Funds To Investors With Just $2,500",
+    "link": "https://www.newsbtc.com/crypto-news/grayscale-opens-defi-and-ai-crypto-funds-to-investors-with-just-2-500/",
+    "summary": "TL;DR: Grayscale and investment platform Republic are offering three specialised crypto funds with minimum commitments starting at $2,500. The products remain restricted to eligible accredited investors. Grayscale is opening another route into sector-specific cryptocurrency investing, reducing the minimum commitment for selected private funds through a distribution partnership with Republic. The products focus on decentralised finance, artificial intelligence and blockchain data infrastructure. ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N07.png?fit=750%2C422",
+    "publishedAt": "2026-10-17T15:13:00.000Z",
+    "collectedAt": "2026-10-17T17:44:57.062Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5596aa996660dee197f68b56",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-17T17:44:59.349Z",
+    "outcome": {
+      "event": {
+        "title": "Grayscale Opens DeFi And AI Crypto Funds To Investors With Just $2,500",
+        "fingerprint": "5596aa996660dee197f68b56"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1073,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Binance.US Seeks $100 Million Funding Round At $1 Billion Valuation",
+    "link": "https://www.newsbtc.com/crypto-news/binance-us-seeks-100-million-funding-round-at-1-billion-valuation/",
+    "summary": "TL;DR: Binance.US is reportedly seeking up to $100 million from private investors at a proposed valuation of approximately $1 billion. The financing discussions come as the American exchange attempts to rebuild after several difficult years. Binance.US is reportedly pursuing a $100 million fundraising round as it seeks to strengthen its presence in the American cryptocurrency market. Bloomberg reported on October 15 that the exchange was discussing an investment at a valuation of approximately $",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N09.png?fit=750%2C422",
+    "publishedAt": "2026-10-17T17:13:00.000Z",
+    "collectedAt": "2026-10-17T17:44:57.062Z",
+    "corroboratingSources": 2,
+    "fingerprint": "78a0fc4ac723dee99a7bb092",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6.5,
+    "processedAt": "2026-10-17T17:45:00.563Z",
+    "outcome": {
+      "event": {
+        "title": "Binance.US Seeks $100 Million Funding Round At $1 Billion Valuation",
+        "fingerprint": "78a0fc4ac723dee99a7bb092"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1074,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP's $1.30 Retest Triggers First ETF Outflow in 13 Weeks",
+    "link": "https://u.today/xrps-130-retest-triggers-first-etf-outflow-in-13-weeks",
+    "summary": "XRP has posted its worst weekly ETF performance since July as the spot XRP ETFs have just concluded a week of steady withdrawals from investors.",
+    "image": null,
+    "publishedAt": "2026-10-17T14:59:23.000Z",
+    "collectedAt": "2026-10-17T17:44:57.062Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6e08f62a919e46d8eecc3cdc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-17T17:45:02.718Z",
+    "outcome": {
+      "event": {
+        "title": "XRP's $1.30 Retest Triggers First ETF Outflow in 13 Weeks",
+        "fingerprint": "6e08f62a919e46d8eecc3cdc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1075,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+    "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+    "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/25ff7074f50fa460f087e97f7ba81d48d2cdce60-3000x2147.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-17T17:00:00.000Z",
+    "collectedAt": "2026-10-17T17:44:57.062Z",
+    "corroboratingSources": 1,
+    "fingerprint": "17b13e948a09591c5272f953",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-17T17:45:04.147Z",
+    "outcome": {
+      "event": {
+        "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+        "fingerprint": "17b13e948a09591c5272f953"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1076,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitwise Holds Over Half a Billion XRP",
+    "link": "https://u.today/bitwise-holds-over-half-a-billion-xrp",
+    "summary": "Bitwise now owns over half a billion dollars worth of XRP through its XRP ETF, establishing its dominance in the industry over other existing XRP funds.",
+    "image": null,
+    "publishedAt": "2026-10-17T16:23:02.000Z",
+    "collectedAt": "2026-10-17T17:44:57.062Z",
+    "corroboratingSources": 1,
+    "fingerprint": "146c65ced5b4d0e28f0fa78d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T17:45:05.312Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise Holds Over Half a Billion XRP",
+        "fingerprint": "146c65ced5b4d0e28f0fa78d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1077,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
