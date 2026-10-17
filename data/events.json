@@ -41011,5 +41011,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Deutsche Bank, Charles Schwab double down on crypto as Bitcoin gains on TradFi",
+    "link": "https://ambcrypto.com/deutsche-bank-charles-schwab-double-down-on-crypto-as-bitcoin-gains-on-tradfi/",
+    "summary": "Bitcoin’s institutional adoption is on the up as banking giants expand access to digital assets.",
+    "image": null,
+    "publishedAt": "2026-10-17T11:00:32.000Z",
+    "collectedAt": "2026-10-17T11:20:24.839Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9fd6d91d3d5b7084ce3f906c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-17T11:20:27.885Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank, Charles Schwab double down on crypto as Bitcoin gains on TradFi",
+        "fingerprint": "9fd6d91d3d5b7084ce3f906c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1063,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
+    "link": "https://thedefiant.io/news/markets/ether-etfs-lose-320-million-overtaking-bitcoin-s-weekly-outflows",
+    "summary": "Five crypto ETF groups tracked by Farside lost $610.7 million during Oct. 12–16, while bitcoin withdrawals slowed 66% from the preceding week.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/e63a306e6fc9a5b393c44ea8371c2c8149cd7779-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-17T07:55:49.000Z",
+    "collectedAt": "2026-10-17T11:20:24.839Z",
+    "corroboratingSources": 1,
+    "fingerprint": "13e83eccfe4ad5ea19fdbf7a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-17T11:20:28.968Z",
+    "outcome": {
+      "event": {
+        "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
+        "fingerprint": "13e83eccfe4ad5ea19fdbf7a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1064,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
+    "summary": "Tokens will be backed 1:1 by securities held at DTC, with Stellar and Circle’s Arc anticipated in 2027.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/5acae036d194df59ad62aa4af0066cf3335c6d4c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-17T07:32:11.000Z",
+    "collectedAt": "2026-10-17T11:20:24.839Z",
+    "corroboratingSources": 1,
+    "fingerprint": "45bd88104862db14f5108e1a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-17T11:20:30.277Z",
+    "outcome": {
+      "event": {
+        "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
+        "fingerprint": "45bd88104862db14f5108e1a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1065,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Coinbase and Marqeta Expand Partnership for Enterprise Stablecoin Cards",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-marqeta-expand-partnership-for-enterprise-stablecoin-cards",
+    "summary": "The planned offering would let businesses fund card programs around the clock, with Coinbase holding balances and Base providing onchain settlement infrastructure.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/ceeeb0716583cf199335c0a0fae2441e555bf23a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-16T14:57:56.000Z",
+    "collectedAt": "2026-10-17T11:20:24.839Z",
+    "corroboratingSources": 1,
+    "fingerprint": "09f5d822049bbfa5205dae8a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T11:20:31.493Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase and Marqeta Expand Partnership for Enterprise Stablecoin Cards",
+        "fingerprint": "09f5d822049bbfa5205dae8a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1066,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+    "link": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+    "summary": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.44.15.png",
+    "publishedAt": "2026-10-16T11:25:12.000Z",
+    "collectedAt": "2026-10-17T11:20:24.839Z",
+    "corroboratingSources": 2,
+    "fingerprint": "5ea5d8d33bdd9711432671cd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3.5,
+    "processedAt": "2026-10-17T11:20:32.636Z",
+    "outcome": {
+      "event": {
+        "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+        "fingerprint": "5ea5d8d33bdd9711432671cd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1067,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

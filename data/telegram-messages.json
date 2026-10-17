@@ -6694,5 +6694,40 @@
     "hasImage": true,
     "eventFingerprint": "c0c258e16afed28bd3d294b4",
     "timestamp": "2026-10-17T06:31:08.363Z"
+  },
+  {
+    "messageId": 1063,
+    "text": "Traditional finance is quietly building the infrastructure for the next phase of digital asset adoption.\n\nDeutsche Bank and Charles Schwab are both expanding their crypto exposure, signaling that Wall Street's largest institutions view digital assets as a permanent fixture rather than a passing trade. \n\nBitcoin's market capitalization now rivals major global equities, making it increasingly difficult for legacy custodians and wealth managers to ignore client demand. \n\nAs banking giants integrate crypto rails into existing brokerage and custody accounts, the structural gap between TradFi and digital assets continues to narrow.",
+    "hasImage": true,
+    "eventFingerprint": "9fd6d91d3d5b7084ce3f906c",
+    "timestamp": "2026-10-17T11:20:27.870Z"
+  },
+  {
+    "messageId": 1064,
+    "text": "Are institutional investors quietly rotating out of altcoin exposure?\n\nEther spot ETFs bled $320 million between October 12 and 16, officially outpacing weekly outflows from bitcoin products for the first time in recent memory. \n\nData tracked by Farside shows total net withdrawals across five major crypto ETF groups hit $610.7 million over the four-day stretch. \n\nMeanwhile, bitcoin fund outflows cooled significantly, slowing by 66% compared to the prior week's pace.",
+    "hasImage": true,
+    "eventFingerprint": "13e83eccfe4ad5ea19fdbf7a",
+    "timestamp": "2026-10-17T11:20:28.954Z"
+  },
+  {
+    "messageId": 1065,
+    "text": "Wall Street is finally learning how to right-click and save as.\n\nThe Depository Trust & Clearing Corporation just mapped out a 25-security tokenization pilot using Canton and Besu, with Stellar and Circle slated to join the party down the line in 2027. \n\nEvery token stays backed one-to-one by actual paper sitting in the vault at DTC. \n\nTradFi isn't destroying the legacy plumbing just yet. They're just putting a high-speed wrapper around it.",
+    "hasImage": true,
+    "eventFingerprint": "45bd88104862db14f5108e1a",
+    "timestamp": "2026-10-17T11:20:30.264Z"
+  },
+  {
+    "messageId": 1066,
+    "text": "What happens when corporate treasury finally runs on the blockchain?\n\nCoinbase and Marqeta are teaming up to let businesses fund commercial card programs 24/7. \n\nUnder the planned setup, Coinbase will hold the balances while the Base network handles onchain settlement behind the scenes. \n\nIt is another step toward bridging traditional enterprise spending with round-the-clock digital rails. \n\n#Coinbase",
+    "hasImage": true,
+    "eventFingerprint": "09f5d822049bbfa5205dae8a",
+    "timestamp": "2026-10-17T11:20:31.480Z"
+  },
+  {
+    "messageId": 1067,
+    "text": "Wall Street spent a decade calling stablecoins a glorified casino token while Visa quietly wired them into actual production infrastructure. \n\nInyo Global just went live as the first commercial enabler for Visa Direct's USDC prefunding rollout. \n\nTranslation: the rails are shifting while the skeptics are still arguing on timeline.",
+    "hasImage": true,
+    "eventFingerprint": "5ea5d8d33bdd9711432671cd",
+    "timestamp": "2026-10-17T11:20:32.619Z"
   }
 ]
