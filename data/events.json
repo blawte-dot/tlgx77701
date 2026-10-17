@@ -41831,5 +41831,205 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ethereum whale moves $57.88M as outflows deepen — Can ETH defend $2,400?",
+    "link": "https://ambcrypto.com/ethereum-whale-moves-57-88m-as-outflows-deepen-can-eth-defend-2400/",
+    "summary": "Ethereum's whale transfers and exchange outflows contrasted with bearish indicators.",
+    "image": null,
+    "publishedAt": "2026-10-17T21:00:49.000Z",
+    "collectedAt": "2026-10-17T22:51:47.763Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cd20c8f7c84c1be4ab89d4b4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-17T22:51:49.383Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum whale moves $57.88M as outflows deepen — Can ETH defend $2,400?",
+        "fingerprint": "cd20c8f7c84c1be4ab89d4b4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Almost 86 Trillion SHIB: Shiba Inu Eyes Key Support Threshold",
+    "link": "https://u.today/almost-86-trillion-shib-shiba-inu-eyes-key-support-threshold",
+    "summary": "Shiba Inu's exchange supply is headed to exiting the 87 trillion SHIB zone as netflow shows that bullish traders are gradually taking over the market.",
+    "image": null,
+    "publishedAt": "2026-10-17T22:06:00.000Z",
+    "collectedAt": "2026-10-17T22:51:47.763Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f33f42e98e77327465e481a4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-17T22:51:50.160Z",
+    "outcome": {
+      "event": {
+        "title": "Almost 86 Trillion SHIB: Shiba Inu Eyes Key Support Threshold",
+        "fingerprint": "f33f42e98e77327465e481a4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Pantera Leads $10 Million Fission Funding Round To Solve Tokenized Fund Liquidity Problem",
+    "link": "https://www.newsbtc.com/crypto-news/pantera-leads-10-million-fission-funding-round-to-solve-tokenized-fund/",
+    "summary": "TL;DR: Tokenization infrastructure firm Fission has raised $10 million in a funding round led by Pantera Capital. It wants to make it easier for eligible investors to sell tokenized private-market holdings without waiting for traditional fund redemption periods. The tokenization industry has spent years promising faster transfers of financial assets. Fission now wants to solve a more difficult problem: what happens when an investor wants their money back? The financial technology company announc",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N14.png?fit=750%2C422",
+    "publishedAt": "2026-10-17T22:13:00.000Z",
+    "collectedAt": "2026-10-17T22:51:47.763Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1cf60f7a17adf3a64080dbed",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T22:51:51.104Z",
+    "outcome": {
+      "event": {
+        "title": "Pantera Leads $10 Million Fission Funding Round To Solve Tokenized Fund Liquidity Problem",
+        "fingerprint": "1cf60f7a17adf3a64080dbed"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Strategy Declares Daily STRC Dividends As Saylor Targets $100 Share Price",
+    "link": "https://www.newsbtc.com/bitcoin-news/strategy-declares-daily-strc-dividends-as-saylor-targets-100-share-pri/",
+    "summary": "TL;DR: Strategy has conditionally declared daily STRC preferred-stock dividends for November 2026. The new cadence remains subject to shareholder approval and is intended to make the security more attractive to investors. Strategy is proposing another adjustment to the financing instruments supporting its Bitcoin treasury business, this time seeking approval to pay dividends on its STRC preferred stock every day. In an October 16 filing, the company outlined conditional daily dividend record dat",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N13.png?fit=750%2C422",
+    "publishedAt": "2026-10-17T21:13:00.000Z",
+    "collectedAt": "2026-10-17T22:51:47.763Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f32e56eed513d70615563e19",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T22:51:52.104Z",
+    "outcome": {
+      "event": {
+        "title": "Strategy Declares Daily STRC Dividends As Saylor Targets $100 Share Price",
+        "fingerprint": "f32e56eed513d70615563e19"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Will APT&#8217;s price clear $0.87 after Aptos&#8217;s launch of Block-STM v2 upgrade?",
+    "link": "https://ambcrypto.com/will-apts-price-clear-0-87-after-aptoss-launch-of-block-stm-v2-upgrade/",
+    "summary": "How did a network upgrade spark a short rally for Aptos?",
+    "image": null,
+    "publishedAt": "2026-10-17T02:00:49.000Z",
+    "collectedAt": "2026-10-17T22:51:47.763Z",
+    "corroboratingSources": 1,
+    "fingerprint": "34298d8be12974ae0e89f52c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-17T22:51:53.225Z",
+    "outcome": {
+      "event": {
+        "title": "Will APT&#8217;s price clear $0.87 after Aptos&#8217;s launch of Block-STM v2 upgrade?",
+        "fingerprint": "34298d8be12974ae0e89f52c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
   }
 ]
