@@ -40601,5 +40601,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Deutsche Bank Plans Crypto Custody Launch Within Weeks",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
+    "summary": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/00ca10cb2c3e85831555f0fd7a47a5c85b13e8ad-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-16T15:05:02.000Z",
+    "collectedAt": "2026-10-17T01:00:58.585Z",
+    "corroboratingSources": 3,
+    "fingerprint": "2b56286c8dc910db2a147137",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-17T01:01:00.874Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank Plans Crypto Custody Launch Within Weeks",
+        "fingerprint": "2b56286c8dc910db2a147137"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1053,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Cross River Bank links $2.4B RLUSD to core banking system",
+    "link": "https://cryptoslate.com/cross-river-bank-links-2-4b-rlusd-to-core-banking-system/",
+    "summary": "The bank says fintechs can access dollar and RLUSD payments through one API, with availability limited to some US states.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/rlusd-dollar-paper-boats.webp",
+    "publishedAt": "2026-10-16T22:30:17.000Z",
+    "collectedAt": "2026-10-17T01:00:58.585Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4b41ff1491fa94c4b5f1f195",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-17T01:01:02.068Z",
+    "outcome": {
+      "event": {
+        "title": "Cross River Bank links $2.4B RLUSD to core banking system",
+        "fingerprint": "4b41ff1491fa94c4b5f1f195"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1054,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XRP price holds $1.30 &#8211; Can bulls overcome whale selling pressure?",
+    "link": "https://ambcrypto.com/xrp-price-holds-1-30-can-bulls-overcome-whale-selling-pressure/",
+    "summary": "Exploring impact of XRP's post-quantum readines, net-positions and ETF inflows on price.",
+    "image": null,
+    "publishedAt": "2026-10-16T13:00:12.000Z",
+    "collectedAt": "2026-10-17T01:00:58.585Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7d51aeade05a7a7259354d86",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-17T01:01:03.813Z",
+    "outcome": {
+      "event": {
+        "title": "XRP price holds $1.30 &#8211; Can bulls overcome whale selling pressure?",
+        "fingerprint": "7d51aeade05a7a7259354d86"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1055,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
+    "link": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
+    "summary": "The expanded partnership builds on Marqeta’s work powering Coinbase’s U.S. debit card offering in 2020.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/img-banner-card-1-1.png",
+    "publishedAt": "2026-10-16T17:21:29.000Z",
+    "collectedAt": "2026-10-17T01:00:58.585Z",
+    "corroboratingSources": 1,
+    "fingerprint": "de70e6e47cb3209d3d6f143a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T01:01:04.992Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
+        "fingerprint": "de70e6e47cb3209d3d6f143a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1056,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+    "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg",
+    "publishedAt": "2026-10-16T17:21:45.000Z",
+    "collectedAt": "2026-10-17T01:00:58.585Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0f6aaaf4bcfe00d64fe2861a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T01:01:06.118Z",
+    "outcome": {
+      "event": {
+        "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+        "fingerprint": "0f6aaaf4bcfe00d64fe2861a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1057,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
