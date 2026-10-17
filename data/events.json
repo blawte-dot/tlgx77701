@@ -40806,5 +40806,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Cardano shifts $26M to USDCx as bridge controls freeze payouts",
+    "link": "https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts/",
+    "summary": "Converted Intersect-administered budgets reduce ADA exposure, while milestone release and stablecoin cash-out conditions still govern access to usable money.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-stablecoin-development-funding-standard.jpg",
+    "publishedAt": "2026-10-17T05:00:24.000Z",
+    "collectedAt": "2026-10-17T06:31:00.339Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2c427ce635efb321ae0a3db3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T06:31:02.888Z",
+    "outcome": {
+      "event": {
+        "title": "Cardano shifts $26M to USDCx as bridge controls freeze payouts",
+        "fingerprint": "2c427ce635efb321ae0a3db3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1058,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Dacity Coin Spikes on GTA VI Trailer, Trading Against Tokenized Take-Two Stock",
+    "link": "https://cryptopotato.com/dacity-coin-spikes-on-gta-vi-trailer-trading-against-tokenized-take-two-stock/",
+    "summary": "Dacity Coin trades against TTWO, a tokenized Take-Two Interactive share issued by Backpack Securities, through a Pump.fun feature launched in September.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/08/GTA_VI.webp",
+    "publishedAt": "2026-10-16T18:18:09.000Z",
+    "collectedAt": "2026-10-17T06:31:00.339Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0dcc2c42c8ea552908ce1dee",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T06:31:04.262Z",
+    "outcome": {
+      "event": {
+        "title": "Dacity Coin Spikes on GTA VI Trailer, Trading Against Tokenized Take-Two Stock",
+        "fingerprint": "0dcc2c42c8ea552908ce1dee"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1059,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "OpenAI Agent Involved in Crypto Security Incident",
+    "link": "https://u.today/openai-agent-involved-in-crypto-security-incident",
+    "summary": "An internal OpenAI research agent accessed a cryptocurrency wallet without authorization after running out of funds to complete a smart contract deployment on Ethereum's Sepolia testnet.",
+    "image": null,
+    "publishedAt": "2026-10-16T07:16:17.000Z",
+    "collectedAt": "2026-10-17T06:31:00.339Z",
+    "corroboratingSources": 1,
+    "fingerprint": "523685f30cbe12ed338596ba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T06:31:06.220Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI Agent Involved in Crypto Security Incident",
+        "fingerprint": "523685f30cbe12ed338596ba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1060,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Plasma partners with Stripe as XPL surges by 10% — Can the rally continue?",
+    "link": "https://ambcrypto.com/plasma-partners-with-stripe-as-xpl-surges-by-10-can-the-rally-continue/",
+    "summary": "Plasma's Stripe partnership had quite the impact on the market.",
+    "image": null,
+    "publishedAt": "2026-10-16T15:00:54.000Z",
+    "collectedAt": "2026-10-17T06:31:00.339Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e65785a3129e6ca894428786",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T06:31:07.433Z",
+    "outcome": {
+      "event": {
+        "title": "Plasma partners with Stripe as XPL surges by 10% — Can the rally continue?",
+        "fingerprint": "e65785a3129e6ca894428786"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1061,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
+    "link": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
+    "summary": "The protocol removed deposit notifications after another critical bug report and says all affected users were made whole.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/878610edcdebb796c8071aaf2cecd237b2d8a729-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-16T16:28:04.000Z",
+    "collectedAt": "2026-10-17T06:31:00.339Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c0c258e16afed28bd3d294b4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-17T06:31:08.380Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
+        "fingerprint": "c0c258e16afed28bd3d294b4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1062,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
