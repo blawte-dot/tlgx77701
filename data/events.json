@@ -42236,5 +42236,87 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Vitalik Buterin&#8217;s ‘Paranoid Mode’ puts Ethereum’s AI security push under institutional lens",
+    "link": "https://ambcrypto.com/vitalik-buterins-paranoid-mode-puts-ethereums-ai-security-push-under-institutional-lens/",
+    "summary": "Ethereum’s AI push could strengthen blockchain security and expand institutional use cases.",
+    "image": null,
+    "publishedAt": "2026-10-18T01:00:49.000Z",
+    "collectedAt": "2026-10-18T05:23:38.150Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d165f34b7e98f8cdbc33567d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-18T05:23:41.294Z",
+    "outcome": {
+      "event": {
+        "title": "Vitalik Buterin&#8217;s ‘Paranoid Mode’ puts Ethereum’s AI security push under institutional lens",
+        "fingerprint": "d165f34b7e98f8cdbc33567d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1088,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "GMGN Launches a 10-Day Onchain Trading Championship With a Custom Aston Martin on the Line",
+    "link": "https://ambcrypto.com/gmgn-launches-a-10-day-onchain-trading-championship-with-a-custom-aston-martin-on-the-line/",
+    "summary": "Crypto traders have no shortage of opinions about who is actually good. The GMGN Global Championship is designed to settle it in public. GMGN, the multi-chain trading terminal built for meme coin and on-chain traders, has opened sign-ups for its first global trading competition. For 10 days, until October 26, competitors trade with real fundsContinue reading \"GMGN Launches a 10-Day Onchain Trading Championship With a Custom Aston Martin on the Line\"",
+    "image": null,
+    "publishedAt": "2026-10-17T14:00:15.000Z",
+    "collectedAt": "2026-10-18T05:23:38.150Z",
+    "corroboratingSources": 1,
+    "fingerprint": "61df036c6626de624afe31be",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-10-18T05:23:42.374Z",
+    "outcome": {
+      "event": {
+        "title": "GMGN Launches a 10-Day Onchain Trading Championship With a Custom Aston Martin on the Line",
+        "fingerprint": "61df036c6626de624afe31be"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1089,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
