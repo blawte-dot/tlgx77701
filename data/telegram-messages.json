@@ -6988,5 +6988,40 @@
     "hasImage": true,
     "eventFingerprint": "f807102453aff4be4eba3944",
     "timestamp": "2026-10-18T17:47:28.562Z"
+  },
+  {
+    "messageId": 1105,
+    "text": "Who better to hunt hidden hardware backdoors than the man whose exchange survived the industry's most notorious collapse?\n\nFormer Mt. Gox CEO Mark Karpelès has built a new diagnostic tool designed to spot unauthorized spy implants inside hardware wallets—without requiring users to physically crack open the device. \n\nThe budget-friendly scanner aims to restore consumer trust following recent supply-chain security anxieties across the hardware storage sector. \n\n#Ledger",
+    "hasImage": true,
+    "eventFingerprint": "d4ef0dab9924a503145f44b1",
+    "timestamp": "2026-10-18T20:03:09.953Z"
+  },
+  {
+    "messageId": 1106,
+    "text": "Where do illicit digital assets actually go when law enforcement closes in?\n\nMajor platforms including Binance and Coinbase joined a coordinated West African operation that flagged roughly $11 million in suspicious funds for potential freezing. \n\nRegional authorities also reported direct cryptocurrency seizures during the sweep, though the exact fiat value of those specific confiscations remains undisclosed by officials.\n\nPrivate-sector intelligence sharing continues to play a central role in cross-border asset recovery efforts as enforcement agencies target illicit network infrastructure across developing markets.",
+    "hasImage": true,
+    "eventFingerprint": "b5112167703fe2a4781e3af0",
+    "timestamp": "2026-10-18T20:03:11.162Z"
+  },
+  {
+    "messageId": 1107,
+    "text": "Trust in self-custody infrastructure is taking another public hit. \n\nFormer Mt. Gox CEO Mark Karpelès has criticized hardware wallet maker Ledger over what he characterizes as an inadequate response to ongoing security and user-trust concerns. \n\nThe exchange comes as hardware and software providers face mounting scrutiny from users questioning the true resilience of current security models. \n\nIncidents and communications missteps are testing retail confidence across the sector. \n\nSecurity remains an active variable, not a solved problem.",
+    "hasImage": true,
+    "eventFingerprint": "163fed42707363d85ab10fa1",
+    "timestamp": "2026-10-18T20:03:12.386Z"
+  },
+  {
+    "messageId": 1108,
+    "text": "Retirement accounts are still sitting on the sidelines of true self-custody.\n\nFidelity has reached a $500,000 settlement with California regulators over its retail crypto transfer features. \n\nThe agreement mandates clearer disclosures if the firm decides to terminate the feature entirely. \n\nCrucially, however, the settlement leaves existing security restrictions and IRA exclusions fully intact. \n\nTraditional retirement portfolios remain strictly walled off from direct wallet transfers. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "23416e66af737056c1f3b542",
+    "timestamp": "2026-10-18T20:03:13.439Z"
+  },
+  {
+    "messageId": 1109,
+    "text": "One regulatory green light just opened the door for direct crypto earnings derivatives.\n\nThe SEC has approved new Cboe rules permitting cash-settled options tied to Coinbase trading volume and MARA's Bitcoin production metrics. \n\nThe framework includes specific procedures to handle delayed or revised corporate data, marking a novel bridge between equities-style earnings bets and digital asset operations. \n\nRead the full story on CryptoSlate",
+    "hasImage": true,
+    "eventFingerprint": "d54f5343aff320677ae4470a",
+    "timestamp": "2026-10-18T20:03:14.675Z"
   }
 ]
