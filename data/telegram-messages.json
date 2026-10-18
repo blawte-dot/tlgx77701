@@ -7023,5 +7023,26 @@
     "hasImage": true,
     "eventFingerprint": "d54f5343aff320677ae4470a",
     "timestamp": "2026-10-18T20:03:14.675Z"
+  },
+  {
+    "messageId": 1110,
+    "text": "How did a brutal three-quarter losing streak suddenly flip into a 39% Q3 gain? \n\nMarkets found their footing over the last three months, led by a massive August recovery that made up over half of the total market-cap rebound. Treasury policy shifts and steady Bitcoin ETF inflows provided the underlying fuel, turning the tide after months of relentless downside.\n\nWere these Q3 catalysts the true floor for the cycle, or just a temporary relief rally before macro pressure returns? Drop your read below.\n\n#Crypto",
+    "hasImage": true,
+    "eventFingerprint": "422c4fc685fa4442a3204ac7",
+    "timestamp": "2026-10-18T22:44:10.578Z"
+  },
+  {
+    "messageId": 1111,
+    "text": "Cryptographic forensics just took an unexpected turn into intelligence agency history.\n\nAnthropic researchers used Claude to reconstruct the public seed behind the P-256 curve—the cryptographic foundation securing passkeys and large parts of Ethereum infrastructure. \n\nThe breakthrough provides crucial provenance evidence for a standard long tied to the NSA. \n\nYet fundamental questions remain entirely unanswered. The exact selection criteria for the curve parameters and the origins of its base point still lack a verifiable paper trail. \n\nRead the full story on CryptoSlate.",
+    "hasImage": true,
+    "eventFingerprint": "05d41644bf0cbb0def1eb6eb",
+    "timestamp": "2026-10-18T22:44:11.800Z"
+  },
+  {
+    "messageId": 1112,
+    "text": "Real-world prediction markets are pitching themselves as the ultimate polling alternative, yet the vast majority of Americans still refuse to touch election betting. \n\nCan a financialized instrument ever capture mainstream public sentiment accurately when most people find the concept unappealing to begin with? \n\nDrop your thoughts below.",
+    "hasImage": true,
+    "eventFingerprint": "175644597a99f24e46e40904",
+    "timestamp": "2026-10-18T22:44:12.698Z"
   }
 ]

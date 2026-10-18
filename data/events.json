@@ -43138,5 +43138,208 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Crypto Ends Three-Quarter Losing Streak With 39% Q3 Gain: Report",
+    "link": "https://cryptopotato.com/crypto-ends-three-quarter-losing-streak-with-39-q3-gain-report/",
+    "summary": "August accounted for more than half of the quarter's market-cap recovery, following a US Treasury announcement and continued BTC ETF inflows.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/09/Growth.jpg",
+    "publishedAt": "2026-10-18T22:17:29.000Z",
+    "collectedAt": "2026-10-18T22:44:08.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "422c4fc685fa4442a3204ac7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-18T22:44:10.595Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Ends Three-Quarter Losing Streak With 39% Q3 Gain: Report",
+        "fingerprint": "422c4fc685fa4442a3204ac7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1110,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Claude unpicks an NSA mystery behind Ethereum passkey security",
+    "link": "https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/",
+    "summary": "Anthropic’s timestamp recipe reconstructs P-256’s public seed, adding provenance evidence while leaving selection criteria and base-point origins unexplained.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-cryptography-timeline.webp",
+    "publishedAt": "2026-10-18T14:00:41.000Z",
+    "collectedAt": "2026-10-18T22:44:08.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "05d41644bf0cbb0def1eb6eb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-18T22:44:11.815Z",
+    "outcome": {
+      "event": {
+        "title": "Claude unpicks an NSA mystery behind Ethereum passkey security",
+        "fingerprint": "05d41644bf0cbb0def1eb6eb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1111,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Prediction markets have a major problem as most Americans reject betting on elections",
+    "link": "https://cryptoslate.com/prediction-markets-have-a-major-problem-as-most-americans-reject-betting-on-elections/",
+    "summary": "Prediction markets want you to see them (and use them) as one of the best possible instruments for finding out what’s happening in the world. Open any election market, and you’re immediately given a probability that shifts in real time as people trade. It’s a single number, easy to check in a few seconds, that…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/americans-oppose-election-betting.webp",
+    "publishedAt": "2026-10-18T12:00:10.000Z",
+    "collectedAt": "2026-10-18T22:44:08.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "175644597a99f24e46e40904",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-18T22:44:12.713Z",
+    "outcome": {
+      "event": {
+        "title": "Prediction markets have a major problem as most Americans reject betting on elections",
+        "fingerprint": "175644597a99f24e46e40904"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1112,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin&#8217;s Quantum Transition Won&#8217;t Stop at Bitcoin",
+    "link": "https://www.newsbtc.com/news/bitcoins-quantum-transition-wont-stop-at-bitcoin/",
+    "summary": "HONG KONG, October 18, 2026 – As quantum computing advances, the challenge extends beyond Bitcoin&#8217;s cryptography to the financial infrastructure built around it. Quantum computing is emerging as one of Bitcoin&#8217;s long-term security challenges. A sufficiently powerful quantum computer could theoretically compromise the digital signatures protecting Bitcoin transactions, potentially exposing funds associated with vulnerable public keys. While no publicly demonstrated quantum computer is",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/490d11656c834fbf897d787499ea3bdd.jpg?fit=750%2C422",
+    "publishedAt": "2026-10-18T16:35:10.000Z",
+    "collectedAt": "2026-10-18T22:44:08.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2e1089ad10c8c89ae24ffc18",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-18T22:44:13.685Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin&#8217;s Quantum Transition Won&#8217;t Stop at Bitcoin",
+        "fingerprint": "2e1089ad10c8c89ae24ffc18"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin ETFs vs Ethereum ETFs: Which Bled More Last Week?",
+    "link": "https://cryptopotato.com/bitcoin-etfs-vs-ethereum-etfs-which-bled-more-last-week/",
+    "summary": "The winner was quite clear.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Ethereum_ETF.jpg",
+    "publishedAt": "2026-10-18T13:58:58.000Z",
+    "collectedAt": "2026-10-18T22:44:08.119Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1eb2f9563622c66f7a4579e6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-18T22:44:14.514Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs vs Ethereum ETFs: Which Bled More Last Week?",
+        "fingerprint": "1eb2f9563622c66f7a4579e6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
   }
 ]
