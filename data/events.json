@@ -42031,5 +42031,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Strive Bitcoin Holdings Reach 35,595 BTC As Wall Street Raises Price Target 27%",
+    "link": "https://www.newsbtc.com/bitcoin-news/strive-bitcoin-holdings-reach-35-595-btc-as-wall-street-raises-price-t/",
+    "summary": "TL;DR: TD Cowen reportedly raised its Strive share-price target from $44 to $56 after the Bitcoin treasury company expanded its holdings to 35,595 BTC. Strive is also seeking financing through a substantial preferred-share offering. Bitcoin treasury company Strive is attracting fresh attention from Wall Street after a rapid buying programme took its reported holdings to 35,595 BTC. TD Cowen analysts increased their share-price target on Strive from $44 to $56 in an October 16 research update, po",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N15.png?fit=750%2C422",
+    "publishedAt": "2026-10-17T23:13:00.000Z",
+    "collectedAt": "2026-10-18T00:36:59.699Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d785e85a1f437f52ca3bf31d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-10-18T00:37:01.725Z",
+    "outcome": {
+      "event": {
+        "title": "Strive Bitcoin Holdings Reach 35,595 BTC As Wall Street Raises Price Target 27%",
+        "fingerprint": "d785e85a1f437f52ca3bf31d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1083,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Arbitrum Courts European Investors Managing €800 Billion With New Revenue Pitch",
+    "link": "https://www.newsbtc.com/altcoin-news/arbitrum-courts-european-investors-managing-800-billion-with-new-reven/",
+    "summary": "TL;DR: Arbitrum representatives have presented the network&#8217;s infrastructure and revenue model to European financial institutions managing substantial assets. The meetings should not be confused with confirmed investment commitments to ARB. Arbitrum is increasingly pitching itself as a blockchain infrastructure business rather than simply another cryptocurrency ecosystem. During institutional meetings reported on October 16, representatives discussed the network&#8217;s commercial potential",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N08.png?fit=750%2C422",
+    "publishedAt": "2026-10-17T16:13:00.000Z",
+    "collectedAt": "2026-10-18T00:36:59.699Z",
+    "corroboratingSources": 1,
+    "fingerprint": "946195bc1f885f708590952b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-10-18T00:37:02.872Z",
+    "outcome": {
+      "event": {
+        "title": "Arbitrum Courts European Investors Managing €800 Billion With New Revenue Pitch",
+        "fingerprint": "946195bc1f885f708590952b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1084,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Analysis: Will BTC Lose the $80K Support Next Week?",
+    "link": "https://cryptopotato.com/bitcoin-price-analysis-will-btc-lose-the-80k-support-next-week/",
+    "summary": "Bitcoin is hovering near $81.5K as repeated tests of nearby demand keep buyers under pressure. The broader ascending structure remains intact, but fading rebounds suggest that a stronger response is needed to prevent a deeper correction. Bitcoin Price Analysis: The Daily Chart On the daily timeframe, BTC has continued to retreat following its rejection from [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/BTC-D-1-2.jpg",
+    "publishedAt": "2026-10-17T16:06:44.000Z",
+    "collectedAt": "2026-10-18T00:36:59.700Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3022d6f8d8a5c0553d7227b8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-10-18T00:37:04.244Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Analysis: Will BTC Lose the $80K Support Next Week?",
+        "fingerprint": "3022d6f8d8a5c0553d7227b8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1085,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "OpenAI Says Research Model Raided Developer Wallet on Ethereum Testnet",
+    "link": "https://cryptopotato.com/openai-says-research-model-raided-developer-wallet-on-ethereum-testnet/",
+    "summary": "OpenAI says its monitoring now runs on all traffic and is built to page security if a model ever reaches the live internet during a task.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/Ethereum_Wallet.jpg",
+    "publishedAt": "2026-10-16T06:16:31.000Z",
+    "collectedAt": "2026-10-18T00:36:59.700Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1737976248ed10d3a0ad0a9d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-10-18T00:37:05.332Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI Says Research Model Raided Developer Wallet on Ethereum Testnet",
+        "fingerprint": "1737976248ed10d3a0ad0a9d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1086,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Zcash price prediction — Assessing the risk of a breakdown below $1,000 for ZEC",
+    "link": "https://ambcrypto.com/zcash-price-prediction-assessing-the-risk-of-a-breakdown-below-1000-for-zec/",
+    "summary": "Zcash's volatility in recent weeks needs to give way to a consolidation phase first.",
+    "image": null,
+    "publishedAt": "2026-10-18T00:00:23.000Z",
+    "collectedAt": "2026-10-18T00:36:59.700Z",
+    "corroboratingSources": 1,
+    "fingerprint": "52072a07997024c58f26794f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 2,
+    "processedAt": "2026-10-18T00:37:07.561Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash price prediction — Assessing the risk of a breakdown below $1,000 for ZEC",
+        "fingerprint": "52072a07997024c58f26794f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1087,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
