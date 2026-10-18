@@ -42728,5 +42728,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+    "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+    "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+    "publishedAt": "2026-10-18T15:01:04.000Z",
+    "collectedAt": "2026-10-18T17:47:20.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "90fbbe05d2d2cd4324761b12",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-18T17:47:23.082Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+        "fingerprint": "90fbbe05d2d2cd4324761b12"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1100,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Fidelity Sees A Stronger Solana Network, With Concentration Risks Still In View",
+    "link": "https://www.newsbtc.com/crypto-news/fidelity-solana-resilience-research-concentration-risks/",
+    "summary": "TL;DR: Fidelity&#8217;s technology research team says Solana has operated for more than two years without a major mainnet outage, while maintaining roughly 99.7% vote success. It also warns that validator and infrastructure concentration remain important concerns. Solana&#8217;s reputation was once shaped by how often the network stopped. A new assessment from Fidelity&#8217;s Center for Applied Technology shows how much that conversation has changed, without claiming the engineering risks have ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/b424d8fa68ea4a5eb52d5f60ad108492.png.jpeg?fit=750%2C422",
+    "publishedAt": "2026-10-18T17:00:00.000Z",
+    "collectedAt": "2026-10-18T17:47:20.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "19d2c8c2cd4575054a2d72d2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-18T17:47:24.134Z",
+    "outcome": {
+      "event": {
+        "title": "Fidelity Sees A Stronger Solana Network, With Concentration Risks Still In View",
+        "fingerprint": "19d2c8c2cd4575054a2d72d2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1101,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Spot Ripple (XRP) ETFs Reach the End of an Era, Solana (SOL) Funds Can&#8217;t Catch a Break",
+    "link": "https://cryptopotato.com/spot-ripple-xrp-etfs-reach-the-end-of-an-era-solana-sol-funds-cant-catch-a-break/",
+    "summary": "The SOL ETFs have seen a single green day since October started.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/01/Ripple_ETF.jpg",
+    "publishedAt": "2026-10-18T15:36:20.000Z",
+    "collectedAt": "2026-10-18T17:47:20.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "607db409a8409a7bdba33a59",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-18T17:47:25.387Z",
+    "outcome": {
+      "event": {
+        "title": "Spot Ripple (XRP) ETFs Reach the End of an Era, Solana (SOL) Funds Can&#8217;t Catch a Break",
+        "fingerprint": "607db409a8409a7bdba33a59"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1102,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Holders, Beware: Scammers Are Stealing Bank Names",
+    "link": "https://u.today/xrp-holders-beware-scammers-are-stealing-bank-names",
+    "summary": "As Ripple tests RLUSD with banks, fraud networks are spoofing brand names to steal XRP.",
+    "image": null,
+    "publishedAt": "2026-10-18T15:30:00.000Z",
+    "collectedAt": "2026-10-18T17:47:20.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "40761d6b63e5606b1e16a162",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-18T17:47:27.387Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Holders, Beware: Scammers Are Stealing Bank Names",
+        "fingerprint": "40761d6b63e5606b1e16a162"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1103,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin&#8217;s sell pressure eases as whale demand remains uncertain: Can BTC rebound?",
+    "link": "https://ambcrypto.com/bitcoins-sell-pressure-eases-as-whale-demand-remains-uncertain-can-btc-rebound/",
+    "summary": "Bitcoin’s easing sell pressure supports price stabilization, yet mixed whale activity leaves its recovery uncertain.",
+    "image": null,
+    "publishedAt": "2026-10-18T12:00:34.000Z",
+    "collectedAt": "2026-10-18T17:47:20.730Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f807102453aff4be4eba3944",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-18T17:47:28.579Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin&#8217;s sell pressure eases as whale demand remains uncertain: Can BTC rebound?",
+        "fingerprint": "f807102453aff4be4eba3944"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1104,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
