@@ -6918,5 +6918,40 @@
     "hasImage": true,
     "eventFingerprint": "124f0b2f5d1da96cdc73fe73",
     "timestamp": "2026-10-18T10:21:01.070Z"
+  },
+  {
+    "messageId": 1095,
+    "text": "What is the actual value of a smart contract audit when over three-quarters of losses happen outside the scope of the latest review?\n\nNew Q3 data from Hacken shows the ecosystem bled $1.18 billion to exploits. \n\nThe striking part isn't just the sheer scale of the capital lost. It's *how* the protocols failed.\n\nRoughly 77% of third-quarter losses stemmed from three distinct blind spots: compromised third-party suppliers, patches that sat unapplied, or vulnerable systems that were never covered in the most recent security checks. \n\nAn audit is a snapshot in time, not a permanent shield. Markets are learning that hard lesson again as infrastructure complexity outpaces static code review.",
+    "hasImage": true,
+    "eventFingerprint": "ec816aa276ea765953338266",
+    "timestamp": "2026-10-18T14:17:07.013Z"
+  },
+  {
+    "messageId": 1096,
+    "text": "13 weeks of unbroken inflows just came to a quiet halt.\n\nUS spot XRP exchange-traded funds recorded $1.84 million in net weekly withdrawals for the period ending October 16, breaking a positive streak that started back in July.\n\nWhile the reversal marks the first negative week since the products launched their run, it represents a tiny fraction of the roughly $1.8 billion total accumulated over time. \n\nMarket participants view the minor outflows as routine consolidation rather than a systemic shift in institutional demand. \n\n#XRP",
+    "hasImage": true,
+    "eventFingerprint": "04fc83fb7adc0e0e73cac39e",
+    "timestamp": "2026-10-18T14:17:08.141Z"
+  },
+  {
+    "messageId": 1097,
+    "text": "320 million dollars left US spot Ethereum ETFs in just a single week. \n\nThat outflow outpaced Bitcoin products by nearly one hundred million dollars over the same five-day stretch ending October 16, according to data from Farside Investors. \n\nWhat makes this rotation notable isn't just the sheer scale of the redemptions. BlackRock's ETHA fund absorbed virtually all of the Ether withdrawals, pointing to a concentrated shift in institutional positioning rather than broad-based retail panic. \n\nWhile Bitcoin outflows are beginning to decelerate, pressure on Ethereum products remains acute. Market participants are closely watching whether this divergence signals a temporary rebalancing or a deeper loss of institutional momentum for altcoin exposure at current levels.",
+    "hasImage": true,
+    "eventFingerprint": "9537d70d68b6a2eac1c27d90",
+    "timestamp": "2026-10-18T14:17:09.533Z"
+  },
+  {
+    "messageId": 1098,
+    "text": "Traditional banking yields are quietly choking stablecoin expansion.\n\nA new Bank for International Settlements working paper reveals that when U.S. commercial banks increase deposit rates, stablecoin growth consistently slows. \n\nCircle's USDC shows the highest sensitivity to these rate shifts among major issuers. \n\nAs traditional finance tightens its grip on yield-seeking capital, dollar-pegged assets face a structural headwind that on-chain liquidity metrics cannot easily bypass.",
+    "hasImage": true,
+    "eventFingerprint": "011692c9d9dd856167b0d0ba",
+    "timestamp": "2026-10-18T14:17:10.657Z"
+  },
+  {
+    "messageId": 1099,
+    "text": "Could Bitcoin really revisit $30,000 if institutional capital suddenly heads for the exits?\n\nCryptoQuant CEO Ki Young Ju argues that baseline support could hold even if the market has to absorb the complete unwind of $58 billion in spot ETF inflows alongside 1.3 million BTC held by corporate treasuries. \n\nThat is an aggressive stress test for the asset's structural demand. \n\nWhere do you draw the line? Does on-chain liquidity really offer a floor that deep after years of macro maturation, or would a coordinated institutional exodus trigger a much steeper repricing? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "23041592707fa447d6b9262d",
+    "timestamp": "2026-10-18T14:17:11.863Z"
   }
 ]
