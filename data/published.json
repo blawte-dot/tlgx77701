@@ -8051,5 +8051,45 @@
     "hasImage": true,
     "eventFingerprint": "175644597a99f24e46e40904",
     "timestamp": "2026-10-18T22:44:12.705Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1113,
+    "text": "The SEC's push to bring traditional equities onto crypto rails is hitting serious friction. \n\nBroadcom and Verizon are among eight major companies objecting to having their shares traded on the upcoming OKX-ICE venue without direct issuer consent. \n\nThat follows Nasdaq separately signaling it will opt out of the framework entirely. \n\nTraditional market infrastructure is drawing a hard line against unauthorized tokenization. The clash highlights a fundamental tension: regulators want faster on-chain integration, but public companies still expect traditional control over where and how their shares circulate. \n\nThe path to mainstream tokenized equities clearly won't be frictionless.",
+    "hasImage": true,
+    "eventFingerprint": "2583d4526ca252e764a36a09",
+    "timestamp": "2026-10-19T00:46:34.485Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1114,
+    "text": "Higher yields across traditional banking are quietly testing the limits of non-interest-bearing digital dollars. \n\nAs risk-free rates make cash more attractive to hold, stablecoin issuers are hunting for organic utility that goes beyond speculative trading desks. \n\nEnter Visa's expanding settlement rails. \n\nBy integrating stablecoin settlement into mainstream merchant networks, real-world payment volume is starting to emerge as a genuine counterweight to yield-chasing capital outflows. \n\nGrowth in this sector no longer depends solely on DeFi liquidity cycles. It hinges on whether transactional adoption can outpace the gravitational pull of high-interest fiat.",
+    "hasImage": true,
+    "eventFingerprint": "6bf62584e266f5b90338071e",
+    "timestamp": "2026-10-19T00:46:36.595Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1115,
+    "text": "\"Uptober\" is failing to deliver as major assets struggle to clear September highs.\n\nBitcoin, Solana, Near Protocol, and Hyperliquid are all testing crucial support levels this weekend, raising fresh questions about whether the broader market can find a floor. \n\nMomentum indicators remain subdued across the board. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "cb7bedfd5a4f1c6fee70a9a9",
+    "timestamp": "2026-10-19T00:46:37.711Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1116,
+    "text": "Rumors rarely build sustainable market floors. \n\nXRP is defending the $1.25 level this session while traders wait for clarity on talk of a massive $655 million acquisition by Evernorth. \n\nThat report remains completely unconfirmed. \n\nBeneath the speculation, the broader technical picture points to caution. On-chain metrics are flashing bearish signals, and regional ETF products continue to record negative net flows. \n\nWhen unverified liquidity tales drive a rally, the exit is often as fast as the entry.",
+    "hasImage": true,
+    "eventFingerprint": "44681abf1be83116c7564050",
+    "timestamp": "2026-10-19T00:46:39.036Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1117,
+    "text": "100 percent of the time, privacy tech ends up doing the heavy lifting for the biggest public blunders.\n\nAttackers draining funds from Ledger and Bitget are reportedly funneling their loot straight into Zcash shielded pools. \n\nMonero has worn that regulatory target on its back for years. Looks like ZEC is stepping up to share the spotlight.",
+    "hasImage": true,
+    "eventFingerprint": "aa9ff6c7a4a89b90009093e2",
+    "timestamp": "2026-10-19T00:46:40.046Z"
   }
 ]

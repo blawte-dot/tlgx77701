@@ -43341,5 +43341,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+    "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+    "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-18T23:28:06.000Z",
+    "collectedAt": "2026-10-19T00:46:31.829Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2583d4526ca252e764a36a09",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-19T00:46:34.493Z",
+    "outcome": {
+      "event": {
+        "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+        "fingerprint": "2583d4526ca252e764a36a09"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1113,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "USDC faces bank-rate pressure – Can Visa’s payments push offset it?",
+    "link": "https://ambcrypto.com/usdc-faces-bank-rate-pressure-can-visas-payments-push-offset-it/",
+    "summary": "Stablecoins face a growth test as bank yields rise, while real-world payment activity creates new opportunities for adoption.",
+    "image": null,
+    "publishedAt": "2026-10-19T00:00:03.000Z",
+    "collectedAt": "2026-10-19T00:46:31.830Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6bf62584e266f5b90338071e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-19T00:46:36.602Z",
+    "outcome": {
+      "event": {
+        "title": "USDC faces bank-rate pressure – Can Visa’s payments push offset it?",
+        "fingerprint": "6bf62584e266f5b90338071e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1114,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Near Protocol (NEAR), Hyperliquid (HYPE), Solana (SOL) and Bitcoin (BTC) Price Analysis for October 19: Can the Market Finally Stabilize?",
+    "link": "https://u.today/price-analysis/near-protocol-near-hyperliquid-hype-solana-sol-and-bitcoin-btc-price-analysis-for-october-19-can",
+    "summary": "The market's response to the Uptober is certainly disappointing with most assets struggling to beat September's highs.",
+    "image": null,
+    "publishedAt": "2026-10-19T00:01:00.000Z",
+    "collectedAt": "2026-10-19T00:46:31.830Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cb7bedfd5a4f1c6fee70a9a9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-19T00:46:37.719Z",
+    "outcome": {
+      "event": {
+        "title": "Near Protocol (NEAR), Hyperliquid (HYPE), Solana (SOL) and Bitcoin (BTC) Price Analysis for October 19: Can the Market Finally Stabilize?",
+        "fingerprint": "cb7bedfd5a4f1c6fee70a9a9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1115,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XRP clings to $1.25 as Evernorth&#8217;s rumored $655M purchase stays unconfirmed",
+    "link": "https://ambcrypto.com/xrp-clings-to-1-25-as-evernorths-rumored-655m-purchase-stays-unconfirmed/",
+    "summary": "XRP faces a critical test as Evernorth rumors fuel rally hopes, but bearish on-chain signals and negative ETF flows raise caution.",
+    "image": null,
+    "publishedAt": "2026-10-18T16:00:58.000Z",
+    "collectedAt": "2026-10-19T00:46:31.830Z",
+    "corroboratingSources": 1,
+    "fingerprint": "44681abf1be83116c7564050",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-19T00:46:39.044Z",
+    "outcome": {
+      "event": {
+        "title": "XRP clings to $1.25 as Evernorth&#8217;s rumored $655M purchase stays unconfirmed",
+        "fingerprint": "44681abf1be83116c7564050"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1116,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Hackers move stolen funds from Ledger, Bitget into Zcash shielded pools: Is ZEC at risk?",
+    "link": "https://ambcrypto.com/hackers-move-stolen-funds-from-ledger-bitget-into-zcash-shielded-pools-is-zec-at-risk/",
+    "summary": "Will Zcash shielded pools attract regulatory scrutiny like Monero?",
+    "image": null,
+    "publishedAt": "2026-10-18T14:00:59.000Z",
+    "collectedAt": "2026-10-19T00:46:31.830Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aa9ff6c7a4a89b90009093e2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-19T00:46:40.055Z",
+    "outcome": {
+      "event": {
+        "title": "Hackers move stolen funds from Ledger, Bitget into Zcash shielded pools: Is ZEC at risk?",
+        "fingerprint": "aa9ff6c7a4a89b90009093e2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1117,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
