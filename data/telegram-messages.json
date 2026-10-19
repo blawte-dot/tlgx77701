@@ -7149,5 +7149,40 @@
     "hasImage": true,
     "eventFingerprint": "755dae6a0c7befb95aab07db",
     "timestamp": "2026-10-19T12:03:11.517Z"
+  },
+  {
+    "messageId": 1128,
+    "text": "Someone just woke up an 11-year-old Bitcoin stash right in the middle of a major legal crossfire. \n\nA wallet dormant since 2013 transferred 411.45 BTC—valued at roughly $33.4 million—earlier this week, data from Galaxy Research shows. \n\nWhat makes the transaction notable is the address itself: it is among the targets named in the ongoing \"Noah Doe\" lawsuit. \n\nWhile the exact motivation behind the sudden movement remains unclear, old-coin dormancy breaks continue to draw intense scrutiny from analysts tracking high-value ledger activity.",
+    "hasImage": true,
+    "eventFingerprint": "c1010984a9a55826c6acaa72",
+    "timestamp": "2026-10-19T18:58:39.422Z"
+  },
+  {
+    "messageId": 1129,
+    "text": "Geopolitics is moving faster than compliance budgets can keep up.\n\nThe Department of Homeland Security has ordered civilian federal agencies to purge DeepSeek and any associated services from government systems, prohibiting future procurement entirely. \n\nWashington is framing the directive around data exposure risks to Beijing. \n\nFor enterprise tech and AI infrastructure providers, the policy shift marks a sharp escalation in the technological decoupling between the US and China. Commercial compliance frameworks will likely follow suit as scrutiny over foreign foundational models intensifies.",
+    "hasImage": true,
+    "eventFingerprint": "0def8e81ba3550d108142495",
+    "timestamp": "2026-10-19T18:58:40.545Z"
+  },
+  {
+    "messageId": 1130,
+    "text": "Traditional finance is tightening its grip on the rails it once tried to ignore.\n\nMastercard just rolled out Stablecoin Security, a dedicated risk-screening tool built to flag fraud and enforce sanctions compliance on digital asset payments. \n\nThe service is kicking off in North America ahead of a wider global rollout slated for 2027. \n\nAs stablecoin volumes continue to challenge legacy settlement rails, institutional infrastructure is evolving from passive observation to active gatekeeping.",
+    "hasImage": true,
+    "eventFingerprint": "c48b24e2d388676a6095dcdb",
+    "timestamp": "2026-10-19T18:58:41.806Z"
+  },
+  {
+    "messageId": 1131,
+    "text": "Wall Street's quiet experiments with public infrastructure just crossed a major threshold. \n\nJPMorgan is deploying its dollar-backed JPM Coin directly onto Ethereum for institutional clients, marking a rare intersection between traditional banking ledgers and public blockchains. \n\nThe token enables near-instantaneous settlement around the clock, removing standard banking hours from wholesale payment flows. \n\nWhile currently restricted to permissioned enterprise use cases, bringing a major Wall Street settlement asset onto a public chain signals a structural shift in how legacy finance views underlying network infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "d27e3bfa746638e67cf8af1a",
+    "timestamp": "2026-10-19T18:58:42.988Z"
+  },
+  {
+    "messageId": 1132,
+    "text": "DeFi’s favorite habit is breaking things on purpose just to see if the patch actually works.\n\nTHORChain is lining up v3.21 for block 28,366,100 around October 23, aiming to finally put the Rujira exploit behind it. \n\nMeanwhile, Rujira borrowers are asking for a 24-hour grace period on liquidations. Because nothing says \"we survived an exploit\" quite like begging the protocol for a day off from getting rekt.",
+    "hasImage": true,
+    "eventFingerprint": "7948aac6ba6b28f2925177d8",
+    "timestamp": "2026-10-19T18:58:45.104Z"
   }
 ]

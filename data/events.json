@@ -43956,5 +43956,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+    "link": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+    "summary": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-whale-decrypt-style-03-gID_7.png",
+    "publishedAt": "2026-10-19T16:46:05.000Z",
+    "collectedAt": "2026-10-19T18:58:37.453Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c1010984a9a55826c6acaa72",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-19T18:58:39.433Z",
+    "outcome": {
+      "event": {
+        "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+        "fingerprint": "c1010984a9a55826c6acaa72"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1128,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
+    "link": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
+    "summary": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_7.jpg",
+    "publishedAt": "2026-10-19T18:16:04.000Z",
+    "collectedAt": "2026-10-19T18:58:37.453Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0def8e81ba3550d108142495",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-19T18:58:40.555Z",
+    "outcome": {
+      "event": {
+        "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
+        "fingerprint": "0def8e81ba3550d108142495"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1129,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
+    "link": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
+    "summary": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-12.28.28.png",
+    "publishedAt": "2026-10-19T16:00:00.000Z",
+    "collectedAt": "2026-10-19T18:58:37.453Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c48b24e2d388676a6095dcdb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-19T18:58:41.820Z",
+    "outcome": {
+      "event": {
+        "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
+        "fingerprint": "c48b24e2d388676a6095dcdb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1130,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+    "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+    "summary": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-10-19T17:31:04.000Z",
+    "collectedAt": "2026-10-19T18:58:37.453Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d27e3bfa746638e67cf8af1a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-19T18:58:42.997Z",
+    "outcome": {
+      "event": {
+        "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+        "fingerprint": "d27e3bfa746638e67cf8af1a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1131,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "THORChain Targets Rujira Restart With v3.21 Exploit Fix",
+    "link": "https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix",
+    "summary": "The upgrade targets block 28,366,100 around Oct. 23, while Rujira plans to request a conditional 24-hour liquidation grace period for borrowers.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/e1178bb2c5bab50d4a0347167b977531445094bc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-19T13:10:58.000Z",
+    "collectedAt": "2026-10-19T18:58:37.453Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7948aac6ba6b28f2925177d8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-19T18:58:45.115Z",
+    "outcome": {
+      "event": {
+        "title": "THORChain Targets Rujira Restart With v3.21 Exploit Fix",
+        "fingerprint": "7948aac6ba6b28f2925177d8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1132,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
