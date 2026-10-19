@@ -7114,5 +7114,40 @@
     "hasImage": true,
     "eventFingerprint": "abf7eb1231605ca11abe4b43",
     "timestamp": "2026-10-19T05:41:27.047Z"
+  },
+  {
+    "messageId": 1123,
+    "text": "Wall Street is quietly crossing a line most traditional finance executives swore they never would. \n\nJPMorgan is moving its JPM Coin deposit token onto public Ethereum infrastructure, bringing a core institutional payments product into the open-chain environment. \n\nTo be clear, this is not a retail-facing stablecoin or an open-access network. Access remains strictly gated to institutional clients, and the tokens continue to represent traditional bank-held fiat deposits rather than a novel asset class. \n\nThe shift lies entirely in the infrastructure. For years, major banks insisted public blockchains were too opaque or legally hazardous for institutional balance sheets. Testing settlement on public rails signals that the risk calculus in traditional banking is beginning to shift.",
+    "hasImage": true,
+    "eventFingerprint": "d666ddb5b49c1028d826a412",
+    "timestamp": "2026-10-19T12:03:05.610Z"
+  },
+  {
+    "messageId": 1124,
+    "text": "Ripple is rolling into its highest-stakes week of the calendar with market participants bracing for major network updates. \n\nHistorically, this specific annual gathering serves as the launchpad for the company's most consequential product deployments and enterprise partnerships. \n\nThis year, attention centers squarely on two fronts: artificial intelligence integrations and infrastructural upgrades for the XRP Ledger. \n\nWhile market expectations are building rapidly across social channels, concrete details regarding upcoming announcements remain under wraps ahead of the official keynote. \n\nObservers are tracking whether these anticipated updates will translate into measurable on-chain activity or remain strictly conceptual.\n\n#Ripple",
+    "hasImage": true,
+    "eventFingerprint": "3876f4ed436e939b215ad222",
+    "timestamp": "2026-10-19T12:03:08.301Z"
+  },
+  {
+    "messageId": 1125,
+    "text": "Traditional finance really looked at the regulatory circus and said, put us down for Gibraltar.\n\nRevolut just locked in a DLT licence for a brand-new entity, clearing the runway for another push into international crypto markets. \n\nBanking apps are building the plumbing while everyone else argues on timeline.",
+    "hasImage": true,
+    "eventFingerprint": "f4147ce8b54d14d5c03d2bf4",
+    "timestamp": "2026-10-19T12:03:09.350Z"
+  },
+  {
+    "messageId": 1126,
+    "text": "Thirteen weeks of uninterrupted capital inflows just vanished for XRP.\n\nUS-listed crypto ETFs shed nearly $576 million across four major categories through the week ending October 16. \n\nData from SoSoValue shows XRP products registering $1.84 million in net outflows, breaking a multi-month accumulation streak that had previously defied broader market cooling. \n\nBitcoin and Ethereum funds saw continued withdrawals alongside the shift.",
+    "hasImage": true,
+    "eventFingerprint": "bc0c1aabd9ca0addbe3784b6",
+    "timestamp": "2026-10-19T12:03:10.343Z"
+  },
+  {
+    "messageId": 1127,
+    "text": "Institutions are treating October like a haunted house.\n\nUS spot Ether funds are sitting on roughly $955 million in net outflows for the month, while Bitcoin products just notched their second consecutive week of withdrawals. \n\nA combined $549 million walked out the door in the latest stretch alone. \n\nSo much for the seasonal script.",
+    "hasImage": true,
+    "eventFingerprint": "755dae6a0c7befb95aab07db",
+    "timestamp": "2026-10-19T12:03:11.517Z"
   }
 ]

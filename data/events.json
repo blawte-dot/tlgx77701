@@ -43751,5 +43751,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "JPMorgan Takes JPM Coin To Ethereum As Banks Test Public-Chain Settlement",
+    "link": "https://www.newsbtc.com/crypto-news/jpmorgan-takes-jpm-coin-to-ethereum-as-banks-test-public-chain-settlement/",
+    "summary": "JPMorgan is taking its bank-issued deposit token onto public Ethereum, an expansion that puts an established Wall Street payments product on infrastructure traditionally associated with crypto-native finance. TL;DR: JPMorgan is expanding access to JPM Coin on Ethereum for institutional users. The token represents bank deposits rather than an independently issued stablecoin, and participation remains restricted. The significance is in who is allowed to move the money, and where. JPM Coin gives el",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Ethereum-from-Getty-Images-26.jpg?fit=612%2C408",
+    "publishedAt": "2026-10-19T12:00:00.000Z",
+    "collectedAt": "2026-10-19T12:03:01.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d666ddb5b49c1028d826a412",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-19T12:03:05.625Z",
+    "outcome": {
+      "event": {
+        "title": "JPMorgan Takes JPM Coin To Ethereum As Banks Test Public-Chain Settlement",
+        "fingerprint": "d666ddb5b49c1028d826a412"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1123,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple's Big Event in 7 Days: All Eyes on AI and XRP Ledger Security",
+    "link": "https://u.today/ripples-big-event-in-7-days-all-eyes-on-ai-and-xrp-ledger-security",
+    "summary": "This has historically been where Ripple makes its most significant product and partnership announcements, with expectations rising for this key event.",
+    "image": null,
+    "publishedAt": "2026-10-19T10:35:44.000Z",
+    "collectedAt": "2026-10-19T12:03:01.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3876f4ed436e939b215ad222",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-19T12:03:08.316Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple's Big Event in 7 Days: All Eyes on AI and XRP Ledger Security",
+        "fingerprint": "3876f4ed436e939b215ad222"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1124,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+    "link": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
+    "summary": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-10.09.04.png",
+    "publishedAt": "2026-10-19T10:42:07.000Z",
+    "collectedAt": "2026-10-19T12:03:01.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f4147ce8b54d14d5c03d2bf4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-19T12:03:09.364Z",
+    "outcome": {
+      "event": {
+        "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+        "fingerprint": "f4147ce8b54d14d5c03d2bf4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1125,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+    "link": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
+    "summary": "US-listed XRP exchange-traded funds ended a 13-week inflow streak as investors withdrew nearly $576 million from four major cryptocurrency ETF categories. Data from SoSoValue showed that XRP funds recorded $1.84 million in net outflows during the week ended Oct. 16, reversing the $11.31 million inflows registered a week earlier. The withdrawal ended the longest active…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/institutional-crypto-capital-pull.webp",
+    "publishedAt": "2026-10-19T10:30:55.000Z",
+    "collectedAt": "2026-10-19T12:03:01.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bc0c1aabd9ca0addbe3784b6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-19T12:03:10.360Z",
+    "outcome": {
+      "event": {
+        "title": "XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+        "fingerprint": "bc0c1aabd9ca0addbe3784b6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1126,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59F6KYERPENFDEPMTNEM29K/big-wave-bitcoin-ethereum-market-fall-1.jpg",
+    "publishedAt": "2026-10-19T07:54:13.000Z",
+    "collectedAt": "2026-10-19T12:03:01.931Z",
+    "corroboratingSources": 1,
+    "fingerprint": "755dae6a0c7befb95aab07db",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-19T12:03:11.536Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+        "fingerprint": "755dae6a0c7befb95aab07db"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1127,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
