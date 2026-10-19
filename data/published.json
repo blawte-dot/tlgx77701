@@ -8211,5 +8211,45 @@
     "hasImage": true,
     "eventFingerprint": "7948aac6ba6b28f2925177d8",
     "timestamp": "2026-10-19T18:58:45.110Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1133,
+    "text": "30 days of public feedback conclude today.\n\nThe SEC’s upcoming deadline to close comments on its proposed digital asset framework marks a critical juncture for institutional compliance. \n\nMarket participants have spent the last month pushing back against ambiguous definitions and reporting burdens that critics argue could push onshore operations overseas. \n\nIndustry groups and major custodians point to unresolved custody mandates as the primary flashpoint. \n\nOnce the comment window officially shuts, agency staff will begin reviewing submissions ahead of any final rulemaking vote. \n\nNo implementation timeline has been confirmed yet, but the resulting amendments will set the legal baseline for US crypto markets moving forward.",
+    "hasImage": true,
+    "eventFingerprint": "7f75e0ee52df372063310588",
+    "timestamp": "2026-10-19T22:51:03.794Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1134,
+    "text": "Crypto exchanges are quietly becoming traditional financial institutions.\n\nPayward, the parent company of Kraken, has agreed to acquire Lithuania-based Saldo Bank. \n\nInstead of pursuing another standard regulatory registration across Europe, the firm is buying an already-licensed bank outright. \n\nThe deal brings Saldo’s existing lending and deposit operations under Payward’s umbrella. \n\nIf approved by regulators, the move could allow Kraken to offer direct cash accounts and integrated banking services across the region. \n\nCompletion is targeted for 2027, pending standard regulatory green lights.",
+    "hasImage": true,
+    "eventFingerprint": "ddfa1dee0530ac0ffc676b60",
+    "timestamp": "2026-10-19T22:51:04.787Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1135,
+    "text": "Security assumptions in crypto are quietly rewriting themselves. \n\nData covering recent quarterly losses shows total hack volumes jumping 55% to $1.2 billion. Yet private key compromises—long viewed as the ultimate vulnerability—actually dropped by 30%. \n\nThe threat vector is shifting. \n\nInstead of simple credential theft, attackers are increasingly targeting smart contract logic and exploiting exchange infrastructure, highlighted by notable incidents at Bitget and Liquid over September. \n\nDefenders are hardening endpoints, but protocol and platform architectures remain an open target.",
+    "hasImage": true,
+    "eventFingerprint": "484f38beac3113312f1f9034",
+    "timestamp": "2026-10-19T22:51:06.049Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1136,
+    "text": "Compliance no longer stops at the fiat gateway.\n\nMastercard is rolling out a new risk-screening tool designed to help traditional banks and payment providers flag suspicious stablecoin transactions prior to settlement. \n\nThe service layers on-chain analytics directly over existing payment rails, allowing institutions to monitor crypto flows with the same scrutiny applied to standard wire transfers. \n\nAs stablecoin adoption scales across institutional finance, traditional rails are moving to intercept compliance risks at the protocol level.",
+    "hasImage": true,
+    "eventFingerprint": "34e17ab8d2bf31aa513c1f03",
+    "timestamp": "2026-10-19T22:51:07.185Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1137,
+    "text": "Why launch a standard spot product when you can engineer the payout curve?\n\nBlackRock is expanding its footprint in digital assets with a filing for a new bitcoin fund tied to its flagship IBIT. \n\nThe proposed vehicle aims to blend downside risk buffers with capped upside participation, signaling demand for structured crypto exposure among institutional allocators. \n\nRegulators have yet to approve the mechanism.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "89a73353d17f758a6c3b76b0",
+    "timestamp": "2026-10-19T22:51:08.722Z"
   }
 ]

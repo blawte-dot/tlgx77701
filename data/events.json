@@ -44161,5 +44161,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Market participants weigh in on SEC’s proposed crypto regulations",
+    "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APHDVZD1BGG3JK7KN10823/man-documents-sec.jpg",
+    "publishedAt": "2026-10-19T19:54:38.000Z",
+    "collectedAt": "2026-10-19T22:51:01.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7f75e0ee52df372063310588",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-19T22:51:03.801Z",
+    "outcome": {
+      "event": {
+        "title": "Market participants weigh in on SEC’s proposed crypto regulations",
+        "fingerprint": "7f75e0ee52df372063310588"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1133,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Kraken Parent Payward Moves Into European Banking With Saldo Deal",
+    "link": "https://www.newsbtc.com/exchanges/kraken-parent-payward-moves-into-european-banking-with-saldo-deal/",
+    "summary": "Payward, the company behind crypto exchange Kraken, has agreed to acquire Lithuania-based Saldo Bank, taking a route into European banking that goes beyond obtaining another exchange registration. TL;DR: The proposed acquisition would give Payward an existing licensed banking operation in Europe. The deal remains subject to regulatory approval and is expected to close in 2027. Saldo provides banking products including loans and deposits. Bringing it into Payward would potentially put cash accoun",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2025/12/Kraken-Review-Is-It-Safe-Legit-Crypto-Exchange.jpg?fit=750%2C500",
+    "publishedAt": "2026-10-19T20:00:00.000Z",
+    "collectedAt": "2026-10-19T22:51:01.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ddfa1dee0530ac0ffc676b60",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-19T22:51:04.795Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken Parent Payward Moves Into European Banking With Saldo Deal",
+        "fingerprint": "ddfa1dee0530ac0ffc676b60"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1134,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Crypto hacks surge 55% to $1.2B, but key theft drops by 30%",
+    "link": "https://cryptoslate.com/crypto-hacks-surge-55-to-1-2b-but-key-theft-drops-by-30/",
+    "summary": "The quarterly shift toward contract losses and September&#039;s Bitget and Liquid failures challenge a fixed hierarchy of security controls.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/hacken-q3-security-failures-standard.jpg",
+    "publishedAt": "2026-10-19T22:30:40.000Z",
+    "collectedAt": "2026-10-19T22:51:01.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "484f38beac3113312f1f9034",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-19T22:51:06.058Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto hacks surge 55% to $1.2B, but key theft drops by 30%",
+        "fingerprint": "484f38beac3113312f1f9034"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1135,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+    "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APDAY3V814QCHNF8PWJB4F/hi-how-mastercard-plans-to-settle-card-payments-with-stablecoins.jpg",
+    "publishedAt": "2026-10-19T19:03:23.000Z",
+    "collectedAt": "2026-10-19T22:51:01.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "34e17ab8d2bf31aa513c1f03",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-19T22:51:07.193Z",
+    "outcome": {
+      "event": {
+        "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+        "fingerprint": "34e17ab8d2bf31aa513c1f03"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1136,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+    "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+    "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Blackrock.jpg",
+    "publishedAt": "2026-10-19T22:00:53.000Z",
+    "collectedAt": "2026-10-19T22:51:01.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "89a73353d17f758a6c3b76b0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-19T22:51:08.734Z",
+    "outcome": {
+      "event": {
+        "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+        "fingerprint": "89a73353d17f758a6c3b76b0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1137,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
