@@ -43546,5 +43546,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+    "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+    "summary": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/20b41cccd25baec46feebbec67358ee865ee71db-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-19T02:00:00.000Z",
+    "collectedAt": "2026-10-19T05:41:19.964Z",
+    "corroboratingSources": 2,
+    "fingerprint": "2eef2675d2b428dc8e6e3f73",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-10-19T05:41:21.776Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+        "fingerprint": "2eef2675d2b428dc8e6e3f73"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1118,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Algorand tops post-quantum race with 2.7M secure transfers- Will it rally ALGO?",
+    "link": "https://ambcrypto.com/algorand-tops-post-quantum-race-with-2-7m-secure-transfers-will-it-rally-algo/",
+    "summary": "Algorand still does not have a full post-quantum security across its entire stack",
+    "image": null,
+    "publishedAt": "2026-10-19T02:00:58.000Z",
+    "collectedAt": "2026-10-19T05:41:19.964Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6ded1af7928ad4a86d937748",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-19T05:41:23.694Z",
+    "outcome": {
+      "event": {
+        "title": "Algorand tops post-quantum race with 2.7M secure transfers- Will it rally ALGO?",
+        "fingerprint": "6ded1af7928ad4a86d937748"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1119,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Wormhole posts further losses &#8211; But THIS can trigger W&#8217;s bullish rebound",
+    "link": "https://ambcrypto.com/wormhole-posts-further-losses-but-this-can-trigger-ws-bullish-rebound/",
+    "summary": "Whales drive price decline, but data suggests long-term accumulation may be the goal.",
+    "image": null,
+    "publishedAt": "2026-10-19T05:00:24.000Z",
+    "collectedAt": "2026-10-19T05:41:19.964Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4231ce33984ce0b7f08d0123",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-19T05:41:24.941Z",
+    "outcome": {
+      "event": {
+        "title": "Wormhole posts further losses &#8211; But THIS can trigger W&#8217;s bullish rebound",
+        "fingerprint": "4231ce33984ce0b7f08d0123"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1120,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+    "summary": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240220_Wordlcoin_News.jpg",
+    "publishedAt": "2026-10-19T01:10:00.000Z",
+    "collectedAt": "2026-10-19T05:41:19.964Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4579b2d46448a5708bc9a09c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-19T05:41:26.018Z",
+    "outcome": {
+      "event": {
+        "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+        "fingerprint": "4579b2d46448a5708bc9a09c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1121,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+    "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
+    "publishedAt": "2026-10-19T05:14:06.000Z",
+    "collectedAt": "2026-10-19T05:41:19.964Z",
+    "corroboratingSources": 1,
+    "fingerprint": "abf7eb1231605ca11abe4b43",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-19T05:41:27.057Z",
+    "outcome": {
+      "event": {
+        "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+        "fingerprint": "abf7eb1231605ca11abe4b43"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1122,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
