@@ -44981,5 +44981,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+    "link": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg",
+    "publishedAt": "2026-10-20T13:10:00.000Z",
+    "collectedAt": "2026-10-20T18:18:47.789Z",
+    "corroboratingSources": 3,
+    "fingerprint": "3393d3c95d1fe469754b5d89",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-20T18:19:06.429Z",
+    "outcome": {
+      "event": {
+        "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+        "fingerprint": "3393d3c95d1fe469754b5d89"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1153,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside",
+    "link": "https://bitcoinmagazine.com/news/blackrock-files-for-new-bitcoin-etf",
+    "summary": "Bitcoin Magazine\n\nBlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside\nA new filing with the SEC shows BlackRock wants to release an exchange-traded fund that offers downside protection but also caps gains. \nThis post BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Is-Down-but-Assets-Role-as-Global-Monetary-Alternative-Remains-Says-BlackRock.jpg",
+    "publishedAt": "2026-10-20T16:26:29.000Z",
+    "collectedAt": "2026-10-20T18:18:47.789Z",
+    "corroboratingSources": 2,
+    "fingerprint": "baeb430d5bdb8dec62d33827",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-20T18:19:20.062Z",
+    "outcome": {
+      "event": {
+        "title": "BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside",
+        "fingerprint": "baeb430d5bdb8dec62d33827"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1154,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+    "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D18A9EH2CRG7XQSQ4MBY0Z/hi-global-standards-intergovernmental-groups-overview-of-different-bodies.png",
+    "publishedAt": "2026-10-20T16:38:13.000Z",
+    "collectedAt": "2026-10-20T18:18:47.789Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8031c26fd04862d9b58b4cf6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-20T18:19:33.465Z",
+    "outcome": {
+      "event": {
+        "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+        "fingerprint": "8031c26fd04862d9b58b4cf6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1155,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "ZENDEX Private EVM ZK-Privacy DEX Testnet Goes Live",
+    "link": "https://cryptopotato.com/zendex-private-evm-zk-privacy-dex-testnet-goes-live/",
+    "summary": "ZENDEX is a decentralized exchange that’s specifically designed for professional capital and private execution. It just announced live testnet trading and a core community-building phase following the completion of a full security audit by Hacken and Dual Defense. The testnet will roll out gradually across multiple phases, which include points incentives. It will be followed [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/zendex_sponsored.jpg",
+    "publishedAt": "2026-10-20T16:47:07.000Z",
+    "collectedAt": "2026-10-20T18:18:47.789Z",
+    "corroboratingSources": 1,
+    "fingerprint": "807bcc121199ce21a929d38a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-20T18:19:45.434Z",
+    "outcome": {
+      "event": {
+        "title": "ZENDEX Private EVM ZK-Privacy DEX Testnet Goes Live",
+        "fingerprint": "807bcc121199ce21a929d38a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1156,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "BlackRock Enters the Buffered Bitcoin ETF Race With New SEC Filing",
+    "link": "https://cryptopotato.com/blackrock-enters-the-buffered-bitcoin-etf-race-with-new-sec-filing/",
+    "summary": "BlackRock's latest ETF filing brings buffered Bitcoin investing into focus.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/04/BlackRock_ETF.jpg",
+    "publishedAt": "2026-10-20T16:15:48.000Z",
+    "collectedAt": "2026-10-20T18:18:47.789Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7cb291ffb909bfacfef1ab25",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-20T18:19:59.836Z",
+    "outcome": {
+      "event": {
+        "title": "BlackRock Enters the Buffered Bitcoin ETF Race With New SEC Filing",
+        "fingerprint": "7cb291ffb909bfacfef1ab25"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1157,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
