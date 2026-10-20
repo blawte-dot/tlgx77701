@@ -8291,5 +8291,45 @@
     "hasImage": true,
     "eventFingerprint": "77f35d975367e30ac98f22bb",
     "timestamp": "2026-10-20T01:32:52.403Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1143,
+    "text": "3 distinct branches of the US government just locked out DeepSeek.\n\nCivilian federal agencies are now barred from using the AI model over ongoing data security concerns, according to Cointelegraph. \n\nThe directive extends restrictions previously placed strictly within defense and national security departments. \n\nWashington's tightening grip on foreign AI infrastructure highlights a growing divide in global tech compliance. As federal networks purge the software, enterprise firms are left weighing their own exposure risks in international markets.",
+    "hasImage": true,
+    "eventFingerprint": "47845999e741427baa499003",
+    "timestamp": "2026-10-20T07:07:32.934Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1144,
+    "text": "Options for managing crypto exposure are shifting.\n\nBlackRock has filed for a new spot Bitcoin ETF designed to cushion downside risk in exchange for capped upside potential, according to reports from U.today.\n\nThe proposed vehicle targets investors seeking institutional infrastructure with built-in volatility buffers. \n\nDetails on the specific options strategy and fee structure remain pending pending regulatory review.",
+    "hasImage": true,
+    "eventFingerprint": "6ed2edadf2e20876271d1bfc",
+    "timestamp": "2026-10-20T07:07:35.256Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1145,
+    "text": "3 major crypto firms have now moved to secure federal banking charters in the US.\n\nRamp is the latest, applying for an OCC trust bank charter specifically to handle digital asset custody without taking deposits or issuing commercial loans. \n\nAs more infrastructure providers seek direct federal oversight, does this institutional pivot strengthen crypto's integration with traditional finance, or does it invite the very regulatory capture the industry originally set out to avoid?\n\n#CryptoRegulation",
+    "hasImage": true,
+    "eventFingerprint": "b8bed458c16c261777db7462",
+    "timestamp": "2026-10-20T07:07:37.789Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1146,
+    "text": "Tokens without transferability rarely survive perp markets. \n\nAster is officially delisting PAPER following a pivotal transferability decision that left the asset stranded. \n\nThe move comes after Paragon already pulled the plug on its own PAPER market, forcefully settling open positions at $0.026296. \n\nWhen utility is locked out, liquidity soon follows. \n\n#Aster",
+    "hasImage": true,
+    "eventFingerprint": "8992be7f71ac5bb048d0fd03",
+    "timestamp": "2026-10-20T07:07:39.049Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1147,
+    "text": "1 regulatory milestone changes the game for Revolut's global footprint.\n\nThe UK fintech giant has secured a crypto license in Gibraltar, positioning itself to roll out digital asset services across new international jurisdictions. \n\nSpecific launch dates and target markets remain under wraps for now, but the authorization signals a clear push to scale compliant crypto operations outside its core European base as global oversight tightens.",
+    "hasImage": true,
+    "eventFingerprint": "ec4fd2145e86799b13a8d5d7",
+    "timestamp": "2026-10-20T07:07:40.311Z"
   }
 ]

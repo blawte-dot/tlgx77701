@@ -44571,5 +44571,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "US bans DeepSeek from civilian agency IT systems",
+    "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The restrictions extend earlier bans within US defense and security agencies, amid concerns that DeepSeek could expose federal information to China.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BPZ4H9R43QB2KJ6EFY4RNJ/hi-can-a-blockchain-take-over-your-job-new.jpg",
+    "publishedAt": "2026-10-20T04:07:58.000Z",
+    "collectedAt": "2026-10-20T07:07:30.382Z",
+    "corroboratingSources": 1,
+    "fingerprint": "47845999e741427baa499003",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-20T07:07:32.941Z",
+    "outcome": {
+      "event": {
+        "title": "US bans DeepSeek from civilian agency IT systems",
+        "fingerprint": "47845999e741427baa499003"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1143,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "BlackRock Makes Surprise Bitcoin ETF Move",
+    "link": "https://u.today/blackrock-makes-surprise-bitcoin-etf-move",
+    "summary": "BlackRock has filed for another Bitcoin ETF, this time introducing a product designed to protect investors against downside risks while limiting potential gains.",
+    "image": null,
+    "publishedAt": "2026-10-20T05:24:11.000Z",
+    "collectedAt": "2026-10-20T07:07:30.382Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6ed2edadf2e20876271d1bfc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-20T07:07:35.267Z",
+    "outcome": {
+      "event": {
+        "title": "BlackRock Makes Surprise Bitcoin ETF Move",
+        "fingerprint": "6ed2edadf2e20876271d1bfc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1144,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
+    "summary": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/7aebc288ea83a64e5805d119f14921ff507f58b8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-20T02:39:23.000Z",
+    "collectedAt": "2026-10-20T07:07:30.382Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b8bed458c16c261777db7462",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-20T07:07:37.796Z",
+    "outcome": {
+      "event": {
+        "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
+        "fingerprint": "b8bed458c16c261777db7462"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1145,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",
+    "link": "https://thedefiant.io/news/tokens/aster-sets-paper-perp-delisting-after-transferability-decision",
+    "summary": "Paragon had already halted its PAPER market and settled open positions at $0.026296 after Papertrade ruled out token transfers for now.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/96488a60a1696d3eded0db9f5a09e0534cde73a2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-20T01:47:17.000Z",
+    "collectedAt": "2026-10-20T07:07:30.382Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8992be7f71ac5bb048d0fd03",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-20T07:07:39.058Z",
+    "outcome": {
+      "event": {
+        "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",
+        "fingerprint": "8992be7f71ac5bb048d0fd03"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1146,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Revolut secures Gibraltar crypto license to support global expansion",
+    "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AJ2EGPXJENGSEWEZ0NCJ4J/hi-taking-a-closer-look-at-gibraltar-and-how-the-jurisdiction-fares-in-comparison-to-other-small-ones.png",
+    "publishedAt": "2026-10-19T17:24:49.000Z",
+    "collectedAt": "2026-10-20T07:07:30.382Z",
+    "corroboratingSources": 2,
+    "fingerprint": "ec4fd2145e86799b13a8d5d7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5.5,
+    "processedAt": "2026-10-20T07:07:40.319Z",
+    "outcome": {
+      "event": {
+        "title": "Revolut secures Gibraltar crypto license to support global expansion",
+        "fingerprint": "ec4fd2145e86799b13a8d5d7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1147,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
