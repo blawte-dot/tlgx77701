@@ -8331,5 +8331,45 @@
     "hasImage": true,
     "eventFingerprint": "ec4fd2145e86799b13a8d5d7",
     "timestamp": "2026-10-20T07:07:40.311Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1148,
+    "text": "Switzerland just crossed a major line for retail crypto access.\n\nFINMA has cleared the country's very first spot bitcoin exchange-traded fund for public retail investors. \n\nUntil now, Swiss exposure was largely limited to exchange-traded products or restricted funds that locked out everyday participants. This approval changes the domestic baseline entirely. \n\nEuropean traditional finance channels are quietly widening. Regulated, direct-holding structures like this lower the friction for institutional-grade capital and retail wealth alike as jurisdictions race to formalize digital asset wrappers.",
+    "hasImage": true,
+    "eventFingerprint": "8f324a405f965dec02e5788d",
+    "timestamp": "2026-10-20T13:17:57.041Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1149,
+    "text": "Hollywood's version of the FTX collapse bears little resemblance to the reality inside the executive suite, according to those who were there.\n\nFormer FTX COO Constance Wang revealed that Netflix’s dramatization of the exchange's final days struck a nerve within the opening moments of the trailer. \n\nSpeaking publicly about the portrayal, Wang noted that the screen depiction of her former colleagues failed to reflect her actual day-to-day experience working alongside Sam Bankman-Fried and Caroline Ellison. \n\nThe documentary treatment continues to shape public perception of the fraud case, even as former executives navigate the fallout from the platform's multi-billion-dollar implosion.",
+    "hasImage": true,
+    "eventFingerprint": "cb092a54851bf218bec0ef00",
+    "timestamp": "2026-10-20T13:17:58.740Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1150,
+    "text": "Just weeks after an unfortunate security breach, expansion plans are moving full speed ahead.\n\nBitget is setting its sights on Thailand, initiating moves to acquire a locally licensed crypto exchange operator in the region. \n\nThe proposed deal would secure immediate entry into a heavily regulated Southeast Asian market, bypassing standard licensing wait times. \n\nWhile the exact financial terms remain undisclosed, the strategic intent is clear: aggressive global footprint expansion despite recent headwinds. \n\nWe are tracking developments as the regulatory approval process unfolds.",
+    "hasImage": true,
+    "eventFingerprint": "0fdc5f0174edb6903b58eede",
+    "timestamp": "2026-10-20T13:18:04.645Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1151,
+    "text": "Traditional finance is finding new ways to approach crypto without ever touching the underlying asset.\n\nBlackRock has filed a preliminary prospectus with the SEC for the iShares Bitcoin Managed Protection ETF. \n\nInstead of holding actual Bitcoin or spot ETP shares, the proposed fund plans to gain exposure strictly through derivatives, options, and fixed-income securities. \n\nThe filing highlights a growing division in how institutional products approach digital assets, prioritizing structured risk management over direct spot ownership. \n\nThe registration statement has not yet taken effect.",
+    "hasImage": true,
+    "eventFingerprint": "d64fa31b1b8c62f86c6e2898",
+    "timestamp": "2026-10-20T13:18:05.783Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1152,
+    "text": "How do you launder a quarter-billion-dollar crypto heist in plain sight?\n\nThe exploiter behind the April Drift protocol attack just moved 20,000 ETH—worth roughly $61 million—into Tornado Cash. \n\nThat brings total funds funneled through the privacy mixer to $101 million. \n\nDespite the transfers, the attacker's primary wallet still holds approximately $194 million in stolen assets. \n\nMandiant investigators previously attributed the $295 million breach to state-sponsored hackers linked to North Korea, pointing to familiar operational patterns in how the stolen capital is being systematically broken down and moved.",
+    "hasImage": true,
+    "eventFingerprint": "1ba90fa08866c537214f5a98",
+    "timestamp": "2026-10-20T13:18:06.971Z"
   }
 ]
