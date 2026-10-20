@@ -45186,5 +45186,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+    "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+    "summary": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News_2.jpg",
+    "publishedAt": "2026-10-20T19:19:54.000Z",
+    "collectedAt": "2026-10-20T22:04:02.421Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2df2c48ae0855100ddb33c04",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-20T22:04:04.495Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+        "fingerprint": "2df2c48ae0855100ddb33c04"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1158,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+    "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DEQWS5T9NWD3NCPZKH095N/hi-how-you-could-save-money-when-reporting-crypto-mica.png",
+    "publishedAt": "2026-10-20T20:38:00.000Z",
+    "collectedAt": "2026-10-20T22:04:02.421Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b613e8409dd9d07fd9918dba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-20T22:04:05.735Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+        "fingerprint": "b613e8409dd9d07fd9918dba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1159,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
+    "link": "https://bitcoinmagazine.com/news/liquid-network-announces-recovery",
+    "summary": "Bitcoin Magazine\n\nLiquid Network Announces Final Stages of Recovery Following Massive Hack \nOne month after hackers pinched 4,000 bitcoins, the Liquid Network is up and running again. \nThis post Liquid Network Announces Final Stages of Recovery Following Massive Hack  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-6.jpg",
+    "publishedAt": "2026-10-20T21:10:58.000Z",
+    "collectedAt": "2026-10-20T22:04:02.421Z",
+    "corroboratingSources": 1,
+    "fingerprint": "afa0b65e337164084f7540c6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-20T22:04:06.920Z",
+    "outcome": {
+      "event": {
+        "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
+        "fingerprint": "afa0b65e337164084f7540c6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1160,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Drift hacker washes $63M through Tornado Cash, leaving recovery claims in limbo",
+    "link": "https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo/",
+    "summary": "The address Etherscan labels “Drift Exploiter 5” made 258 deposits on October 20, nearly emptying this wallet.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-mixer-conveyor-flow.webp",
+    "publishedAt": "2026-10-20T21:40:15.000Z",
+    "collectedAt": "2026-10-20T22:04:02.421Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4925b8f492ed78e968d5b651",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-20T22:04:08.357Z",
+    "outcome": {
+      "event": {
+        "title": "Drift hacker washes $63M through Tornado Cash, leaving recovery claims in limbo",
+        "fingerprint": "4925b8f492ed78e968d5b651"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1161,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "BlackRock Files For Bitcoin ETF With Managed Downside Protection",
+    "link": "https://www.newsbtc.com/bitcoin-news/blackrock-files-for-bitcoin-etf-with-managed-downside-protection/",
+    "summary": "TL;DR: BlackRock has proposed another Bitcoin-linked ETF, this time using options to pursue some protection against losses while giving up part of the potential upside. BlackRock&#8217;s latest Bitcoin fund filing takes a different approach from the familiar buy-and-hold exposure offered by its iShares Bitcoin Trust. Instead of simply following the price of Bitcoin, the proposed iShares Bitcoin Managed Protection ETF would use an options strategy linked to IBIT or similar exposure. The ambition ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_02_bitcoin_etf_flows_featured.png?fit=750%2C422",
+    "publishedAt": "2026-10-20T09:35:45.000Z",
+    "collectedAt": "2026-10-20T22:04:02.421Z",
+    "corroboratingSources": 2,
+    "fingerprint": "4077e0be2f3427ad9763fcba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-20T22:04:10.161Z",
+    "outcome": {
+      "event": {
+        "title": "BlackRock Files For Bitcoin ETF With Managed Downside Protection",
+        "fingerprint": "4077e0be2f3427ad9763fcba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1162,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
