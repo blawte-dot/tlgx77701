@@ -44366,5 +44366,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "German Savings Banks Begin Crypto Trading Rollout Inside Sparkassen App",
+    "link": "https://www.newsbtc.com/crypto-news/german-savings-banks-begin-crypto-trading-rollout-inside-sparkassen-app/",
+    "summary": "Germany&#8217;s Sparkassen savings-bank group is beginning a phased cryptocurrency-trading rollout inside its existing banking app, taking an asset class it once treated cautiously into a familiar retail-finance setting. TL;DR: The first participating Sparkassen banks are offering crypto trading from October 19. The rollout is gradual, with 30 to 40 institutions expected to join each month, and is handled through DekaBank. There is no national switch that turns the service on for every customer ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/sparkassen_finanzgruppe_logo.jpg?fit=750%2C422",
+    "publishedAt": "2026-10-19T19:00:00.000Z",
+    "collectedAt": "2026-10-20T01:32:43.457Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eaefad77740ed90c9b7328a7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-20T01:32:46.279Z",
+    "outcome": {
+      "event": {
+        "title": "German Savings Banks Begin Crypto Trading Rollout Inside Sparkassen App",
+        "fingerprint": "eaefad77740ed90c9b7328a7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1138,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "European Banking Authority Puts USDC Under Significant-Token Supervision",
+    "link": "https://www.newsbtc.com/regulation/european-banking-authority-puts-usdc-under-significant-token-supervision/",
+    "summary": "The European Banking Authority has designated USDC as the EU&#8217;s first significant e-money token under MiCA, setting up an additional layer of supervision for Circle&#8217;s euro-area issuing entity. TL;DR: The classification was announced on October 14. From November 12, the EBA takes direct responsibility for specified prudential areas of USDC supervision, while French regulators retain other oversight functions. Circle Internet Financial Europe SAS issues the token within the bloc. The EB",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_sky_psm_usdc_clean.jpg?fit=750%2C422",
+    "publishedAt": "2026-10-19T16:00:00.000Z",
+    "collectedAt": "2026-10-20T01:32:43.457Z",
+    "corroboratingSources": 1,
+    "fingerprint": "87c4671e1281777070a657d2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-20T01:32:47.651Z",
+    "outcome": {
+      "event": {
+        "title": "European Banking Authority Puts USDC Under Significant-Token Supervision",
+        "fingerprint": "87c4671e1281777070a657d2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1139,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Hyperliquid Demands Five Critical Fixes to SEC Crypto Proposal",
+    "link": "https://u.today/hyperliquid-demands-five-critical-fixes-to-sec-crypto-proposal",
+    "summary": "Hyperliquid claims the SEC’s new crypto framework contains critical flaws that trap Web3 developers, demanding five immediate fixes.",
+    "image": null,
+    "publishedAt": "2026-10-19T19:25:45.000Z",
+    "collectedAt": "2026-10-20T01:32:43.457Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4dc0b83aa37dea0c8eed5c00",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-20T01:32:50.082Z",
+    "outcome": {
+      "event": {
+        "title": "Hyperliquid Demands Five Critical Fixes to SEC Crypto Proposal",
+        "fingerprint": "4dc0b83aa37dea0c8eed5c00"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1140,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Worldcoin goes Wall Street: World ID suite rolls out for banks and financial firms",
+    "link": "https://ambcrypto.com/worldcoin-goes-wall-street-world-id-suite-rolls-out-for-banks-and-financial-firms/",
+    "summary": "Worldcoin rolled out World ID for banks and financial firms as it seeks to protect financial firms against AI threat.",
+    "image": null,
+    "publishedAt": "2026-10-19T16:00:00.000Z",
+    "collectedAt": "2026-10-20T01:32:43.457Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2fba71d5875004999efda1e7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-20T01:32:51.156Z",
+    "outcome": {
+      "event": {
+        "title": "Worldcoin goes Wall Street: World ID suite rolls out for banks and financial firms",
+        "fingerprint": "2fba71d5875004999efda1e7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1141,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Sparkassen Begin Bitcoin Trading Through DekaBank in Banking App",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/sparkassen-begin-bitcoin-trading-through-dekabank-in-banking-app",
+    "summary": "Deka lists five participating savings banks, with more than 230 expressing interest. Trades cost €0.99 plus a spread, and withdrawals are limited to approved custodians.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/63e801b2c4e4c76f3c705437dc0ee8e4e915ab50-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-19T14:21:44.000Z",
+    "collectedAt": "2026-10-20T01:32:43.457Z",
+    "corroboratingSources": 1,
+    "fingerprint": "77f35d975367e30ac98f22bb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-20T01:32:52.410Z",
+    "outcome": {
+      "event": {
+        "title": "Sparkassen Begin Bitcoin Trading Through DekaBank in Banking App",
+        "fingerprint": "77f35d975367e30ac98f22bb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1142,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

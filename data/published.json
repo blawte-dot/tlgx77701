@@ -8251,5 +8251,45 @@
     "hasImage": true,
     "eventFingerprint": "89a73353d17f758a6c3b76b0",
     "timestamp": "2026-10-19T22:51:08.722Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1138,
+    "text": "30 to 40.\n\nThat is the monthly speed at which Germany’s historic Sparkassen network is slowly opening the crypto door to its retail base.\n\nStarting with this month's rollout via DekaBank, the conservative savings-bank group isn't flipping a national switch.\n\nInstead, millions of traditional German savers are about to find Bitcoin sitting right next to their checking accounts—whether they asked for it or not.",
+    "hasImage": true,
+    "eventFingerprint": "eaefad77740ed90c9b7328a7",
+    "timestamp": "2026-10-20T01:32:46.272Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1139,
+    "text": "Europe's regulatory net is tightening around stablecoins.\n\nThe European Banking Authority has classified USDC as the bloc's first \"significant\" e-money token under MiCA rules. \n\nStarting November 12, the EBA assumes direct responsibility for prudential supervision of Circle's euro-area issuing entity. French regulators will continue handling other oversight duties alongside the EU watchdog. \n\nThe move marks a major test for how cross-border digital assets integrate into Europe's emerging compliance framework.\n\n#MiCA",
+    "hasImage": true,
+    "eventFingerprint": "87c4671e1281777070a657d2",
+    "timestamp": "2026-10-20T01:32:47.550Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1140,
+    "text": "The SEC’s latest regulatory framework just hit a major roadblock from within the ecosystem. \n\nHyperliquid’s core contributors have formally outlined five critical flaws in the proposal, arguing the current terms risk pushing developers entirely out of the U.S. market. \n\nWhere do you draw the line between necessary compliance and developer exile? \n\nAre these proposed fixes enough to salvage U.S. crypto innovation, or is the regulatory gap already too wide to bridge? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "4dc0b83aa37dea0c8eed5c00",
+    "timestamp": "2026-10-20T01:32:49.839Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1141,
+    "text": "AI-generated fraud is about to hit legacy finance harder than most institutions realize. \n\nWorldcoin is pushing its World ID verification suite directly into the banking sector, pitching cryptographic proof of personhood as a defense against sophisticated synthetic identity threats. \n\nThe move attempts to bridge consumer biometric tech with enterprise compliance tools, though integration hurdles and ongoing privacy debates remain major headwinds for institutional adoption. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "2fba71d5875004999efda1e7",
+    "timestamp": "2026-10-20T01:32:51.146Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1142,
+    "text": "Your local German Sparkasse banker is about to explain the blockchain to you while stamping your passbook.\n\nDekaBank just rolled out Bitcoin trading across five initial savings banks, with over 230 more raising their hands to join. \n\nThe legacy financial system is officially entering the chat, complete with a €0.99 flat fee, a spread, and custodial guardrails that keep your keys firmly out of your own hands. \n\nAdoption arrives in funny ways. Sometimes it looks like a century-old neighborhood bank deciding it wants a cut of the digital asset trade.",
+    "hasImage": true,
+    "eventFingerprint": "77f35d975367e30ac98f22bb",
+    "timestamp": "2026-10-20T01:32:52.403Z"
   }
 ]
