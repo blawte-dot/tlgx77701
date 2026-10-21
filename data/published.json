@@ -8491,5 +8491,45 @@
     "hasImage": true,
     "eventFingerprint": "795b952e049406c52087c503",
     "timestamp": "2026-10-21T01:15:01.206Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1168,
+    "text": "Central bank digital infrastructure just quietly expanded into tokenized debt.\n\nBank Negara Malaysia has deployed a new distributed ledger platform designed to track the ownership and transfer of tokenized bonds in real time. \n\nThe system connects directly to RENTAS+, the country's national large-value payment infrastructure. That link allows tokenized securities to settle using central bank money rather than commercial bank intermediaries. \n\nIt marks a shift from isolated proof-of-concept trials toward operational integration within an existing national settlement network.",
+    "hasImage": true,
+    "eventFingerprint": "933fff426ec4ba77ee42846e",
+    "timestamp": "2026-10-21T07:00:18.519Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1169,
+    "text": "The regulator that nearly halved XRP four years ago now finds itself aligned with Ripple on a major industry overhaul.\n\nRipple has thrown its support behind the SEC's newly proposed regulatory framework, arguing that the agency must abandon its long-standing approach of regulation by enforcement. \n\nThe stakes are historically high for this asset. When the SEC first filed suit in December 2020, XRP shed roughly 70% of its value in a matter of days. Conversely, a favorable district court ruling in July 2023 immediately injected an estimated $21 billion back into its market capitalization, prompting swift relistings across major US exchanges. \n\nClear rules of the road could finally replace years of courtroom friction.",
+    "hasImage": true,
+    "eventFingerprint": "2b7c82a2933a1d1333bfc8ac",
+    "timestamp": "2026-10-21T07:00:19.825Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1170,
+    "text": "After years of bitter litigation with the agency, Ripple is suddenly throwing its weight behind a new regulatory framework from Washington. ⚖️\n\nThe firm has officially endorsed the SEC’s proposed Regulation Crypto Assets. In filings submitted this week, leadership urged the regulator to pivot away from what it calls a destructive enforcement-first strategy and establish transparent guidelines for the sector instead. \n\nThe move signals a notable shift in tone from one of the industry's most vocal critics of federal oversight. Whether other major players will follow suit as the compliance debate evolves remains to be seen.",
+    "hasImage": true,
+    "eventFingerprint": "1931508a4e75dd3931b43658",
+    "timestamp": "2026-10-21T07:00:25.369Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1171,
+    "text": "When the digital notaries themselves leave the door unlocked, baseline web security starts to look less like a fortress and more like an open lobby. \n\nIndian web authentication firm eMudhra recently confirmed that eight of its secret cryptographic keys were cracked due to weak generation standards. While this incident sits outside the crypto perimeter, it exposes a structural vulnerability that underpins trust across the entire internet.\n\nHow much faith can enterprise infrastructure realistically place in centralized certificate authorities when fundamental key hygiene remains this fragile?",
+    "hasImage": true,
+    "eventFingerprint": "195444ff5c4d9090fadd4540",
+    "timestamp": "2026-10-21T07:00:26.600Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1172,
+    "text": "Swiss banking bureaucrats just blinked first.\n\nFINMA has quietly greenlit the country's first retail Bitcoin ETF, granting a direct exemption from classic diversification rules. \n\nTranslation: Switzerland just made it legal to put all your eggs in one digital basket, provided the vault door has enough locks on it. \n\nCustody safeguards are mandatory and volatility warnings are baked in, but the regulatory barrier has officially cracked. When the jurisdiction famous for cautious wealth management decides the risk of missing out outweighs the risk of the asset, the macro narrative quietly shifts.",
+    "hasImage": true,
+    "eventFingerprint": "035b052b27632b2117c1cc14",
+    "timestamp": "2026-10-21T07:00:27.861Z"
   }
 ]

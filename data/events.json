@@ -45596,5 +45596,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+    "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought-1.png",
+    "publishedAt": "2026-10-21T05:56:29.000Z",
+    "collectedAt": "2026-10-21T07:00:16.171Z",
+    "corroboratingSources": 1,
+    "fingerprint": "933fff426ec4ba77ee42846e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-21T07:00:18.527Z",
+    "outcome": {
+      "event": {
+        "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+        "fingerprint": "933fff426ec4ba77ee42846e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1168,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple Backs SEC&#8217;s Proposed Crypto Regulation, Calls for End to Case-by-Case Enforcement",
+    "link": "https://cryptopotato.com/ripple-backs-secs-proposed-crypto-regulation-calls-for-end-to-case-by-case-enforcement/",
+    "summary": "When the SEC sued in 2020, XRP fell about 70% within days. A 2023 court ruling then added roughly $21 billion, and exchanges relisted it.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/03/Ripple_SEC.jpg",
+    "publishedAt": "2026-10-21T06:07:52.000Z",
+    "collectedAt": "2026-10-21T07:00:16.171Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2b7c82a2933a1d1333bfc8ac",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-21T07:00:19.832Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Backs SEC&#8217;s Proposed Crypto Regulation, Calls for End to Case-by-Case Enforcement",
+        "fingerprint": "2b7c82a2933a1d1333bfc8ac"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1169,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Backs SEC's Crypto Regulation Proposal",
+    "link": "https://u.today/ripple-backs-secs-crypto-regulation-proposal",
+    "summary": "Ripple has officially backed the SEC's proposed Regulation Crypto Assets, urging the regulator to abandon its controversial enforcement-driven approach in favor of clearer rules for the cryptocurrency industry.",
+    "image": null,
+    "publishedAt": "2026-10-21T05:40:05.000Z",
+    "collectedAt": "2026-10-21T07:00:16.171Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1931508a4e75dd3931b43658",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-21T07:00:25.376Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Backs SEC's Crypto Regulation Proposal",
+        "fingerprint": "1931508a4e75dd3931b43658"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1170,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+    "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+    "summary": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. This is a generic, not crypto-specific, risk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0f8965ca6a6c0e14d1a3edfca16d04dcc3b2aefc-1500x1125.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-21T04:11:58.000Z",
+    "collectedAt": "2026-10-21T07:00:16.170Z",
+    "corroboratingSources": 1,
+    "fingerprint": "195444ff5c4d9090fadd4540",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-21T07:00:26.609Z",
+    "outcome": {
+      "event": {
+        "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+        "fingerprint": "195444ff5c4d9090fadd4540"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1171,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "FINMA Approves First Swiss Retail Bitcoin ETF",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/finma-approves-first-swiss-retail-bitcoin-etf",
+    "summary": "The regulator granted an exemption from diversification rules while requiring custody safeguards and clear warnings about volatility and losses.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/3d587a7faad38d1487f36df265450b3a2d378689-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-20T10:09:57.000Z",
+    "collectedAt": "2026-10-21T07:00:16.171Z",
+    "corroboratingSources": 4,
+    "fingerprint": "035b052b27632b2117c1cc14",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-21T07:00:27.870Z",
+    "outcome": {
+      "event": {
+        "title": "FINMA Approves First Swiss Retail Bitcoin ETF",
+        "fingerprint": "035b052b27632b2117c1cc14"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1172,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
