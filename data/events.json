@@ -45801,5 +45801,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Treasury Wins Key SEC Approval to Raise New Capital: Main Crypto News This Morning",
+    "link": "https://u.today/xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning",
+    "summary": "Crypto morning report October 21: SEC clears a $132 million XRP channel, US federal rules ban stablecoin yield, and Solana accelerates.",
+    "image": null,
+    "publishedAt": "2026-10-21T12:59:30.000Z",
+    "collectedAt": "2026-10-21T13:23:49.555Z",
+    "corroboratingSources": 1,
+    "fingerprint": "272c0c4b63f116c59e7a71fa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-21T13:23:52.567Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Treasury Wins Key SEC Approval to Raise New Capital: Main Crypto News This Morning",
+        "fingerprint": "272c0c4b63f116c59e7a71fa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1173,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Securitize Will Mint Stablecoins Directly With Anchorage Digital Bank",
+    "link": "https://thedefiant.io/news/tradfi-and-fintech/securitize-will-mint-stablecoins-directly-with-anchorage-digital-bank",
+    "summary": "The tokenization platform behind funds from BlackRock, Apollo and KKR said it will source the dollars that settle those trades from a federally chartered bank instead of intermediaries.",
+    "image": "https://cdn.thedefiant.io/pasted-1792584350110-png-9348ac31-3346-42f9-8a0f-dad1d7a78d84.png",
+    "publishedAt": "2026-10-21T12:06:07.000Z",
+    "collectedAt": "2026-10-21T13:23:49.555Z",
+    "corroboratingSources": 1,
+    "fingerprint": "12e1c6385e4c8179e341c097",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-21T13:23:53.773Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize Will Mint Stablecoins Directly With Anchorage Digital Bank",
+        "fingerprint": "12e1c6385e4c8179e341c097"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1174,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+    "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+    "summary": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c09fd387e07e818d3495ad2fd02c4cd3d460094-6000x3376.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-21T11:00:00.000Z",
+    "collectedAt": "2026-10-21T13:23:49.555Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9e0962f2d88429d05dd97cb8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-21T13:24:07.379Z",
+    "outcome": {
+      "event": {
+        "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+        "fingerprint": "9e0962f2d88429d05dd97cb8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1175,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ripple spent $150M fighting the SEC lawsuit &#8211; Now it wants clear crypto rules",
+    "link": "https://ambcrypto.com/ripple-spent-150m-fighting-the-sec-lawsuit-now-it-wants-clear-crypto-rules/",
+    "summary": "Ripple’s support highlights growing pressure on the SEC to establish predictable rules for token issuers and crypto fundraising.",
+    "image": null,
+    "publishedAt": "2026-10-21T08:45:32.000Z",
+    "collectedAt": "2026-10-21T13:23:49.555Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4730ddfcb9c7120f4f8b132b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-21T13:24:10.298Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple spent $150M fighting the SEC lawsuit &#8211; Now it wants clear crypto rules",
+        "fingerprint": "4730ddfcb9c7120f4f8b132b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1176,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Germany’s main savings bank network launches Bitcoin trading",
+    "link": "https://cryptoslate.com/germanys-main-savings-bank-network-launches-bitcoin-trading/",
+    "summary": "Deka’s launch brings crypto trading to participating savings banks, with a €0.99 order fee plus a spread and restricted transfers.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/sparkasse-bitcoin-railway.webp",
+    "publishedAt": "2026-10-21T07:10:17.000Z",
+    "collectedAt": "2026-10-21T13:23:49.555Z",
+    "corroboratingSources": 1,
+    "fingerprint": "77478890f8ef21f470b90177",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-21T13:24:24.175Z",
+    "outcome": {
+      "event": {
+        "title": "Germany’s main savings bank network launches Bitcoin trading",
+        "fingerprint": "77478890f8ef21f470b90177"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1177,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
