@@ -45391,5 +45391,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Hyperliquid Policy Center Pushes SEC for 5 Major Changes to Proposed Crypto Rules",
+    "link": "https://cryptopotato.com/hyperliquid-policy-center-pushes-sec-for-5-major-changes-to-proposed-crypto-rules/",
+    "summary": "HPC wants clearer SEC rules for crypto airdrops, secondary trading, token buybacks, safe harbor eligibility, and \"durable\" federal protections for projects.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2020/10/sec_cover.jpg",
+    "publishedAt": "2026-10-20T22:30:26.000Z",
+    "collectedAt": "2026-10-21T01:14:53.470Z",
+    "corroboratingSources": 1,
+    "fingerprint": "de1527519464c68ca1c671c3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-21T01:14:55.771Z",
+    "outcome": {
+      "event": {
+        "title": "Hyperliquid Policy Center Pushes SEC for 5 Major Changes to Proposed Crypto Rules",
+        "fingerprint": "de1527519464c68ca1c671c3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1163,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
+    "link": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "UK banks are facing scrutiny over crypto transfer limits and bans as Stand With Crypto reports thousands of complaints ahead of the country’s 2027 regulatory regime.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CG0KKYMNSHGATRSG6TETW5/smartphone-with-transfer-declined.png",
+    "publishedAt": "2026-10-20T12:13:44.000Z",
+    "collectedAt": "2026-10-21T01:14:53.470Z",
+    "corroboratingSources": 1,
+    "fingerprint": "890e44134aaf9fd9314008cd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T01:14:56.940Z",
+    "outcome": {
+      "event": {
+        "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
+        "fingerprint": "890e44134aaf9fd9314008cd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1164,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Mastercard Introduces Fraud Screening Before Stablecoin Payments Go On-Chain",
+    "link": "https://www.newsbtc.com/crypto-news/mastercard-introduces-fraud-screening-before-stablecoin-payments-go-on-chain/",
+    "summary": "TL;DR: Mastercard has launched Stablecoin Security, a risk-scoring tool designed to help financial institutions examine payments before and during their movement across blockchains. Stablecoin transfers can settle quickly. Investigating a suspicious payment before it happens is a much harder task, particularly when the transaction crosses providers, blockchains and traditional banking systems. Mastercard wants to tackle that problem with Stablecoin Security, introduced at Money20/20 in Las Vegas",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/image_dXfnG2y5_1780506966990_raw.jpg?fit=536%2C536",
+    "publishedAt": "2026-10-20T11:10:00.000Z",
+    "collectedAt": "2026-10-21T01:14:53.470Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f1c0255d9c6b13d2b1a4c054",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T01:14:58.455Z",
+    "outcome": {
+      "event": {
+        "title": "Mastercard Introduces Fraud Screening Before Stablecoin Payments Go On-Chain",
+        "fingerprint": "f1c0255d9c6b13d2b1a4c054"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1165,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple's RLUSD Goes Live on Major Banking Platform in Türkiye",
+    "link": "https://u.today/ripples-rlusd-goes-live-on-major-banking-platform-in-turkiye",
+    "summary": "Ripple's native stablecoin, RLUSD, makes a grand first-ever debut into Türkiye's crypto market following a major partnership between Ripple and Inveo Kripto.",
+    "image": null,
+    "publishedAt": "2026-10-20T16:15:45.000Z",
+    "collectedAt": "2026-10-21T01:14:53.470Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0cb3efef04f494db5dde826e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T01:15:00.133Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple's RLUSD Goes Live on Major Banking Platform in Türkiye",
+        "fingerprint": "0cb3efef04f494db5dde826e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1166,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
+    "summary": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/19f1adbd2c02c1c128e801513762ab9e682cc850-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-20T14:19:56.000Z",
+    "collectedAt": "2026-10-21T01:14:53.470Z",
+    "corroboratingSources": 1,
+    "fingerprint": "795b952e049406c52087c503",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T01:15:01.217Z",
+    "outcome": {
+      "event": {
+        "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
+        "fingerprint": "795b952e049406c52087c503"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1167,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
