@@ -46211,5 +46211,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+    "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FY16RXJTWFR0B5DJ896X4P/hi-from-ban-to-adoption-the-evolution-of-crypto-policy-in-bolivia-2.png",
+    "publishedAt": "2026-10-21T20:26:07.000Z",
+    "collectedAt": "2026-10-21T22:03:57.991Z",
+    "corroboratingSources": 1,
+    "fingerprint": "27f49eef7142b479eaa9ede0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-21T22:04:06.078Z",
+    "outcome": {
+      "event": {
+        "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+        "fingerprint": "27f49eef7142b479eaa9ede0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1183,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading",
+    "link": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+    "summary": "Bitcoin Magazine\n\nThree Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading\nThe Securities and Exchange Commission is taking applications from companies wanting to list tokenized stocks. \nThis post Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/SEC-Green-Lights-Tokenized-Stock-Trading-Despite-Clarity-Act-Fail.jpg",
+    "publishedAt": "2026-10-21T20:55:23.000Z",
+    "collectedAt": "2026-10-21T22:03:57.991Z",
+    "corroboratingSources": 1,
+    "fingerprint": "af059f5160f87026bc548fe6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T22:04:08.703Z",
+    "outcome": {
+      "event": {
+        "title": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading",
+        "fingerprint": "af059f5160f87026bc548fe6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1184,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "SEC&#8217;s $75 million crypto fundraising plan faces bank backlash and threats of legal action",
+    "link": "https://cryptoslate.com/secs-75-million-crypto-fundraising-plan-faces-bank-backlash-and-threats-of-legal-action/",
+    "summary": "The manager wants usable Form TR filings, while Hyperliquid Policy Center challenges mandatory public analysis and seeks earlier protection.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/token-disclosure-balance.webp",
+    "publishedAt": "2026-10-21T20:00:12.000Z",
+    "collectedAt": "2026-10-21T22:03:57.991Z",
+    "corroboratingSources": 1,
+    "fingerprint": "60be22adf7fe4812af2ce1c5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T22:04:12.566Z",
+    "outcome": {
+      "event": {
+        "title": "SEC&#8217;s $75 million crypto fundraising plan faces bank backlash and threats of legal action",
+        "fingerprint": "60be22adf7fe4812af2ce1c5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1185,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Vantage and Rio Bank Use Tokenized Deposits for Loan Payment on Ethereum",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/vantage-and-rio-bank-use-tokenized-deposits-for-loan-payment-on-ethereum",
+    "summary": "Participate says principal and interest reached the receiving bank’s wallet in under three minutes, with loan balances and notices updated alongside the payment.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/d2d5793f2104a154697f02483fec8db76f6927fe-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-21T20:29:37.000Z",
+    "collectedAt": "2026-10-21T22:03:57.992Z",
+    "corroboratingSources": 1,
+    "fingerprint": "750282dad486a52253d2ed3a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T22:04:21.713Z",
+    "outcome": {
+      "event": {
+        "title": "Vantage and Rio Bank Use Tokenized Deposits for Loan Payment on Ethereum",
+        "fingerprint": "750282dad486a52253d2ed3a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1186,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+    "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-10.33.23.png",
+    "publishedAt": "2026-10-21T14:24:39.000Z",
+    "collectedAt": "2026-10-21T22:03:57.991Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e7bc6a4c587b0186da89689f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-21T22:04:26.710Z",
+    "outcome": {
+      "event": {
+        "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+        "fingerprint": "e7bc6a4c587b0186da89689f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1187,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
