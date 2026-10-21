@@ -7499,5 +7499,40 @@
     "hasImage": true,
     "eventFingerprint": "77478890f8ef21f470b90177",
     "timestamp": "2026-10-21T13:24:24.160Z"
+  },
+  {
+    "messageId": 1178,
+    "text": "Traditional banking heavyweights are drawing a hard line against regulators over digital asset yields.\n\nThe American Bankers Association is accusing the Office of the Comptroller of the Currency of effectively bypassing Congress. At the center of the dispute is a final rule regarding third-party stablecoin rewards, an area where the OCC declined to take a definitive stance.\n\nCommercial lenders argue this regulatory silence opens the door for fintechs and crypto platforms to offer bank-like yields without adhering to the same federal deposit insurance rules and reserve requirements. \n\nThe friction highlights a core structural tension: traditional institutions view un-regulated yield products as an existential threat to deposit bases, while regulators struggle to map legacy frameworks onto blockchain-native rails.",
+    "hasImage": true,
+    "eventFingerprint": "b8b139eb39b52aace248e7cf",
+    "timestamp": "2026-10-21T18:21:10.524Z"
+  },
+  {
+    "messageId": 1179,
+    "text": "Two security patches in five days on the Lightning Network point to a structural reality: scaling layers remain experimental software under heavy stress.\n\nACINQ released version 0.14.5 of the Eclair client to patch vulnerabilities exploitable by malicious peers. \n\nCrucially, the update allows operators to secure their nodes without forcing the closure of active payment channels—avoiding costly on-chain transaction fees for users. \n\nWhile Lightning continues to grow its routing capacity, these rapid fixes underline the engineering tradeoffs between instant global settlement and immature network topology.",
+    "hasImage": true,
+    "eventFingerprint": "2ff0e15ff5d08600580dd6f1",
+    "timestamp": "2026-10-21T18:21:11.728Z"
+  },
+  {
+    "messageId": 1180,
+    "text": "Is Washington finally laying the proper groundwork for stablecoins, or just adding another layer of bureaucratic red tape?\n\nTreasury Secretary Bessent is comparing the new GENIUS Act and OCC reserve rules to Lincoln-era banking reform, calling it a watershed moment for American finance. \n\nWith strict rules on reserves and redemptions now finalized, how do you see this impacting the broader stablecoin market? Are these guardrails going to legitimize the sector, or push innovation offshore? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "f5ffafc9394f791df17b1f9d",
+    "timestamp": "2026-10-21T18:21:13.336Z"
+  },
+  {
+    "messageId": 1181,
+    "text": "Two critical remote code execution vulnerabilities in PHP have triggered an emergency patching scramble across the web infrastructure powering parts of the crypto industry.\n\nSecurity teams are urging node operators and project leads to audit overlooked servers immediately following yesterday's disclosures for CVE-2026-109618 and CVE-2026-109619. \n\nBoth flaws carry a maximum CVSS v4.0 severity score and allow unauthenticated attackers to execute arbitrary code. \n\nCheck your server versions and apply the official patches now.",
+    "hasImage": true,
+    "eventFingerprint": "8cc997a23c5f12ce90cad5aa",
+    "timestamp": "2026-10-21T18:21:14.510Z"
+  },
+  {
+    "messageId": 1182,
+    "text": "Federal regulators are officially calendar-planning for the stablecoin era. \n\nThe OCC just dropped its final GENIUS Act rulebook, mapping out federal oversight for dollar-backed issuers and crypto custody operations ahead of a January 18, 2027 start date. \n\nBureaucracy moves at its own pace, but the deadline is now locked in.",
+    "hasImage": true,
+    "eventFingerprint": "3e6a61db3a285fe649cb84bf",
+    "timestamp": "2026-10-21T18:21:15.424Z"
   }
 ]

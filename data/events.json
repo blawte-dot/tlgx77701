@@ -46006,5 +46006,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+    "link": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
+    "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/congress-outside-alt-e1576830696475.jpg",
+    "publishedAt": "2026-10-21T17:59:36.000Z",
+    "collectedAt": "2026-10-21T18:21:07.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b8b139eb39b52aace248e7cf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-21T18:21:10.544Z",
+    "outcome": {
+      "event": {
+        "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+        "fingerprint": "b8b139eb39b52aace248e7cf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1178,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
+    "link": "https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/",
+    "summary": "Version 0.14.5 addresses issues exploitable by malicious nodes and lets Eclair operators upgrade without closing existing channels.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/eclair-network-protection-upgrade.webp",
+    "publishedAt": "2026-10-21T16:30:34.000Z",
+    "collectedAt": "2026-10-21T18:21:07.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2ff0e15ff5d08600580dd6f1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-21T18:21:11.747Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
+        "fingerprint": "2ff0e15ff5d08600580dd6f1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1179,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+    "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36AE384GN77A4QEPA6NWS0X/bessent.jpg",
+    "publishedAt": "2026-10-21T17:10:54.000Z",
+    "collectedAt": "2026-10-21T18:21:07.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f5ffafc9394f791df17b1f9d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T18:21:13.357Z",
+    "outcome": {
+      "event": {
+        "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+        "fingerprint": "f5ffafc9394f791df17b1f9d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1180,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Crypto security chiefs sound alarm as PHP emergency patch scrambles devs worldwide",
+    "link": "https://cryptoslate.com/crypto-security-chiefs-sound-alarm-as-php-emergency-patch-scrambles-devs-worldwide/",
+    "summary": "PHP released fixes on Oct. 21 for two critical vulnerabilities that can let unauthenticated attackers run code on web servers, as crypto security executives urged operators to patch and check overlooked infrastructure. The PHP team&#039;s security advisory identifies CVE-2026-109618 and CVE-2026-109619, following its Oct. 20 advance warning. Both have a critical CVSS v4.0 severity score…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The C",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-server-vulnerability-threat.webp",
+    "publishedAt": "2026-10-21T17:00:04.000Z",
+    "collectedAt": "2026-10-21T18:21:07.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8cc997a23c5f12ce90cad5aa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T18:21:14.531Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto security chiefs sound alarm as PHP emergency patch scrambles devs worldwide",
+        "fingerprint": "8cc997a23c5f12ce90cad5aa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1181,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "OCC Finalises US Stablecoin Rules Ahead Of January 2027 Start",
+    "link": "https://www.newsbtc.com/crypto-regulation/occ-finalises-us-stablecoin-rules-ahead-of-january-2027-start/",
+    "summary": "TL;DR: The OCC has published its final GENIUS Act rule, setting out how payment stablecoin issuers under its supervision will be regulated from January 18, 2027. America&#8217;s national banking regulator has put considerably more detail around the new federal framework for dollar-backed stablecoins. The Office of the Comptroller of the Currency issued its final rule on Wednesday, covering issuers under its jurisdiction and certain custody activities carried out by regulated institutions. The re",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_sky_psm_usdc_clean.jpg?fit=750%2C422",
+    "publishedAt": "2026-10-21T16:45:00.000Z",
+    "collectedAt": "2026-10-21T18:21:07.796Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e6a61db3a285fe649cb84bf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-21T18:21:15.447Z",
+    "outcome": {
+      "event": {
+        "title": "OCC Finalises US Stablecoin Rules Ahead Of January 2027 Start",
+        "fingerprint": "3e6a61db3a285fe649cb84bf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1182,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
