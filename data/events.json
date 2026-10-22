@@ -46621,5 +46621,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Better Call Saul? Albuquerque Bans Bitcoin ATMs",
+    "link": "https://u.today/better-call-saul-albuquerque-bans-bitcoin-atms",
+    "summary": "Albuquerque, the New Mexico city made famous by Breaking Bad and Better Call Saul, has officially banned Bitcoin ATMs in a sweeping crackdown on cryptocurrency fraud.",
+    "image": null,
+    "publishedAt": "2026-10-22T06:25:18.000Z",
+    "collectedAt": "2026-10-22T07:02:21.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5288a82a6faf1737ff92c7f9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-22T07:02:40.584Z",
+    "outcome": {
+      "event": {
+        "title": "Better Call Saul? Albuquerque Bans Bitcoin ATMs",
+        "fingerprint": "5288a82a6faf1737ff92c7f9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1193,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+    "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+    "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0742713d55788f217ee9802b43c2a1cf22f5434-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-22T04:41:59.000Z",
+    "collectedAt": "2026-10-22T07:02:21.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e4ac1dc64b299d41dc62d5b2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T07:02:59.099Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+        "fingerprint": "e4ac1dc64b299d41dc62d5b2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1194,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
+    "link": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
+    "summary": "Cash App requires US residency, while Krak and PayPal support US-to-UK personal payments. Conversion and bank withdrawal terms determine the cost beyond the in-app transfer.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/c38c0aff2794e57275805c86f7351e0e9cdd57e8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-21T19:47:52.000Z",
+    "collectedAt": "2026-10-22T07:02:21.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4b1ba909aa419291b2caa648",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T07:03:01.225Z",
+    "outcome": {
+      "event": {
+        "title": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
+        "fingerprint": "4b1ba909aa419291b2caa648"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1195,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Standard Chartered Signs Deal to Take Full Ownership of Zodia Custody",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-signs-deal-to-take-full-ownership-of-zodia-custody",
+    "summary": "Custody operations will join the bank’s Securities Services business, while software and professional services will move to Zodia Solutions under SC Ventures.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/217a45dfa604a168961bb39e6cf39370cc88f90e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-21T12:13:07.000Z",
+    "collectedAt": "2026-10-22T07:02:21.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4648e1a26997f73b9c7e6a43",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T07:03:07.114Z",
+    "outcome": {
+      "event": {
+        "title": "Standard Chartered Signs Deal to Take Full Ownership of Zodia Custody",
+        "fingerprint": "4648e1a26997f73b9c7e6a43"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1196,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
+    "link": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
+    "summary": "The trade group backed Regulation Crypto Assets in its comment letter and asked the Commission to raise both offering caps, write the Howey guidance into the rule, and let third parties file for tokens already trading.",
+    "image": "https://cdn.thedefiant.io/pasted-1792584066566-png-614e3817-6dd9-4365-a52b-a023b7ac249b.png",
+    "publishedAt": "2026-10-21T12:03:07.000Z",
+    "collectedAt": "2026-10-22T07:02:21.623Z",
+    "corroboratingSources": 1,
+    "fingerprint": "72ce8ea617d473e7e7301dd1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T07:03:08.573Z",
+    "outcome": {
+      "event": {
+        "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
+        "fingerprint": "72ce8ea617d473e7e7301dd1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1197,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
