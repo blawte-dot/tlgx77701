@@ -8803,5 +8803,45 @@
     "hasImage": true,
     "eventFingerprint": "fcf9a11c6d38689208a534c3",
     "timestamp": "2026-10-22T18:15:56.967Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1207,
+    "text": "3 major crypto outlets are pushing the same blockbuster story this morning, but the principals aren't backing it down. \n\nRumors surfaced that Visa was closing in on a $2.5 billion acquisition of digital asset infrastructure firm Fireblocks. \n\nThe reality on the ground looks different. \n\nFireblocks issued a direct denial to media inquiries, calling the acquisition reports \"not true at present time.\" Visa has declined to comment entirely. \n\nFor now, the market is left weighing unconfirmed reports against flat denials from inside the room.",
+    "hasImage": true,
+    "eventFingerprint": "0793f77fbea2d4a577e9860b",
+    "timestamp": "2026-10-22T22:03:18.298Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1208,
+    "text": "2.2 trillion dollars. \n\nThat is the total stablecoin volume settled on TRON in the third quarter alone, according to independent data from Nansen and CoinDesk. \n\nThe network now captures roughly 73% of all stablecoin settlement activity globally. USDT supply on the chain reached record highs through Q3, alongside rising adoption of crypto payment cards. \n\nMeanwhile, U.S. markets saw the debut of the first spot staked TRX exchange-traded fund, opening a new channel for institutional access. \n\nFundamentals are expanding while macro conditions shift. \n\n#TRON",
+    "hasImage": true,
+    "eventFingerprint": "32d11a3a5a9f3b1beb31c196",
+    "timestamp": "2026-10-22T22:03:19.668Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1209,
+    "text": "Regulatory friction catches up to another major player in Europe.\n\nThe Central Bank of Ireland has slapped Coinbase’s local entity with a €3.35 million ($3.6M) penalty following an investigation into historical safeguarding failures. \n\nThe enforcement action centers on an episode from March 2023, when the exchange directed roughly 30 corporate and institutional clients to route funds through an alternative U.S. banking account as Silvergate Bank unraveled. \n\nRegulators found that this workaround violated European operational guidelines designed to protect client assets during market stress. \n\nCoinbase stated the issue has since been resolved and that client funds were never at risk, but the penalty highlights mounting scrutiny over how crypto firms manage counterparty exposure during banking crises.",
+    "hasImage": true,
+    "eventFingerprint": "1a5b4ec50802e89016b55857",
+    "timestamp": "2026-10-22T22:03:21.323Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1210,
+    "text": "Are equities finally dragging crypto down with them, or is this just standard leverage flush? \n\nThe Nasdaq just slid over 2% as the AI trade unwinds, dragging Bitcoin back down to $81,000 alongside a sudden plunge in U.S. interest rates. \n\nIs this macro crosscurrent the start of a broader risk-off cycle, or just a temporary shakeout before the next leg up? \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "b9a9330ca46b15ffc7009938",
+    "timestamp": "2026-10-22T22:03:23.114Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1211,
+    "text": "Wall Street institutional appetite just woke up in a major way.\n\nSpot bitcoin ETFs pulled in $528 million on Wednesday, reversing recent jitters as BlackRock and Fidelity drove a sharp rebound in demand. \n\nAt the exact same time, ether funds finally broke their five-day outflow streak. \n\nTurns out the dip buyers in glass towers have sharper timing than Twitter gives them credit for.",
+    "hasImage": true,
+    "eventFingerprint": "193544b276c901f591d685ff",
+    "timestamp": "2026-10-22T22:03:24.227Z"
   }
 ]
