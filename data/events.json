@@ -47021,5 +47021,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+    "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HP7DQ484K9JYNHR6WQMB12/regulations-thailand-crypto-1.jpg",
+    "publishedAt": "2026-10-22T13:20:57.000Z",
+    "collectedAt": "2026-10-22T18:15:21.899Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bd86f8d7a2936af7873cb76c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-22T18:15:24.433Z",
+    "outcome": {
+      "event": {
+        "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+        "fingerprint": "bd86f8d7a2936af7873cb76c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1202,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s $80,000 floor faces Friday inflation test as ETF inflows lose momentum",
+    "link": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+    "summary": "Bitcoin holds the $80,000 area, where Glassnode places the estimated average acquisition costs of US spot Bitcoin ETFs and publicly traded corporate treasuries, while ETF inflows slowed by 95.6% in a day. Farside Investors recorded $526.7 million in net inflows on Oct. 19 and $23.2 million on Oct. 20, with both sessions positive. A $26…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-friday-inflation-test.webp",
+    "publishedAt": "2026-10-22T08:40:20.000Z",
+    "collectedAt": "2026-10-22T18:15:21.899Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5978c1469db388e9167f7b04",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-22T18:15:25.747Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s $80,000 floor faces Friday inflation test as ETF inflows lose momentum",
+        "fingerprint": "5978c1469db388e9167f7b04"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1203,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+    "link": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+    "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-14.15.53.png",
+    "publishedAt": "2026-10-22T13:27:54.000Z",
+    "collectedAt": "2026-10-22T18:15:21.899Z",
+    "corroboratingSources": 3,
+    "fingerprint": "ed71aa7cb7eb5992ce19c658",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-22T18:15:27.335Z",
+    "outcome": {
+      "event": {
+        "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+        "fingerprint": "ed71aa7cb7eb5992ce19c658"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1204,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Solana Activates Alpenglow As Anza Targets Millisecond Finality",
+    "link": "https://www.newsbtc.com/news/solana/solana-alpenglow-mainnet-finality-october-21/",
+    "summary": "Anza says Alpenglow activated on Solana mainnet-beta on October 21. The consensus change targets roughly 150-millisecond finality; further networking and post-quantum improvements remain planned work.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Solana-from-iStock-8.jpg",
+    "publishedAt": "2026-10-22T16:30:00.000Z",
+    "collectedAt": "2026-10-22T18:15:21.899Z",
+    "corroboratingSources": 1,
+    "fingerprint": "77749681e92070bb873d517a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-22T18:15:39.941Z",
+    "outcome": {
+      "event": {
+        "title": "Solana Activates Alpenglow As Anza Targets Millisecond Finality",
+        "fingerprint": "77749681e92070bb873d517a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1205,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Saudi Government-Owned Bank Reaffirms $2.9 Million Bitcoin Bet",
+    "link": "https://u.today/saudi-government-owned-bank-reaffirms-29-million-bitcoin-bet",
+    "summary": "Saudi Arabia-backed Gulf International Bank (UK) has disclosed a $3 million stake in Michael Saylor's Strategy, giving the bank indirect exposure to Bitcoin through the world's largest corporate holder of the cryptocurrency.",
+    "image": null,
+    "publishedAt": "2026-10-22T17:35:16.000Z",
+    "collectedAt": "2026-10-22T18:15:21.899Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fcf9a11c6d38689208a534c3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-22T18:15:56.977Z",
+    "outcome": {
+      "event": {
+        "title": "Saudi Government-Owned Bank Reaffirms $2.9 Million Bitcoin Bet",
+        "fingerprint": "fcf9a11c6d38689208a534c3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1206,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

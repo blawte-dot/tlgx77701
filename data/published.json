@@ -8763,5 +8763,45 @@
     "hasImage": true,
     "eventFingerprint": "884640eee7509982eb2da13d",
     "timestamp": "2026-10-22T13:28:18.215Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1202,
+    "text": "Spot crypto ETFs are moving closer to reality in Thailand, even if filings remain empty for now.\n\nLocal asset managers have opened preliminary consultations with the Securities and Exchange Commission regarding the products. \n\nDespite growing institutional interest, the regulator has clarified that no formal applications have been submitted yet. \n\nOfficials declined to confirm whether the country's first crypto exchange-traded funds could debut by 2026, noting that the timeline depends entirely on when firms officially move forward with their filings.",
+    "hasImage": true,
+    "eventFingerprint": "bd86f8d7a2936af7873cb76c",
+    "timestamp": "2026-10-22T18:15:24.426Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1203,
+    "text": "Corporate treasuries and spot ETF buyers are now sitting squarely in the red on their aggregate holdings.\n\nBitcoin is defending the $80,000 threshold. On-chain data from Glassnode shows this zone marks the estimated average acquisition cost for US spot ETF funds and publicly listed firms. \n\nDemand is cooling off right alongside the price action. \n\nFarside Investors data shows daily net inflows dropped by 95.6%, falling from $526.7 million on October 19 down to $23.2 million the following session. While both days remained in positive territory, the sudden deceleration highlights a notable shift in institutional appetite.\n\nThe macro calendar now takes center stage. \n\nMarkets await Friday’s inflation print, which could dictate the broader direction for liquidity and risk assets heading into the weekly close.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "5978c1469db388e9167f7b04",
+    "timestamp": "2026-10-22T18:15:25.734Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1204,
+    "text": "A $2.5 billion valuation for Fireblocks is apparently off the table, at least for now.\n\nAxios reported this morning that Visa was in active acquisition talks with the institutional crypto custodian. \n\nFireblocks CEO Michael Shaulov has since pushed back directly on those claims, calling the report inaccurate.\n\nThe rapid spread of the rumor across multiple major outlets underscores how aggressively traditional financial giants are currently positioning around custody infrastructure. \n\nEven without a deal on the table, the intersection of payment networks and institutional-grade digital asset custody remains one of the most closely watched sectors in the market.",
+    "hasImage": true,
+    "eventFingerprint": "ed71aa7cb7eb5992ce19c658",
+    "timestamp": "2026-10-22T18:15:27.207Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1205,
+    "text": "Sub-second finality is moving closer to reality for Solana.\n\nAnza confirmed that the Alpenglow consensus upgrade went live on mainnet-beta, introducing architectural changes aimed at cutting transaction finality down to roughly 150 milliseconds. \n\nThe update marks a key milestone in the network's ongoing performance roadmap. \n\nWhile the immediate focus centers on latency reduction, developers note that further networking refinements and post-quantum cryptographic preparations remain on the horizon. Additional stress-testing under live market conditions will determine how effectively the new parameters perform at scale.",
+    "hasImage": true,
+    "eventFingerprint": "77749681e92070bb873d517a",
+    "timestamp": "2026-10-22T18:15:39.932Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1206,
+    "text": "Sovereign wealth footprints are quietly expanding into the crypto perimeter.\n\nGulf International Bank (UK), backed by the Saudi government, has maintained a reported $2.9 million stake in MicroStrategy. \n\nWhile the direct holding format runs through corporate equities rather than native tokens, the balance sheet exposure remains clear. \n\nState-linked institutions continue testing indirect pathways into Bitcoin as traditional finance bridge structures mature. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "fcf9a11c6d38689208a534c3",
+    "timestamp": "2026-10-22T18:15:56.967Z"
   }
 ]
