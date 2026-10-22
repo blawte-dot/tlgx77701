@@ -46826,5 +46826,200 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP ETFs Hit $1.8 Billion in Cumulative Inflows Since Launch",
+    "link": "https://u.today/xrp-etfs-hit-18-billion-in-cumulative-inflows-since-launch",
+    "summary": "XRP ETFs have reached a key level in their cumulative inflows as the funds continued to witness sustained demand since they launched.",
+    "image": null,
+    "publishedAt": "2026-10-22T13:11:42.000Z",
+    "collectedAt": "2026-10-22T13:24:52.798Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c2b3e7c4a8c478c6ecf31cd4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-22T13:25:15.260Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETFs Hit $1.8 Billion in Cumulative Inflows Since Launch",
+        "fingerprint": "c2b3e7c4a8c478c6ecf31cd4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1198,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Solana&#8217;s Alpenglow upgrade goes live &#8211; Why SOL&#8217;s $100 support matters",
+    "link": "https://ambcrypto.com/solanas-alpenglow-upgrade-goes-live-why-sols-100-support-matters/",
+    "summary": "Solana's Alpenglow upgrade reportedly cuts processing times to 150 milliseconds as SOL recovers from last week's correction with $585,000 in ETF inflows and renewed whale activity.",
+    "image": null,
+    "publishedAt": "2026-10-22T09:30:12.000Z",
+    "collectedAt": "2026-10-22T13:24:52.798Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bbc866a21321dc3ca8b7e578",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-22T13:27:03.693Z",
+    "outcome": {
+      "event": {
+        "title": "Solana&#8217;s Alpenglow upgrade goes live &#8211; Why SOL&#8217;s $100 support matters",
+        "fingerprint": "bbc866a21321dc3ca8b7e578"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1199,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+    "link": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTDR3RG1PRKW22RG4VE5A4/hi-sofi-and-mastercard-move-stablecoin-settlement-into-global-network.jpg",
+    "publishedAt": "2026-10-22T13:13:45.000Z",
+    "collectedAt": "2026-10-22T13:24:52.798Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4e9b4e8004415dcf6669389b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-22T13:27:31.742Z",
+    "outcome": {
+      "event": {
+        "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+        "fingerprint": "4e9b4e8004415dcf6669389b"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+    "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
+    "summary": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+    "publishedAt": "2026-10-22T10:45:13.000Z",
+    "collectedAt": "2026-10-22T13:24:52.798Z",
+    "corroboratingSources": 1,
+    "fingerprint": "be5979edfe302526b3a8b2f5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-22T13:27:57.252Z",
+    "outcome": {
+      "event": {
+        "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+        "fingerprint": "be5979edfe302526b3a8b2f5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1200,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "US quietly eases stablecoin reserve rules as banks warn billions could shift away from lending",
+    "link": "https://cryptoslate.com/treasury-hails-americas-new-stablecoin-system-as-occ-removes-safeguards-banks-wanted-against-deposit-flight/",
+    "summary": "Treasury Secretary Scott Bessent compared the GENIUS Act to the National Currency Act of 1863 on Oct. 21, the day the Office of the Comptroller of the Currency (OCC) released its 721-page stablecoin final rule. He called the law a cornerstone of America&#039;s position as the world&#039;s crypto capital. The American Bankers Association (ABA) responded…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-bank-conveyor.webp",
+    "publishedAt": "2026-10-22T10:00:16.000Z",
+    "collectedAt": "2026-10-22T13:24:52.798Z",
+    "corroboratingSources": 1,
+    "fingerprint": "884640eee7509982eb2da13d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-22T13:28:18.225Z",
+    "outcome": {
+      "event": {
+        "title": "US quietly eases stablecoin reserve rules as banks warn billions could shift away from lending",
+        "fingerprint": "884640eee7509982eb2da13d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1201,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
