@@ -7569,5 +7569,40 @@
     "hasImage": true,
     "eventFingerprint": "e7bc6a4c587b0186da89689f",
     "timestamp": "2026-10-21T22:04:26.693Z"
+  },
+  {
+    "messageId": 1188,
+    "text": "Is the banking lobby fighting a losing battle against stablecoin yields, or does the OCC really overstep its bounds here?\n\nThe American Bankers Association has come out swinging against the OCC's finalized rules regarding stablecoin provisions on yield, claiming the framework effectively undermines Congress. \n\nWhere do you draw the line between banking stability and innovation? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "5a01fc281928fc8b27b08c1d",
+    "timestamp": "2026-10-22T01:10:54.773Z"
+  },
+  {
+    "messageId": 1189,
+    "text": "Are regulators about to draw a hard line between digital commodities and securities?\n\nSix major blockchain associations—including the groups behind Chainlink and Cardano—have formally petitioned the SEC to classify digital commodities outside of traditional securities oversight. \n\nThe joint letter argues that current proposed frameworks fail to account for decentralized networks, creating unnecessary friction for builders and developers operating in the US. \n\nThe SEC has yet to respond to the filing.",
+    "hasImage": true,
+    "eventFingerprint": "9e1007fa85b0f92652185649",
+    "timestamp": "2026-10-22T01:10:57.400Z"
+  },
+  {
+    "messageId": 1190,
+    "text": "There are public servants with worse retirement packages than the Drift Protocol hacker.\n\nThe addresses tied to April's $295 million exploit funneled another $46 million in Ether through Tornado Cash on Wednesday. \n\nThat brings the two-day laundering total to $109 million. \n\nDespite clearing out nine figures this week, the wallets still hold roughly $138 million in ETH. The on-chain cleanup operation continues at a pace that makes traditional compliance departments look like dial-up internet.",
+    "hasImage": true,
+    "eventFingerprint": "e483a8575e859c4a4ac0db41",
+    "timestamp": "2026-10-22T01:10:58.461Z"
+  },
+  {
+    "messageId": 1191,
+    "text": "Capital is voting with its feet, and it's walking right out the door. \n\nUS spot Ether ETFs just crossed $1.08 billion in net outflows for October alone. That marks the largest monthly capital flight for the product line so far in 2026. \n\nMeanwhile, Bitcoin products are seeing their post-spike momentum cool off. The divergence highlights a clear risk-off tilt in institutional portfolios as the month draws to a close.",
+    "hasImage": true,
+    "eventFingerprint": "fbfdc12d573d94cba327ad0d",
+    "timestamp": "2026-10-22T01:11:01.074Z"
+  },
+  {
+    "messageId": 1192,
+    "text": "Prediction markets are quietly becoming the main battleground for real-time sentiment.\n\nProbly wrapped up its run as a Gold Sponsor at TOKEN2049 Singapore this week, capping off an active stretch that included co-hosting the WHALE3RA Afterparty with BloFin and TxFlow. \n\nThe protocol used the conference to pitch its on-chain infrastructure for sports, politics, and macro finance directly to builders and traders. \n\nAs derivatives and speculative layers crowd the L1/L2 landscape, attention is shifting to how these platforms aggregate global data on the fly.",
+    "hasImage": true,
+    "eventFingerprint": "1dd98183b4e518c791a3f682",
+    "timestamp": "2026-10-22T01:11:05.405Z"
   }
 ]

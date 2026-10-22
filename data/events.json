@@ -46416,5 +46416,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+    "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5G2G8DNS83ZJANR3X4SZBVD/policymaker-bill-us-genius-act-1.jpg",
+    "publishedAt": "2026-10-21T21:53:48.000Z",
+    "collectedAt": "2026-10-22T01:10:52.538Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5a01fc281928fc8b27b08c1d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T01:10:54.792Z",
+    "outcome": {
+      "event": {
+        "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+        "fingerprint": "5a01fc281928fc8b27b08c1d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1188,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+    "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FH88750HFGGVZ9ZQN6BBTV/hi-token-burning-explained-sec.png",
+    "publishedAt": "2026-10-21T16:09:26.000Z",
+    "collectedAt": "2026-10-22T01:10:52.538Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9e1007fa85b0f92652185649",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T01:10:57.418Z",
+    "outcome": {
+      "event": {
+        "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+        "fingerprint": "9e1007fa85b0f92652185649"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1189,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+    "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K817QH0K358EBX7ENA8QG7/hacker-and-lasers-ethereum.jpg",
+    "publishedAt": "2026-10-21T10:13:52.000Z",
+    "collectedAt": "2026-10-22T01:10:52.538Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e483a8575e859c4a4ac0db41",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T01:10:58.478Z",
+    "outcome": {
+      "event": {
+        "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+        "fingerprint": "e483a8575e859c4a4ac0db41"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1190,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Ether ETF outflows continue, pass $1B in October so far",
+    "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ENVP95CYXDBRWRRSVDGA2V/cointelegraph-eth-etf.png",
+    "publishedAt": "2026-10-21T08:11:50.000Z",
+    "collectedAt": "2026-10-22T01:10:52.538Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fbfdc12d573d94cba327ad0d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T01:11:01.093Z",
+    "outcome": {
+      "event": {
+        "title": "Ether ETF outflows continue, pass $1B in October so far",
+        "fingerprint": "fbfdc12d573d94cba327ad0d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1191,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Probly Wraps Up TOKEN2049 Singapore and WHALE3RA, Strengthening Its Presence in On-Chain Prediction Markets",
+    "link": "https://www.newsbtc.com/news/probly-wraps-up-token2049-singapore-and-whale3ra-strengthening-its-presence-in-on-chain-prediction-markets/",
+    "summary": "The British Virgin Islands, Road Town, October 2026 — Probly, an on-chain prediction market for sports, politics, crypto, finance, and global events, has concluded its participation as a Gold Sponsor of TOKEN2049 Singapore and co-host of the WHALE3RA Afterparty alongside BloFin, TxFlow, and other ecosystem partners. &#160; Across TOKEN2049 week, Probly connected with traders, builders, infrastructure teams, partners, and Web3 communities around the growing role of prediction markets as a way to ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/photo_2026-10-21-13.55.19.jpeg",
+    "publishedAt": "2026-10-21T10:59:58.000Z",
+    "collectedAt": "2026-10-22T01:10:52.538Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1dd98183b4e518c791a3f682",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-22T01:11:05.422Z",
+    "outcome": {
+      "event": {
+        "title": "Probly Wraps Up TOKEN2049 Singapore and WHALE3RA, Strengthening Its Presence in On-Chain Prediction Markets",
+        "fingerprint": "1dd98183b4e518c791a3f682"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1192,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
