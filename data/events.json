@@ -47431,5 +47431,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+    "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JV90GX9YTTQQZEH3XNN8PG/asia-express-1.jpg",
+    "publishedAt": "2026-10-22T22:50:22.000Z",
+    "collectedAt": "2026-10-23T01:10:27.226Z",
+    "corroboratingSources": 1,
+    "fingerprint": "52ad7d2b827c89ecc71271cd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-23T01:10:29.681Z",
+    "outcome": {
+      "event": {
+        "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+        "fingerprint": "52ad7d2b827c89ecc71271cd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1212,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Ethereum&#8217;s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
+    "link": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+    "summary": "Ethereum developers have postponed the Glamsterdam upgrade on a major test network after identifying potential security risks affecting existing smart contracts. The Ethereum Foundation confirmed on Oct. 22 that the upgrade, scheduled for Oct. 26 on the Hoodi testnet, would no longer proceed as planned. Developers agreed to investigate how a proposed change to Ethereum&#039;s…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in ",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-glamsterdam-hoodi-delay-standard.jpg",
+    "publishedAt": "2026-10-23T00:40:37.000Z",
+    "collectedAt": "2026-10-23T01:10:27.226Z",
+    "corroboratingSources": 1,
+    "fingerprint": "32f01af176ddd2335153c75f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-23T01:10:30.683Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum&#8217;s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
+        "fingerprint": "32f01af176ddd2335153c75f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1213,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+    "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5K495GNDHMTE3BPW7ZKE90T/bitcoin-etf-6.jpg",
+    "publishedAt": "2026-10-23T00:59:35.000Z",
+    "collectedAt": "2026-10-23T01:10:27.226Z",
+    "corroboratingSources": 1,
+    "fingerprint": "808737b0ff504972d1dca092",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-23T01:10:31.875Z",
+    "outcome": {
+      "event": {
+        "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+        "fingerprint": "808737b0ff504972d1dca092"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1214,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
+    "link": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/",
+    "summary": "Bitcoin ETFs recorded outflows during seven of eight major selloffs, challenging expectations that Wall Street investors would support prices during downturns. A new DWF Labs report shared with CryptoSlate found that US spot Bitcoin exchange-traded funds consistently lost money during market declines of at least 15% since their January 2024 launch, while attracting inflows throughout…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cata",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-wallstreet-outflows.webp",
+    "publishedAt": "2026-10-22T22:30:38.000Z",
+    "collectedAt": "2026-10-23T01:10:27.226Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6a4cbbd543f6929d0dfd02ad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-23T01:10:33.361Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
+        "fingerprint": "6a4cbbd543f6929d0dfd02ad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1215,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Robinhood vs. Securitize: Stock Token Access Compared",
+    "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-vs-securitize-stock-token-access-compared",
+    "summary": "Robinhood’s wallet product advertises 24/7 trading; Securitize advertises 24/5, while its NYSE and OKXICE connections remain planned.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-22T23:14:19.000Z",
+    "collectedAt": "2026-10-23T01:10:27.226Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f3df88a35fe39b9a52daa55e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-23T01:10:34.396Z",
+    "outcome": {
+      "event": {
+        "title": "Robinhood vs. Securitize: Stock Token Access Compared",
+        "fingerprint": "f3df88a35fe39b9a52daa55e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1216,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

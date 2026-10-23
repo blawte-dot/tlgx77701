@@ -7737,5 +7737,40 @@
     "hasImage": true,
     "eventFingerprint": "193544b276c901f591d685ff",
     "timestamp": "2026-10-22T22:03:24.221Z"
+  },
+  {
+    "messageId": 1212,
+    "text": "Washington is drawing harder lines around AI while European and Asian corridors quietly build out the next phase of digital finance.\n\nUS federal civilian agencies are now barred from using DeepSeek over national security and espionage concerns, signaling a widening technological decoupling between Washington and Beijing. \n\nAt the same time, traditional barriers are shifting elsewhere. \n\nSingapore-based Jacobi Asset Management continues to anchor Europe's spot Bitcoin ETF infrastructure, bridging Asian capital with European markets. Meanwhile, Swiss regulators and firms are forging direct technical partnerships with Vietnam, exporting financial technology and blockchain compliance frameworks into Southeast Asia's fastest-growing digital economy. \n\nAs the US restricts foreign AI, institutional crypto ties between Europe, Switzerland, and Asia are accelerating through direct bilateral channels.",
+    "hasImage": true,
+    "eventFingerprint": "52ad7d2b827c89ecc71271cd",
+    "timestamp": "2026-10-23T01:10:29.664Z"
+  },
+  {
+    "messageId": 1213,
+    "text": "13 distinct security vulnerabilities just forced Ethereum developers to hit pause. ⚠️\n\nThe upcoming Glamsterdam upgrade missed its scheduled testnet launch after code analysis revealed risks to existing smart contracts. \n\nCore contributors decided against pushing forward on the Hoodi testnet, opting instead to audit the proposed changes and re-evaluate stability. \n\nNo new deployment date has been set while teams investigate the vector.",
+    "hasImage": true,
+    "eventFingerprint": "32f01af176ddd2335153c75f",
+    "timestamp": "2026-10-23T01:10:30.667Z"
+  },
+  {
+    "messageId": 1214,
+    "text": "How many major European exchanges will it take for retail capital to flow freely into spot Bitcoin?\n\nSwitzerland is answering that question now. \n\nBIT Asset Management has secured regulatory approval for its Bitcoin Fund ETF, clearing the path for retail investors in the country to gain direct exposure via traditional brokerage accounts. \n\nTrading on the SIX Swiss Exchange is scheduled to kick off in November. \n\nWhile the public offering is strictly confined to Swiss residents, the milestone adds another brick to the institutional and regulated framework expanding across Europe, quietly bridging traditional finance and digital assets one jurisdiction at a time.",
+    "hasImage": true,
+    "eventFingerprint": "808737b0ff504972d1dca092",
+    "timestamp": "2026-10-23T01:10:31.860Z"
+  },
+  {
+    "messageId": 1215,
+    "text": "Wall Street was supposed to cushion Bitcoin’s fall. The data tells a different story.\n\nA new DWF Labs report shows that US spot Bitcoin ETFs experienced net outflows during seven out of eight major market corrections of 15% or more since January 2024. \n\nInstead of acting as a stabilizing anchor during panics, traditional capital largely hit the exits alongside retail traders when momentum turned negative. \n\nYet, overall volatility has noticeably compressed. Market structure is evolving, but the myth of institutional diamond hands is taking a heavy hit.",
+    "hasImage": true,
+    "eventFingerprint": "6a4cbbd543f6929d0dfd02ad",
+    "timestamp": "2026-10-23T01:10:33.346Z"
+  },
+  {
+    "messageId": 1216,
+    "text": "Tokenized equities are quietly rewriting the operational hours of traditional finance.\n\nRobinhood is pushing 24/7 access through its dedicated wallet product. \n\nMeanwhile, Securitize is sticking to a 24/5 model as it works toward planned integrations with the NYSE and OKXICE. \n\nThe friction between round-the-clock retail demand and legacy market infrastructure is becoming harder to ignore. \n\nSource: The Defiant\n\n#Tokenization",
+    "hasImage": true,
+    "eventFingerprint": "f3df88a35fe39b9a52daa55e",
+    "timestamp": "2026-10-23T01:10:34.380Z"
   }
 ]
