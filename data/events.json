@@ -48456,5 +48456,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitwise Dogecoin ETF Reaches Scheduled Liquidation As Holders Face Cash Redemption",
+    "link": "https://www.newsbtc.com/crypto-news/bitwise-bwow-dogecoin-etf-cash-liquidation-october-22/",
+    "summary": "Bitwise’s BWOW Dogecoin ETF reached its announced October 22 liquidation distribution date, with remaining shareholders due cash based on the fund’s net asset value.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Dogecoin-from-Getty-Images-6.jpg",
+    "publishedAt": "2026-10-23T21:15:00.000Z",
+    "collectedAt": "2026-10-23T23:45:45.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fa30cced44adddc31f7e3aa6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-23T23:45:47.000Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise Dogecoin ETF Reaches Scheduled Liquidation As Holders Face Cash Redemption",
+        "fingerprint": "fa30cced44adddc31f7e3aa6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1237,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "New OCC stablecoin rule resets redemptions, and banks face big shifts",
+    "link": "https://cryptoslate.com/new-occ-stablecoin-rule-resets-redemptions-and-banks-face-big-shifts/",
+    "summary": "For covered issuers, the ordinary two-business-day limit ends at payment initiation or requested issuer credit, with external bank availability assessed separately.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-seven-day-reversal.webp",
+    "publishedAt": "2026-10-23T22:50:04.000Z",
+    "collectedAt": "2026-10-23T23:45:45.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2ac3d18a1a8a30b794cf9953",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-23T23:45:48.102Z",
+    "outcome": {
+      "event": {
+        "title": "New OCC stablecoin rule resets redemptions, and banks face big shifts",
+        "fingerprint": "2ac3d18a1a8a30b794cf9953"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1238,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+    "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N19TPWN37A162FFHMQDBR2/hi-cover-imagereview-of-us-stocks.jpg",
+    "publishedAt": "2026-10-23T21:32:16.000Z",
+    "collectedAt": "2026-10-23T23:45:45.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e062cb076c9212cffcac2e85",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-23T23:45:49.232Z",
+    "outcome": {
+      "event": {
+        "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+        "fingerprint": "e062cb076c9212cffcac2e85"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1239,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Malaysia and Thailand Central Banks Join Singapore&#8217;s BLOOM as Roster Hits 24 Firms",
+    "link": "https://cryptopotato.com/malaysia-and-thailand-central-banks-join-singapores-bloom-as-roster-hits-24-firms/",
+    "summary": "Maybank, one of nine new BLOOM participants, already runs one of Bank Negara Malaysia's three ringgit stablecoin and tokenized deposit pilots, while Thailand's Kasikornbank was in the group before the Bank of Thailand.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2022/03/Malaysia.jpg",
+    "publishedAt": "2026-10-23T21:52:13.000Z",
+    "collectedAt": "2026-10-23T23:45:45.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e0a856358ddeb63be9083e42",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-23T23:45:50.677Z",
+    "outcome": {
+      "event": {
+        "title": "Malaysia and Thailand Central Banks Join Singapore&#8217;s BLOOM as Roster Hits 24 Firms",
+        "fingerprint": "e0a856358ddeb63be9083e42"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1240,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+    "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
+    "publishedAt": "2026-10-23T16:08:40.000Z",
+    "collectedAt": "2026-10-23T23:45:45.211Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cc818be07793deba35db2d9f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-23T23:45:52.200Z",
+    "outcome": {
+      "event": {
+        "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+        "fingerprint": "cc818be07793deba35db2d9f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1241,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

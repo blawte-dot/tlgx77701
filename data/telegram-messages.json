@@ -7912,5 +7912,40 @@
     "hasImage": true,
     "eventFingerprint": "f2954f05c4095248dfce79d7",
     "timestamp": "2026-10-23T20:57:06.880Z"
+  },
+  {
+    "messageId": 1237,
+    "text": "22 October marks the official end of the road for the Bitwise Dogecoin ETF.\n\nRemaining shareholders in the BWOW fund are now receiving their final cash distributions based on the vehicle's net asset value. \n\nThe wind-down concludes the scheduled liquidation process outlined by the issuer, closing out this particular avenue of exposure for institutional and retail portfolios tracking the asset.",
+    "hasImage": true,
+    "eventFingerprint": "fa30cced44adddc31f7e3aa6",
+    "timestamp": "2026-10-23T23:45:46.985Z"
+  },
+  {
+    "messageId": 1238,
+    "text": "The OCC just fundamentally redrew the mechanics of stablecoin redemptions, and traditional banking is caught in the crossfire. \n\nUnder new guidance for covered issuers, the standard two-business-day window now slams shut at the exact moment of payment initiation or requested issuer credit. \n\nExternal bank availability gets judged entirely on its own merits, separating the timeline of digital settlement from legacy banking hours. \n\nLiquidity management for institutional players is about to get a lot more complex. \n\n#CryptoRegulations",
+    "hasImage": true,
+    "eventFingerprint": "2ac3d18a1a8a30b794cf9953",
+    "timestamp": "2026-10-23T23:45:48.088Z"
+  },
+  {
+    "messageId": 1239,
+    "text": "Traditional finance is drawing a hard line against tokenized equities.\n\nWells Fargo and five other major entities have formally objected to a proposed tokenized stock platform from OKX and ICE, filing formal opposition with regulators under the SEC’s innovation exemption. \n\nA total of 22 companies have now pushed back against the initiative as scrutiny mounts over blockchain-based traditional asset wrappers.",
+    "hasImage": true,
+    "eventFingerprint": "e062cb076c9212cffcac2e85",
+    "timestamp": "2026-10-23T23:45:49.218Z"
+  },
+  {
+    "messageId": 1240,
+    "text": "A quiet regulatory sandbox in Southeast Asia just absorbed 24 major financial heavyweights. \n\nBank Negara Malaysia and the Bank of Thailand have officially linked up with Singapore's Project BLOOM, expanding the cross-border digital asset initiative significantly. \n\nAmong the nine new additions is Malaysia's Maybank, which already operates a live ringgit stablecoin and tokenized deposit pilot under central bank supervision. Thailand’s Kasikornbank has also joined the roster, formalizing institutional involvement across three major ASEAN jurisdictions. \n\nThe move points to a coordinated regional push toward regulated tokenized liquidity, moving well beyond isolated proofs-of-concept.",
+    "hasImage": true,
+    "eventFingerprint": "e0a856358ddeb63be9083e42",
+    "timestamp": "2026-10-23T23:45:50.663Z"
+  },
+  {
+    "messageId": 1241,
+    "text": "Tokenization just landed on the SEC's radar in a big way.\n\nThe agency's newly released examination priorities for 2027 single out real-world asset tokenization as an emerging high-risk area for markets. \n\nCuriously, standalone crypto assets were left out of the primary category list this time around, with traditional market structures and digitized assets taking center stage instead.\n\nSource: Cointelegraph",
+    "hasImage": true,
+    "eventFingerprint": "cc818be07793deba35db2d9f",
+    "timestamp": "2026-10-23T23:45:52.186Z"
   }
 ]
