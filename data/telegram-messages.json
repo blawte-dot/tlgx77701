@@ -7842,5 +7842,40 @@
     "hasImage": true,
     "eventFingerprint": "aa05a624e874e739124d96df",
     "timestamp": "2026-10-23T12:23:35.780Z"
+  },
+  {
+    "messageId": 1227,
+    "text": "An onchain puzzle is unfolding on Initia.\n\nThe layer-one network abruptly halted its operations following an apparent security breach. Unconfirmed reports suggest an attacker may have minted unauthorized tokens, while separate onchain data points to a $2.7 million ether transfer connected to the incident.\n\nCore developers are currently auditing transaction logs to determine the exact vector and scope. \n\nNo official post-mortem has been released yet. We are monitoring the situation as developers work toward a network recovery plan.",
+    "hasImage": true,
+    "eventFingerprint": "15aa4785d6e7f1f4c7ab9c74",
+    "timestamp": "2026-10-23T17:40:54.172Z"
+  },
+  {
+    "messageId": 1228,
+    "text": "Traditional banking just crossed a line most Wall Street executives swore they wouldn't touch. \n\nSoFi is rolling out a tokenized bank deposit called SOFIE, offering a 4.40% yield while bridging directly to an internal stablecoin, SoFiUSD. \n\nThis isn't another offshore crypto startup testing a sandbox. This is a regulated U.S. financial institution bringing insured bank deposits natively on-chain. \n\nThe boundary between traditional finance and decentralized rails continues to blur in real time. When primary lenders start tokenizing their balance sheets for 24/7 settlement, the old banking infrastructure doesn't just adapt—it competes directly with the protocols built to replace it.",
+    "hasImage": true,
+    "eventFingerprint": "48647815b6fb7d9d1669dc5d",
+    "timestamp": "2026-10-23T17:41:01.092Z"
+  },
+  {
+    "messageId": 1229,
+    "text": "An $8 billion unicorn doesn't change hands in secret—and today, the market learned how fast a mega-deal rumor can unravel.\n\nFireblocks is pushing back hard against widespread reports that Visa was closing in on a $2.5 billion acquisition. \n\nThe figure itself caught institutional desks off guard, sitting well below the custody firm's previous $8 billion valuation peak from 2022. \n\nWhile Visa has declined to comment, the swift denial from Fireblocks cuts through the noise. \n\nIn a market hyper-sensitive to institutional consolidation, the speed of these rumors shows just how eager investors are for enterprise-grade M&A activity. \n\nFor now, the valuation reset remains speculative.",
+    "hasImage": true,
+    "eventFingerprint": "d59d9313d9fed0a028be4bf1",
+    "timestamp": "2026-10-23T17:41:05.396Z"
+  },
+  {
+    "messageId": 1230,
+    "text": "30 seconds of an AI's attention just upended how Bitcoin patches vulnerabilities.\n\nBitcoin Core has officially rewritten its security disclosure policy to account for automated bug discovery. \n\nUnder the new rules, if a flaw is deemed \"easily discoverable\" by an attacker using a single AI prompt, developers will abandon traditional multi-month embargoes. \n\nInstead, fixes will be backported and new releases cut immediately. \n\nThe rationale is simple: security through obscurity doesn't work when machines can reverse-engineer code in real time. \n\nThe era of trusting slow disclosure timelines is officially over.",
+    "hasImage": true,
+    "eventFingerprint": "a64e2d31f084a8dad2df9098",
+    "timestamp": "2026-10-23T17:41:06.914Z"
+  },
+  {
+    "messageId": 1231,
+    "text": "How quickly can macroeconomic friction flip sentiment across digital asset markets?\n\nSpot Bitcoin exchange-traded funds shed more than $635 million on Thursday alone, reversing an earlier weekly inflow trend as escalating oil prices rattled broader financial conditions. \n\nEnergy shocks continue to ripple directly into risk assets, reminding market participants that crypto liquidity remains closely tied to traditional macroeconomic triggers. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "98259932569ac601a9330bc9",
+    "timestamp": "2026-10-23T17:41:08.194Z"
   }
 ]

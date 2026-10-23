@@ -48046,5 +48046,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+    "link": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+    "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/Banner_02.png",
+    "publishedAt": "2026-10-23T17:03:56.000Z",
+    "collectedAt": "2026-10-23T17:40:49.338Z",
+    "corroboratingSources": 1,
+    "fingerprint": "15aa4785d6e7f1f4c7ab9c74",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-23T17:40:54.191Z",
+    "outcome": {
+      "event": {
+        "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+        "fingerprint": "15aa4785d6e7f1f4c7ab9c74"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1227,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SoFi Launches Yield-Bearing Tokenized Bank Deposit With Stablecoin Conversion",
+    "link": "https://www.newsbtc.com/crypto-news/sofi-earn-sofie-tokenized-deposit-stablecoin-conversion/",
+    "summary": "SoFi says its new SOFIE tokenized deposit represents money held at SoFi Bank, advertises 4.40% APY subject to terms, and can convert to SoFiUSD for blockchain transfers.",
+    "image": null,
+    "publishedAt": "2026-10-23T13:45:00.000Z",
+    "collectedAt": "2026-10-23T17:40:49.338Z",
+    "corroboratingSources": 2,
+    "fingerprint": "48647815b6fb7d9d1669dc5d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-10-23T17:41:01.115Z",
+    "outcome": {
+      "event": {
+        "title": "SoFi Launches Yield-Bearing Tokenized Bank Deposit With Stablecoin Conversion",
+        "fingerprint": "48647815b6fb7d9d1669dc5d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1228,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Fireblocks Denies Report of $2.5B Visa Acquisition Talks",
+    "link": "https://cryptopotato.com/fireblocks-denies-report-of-2-5b-visa-acquisition-talks/",
+    "summary": "Visa declined to comment on the report, which cited multiple sources and put a price well below the $8 billion valuation Fireblocks reached in 2022.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2022/05/Fireblocks.jpg",
+    "publishedAt": "2026-10-23T07:51:41.000Z",
+    "collectedAt": "2026-10-23T17:40:49.339Z",
+    "corroboratingSources": 3,
+    "fingerprint": "d59d9313d9fed0a028be4bf1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-23T17:41:05.414Z",
+    "outcome": {
+      "event": {
+        "title": "Fireblocks Denies Report of $2.5B Visa Acquisition Talks",
+        "fingerprint": "d59d9313d9fed0a028be4bf1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1229,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+    "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+    "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as “easily discoverable,” abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png",
+    "publishedAt": "2026-10-23T17:16:03.000Z",
+    "collectedAt": "2026-10-23T17:40:49.338Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a64e2d31f084a8dad2df9098",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-23T17:41:06.932Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+        "fingerprint": "a64e2d31f084a8dad2df9098"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1230,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
+    "summary": "Bitcoin Magazine\n\nBitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike \nInvestors this week were buying bitcoin ETFs but that all changed on Thursday. \nThis post Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-23.jpg",
+    "publishedAt": "2026-10-23T16:46:36.000Z",
+    "collectedAt": "2026-10-23T17:40:49.338Z",
+    "corroboratingSources": 1,
+    "fingerprint": "98259932569ac601a9330bc9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-23T17:41:08.214Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+        "fingerprint": "98259932569ac601a9330bc9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1231,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
