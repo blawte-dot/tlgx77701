@@ -47841,5 +47841,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+    "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+    "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg",
+    "publishedAt": "2026-10-23T11:49:37.000Z",
+    "collectedAt": "2026-10-23T12:23:28.628Z",
+    "corroboratingSources": 2,
+    "fingerprint": "cfba33ac081eca857ea122b3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-23T12:23:30.578Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+        "fingerprint": "cfba33ac081eca857ea122b3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1222,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+    "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+    "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/07c0b01c52b8b1c0aac2e6f37d5be148567cc67b-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-23T08:57:34.000Z",
+    "collectedAt": "2026-10-23T12:23:28.628Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e807650df0ddfc3e9c70462c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-23T12:23:32.084Z",
+    "outcome": {
+      "event": {
+        "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+        "fingerprint": "e807650df0ddfc3e9c70462c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1223,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Chainlink And LG CNS Target South Korean Banks With Digital Asset Infrastructure Deal",
+    "link": "https://www.newsbtc.com/crypto-news/chainlink-lg-cns-south-korea-institutional-digital-assets/",
+    "summary": "Chainlink and LG CNS are partnering on oracle and cross-chain infrastructure aimed at South Korea’s financial institutions; the announcement is a partnership, not a completed nationwide deployment.",
+    "image": null,
+    "publishedAt": "2026-10-23T12:15:00.000Z",
+    "collectedAt": "2026-10-23T12:23:28.628Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1192a60093e413fd2e814b23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-23T12:23:33.725Z",
+    "outcome": {
+      "event": {
+        "title": "Chainlink And LG CNS Target South Korean Banks With Digital Asset Infrastructure Deal",
+        "fingerprint": "1192a60093e413fd2e814b23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1224,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Paybis Adds iDEAL, BLIK, Multibanco and EPS for Buying Crypto in Europe",
+    "link": "https://www.newsbtc.com/news/paybis-adds-ideal-blik-multibanco-and-eps-for-buying-crypto-in-europe/",
+    "summary": "Customers in the Netherlands, Poland, Portugal and Austria can now buy crypto on Paybis through a banking app or a payment reference, with no card details needed. The four methods are the first wave of 13 local payment methods Paybis is adding. Riga, Latvia October 23, 2026 — Paybis, a global crypto exchange and payment infrastructure provider, today added four local payment methods for buying crypto in Europe. Customers can now pay with iDEAL in the Netherlands, BLIK in Poland, Multibanco in Po",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/710b8519a1dc4e788e2b20a82798e222-750x422.jpg",
+    "publishedAt": "2026-10-23T11:30:09.000Z",
+    "collectedAt": "2026-10-23T12:23:28.628Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c5c22733d3d74669545b676a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-23T12:23:34.861Z",
+    "outcome": {
+      "event": {
+        "title": "Paybis Adds iDEAL, BLIK, Multibanco and EPS for Buying Crypto in Europe",
+        "fingerprint": "c5c22733d3d74669545b676a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1225,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+    "link": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+    "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-23T08:02:35.000Z",
+    "collectedAt": "2026-10-23T12:23:28.628Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aa05a624e874e739124d96df",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-23T12:23:35.798Z",
+    "outcome": {
+      "event": {
+        "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+        "fingerprint": "aa05a624e874e739124d96df"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1226,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

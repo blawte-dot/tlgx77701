@@ -7807,5 +7807,40 @@
     "hasImage": true,
     "eventFingerprint": "8ab01ee38909056fa568cc9d",
     "timestamp": "2026-10-23T06:54:55.871Z"
+  },
+  {
+    "messageId": 1222,
+    "text": "A critical security finding just forced Ethereum core devs to pump the brakes.\n\nThe upcoming Hoodi testnet fork for Glamsterdam has been indefinitely postponed following an audit by ChainSecurity. \n\nResearchers flagged specific gas mechanics that could allow smart contracts to permanently lock in transaction failures. The audit uncovered 13 distinct real-world instances where the flaw could be exploited before mainnet deployment. \n\nMainnet safety continues to take precedence over fast shipping schedules.\n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "cfba33ac081eca857ea122b3",
+    "timestamp": "2026-10-23T12:23:30.558Z"
+  },
+  {
+    "messageId": 1223,
+    "text": "State-backed digital currency is no longer just a theoretical central bank experiment.\n\nSweden's Riksbank is bringing the e-krona back to the table, arguing that private stablecoins and the impending digital euro threaten both national payment systems and monetary sovereignty. \n\nAs cash usage drops to historic lows across the Nordic region, policymakers face a stark choice: cede everyday settlement rails to commercial stablecoin issuers or build public digital infrastructure. \n\nThe debate highlights a broader global pressure point. Central banks are realizing they cannot simply observe the shift toward tokenized money without losing control over domestic liquidity. \n\nWhether an e-krona actually launches remains an open question, but the institutional urgency behind it is real. \n\n#Sweden",
+    "hasImage": true,
+    "eventFingerprint": "e807650df0ddfc3e9c70462c",
+    "timestamp": "2026-10-23T12:23:32.067Z"
+  },
+  {
+    "messageId": 1224,
+    "text": "Three major South Korean banks are stepping closer to enterprise digital asset integration.\n\nLG CNS has teamed up with Chainlink to build oracle and cross-chain infrastructure tailored for local financial institutions. \n\nWhile the announcement marks a partnership rather than an immediate nationwide rollout, it underscores a persistent trend: traditional banking infrastructure is steadily adapting to multi-chain connectivity. \n\nPrecision over hype will dictate whether institutional pilots translate into volume. \n\n#Chainlink",
+    "hasImage": true,
+    "eventFingerprint": "1192a60093e413fd2e814b23",
+    "timestamp": "2026-10-23T12:23:33.708Z"
+  },
+  {
+    "messageId": 1225,
+    "text": "Europeans can finally bypass debit cards entirely when funding crypto accounts.\n\nPaybis just integrated four major domestic payment rails: iDEAL in the Netherlands, BLIK in Poland, Multibanco in Portugal, and EPS in Austria.\n\nUsers in these regions buy digital assets directly via banking apps or secure payment references. No plastic required.\n\nThis rollout is just the opening phase. The Riga-registered infrastructure provider plans to deploy nine more localized payment options across the continent soon.",
+    "hasImage": true,
+    "eventFingerprint": "c5c22733d3d74669545b676a",
+    "timestamp": "2026-10-23T12:23:34.844Z"
+  },
+  {
+    "messageId": 1226,
+    "text": "Where did sixteen million dollars actually go?\n\nOn-chain analysts flagged heavy, suspicious outflows from addresses linked to CoinDCX, prompting immediate concern across the market. \n\nThe India-based exchange is pushing back hard against the claims. Leadership denies any active wallets were compromised, maintaining that user funds remain fully secure while the investigation continues. \n\nWe are tracking the on-chain data as it develops.",
+    "hasImage": true,
+    "eventFingerprint": "aa05a624e874e739124d96df",
+    "timestamp": "2026-10-23T12:23:35.780Z"
   }
 ]
