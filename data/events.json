@@ -48251,5 +48251,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Swiss Regulator Approves First Domestic Spot Bitcoin ETF Under Fund Law",
+    "link": "https://www.newsbtc.com/bitcoin-news/swiss-finma-first-domestic-spot-bitcoin-etf-approval/",
+    "summary": "Switzerland’s FINMA has authorized a Bitcoin ETF structured as a Swiss-law public investment fund; the approval differs from older exchange-traded crypto products already sold in Europe.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-from-Getty-Images-14.jpg",
+    "publishedAt": "2026-10-23T20:30:00.000Z",
+    "collectedAt": "2026-10-23T20:56:58.136Z",
+    "corroboratingSources": 1,
+    "fingerprint": "145923979ada63e5d4b61c1c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-23T20:57:00.870Z",
+    "outcome": {
+      "event": {
+        "title": "Swiss Regulator Approves First Domestic Spot Bitcoin ETF Under Fund Law",
+        "fingerprint": "145923979ada63e5d4b61c1c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1232,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin sees $771M in whale withdrawals &#8211; Why BTC could reclaim $84K",
+    "link": "https://ambcrypto.com/bitcoin-sees-771m-in-whale-withdrawals-why-btc-could-reclaim-84k/",
+    "summary": "Bitcoin's growing institutional activity and whale accumulation could support a recovery toward $84,000 if demand holds.",
+    "image": null,
+    "publishedAt": "2026-10-23T20:00:01.000Z",
+    "collectedAt": "2026-10-23T20:56:58.136Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0164f504df6be3cee0bed9f9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-23T20:57:03.055Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin sees $771M in whale withdrawals &#8211; Why BTC could reclaim $84K",
+        "fingerprint": "0164f504df6be3cee0bed9f9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1233,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Irish Central Bank Fines Coinbase Unit €3.25 Million Over Customer Fund Safeguards",
+    "link": "https://www.newsbtc.com/crypto-regulation/coinbase-ireland-fined-customer-money-safeguarding/",
+    "summary": "Ireland’s central bank imposed a €3.25 million penalty on Coinbase Ireland over electronic-money safeguarding and outsourcing failings, subject to High Court confirmation.",
+    "image": null,
+    "publishedAt": "2026-10-23T14:30:00.000Z",
+    "collectedAt": "2026-10-23T20:56:58.136Z",
+    "corroboratingSources": 2,
+    "fingerprint": "f81bba893ff6c9b6030eb175",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-23T20:57:04.263Z",
+    "outcome": {
+      "event": {
+        "title": "Irish Central Bank Fines Coinbase Unit €3.25 Million Over Customer Fund Safeguards",
+        "fingerprint": "f81bba893ff6c9b6030eb175"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1234,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+    "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
+    "publishedAt": "2026-10-23T18:39:02.000Z",
+    "collectedAt": "2026-10-23T20:56:58.136Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1deb2060be540e3146d5d821",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-23T20:57:05.549Z",
+    "outcome": {
+      "event": {
+        "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+        "fingerprint": "1deb2060be540e3146d5d821"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1235,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+    "link": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
+    "summary": "Bitcoin Magazine\n\nFranklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin\nFranklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every dividend buys more bitcoin.\nThis post Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Franklin-Templeton-Files-for-Two-ETFs-That-Reinvest-Stock-Dividends-Into-Bitcoin.jpg",
+    "publishedAt": "2026-10-23T15:40:05.000Z",
+    "collectedAt": "2026-10-23T20:56:58.136Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f2954f05c4095248dfce79d7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-23T20:57:06.896Z",
+    "outcome": {
+      "event": {
+        "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+        "fingerprint": "f2954f05c4095248dfce79d7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1236,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

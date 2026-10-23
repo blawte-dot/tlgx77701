@@ -7877,5 +7877,40 @@
     "hasImage": true,
     "eventFingerprint": "98259932569ac601a9330bc9",
     "timestamp": "2026-10-23T17:41:08.194Z"
+  },
+  {
+    "messageId": 1232,
+    "text": "Switzerland just crossed a regulatory line most of Europe's major jurisdictions have carefully avoided.\n\nFINMA has officially authorized the country's first domestic spot Bitcoin ETF structured directly under Swiss collective investment laws. \n\nWhile European markets have traded crypto ETPs and notes for years, this specific legal framework brings structural differences in fund governance, asset segregation, and redemption mechanics that align standard crypto exposure with traditional institutional fund standards. \n\nTraditional wealth managers and private banks operate under strict mandates that historically excluded complex debt notes or unregulated structures. \n\nNow, domestic fund managers can plug spot Bitcoin straight into standard regulated portfolios without navigating bespoke cross-border product approvals.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "145923979ada63e5d4b61c1c",
+    "timestamp": "2026-10-23T20:57:00.852Z"
+  },
+  {
+    "messageId": 1233,
+    "text": "Large holders are quietly pulling significant volume off exchanges while broader sentiment remains mixed. \n\nOn-chain data highlights $771 million in recent whale withdrawals. \n\nThis scale of accumulation typically points to cold storage routing rather than immediate liquid distribution. \n\nIf spot demand maintains its current pace, market structure suggests a path back toward the $84,000 resistance band. \n\nOrder books and exchange reserves will dictate whether this accumulation translates into a sustained breakout or another range-bound test.",
+    "hasImage": true,
+    "eventFingerprint": "0164f504df6be3cee0bed9f9",
+    "timestamp": "2026-10-23T20:57:03.038Z"
+  },
+  {
+    "messageId": 1234,
+    "text": "How serious is Europe about enforcing digital asset compliance?\n\nIreland’s central bank just hit Coinbase’s local unit with a €3.25 million penalty. \n\nThe fine targets historical failings around electronic-money safeguarding and operational outsourcing. \n\nWhile the penalty still requires High Court confirmation, the move signals a sharp escalation in regulatory oversight across the bloc. \n\nExchanges operating in Europe face a narrowing margin for compliance errors as enforcement actions pick up pace.\n\n#CryptoRegulation",
+    "hasImage": true,
+    "eventFingerprint": "f81bba893ff6c9b6030eb175",
+    "timestamp": "2026-10-23T20:57:04.247Z"
+  },
+  {
+    "messageId": 1235,
+    "text": "Most networks don't just pull the emergency brake—Initia did.\n\nUnconfirmed reports suggest the Layer-1 blockchain halted its mainnet and rollups following an exploit that reportedly drained over $2.6M in assets. \n\nSecurity researchers flagged suspicious unauthorized token minting prior to the sudden network freeze. \n\nOutflows were allegedly bridged across to Ethereum before operations were paused. \n\nCore contributors are investigating the incident. Further updates depend on official post-mortems from the team.",
+    "hasImage": true,
+    "eventFingerprint": "1deb2060be540e3146d5d821",
+    "timestamp": "2026-10-23T20:57:05.533Z"
+  },
+  {
+    "messageId": 1236,
+    "text": "Trillion-dollar asset manager Franklin Templeton has registered two new Nasdaq-listed funds designed to automatically funnel stock dividends directly into bitcoin.\n\nThe vehicles launch with a 95/5 asset split between U.S. equities and BTC. \n\nRather than paying cash returns out to investors, the underlying mechanism converts every distributed dividend into fresh bitcoin exposure. \n\nThe structure bridges traditional corporate yields with continuous spot accumulation at scale.",
+    "hasImage": true,
+    "eventFingerprint": "f2954f05c4095248dfce79d7",
+    "timestamp": "2026-10-23T20:57:06.880Z"
   }
 ]
