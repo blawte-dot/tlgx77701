@@ -47636,5 +47636,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+    "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KJ9Q2Z3SXSHTQY0NFK4Z54/security-ethereum-testnet.png",
+    "publishedAt": "2026-10-23T05:09:41.000Z",
+    "collectedAt": "2026-10-23T06:54:48.251Z",
+    "corroboratingSources": 1,
+    "fingerprint": "38baffe7303da360782fc2fe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-23T06:54:50.662Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+        "fingerprint": "38baffe7303da360782fc2fe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1217,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+    "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg",
+    "publishedAt": "2026-10-23T04:34:14.000Z",
+    "collectedAt": "2026-10-23T06:54:48.251Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f67f45a8400ed3426f8afa70",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-23T06:54:52.236Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+        "fingerprint": "f67f45a8400ed3426f8afa70"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1218,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+    "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5AK9VV0TKNV4DMR09TVT7/hi-what-is-a-coinbase-transaction-ireland.jpg",
+    "publishedAt": "2026-10-22T16:48:00.000Z",
+    "collectedAt": "2026-10-23T06:54:48.251Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1b811570cac9ceab0741bc88",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-23T06:54:53.458Z",
+    "outcome": {
+      "event": {
+        "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+        "fingerprint": "1b811570cac9ceab0741bc88"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1219,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+    "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5H5T36QZ3A96VS2GX65FP67/bull-crypto-running-bitcoin-etf-btc.png",
+    "publishedAt": "2026-10-22T13:00:00.000Z",
+    "collectedAt": "2026-10-23T06:54:48.251Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fded4915fa6ad92b0bdbd8c2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-23T06:54:54.941Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+        "fingerprint": "fded4915fa6ad92b0bdbd8c2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1220,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+    "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HCAK0M3P221WDQM62JF33T/hi-why-address-poisoning-works-without-stealing-private-keys-1.jpg",
+    "publishedAt": "2026-10-22T09:06:02.000Z",
+    "collectedAt": "2026-10-23T06:54:48.251Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8ab01ee38909056fa568cc9d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-23T06:54:55.887Z",
+    "outcome": {
+      "event": {
+        "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+        "fingerprint": "8ab01ee38909056fa568cc9d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1221,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

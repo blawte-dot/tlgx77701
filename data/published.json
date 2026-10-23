@@ -8883,5 +8883,45 @@
     "hasImage": true,
     "eventFingerprint": "f3df88a35fe39b9a52daa55e",
     "timestamp": "2026-10-23T01:10:34.388Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1217,
+    "text": "Smart contract security assumptions are breaking under the weight of upcoming protocol upgrades.\n\nEthereum core developers have pushed back the planned launch of the Glamsterdam testnet after auditing firm ChainSecurity uncovered critical risks tied to proposed gas repricing changes.\n\nThe audit revealed 13 distinct real-world smart contracts whose execution logic could be disrupted or compromised by the adjustments. \n\nDisclosures are currently underway with the affected protocol teams to patch vulnerable codebases before any public testing resumes. \n\nNetwork upgrades carry unintended downstream consequences for developers who hardcode gas assumptions into their contracts. \n\nThe delay highlights the growing friction between base-layer optimization and application-layer security.",
+    "hasImage": true,
+    "eventFingerprint": "38baffe7303da360782fc2fe",
+    "timestamp": "2026-10-23T06:54:50.652Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1218,
+    "text": "AI is changing how vulnerabilities are found in the Bitcoin codebase. \n\nBitcoin Core developers have officially shifted their security policy, acknowledging that keeping certain bugs secret no longer provides adequate protection now that automated tools can uncover them faster. \n\nWith artificial intelligence accelerating code analysis across the entire sector, how should open-source protocols handle disclosures moving forward? Does faster automated discovery help secure the network sooner, or does it increase exposure before patches are ready? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "f67f45a8400ed3426f8afa70",
+    "timestamp": "2026-10-23T06:54:52.225Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1219,
+    "text": "Even crypto heavyweights aren't immune to traditional compliance pressure. \n\nCoinbase Ireland is facing a €3.35 million ($3.6 million) fine from the Central Bank of Ireland following investigations into significant safeguarding and operational oversight failures. \n\nThe exchange's local arm has formally agreed to the factual basis of the enforcement action. The final penalty awaits formal approval by the country's High Court.",
+    "hasImage": true,
+    "eventFingerprint": "1b811570cac9ceab0741bc88",
+    "timestamp": "2026-10-23T06:54:53.449Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1220,
+    "text": "Institutional capital isn't driving Bitcoin's direction quite the way many assumed.\n\nFresh research from DWF Labs shows that spot ETF buyers are behaving like classic trend followers rather than proactive price setters. \n\nData indicates these flows consistently chase past momentum—buying into rallies and unloading during drawdowns—instead of forecasting where the market goes next. \n\nThat dynamic changes how we view institutional participation. Rather than acting as an independent macro compass, ETF capital is largely reacting to the tape.",
+    "hasImage": true,
+    "eventFingerprint": "fded4915fa6ad92b0bdbd8c2",
+    "timestamp": "2026-10-23T06:54:54.932Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1221,
+    "text": "What happens when attackers have a roadmap before the developers even finish printing it?\n\nCloudflare CEO Matthew Prince reports that the network logged thousands of exploit attempts targeting a critical PHP flaw *before* the vulnerability was ever made public. \n\nThe timeline points to early exploitation of undisclosed code. Infrastructure security teams are currently assessing the fallout.",
+    "hasImage": true,
+    "eventFingerprint": "8ab01ee38909056fa568cc9d",
+    "timestamp": "2026-10-23T06:54:55.879Z"
   }
 ]
