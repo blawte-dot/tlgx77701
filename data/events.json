@@ -48866,5 +48866,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Here&#8217;s why XRP&#8217;s price recovery faces threat from surge in whale inflows",
+    "link": "https://ambcrypto.com/heres-why-xrps-price-recovery-faces-threat-from-surge-in-whale-inflows/",
+    "summary": "Steady selling pressure, including from whales, has directed the drawdown from $1.65 to $1.29.",
+    "image": null,
+    "publishedAt": "2026-10-24T07:00:19.000Z",
+    "collectedAt": "2026-10-24T08:36:23.346Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ebe047fd0c4b266b04ef1e15",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-24T08:36:29.025Z",
+    "outcome": {
+      "event": {
+        "title": "Here&#8217;s why XRP&#8217;s price recovery faces threat from surge in whale inflows",
+        "fingerprint": "ebe047fd0c4b266b04ef1e15"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1247,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
+    "link": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+    "summary": "Bitcoin Magazine\n\nBank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head\nThe Bank of Korea told lawmakers it will draft a forex law amendment this year to regulate stablecoins as a means of payment, a plan that points to tighter cross-border controls rather than legal-tender status.\nThis post Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head first appeared on Bitcoin Magazine and is written by Micah Zimm",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg",
+    "publishedAt": "2026-10-23T14:01:41.000Z",
+    "collectedAt": "2026-10-24T08:36:23.346Z",
+    "corroboratingSources": 1,
+    "fingerprint": "05963171c2b7cd906e94a4d7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T08:36:33.670Z",
+    "outcome": {
+      "event": {
+        "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
+        "fingerprint": "05963171c2b7cd906e94a4d7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1248,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+    "link": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
+    "summary": "&#9654;Bitcoin Magazine\n\nBloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000\nBloomberg's Mike McGlone warns Bitcoin could drop to $10K, citing ETF exhaustion, stock correlation, Fed rate hikes, and macro headwinds across assets.\nThis post Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000 first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/apgtvAVmUTA/hqdefault.jpg",
+    "publishedAt": "2026-10-23T13:18:04.000Z",
+    "collectedAt": "2026-10-24T08:36:23.346Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e0b41985ea0275235d9052fb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T08:36:37.861Z",
+    "outcome": {
+      "event": {
+        "title": "Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+        "fingerprint": "e0b41985ea0275235d9052fb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1249,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "CMCC Global Plans Tokenized Bitcoin Funds With Tether And Bitfinex Securities",
+    "link": "https://www.newsbtc.com/crypto-news/cmcc-global-tether-bitfinex-tokenized-bitcoin-funds-el-salvador/",
+    "summary": "CMCC Global is bringing two existing fund strategies into tokenized securities issued through Tether’s Hadron infrastructure and Bitfinex Securities under El Salvador’s rules.",
+    "image": null,
+    "publishedAt": "2026-10-23T19:00:00.000Z",
+    "collectedAt": "2026-10-24T08:36:23.346Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0c6ef09a2bdf2f977a01a606",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T08:36:42.184Z",
+    "outcome": {
+      "event": {
+        "title": "CMCC Global Plans Tokenized Bitcoin Funds With Tether And Bitfinex Securities",
+        "fingerprint": "0c6ef09a2bdf2f977a01a606"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1250,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin ETFs From $1.8 Trillion Giant Franklin Templeton Get Nasdaq Nod",
+    "link": "https://u.today/bitcoin-etfs-from-18-trillion-giant-franklin-templeton-get-nasdaq-nod",
+    "summary": "Franklin Templeton, a $1.8 trillion asset management giant, has received Nasdaq approval to list two new Bitcoin-focused ETFs that will systematically convert dividends from U.S. stocks into Bitcoin exposure.",
+    "image": null,
+    "publishedAt": "2026-10-23T17:01:45.000Z",
+    "collectedAt": "2026-10-24T08:36:23.346Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a0ce726ae91922e0c0aa3643",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T08:36:46.127Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs From $1.8 Trillion Giant Franklin Templeton Get Nasdaq Nod",
+        "fingerprint": "a0ce726ae91922e0c0aa3643"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1251,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
