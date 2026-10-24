@@ -49686,5 +49686,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "BCG Study Puts Custody At The Center Of Banks’ Digital Asset Plans",
+    "link": "https://www.newsbtc.com/business/bcg-ripple-custody-bank-digital-asset-study/",
+    "summary": "New BCG research examines how custody controls, technology choices and integration affect banks’ plans for digital asset services.",
+    "image": null,
+    "publishedAt": "2026-10-24T22:00:00.000Z",
+    "collectedAt": "2026-10-24T22:52:01.635Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c4ca8fdf1f19d94537ad3f45",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-24T22:52:04.419Z",
+    "outcome": {
+      "event": {
+        "title": "BCG Study Puts Custody At The Center Of Banks’ Digital Asset Plans",
+        "fingerprint": "c4ca8fdf1f19d94537ad3f45"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1267,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "SEC Adds Tokenization to 2027 Examination Priorities",
+    "link": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
+    "summary": "Clearing agencies and entities covered by Regulation SCI face explicit tokenization scrutiny, while transfer-agent technology reviews continue from 2026.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/41ca10fd45b934d1cc4f85362e7db7c0c2c95dc7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-23T14:27:17.000Z",
+    "collectedAt": "2026-10-24T22:52:01.635Z",
+    "corroboratingSources": 2,
+    "fingerprint": "94affa5cd4c5994d1a83488e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5.5,
+    "processedAt": "2026-10-24T22:52:05.536Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Adds Tokenization to 2027 Examination Priorities",
+        "fingerprint": "94affa5cd4c5994d1a83488e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1268,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "UAE-Led Operation Flags $39B Linked to Crypto and Online Scams",
+    "link": "https://cryptopotato.com/uae-led-operation-flags-39b-linked-to-crypto-and-online-scams/",
+    "summary": "The 3-month operation led to over 960 arrests, while authorities blocked thousands of bank accounts and closed hundreds of social accounts.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/01/PoliceArrest-min.jpg",
+    "publishedAt": "2026-10-24T22:09:47.000Z",
+    "collectedAt": "2026-10-24T22:52:01.635Z",
+    "corroboratingSources": 1,
+    "fingerprint": "97098d17e3a5c04b2c255a3a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-24T22:52:06.590Z",
+    "outcome": {
+      "event": {
+        "title": "UAE-Led Operation Flags $39B Linked to Crypto and Online Scams",
+        "fingerprint": "97098d17e3a5c04b2c255a3a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1269,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "AAVE whale moves $22.8M in tokens &#8211; Is $140 support at risk?",
+    "link": "https://ambcrypto.com/aave-whale-moves-22-8m-in-tokens-is-140-support-at-risk/",
+    "summary": "A long term institutional investor moved 156,690 AAVE, worth $22.86 million, possibly to sell",
+    "image": null,
+    "publishedAt": "2026-10-24T22:00:29.000Z",
+    "collectedAt": "2026-10-24T22:52:01.635Z",
+    "corroboratingSources": 1,
+    "fingerprint": "341a05d2a531939d1af68820",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-24T22:52:07.882Z",
+    "outcome": {
+      "event": {
+        "title": "AAVE whale moves $22.8M in tokens &#8211; Is $140 support at risk?",
+        "fingerprint": "341a05d2a531939d1af68820"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1270,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+    "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+    "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c9de0b20ae95de1a178d4e5154bdfe83bda7c652-6336x3564.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-24T14:00:00.000Z",
+    "collectedAt": "2026-10-24T22:52:01.635Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1567a401e3d91f330f1cd288",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-24T22:52:08.864Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+        "fingerprint": "1567a401e3d91f330f1cd288"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1271,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
