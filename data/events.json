@@ -49481,5 +49481,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
+    "link": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
+    "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/386422fa78c8a665dad38232738d81223c1af8b8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-24T19:41:15.000Z",
+    "collectedAt": "2026-10-24T20:09:54.593Z",
+    "corroboratingSources": 1,
+    "fingerprint": "30629fa9e3df32d3e3c93d23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-24T20:09:59.207Z",
+    "outcome": {
+      "event": {
+        "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
+        "fingerprint": "30629fa9e3df32d3e3c93d23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1262,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SEC Puts Tokenization On Its 2027 Examination Agenda",
+    "link": "https://www.newsbtc.com/crypto-regulation/sec-tokenization-2027-examination-priorities/",
+    "summary": "The SEC’s new examination agenda puts tokenized securities, clearing infrastructure and technology controls under the spotlight.",
+    "image": null,
+    "publishedAt": "2026-10-24T18:00:00.000Z",
+    "collectedAt": "2026-10-24T20:09:54.593Z",
+    "corroboratingSources": 2,
+    "fingerprint": "1f7882a7b30dd6c147f0a2af",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-24T20:10:06.071Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Puts Tokenization On Its 2027 Examination Agenda",
+        "fingerprint": "1f7882a7b30dd6c147f0a2af"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1263,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "SEC adds tokenization to 2027 priorities &#8211; Here&#8217;s why it matters",
+    "link": "https://ambcrypto.com/sec-adds-tokenization-to-2027-priorities-heres-why-it-matters/",
+    "summary": "SEC flags tokenization for closer scrutiny in FY 2027 as blockchain finance grows increasingly mainstream.",
+    "image": null,
+    "publishedAt": "2026-10-24T18:00:02.000Z",
+    "collectedAt": "2026-10-24T20:09:54.593Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fea69dbb8bedb266c9d2ef2f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T20:10:11.020Z",
+    "outcome": {
+      "event": {
+        "title": "SEC adds tokenization to 2027 priorities &#8211; Here&#8217;s why it matters",
+        "fingerprint": "fea69dbb8bedb266c9d2ef2f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1264,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin faces THREE major tests &#8211; Can BTC avoid another 17% November crash?",
+    "link": "https://ambcrypto.com/bitcoin-faces-3-major-tests-can-btc-avoid-another-17-november-crash/",
+    "summary": "Rising oil prices and ETF outflows put Bitcoin’s November outlook at risk.",
+    "image": null,
+    "publishedAt": "2026-10-24T20:00:31.000Z",
+    "collectedAt": "2026-10-24T20:09:54.593Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c05cb5010c28adb87c3274dd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-24T20:10:17.241Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin faces THREE major tests &#8211; Can BTC avoid another 17% November crash?",
+        "fingerprint": "c05cb5010c28adb87c3274dd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1265,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+    "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+    "summary": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-24T14:06:24.000Z",
+    "collectedAt": "2026-10-24T20:09:54.592Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eff577e8666b0e380aa2689f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-24T20:10:19.994Z",
+    "outcome": {
+      "event": {
+        "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+        "fingerprint": "eff577e8666b0e380aa2689f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1266,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

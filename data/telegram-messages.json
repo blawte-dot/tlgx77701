@@ -8087,5 +8087,40 @@
     "hasImage": true,
     "eventFingerprint": "0d34330f09566bd71031ee56",
     "timestamp": "2026-10-24T17:10:25.116Z"
+  },
+  {
+    "messageId": 1262,
+    "text": "Four fresh wallets just received 400 ETH each from the X100 protocol exploiter. \n\nOn-chain trackers flagged the movement hours after the initial breach. The primary exploiter swapped roughly 4.75 million USDT for ether before scattering the funds across multiple addresses. \n\nMeanwhile, the main distribution wallet still holds an intact balance of 423 ETH. \n\nAnalysis from security firms indicates the laundering pattern is ongoing as investigators monitor the destination addresses for exchange deposits.",
+    "hasImage": true,
+    "eventFingerprint": "30629fa9e3df32d3e3c93d23",
+    "timestamp": "2026-10-24T20:09:59.189Z"
+  },
+  {
+    "messageId": 1263,
+    "text": "The SEC isn't waiting for the market to catch up to real-world asset tokenization.\n\nThe agency's newly released 2027 examination agenda puts tokenized securities, clearing infrastructure, and underlying tech controls directly under regulatory scrutiny. \n\nWhile most of the industry is focused on spot ETF flows and retail volumes, Washington is methodically building the oversight framework for institutional-grade blockchain rails. \n\nHow does this heavy-handed focus on compliance change your outlook for tokenized RWAs over the next twelve months? Are compliance burdens going to stall institutional adoption, or does regulatory clarity actually clear the path for serious capital to enter? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "1f7882a7b30dd6c147f0a2af",
+    "timestamp": "2026-10-24T20:10:06.049Z"
+  },
+  {
+    "messageId": 1264,
+    "text": "Will the SEC’s newly expanded radar finally bring regulatory clarity to blockchain-based asset issuance, or just more friction?\n\nFederal regulators have officially flagged tokenization for heightened examination in their fiscal year 2027 priorities. \n\nAs traditional finance continues bridging into decentralized rails, the commission aims to take a closer look at how real-world assets are packaged and traded on-chain. \n\nThe move signals growing institutional adoption, alongside a parallel push for tighter compliance oversight across digital asset markets.",
+    "hasImage": true,
+    "eventFingerprint": "fea69dbb8bedb266c9d2ef2f",
+    "timestamp": "2026-10-24T20:10:10.999Z"
+  },
+  {
+    "messageId": 1265,
+    "text": "November is rarely a quiet month for Bitcoin, and current macro conditions are testing that historical volatility once again.\n\nSpot ETF outflows combined with climbing crude oil prices are applying renewed downward pressure on the market. \n\nAnalysts note that a confluence of technical resistance and shifting liquidity could trigger a deeper correction if support levels fail to hold over the coming weeks.",
+    "hasImage": true,
+    "eventFingerprint": "c05cb5010c28adb87c3274dd",
+    "timestamp": "2026-10-24T20:10:17.224Z"
+  },
+  {
+    "messageId": 1266,
+    "text": "Corporate pushback against tokenized equities is compounding fast. \n\nReuters reports that six more major firms—including Wells Fargo, Cisco, and Marvell—have formally objected to OKXICE's tokenized stock offerings. That brings the total count of objecting companies to 22, signaling a widening friction point between traditional corporate governance and digital asset platforms.\n\nWhere is this regulatory and legal standoff heading? Will traditional issuers successfully block off-exchange tokenized representations of their equity, or does this simply accelerate the shift toward permissionless, decentralized market structures? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "eff577e8666b0e380aa2689f",
+    "timestamp": "2026-10-24T20:10:19.975Z"
   }
 ]
