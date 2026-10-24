@@ -49276,5 +49276,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+    "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+    "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dc1a0236f5c1c10010c2b1e42f39c41736508170-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-24T16:00:00.000Z",
+    "collectedAt": "2026-10-24T17:10:15.894Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1bb14bc988b893cb47766891",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-24T17:10:18.403Z",
+    "outcome": {
+      "event": {
+        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+        "fingerprint": "1bb14bc988b893cb47766891"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1257,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Circle shareholder sues Trump over UAE crypto deals, citing up to $82 million in potential annual revenue",
+    "link": "https://cryptoslate.com/circle-shareholder-sues-trump-over-uae-crypto-deals-citing-up-to-82-million-in-potential-annual-revenue/",
+    "summary": "A Circle shareholder sued President Donald Trump, alleging UAE-linked cryptocurrency payments enriched his family and diverted business from USDC. The complaint, filed Oct. 22 in Washington federal court, challenges a $500 million investment in Trump&#039;s World Liberty Financial and a separate $2 billion transaction settled using its USD1 stablecoin. The lawsuit alleges that “No president…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get T",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/circle-usd1-reserve-dispute.webp",
+    "publishedAt": "2026-10-24T15:45:44.000Z",
+    "collectedAt": "2026-10-24T17:10:15.894Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9fb66892f27b7fa64a2fd884",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-24T17:10:20.040Z",
+    "outcome": {
+      "event": {
+        "title": "Circle shareholder sues Trump over UAE crypto deals, citing up to $82 million in potential annual revenue",
+        "fingerprint": "9fb66892f27b7fa64a2fd884"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1258,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Franklin Moves Bitcoin DRIP ETFs Toward Nasdaq With Dividend Reinvestment Plan",
+    "link": "https://www.newsbtc.com/bitcoin-news/franklin-bitcoin-drip-etfs-nasdaq-dividend-reinvestment/",
+    "summary": "Two Franklin ETF filings combine US equities with a Bitcoin allocation funded through dividends, adding a different route to crypto exposure.",
+    "image": null,
+    "publishedAt": "2026-10-24T14:00:00.000Z",
+    "collectedAt": "2026-10-24T17:10:15.894Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2e73dd3c8e84bc9c87200cba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-24T17:10:22.470Z",
+    "outcome": {
+      "event": {
+        "title": "Franklin Moves Bitcoin DRIP ETFs Toward Nasdaq With Dividend Reinvestment Plan",
+        "fingerprint": "2e73dd3c8e84bc9c87200cba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1259,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Dogecoin ETF Sees Biggest Weekly Withdrawal in October",
+    "link": "https://u.today/dogecoin-etf-sees-biggest-weekly-withdrawal-in-october",
+    "summary": "Dogecoin faces poor ETF performance as demand from institutional investors remains on hold amid continued market volatility.",
+    "image": null,
+    "publishedAt": "2026-10-24T16:06:00.000Z",
+    "collectedAt": "2026-10-24T17:10:15.895Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c6640194dbfd9bd81c41ea5f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-24T17:10:24.101Z",
+    "outcome": {
+      "event": {
+        "title": "Dogecoin ETF Sees Biggest Weekly Withdrawal in October",
+        "fingerprint": "c6640194dbfd9bd81c41ea5f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1260,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+    "link": "https://bitcoinmagazine.com/news/blockstream-launches-institutional-service",
+    "summary": "Bitcoin Magazine\n\nBlockstream Launches Institutional Consulting Services, Opens Lugano Office\nBlockstream will offer its engineering expertise to banks and asset managers from a new Swiss base.\nThis post Blockstream Launches Institutional Consulting Services, Opens Lugano Office first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Blockstream-Launches-Institutional-Consulting-Services-Opens-Lugano-Office.jpg",
+    "publishedAt": "2026-10-23T21:20:39.000Z",
+    "collectedAt": "2026-10-24T17:10:15.894Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0d34330f09566bd71031ee56",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-24T17:10:25.130Z",
+    "outcome": {
+      "event": {
+        "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+        "fingerprint": "0d34330f09566bd71031ee56"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1261,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
