@@ -49071,5 +49071,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bloomberg Adds Basel Crypto Exposure Classification For Banks And Asset Managers",
+    "link": "https://www.newsbtc.com/crypto-regulation/bloomberg-basel-crypto-exposure-classification-analytics/",
+    "summary": "Bloomberg has expanded its crypto analytics to classify bank exposure under Basel standards, including indirect holdings hidden inside funds, derivatives and corporate securities.",
+    "image": null,
+    "publishedAt": "2026-10-24T10:30:00.000Z",
+    "collectedAt": "2026-10-24T13:04:28.072Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d4882d7b1689ffe21754dfce",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-24T13:04:33.790Z",
+    "outcome": {
+      "event": {
+        "title": "Bloomberg Adds Basel Crypto Exposure Classification For Banks And Asset Managers",
+        "fingerprint": "d4882d7b1689ffe21754dfce"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1252,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+    "link": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+    "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hong-kong-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-10-24T13:01:02.000Z",
+    "collectedAt": "2026-10-24T13:04:28.072Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6ffaac32a999bf053a55cbfc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-24T13:04:39.990Z",
+    "outcome": {
+      "event": {
+        "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+        "fingerprint": "6ffaac32a999bf053a55cbfc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1253,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Initia halts L1 and rollups after $2.7 million exploit — What happened?",
+    "link": "https://ambcrypto.com/initia-halts-l1-and-rollups-after-2-7-million-exploit-what-happened/",
+    "summary": "Initia’s security incident has once again raised fresh concerns about bridge vulnerabilities.",
+    "image": null,
+    "publishedAt": "2026-10-24T09:00:08.000Z",
+    "collectedAt": "2026-10-24T13:04:28.072Z",
+    "corroboratingSources": 2,
+    "fingerprint": "ad329f6c41a4679a2eed5559",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-24T13:04:44.064Z",
+    "outcome": {
+      "event": {
+        "title": "Initia halts L1 and rollups after $2.7 million exploit — What happened?",
+        "fingerprint": "ad329f6c41a4679a2eed5559"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1254,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "243,000 BTC Accumulated Since July: Bitcoin Whale Activity Makes Bullish Reversal",
+    "link": "https://u.today/243000-btc-accumulated-since-july-bitcoin-whale-activity-makes-bullish-reversal",
+    "summary": "Bitcoin whales have resumed accumulating Bitcoin after they stopped selling in July. Since then, they have bought over 243,000 BTC.",
+    "image": null,
+    "publishedAt": "2026-10-24T11:50:59.000Z",
+    "collectedAt": "2026-10-24T13:04:28.072Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6871f20f5c34523467665b2b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-24T13:04:50.158Z",
+    "outcome": {
+      "event": {
+        "title": "243,000 BTC Accumulated Since July: Bitcoin Whale Activity Makes Bullish Reversal",
+        "fingerprint": "6871f20f5c34523467665b2b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1255,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitcoin ETFs Record $773 Million in Two-Day Outflows as BTC Price Tests $80,000",
+    "link": "https://u.today/bitcoin-etfs-record-773-million-in-two-day-outflows-as-btc-price-tests-80000",
+    "summary": "U.S. spot Bitcoin ETFs recorded $137.94 million in net outflows on Oct. 23, bringing combined withdrawals over two sessions to $773.43 million.",
+    "image": null,
+    "publishedAt": "2026-10-24T11:19:00.000Z",
+    "collectedAt": "2026-10-24T13:04:28.072Z",
+    "corroboratingSources": 1,
+    "fingerprint": "57723a7243b85e30b08eb78e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-24T13:04:55.046Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Record $773 Million in Two-Day Outflows as BTC Price Tests $80,000",
+        "fingerprint": "57723a7243b85e30b08eb78e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1256,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

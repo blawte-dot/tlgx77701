@@ -8017,5 +8017,40 @@
     "hasImage": true,
     "eventFingerprint": "a0ce726ae91922e0c0aa3643",
     "timestamp": "2026-10-24T08:36:46.110Z"
+  },
+  {
+    "messageId": 1252,
+    "text": "Wall Street's compliance engines just got x-ray vision for digital assets. \n\nBloomberg has integrated the Basel Committee's strict crypto exposure classifications directly into its terminal analytics. \n\nThat means institutional risk managers can no longer hide digital asset exposure behind derivatives, complex multi-asset funds, or corporate proxy holdings. \n\nEvery indirect vehicle is now tagged, measured, and weighed against global capital adequacy rules. \n\nFor banks and asset managers, regulatory ambiguity is shrinking fast. Capital allocation to crypto is moving out of the gray zone and straight onto the balance sheet's most scrutinized risk dashboards.",
+    "hasImage": true,
+    "eventFingerprint": "d4882d7b1689ffe21754dfce",
+    "timestamp": "2026-10-24T13:04:33.772Z"
+  },
+  {
+    "messageId": 1253,
+    "text": "3 million wallets just woke up to bank-issued crypto. 🇭🇰\n\nHSBC flipped the switch on its Hong Kong dollar stablecoin inside its PayMe app on Friday. \n\nThis isn't a sandbox experiment or another closed-loop corporate loyalty point. It’s a systemic test of whether commercial banks can successfully merge blockchain rails with everyday consumer finance at scale. \n\nIf retail adoption sticks, traditional banking infrastructure in the region just took a massive step toward full tokenization.",
+    "hasImage": true,
+    "eventFingerprint": "6ffaac32a999bf053a55cbfc",
+    "timestamp": "2026-10-24T13:04:39.973Z"
+  },
+  {
+    "messageId": 1254,
+    "text": "Who builds an exit strategy right into the consensus layer?\n\nInitia hit the emergency brakes on its L1 and rollups following a $2.7 million exploit earlier today, handing the industry yet another painful reminder about bridge architecture. \n\nCode is law until the bridge becomes the getaway car. Another day, another masterclass in why interoperability remains crypto's favorite vector for expensive lessons.",
+    "hasImage": true,
+    "eventFingerprint": "ad329f6c41a4679a2eed5559",
+    "timestamp": "2026-10-24T13:04:44.047Z"
+  },
+  {
+    "messageId": 1255,
+    "text": "243,000 bitcoins changed hands over the summer, and the sell-side pressure has officially dried up. \n\nData shows large holders have reversed course entirely, stepping back into a heavy accumulation phase after months of steady distribution since July. \n\nMarket depth and exchange outflows are beginning to reflect the shift, though spot price action remains compressed within its current range.",
+    "hasImage": true,
+    "eventFingerprint": "6871f20f5c34523467665b2b",
+    "timestamp": "2026-10-24T13:04:50.141Z"
+  },
+  {
+    "messageId": 1256,
+    "text": "$773,000,000 left spot Bitcoin ETFs in just 48 hours. 📉\n\nU.S. funds logged another $137.94 million in net withdrawals on October 23, extending a sharp two-day capital exit as Bitcoin tests the $80,000 threshold. \n\nTraders are actively trimming exposure amid the broader price pullback, shifting momentum across major institutional products.",
+    "hasImage": true,
+    "eventFingerprint": "57723a7243b85e30b08eb78e",
+    "timestamp": "2026-10-24T13:04:55.029Z"
   }
 ]
