@@ -48661,5 +48661,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin ETF outflows hit $635M as BTC price tests $81K support",
+    "link": "https://ambcrypto.com/bitcoin-etf-outflows-hit-635m-as-btc-price-tests-81k-support/",
+    "summary": "Here's how BTC ETFs reversed its $1.05 billion inflow record in just one day.",
+    "image": null,
+    "publishedAt": "2026-10-24T02:00:48.000Z",
+    "collectedAt": "2026-10-24T03:10:15.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "710bd1adfb88748e54b957fa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-24T03:10:19.637Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF outflows hit $635M as BTC price tests $81K support",
+        "fingerprint": "710bd1adfb88748e54b957fa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1242,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+    "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg",
+    "publishedAt": "2026-10-23T10:13:06.000Z",
+    "collectedAt": "2026-10-24T03:10:15.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4f7b6c96c351771c59a08432",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T03:10:20.744Z",
+    "outcome": {
+      "event": {
+        "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+        "fingerprint": "4f7b6c96c351771c59a08432"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1243,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KQ8H85QR2DC93BFCNF4N1X/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-2.jpg",
+    "publishedAt": "2026-10-23T07:09:39.000Z",
+    "collectedAt": "2026-10-24T03:10:15.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "303ffb3e2f066b0c02e65630",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T03:10:21.701Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+        "fingerprint": "303ffb3e2f066b0c02e65630"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1244,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+    "link": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+    "summary": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Israel-Flag-DecryptStyle-gID_7.jpg",
+    "publishedAt": "2026-10-23T21:16:03.000Z",
+    "collectedAt": "2026-10-24T03:10:15.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8431d2a8c78e7d538a2b3a0f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T03:10:22.922Z",
+    "outcome": {
+      "event": {
+        "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+        "fingerprint": "8431d2a8c78e7d538a2b3a0f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1245,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+    "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+    "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+    "publishedAt": "2026-10-23T15:50:41.000Z",
+    "collectedAt": "2026-10-24T03:10:15.516Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1b3f9fff014ca66cbda7a616",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-24T03:10:23.966Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+        "fingerprint": "1b3f9fff014ca66cbda7a616"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1246,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
