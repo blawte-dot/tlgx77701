@@ -50711,5 +50711,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Kraken Ends Trading In 13 Tokens As A Separate Withdrawal Deadline Begins",
+    "link": "https://www.newsbtc.com/crypto-news/kraken-13-token-delistings-withdrawal-deadline-january-2027/",
+    "summary": "Kraken's October delistings have moved into the withdrawal phase. Trading and deposits for 13 assets were scheduled to stop on October 23, while customers have a longer window to remove remaining tokens before the exchange begins liquidating balances.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2025/12/Kraken-Review-Is-It-Safe-Legit-Crypto-Exchange.jpg",
+    "publishedAt": "2026-10-25T17:00:00.000Z",
+    "collectedAt": "2026-10-25T18:05:21.405Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fa8eef1ef2fe73ff9d751e26",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-25T18:05:23.745Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken Ends Trading In 13 Tokens As A Separate Withdrawal Deadline Begins",
+        "fingerprint": "fa8eef1ef2fe73ff9d751e26"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1291,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Can the Federal Reserve Keep Rates High Without Breaking Something?",
+    "link": "https://cryptopotato.com/can-the-federal-reserve-keep-rates-high-without-breaking-something/",
+    "summary": "And what could be the implications for BTC as the Fed heads into next week's FOMC meeting facing a highly uncomfortable trade-off.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Federal_Reserve.jpg",
+    "publishedAt": "2026-10-25T14:49:27.000Z",
+    "collectedAt": "2026-10-25T18:05:21.405Z",
+    "corroboratingSources": 1,
+    "fingerprint": "93fc7dabfa64818e8551f3bc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-25T18:05:24.981Z",
+    "outcome": {
+      "event": {
+        "title": "Can the Federal Reserve Keep Rates High Without Breaking Something?",
+        "fingerprint": "93fc7dabfa64818e8551f3bc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1292,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Ripple And Arf Target The Short Funding Gap Behind Cross-Border Payments",
+    "link": "https://www.newsbtc.com/xrp-news/ripple-arf-rlusd-working-capital-payment-settlement/",
+    "summary": "A payment can move across a blockchain in seconds while the company delivering it remains short of cash for days. Ripple's new arrangement with Arf targets that funding mismatch, using RLUSD to supply working capital to licensed payment businesses.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/ChatGPT-Image-2.-Juni-2026-13_24_16.png",
+    "publishedAt": "2026-10-25T15:00:00.000Z",
+    "collectedAt": "2026-10-25T18:05:21.405Z",
+    "corroboratingSources": 1,
+    "fingerprint": "795fcda564ad8c1313b85cbf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-25T18:05:31.731Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple And Arf Target The Short Funding Gap Behind Cross-Border Payments",
+        "fingerprint": "795fcda564ad8c1313b85cbf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1293,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Prediction: What&#8217;s the Most Likely Scenario for BTC Next Week?",
+    "link": "https://cryptopotato.com/bitcoin-price-prediction-whats-the-most-likely-scenario-for-btc-next-week-2/",
+    "summary": "Bitcoin is hovering near $80.5K after its latest rebound failed to hold above resistance. The short-term structure remains bearish, with buyers defending the $80K region while substantial liquidation exposure sits below recent lows. Bitcoin Price Analysis: The Daily Chart On the daily timeframe, Bitcoin’s recovery toward $84K–$85K was followed by a sharp rejection and renewed [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/BTC-D-8.jpg",
+    "publishedAt": "2026-10-25T16:34:31.000Z",
+    "collectedAt": "2026-10-25T18:05:21.405Z",
+    "corroboratingSources": 1,
+    "fingerprint": "919a2f340158c481b054f84d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-25T18:05:39.360Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Prediction: What&#8217;s the Most Likely Scenario for BTC Next Week?",
+        "fingerprint": "919a2f340158c481b054f84d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1294,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Pump.fun&#8217;s biggest winners may be impossible to copy as $752 million study exposes hidden trading gap",
+    "link": "https://cryptoslate.com/pump-funs-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap/",
+    "summary": "Bitquery&#039;s transfer-aware analysis shows why a large address gain can conceal an acquisition a follower cannot reproduce.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/wallet-profits-follower-barrier.webp",
+    "publishedAt": "2026-10-25T15:50:20.000Z",
+    "collectedAt": "2026-10-25T18:05:21.405Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cd45e9c3408258f076fe1af6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T18:05:40.441Z",
+    "outcome": {
+      "event": {
+        "title": "Pump.fun&#8217;s biggest winners may be impossible to copy as $752 million study exposes hidden trading gap",
+        "fingerprint": "cd45e9c3408258f076fe1af6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1295,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
