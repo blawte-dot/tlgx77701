@@ -50916,5 +50916,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "How $37 million stolen from Americans moved through a Bahamas bank into Tether&#8217;s USDT",
+    "link": "https://cryptoslate.com/how-37-million-stolen-from-americans-moved-through-a-bahamas-bank-into-tethers-usdt/",
+    "summary": "Prosecutors allege a bank-to-USDT laundering role in a case involving 174 identified US victims; no new repayment figure was announced.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/zhao-extradition-court-case.webp",
+    "publishedAt": "2026-10-25T18:40:29.000Z",
+    "collectedAt": "2026-10-25T21:23:57.177Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e8d4fdb0ca06e569b12c06d8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-25T21:23:59.616Z",
+    "outcome": {
+      "event": {
+        "title": "How $37 million stolen from Americans moved through a Bahamas bank into Tether&#8217;s USDT",
+        "fingerprint": "e8d4fdb0ca06e569b12c06d8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1296,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bank Lobby Presses OCC For Clarity On Stablecoin Rewards After Final Rule",
+    "link": "https://www.newsbtc.com/crypto-regulation/bpi-occ-stablecoin-yield-rewards-clarity/",
+    "summary": "A final stablecoin rule has not ended the argument over rewards. The Bank Policy Institute used its October 24 newsletter to renew criticism of how the Office of the Comptroller of the Currency will judge arrangements that pay stablecoin holders through third parties.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/shutterstock_2139614619.jpg",
+    "publishedAt": "2026-10-25T19:00:00.000Z",
+    "collectedAt": "2026-10-25T21:23:57.177Z",
+    "corroboratingSources": 1,
+    "fingerprint": "080e607e38dfde6a767eb6f9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-25T21:24:00.567Z",
+    "outcome": {
+      "event": {
+        "title": "Bank Lobby Presses OCC For Clarity On Stablecoin Rewards After Final Rule",
+        "fingerprint": "080e607e38dfde6a767eb6f9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1297,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "&#8216;Not good for Zcash&#8217; &#8211; ZODL founder pushes back against Crosslink upgrade",
+    "link": "https://ambcrypto.com/not-good-for-zcash-zodl-founder-pushes-back-against-crosslink-upgrade/",
+    "summary": "Zcash plans to merge Bitcoin's security features and Solana-like block speeds meets heavy criticism.",
+    "image": null,
+    "publishedAt": "2026-10-25T20:00:19.000Z",
+    "collectedAt": "2026-10-25T21:23:57.177Z",
+    "corroboratingSources": 1,
+    "fingerprint": "40c8639a34833aea5e14d360",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-25T21:24:02.323Z",
+    "outcome": {
+      "event": {
+        "title": "&#8216;Not good for Zcash&#8217; &#8211; ZODL founder pushes back against Crosslink upgrade",
+        "fingerprint": "40c8639a34833aea5e14d360"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1298,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed",
+    "link": "https://cryptoslate.com/initia-hack-drove-its-usdc-bridge-reserve-down-to-63-as-withdrawals-failed/",
+    "summary": "Bitquery linked failed exits to depleted backing for Initia balances as the project outlined a patch and ongoing recovery work.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/initia-withdrawal-reserve-collapse.webp",
+    "publishedAt": "2026-10-25T19:45:11.000Z",
+    "collectedAt": "2026-10-25T21:23:57.177Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a317acd54b3ec0dffe49a048",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T21:24:03.362Z",
+    "outcome": {
+      "event": {
+        "title": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed",
+        "fingerprint": "a317acd54b3ec0dffe49a048"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1299,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Another Big Pi Network Update Is Live: Here’s What Pioneers Need to Know",
+    "link": "https://cryptopotato.com/another-big-pi-network-update-is-live-heres-what-pioneers-need-to-know/",
+    "summary": "The team has released another major upgrade, removing a key technical barrier for SoloHost while strengthening app security.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/03/pi_cb_q.png",
+    "publishedAt": "2026-10-25T09:48:44.000Z",
+    "collectedAt": "2026-10-25T21:23:57.177Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f5a2460143cd8bdf4863f15f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T21:24:04.549Z",
+    "outcome": {
+      "event": {
+        "title": "Another Big Pi Network Update Is Live: Here’s What Pioneers Need to Know",
+        "fingerprint": "f5a2460143cd8bdf4863f15f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1300,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

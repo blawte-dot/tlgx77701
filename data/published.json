@@ -9515,5 +9515,45 @@
     "hasImage": true,
     "eventFingerprint": "cd45e9c3408258f076fe1af6",
     "timestamp": "2026-10-25T18:05:40.430Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1296,
+    "text": "How do millions in stolen funds vanish from US bank accounts and reappear as stablecoins in international order books?\n\nFederal prosecutors have outlined a complex laundering pipeline routing roughly $37 million from 174 identified American victims through a Bahamas-based financial institution and directly into Tether's USDT. \n\nCourt filings detail how the scheme leveraged offshore banking channels to obscure the trail before converting fiat into digital assets. \n\nWhile the investigation highlights ongoing cross-border enforcement scrutiny on fiat-to-crypto gateways, authorities have not yet announced any recovery or victim repayment figures. \n\nRead the full story on CryptoSlate.",
+    "hasImage": true,
+    "eventFingerprint": "e8d4fdb0ca06e569b12c06d8",
+    "timestamp": "2026-10-25T21:23:59.607Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1297,
+    "text": "Regulatory grey zones around stablecoin yields are keeping traditional banking lobbies on high alert.\n\nThe Bank Policy Institute renewed pressure on the OCC via its October 24 newsletter, demanding absolute clarity on how regulators will police third-party reward arrangements for stablecoin holders. \n\nEven as final rulemakings roll out, the debate over who controls digital asset yield generation remains far from settled.",
+    "hasImage": true,
+    "eventFingerprint": "080e607e38dfde6a767eb6f9",
+    "timestamp": "2026-10-25T21:24:00.559Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1298,
+    "text": "When your privacy coin tries to borrow speed from Solana and security from Bitcoin, maybe the problem isn't the code. \n\nThe ZODL founder is pushing back hard against the proposed Crosslink upgrade, arguing it misses the entire point of what Zcash is supposed to be. \n\nTrying to be everything to everyone usually ends up satisfying no one.",
+    "hasImage": true,
+    "eventFingerprint": "40c8639a34833aea5e14d360",
+    "timestamp": "2026-10-25T21:24:02.276Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1299,
+    "text": "Your bridge reserves shouldn't be dropping to the price of a cheap dinner. ⚠️\n\nInitia's USDC bridge reserve plummeted to just $63 following an exploit that left user withdrawals hanging. \n\nOn-chain data firm Bitquery tied the failed exits directly to the depleted backing for Initia balances. \n\nDevelopers have outlined a patch and say recovery work is ongoing, though full restoration timelines remain fluid.",
+    "hasImage": true,
+    "eventFingerprint": "a317acd54b3ec0dffe49a048",
+    "timestamp": "2026-10-25T21:24:03.353Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1300,
+    "text": "Millions of miners might have missed the fine print on the latest protocol overhaul.\n\nPi Network core developers have rolled out a significant upgrade targeting two long-standing friction points for the ecosystem. \n\nThe patch removes a technical barrier specifically impacting SoloHost operators while introducing deeper security layers across integrated applications. \n\nAccording to coverage from CryptoPotato, the changes are live across the network now, though wider community rollout timelines remain fluid. \n\nWe are tracking whether node operators report immediate stability improvements following the patch.",
+    "hasImage": true,
+    "eventFingerprint": "f5a2460143cd8bdf4863f15f",
+    "timestamp": "2026-10-25T21:24:04.540Z"
   }
 ]
