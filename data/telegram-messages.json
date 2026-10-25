@@ -8192,5 +8192,40 @@
     "hasImage": true,
     "eventFingerprint": "a09a30cc76f75a86ce89e09d",
     "timestamp": "2026-10-25T00:47:18.403Z"
+  },
+  {
+    "messageId": 1277,
+    "text": "Liquidation mechanics are the invisible plumbing holding DeFi together—and Aave just drew a clear line on how they survive its next upgrade.\n\nThe protocol's V3.8 security proposal directly addresses concerns around flash-loan integrations, confirming that critical liquidation pathways will remain fully intact under the new guardrails. \n\nFor lenders and liquidators alike, the clarification removes lingering ambiguity over how automated debt resolution operates alongside proposed risk mitigations. \n\nExecution speed and market efficiency depend entirely on these edge cases working as intended. Aave is betting that tighter security doesn't have to break the composability that built the ecosystem.",
+    "hasImage": true,
+    "eventFingerprint": "c9bbf41319811aa761e3eec2",
+    "timestamp": "2026-10-25T05:38:28.112Z"
+  },
+  {
+    "messageId": 1278,
+    "text": "Daily ETF inflows have long been treated as a reliable proxy for Bitcoin’s next leg up. \n\nA new study from DWF challenges that assumption, pointing to a disconnect between daily fund movements and actual spot price action. \n\nRelying on single-day creation and redemption totals as a directional forecast may miss the broader liquidity picture. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "8fff3c2cabfcd2edad595898",
+    "timestamp": "2026-10-25T05:38:29.129Z"
+  },
+  {
+    "messageId": 1279,
+    "text": "Could your own wallet server be working against you? \n\nElectrum has patched a security vulnerability that allowed malicious servers to substitute fake payment details and trick users into signing altered transactions with inflated fees. \n\nDevelopers confirmed at least one confirmed report of user funds being lost via this exploit. \n\nIf you use the desktop or mobile client, update to the latest version immediately to secure your connections against hostile nodes.",
+    "hasImage": true,
+    "eventFingerprint": "2d3aab737df3505efd4e0e64",
+    "timestamp": "2026-10-25T05:38:30.241Z"
+  },
+  {
+    "messageId": 1280,
+    "text": "Don't mistake corporate caution for the death of tokenized equities.\n\nWhen McDonald's, Microsoft, and Google reportedly pushed back against being listed on the SEC's first tokenized securities sandbox, headlines quickly cried failure. \n\nThe reality on the ground is more nuanced. \n\nIssuers are naturally hesitant to step into unchartered regulatory territory without established precedents. Resistance to an initial innovation exemption framework highlights legal uncertainty, not a structural rejection of blockchain rails for traditional assets.\n\nAdoption rarely happens overnight.",
+    "hasImage": true,
+    "eventFingerprint": "a7d6dfe323429320b11c688f",
+    "timestamp": "2026-10-25T05:38:31.375Z"
+  },
+  {
+    "messageId": 1281,
+    "text": "Liquidation cascades do not care about round numbers.\n\nBitcoin briefly dipped below the $80,000 mark earlier today, triggering an aggressive flush that wiped out $404 million in leveraged long positions in just four hours. \n\nThe sharp downside move coincides with a sudden shift in institutional demand. \n\nSpot Bitcoin ETFs recorded $773 million in net outflows across Thursday and Friday, reversing a brief three-day accumulation streak, according to data from SoSoValue. \n\nMarket structure is currently testing local support zones as spot selling pressure meets over-leveraged positioning.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "3e8502b2df5ec0d69cb5cc7e",
+    "timestamp": "2026-10-25T05:38:32.518Z"
   }
 ]

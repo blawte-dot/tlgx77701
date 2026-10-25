@@ -50096,5 +50096,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Aave Says V3.8 Security Proposal Preserves Flash-Loan Liquidations",
+    "link": "https://www.newsbtc.com/news/defi/aave-v3-8-flash-loan-liquidation-guard-proposal/",
+    "summary": "Aave’s V3.8 clarification addresses how its proposed security guard would interact with flash-loan integrations and liquidations.",
+    "image": null,
+    "publishedAt": "2026-10-25T02:00:00.000Z",
+    "collectedAt": "2026-10-25T05:38:25.200Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c9bbf41319811aa761e3eec2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-25T05:38:28.127Z",
+    "outcome": {
+      "event": {
+        "title": "Aave Says V3.8 Security Proposal Preserves Flash-Loan Liquidations",
+        "fingerprint": "c9bbf41319811aa761e3eec2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1277,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin ETF Flows Trail Price Moves, DWF Study Finds",
+    "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-etf-flows-trail-price-dwf-study/",
+    "summary": "DWF’s ETF-flow study raises questions about using a daily fund-flow total as a price forecast.",
+    "image": null,
+    "publishedAt": "2026-10-25T04:00:00.000Z",
+    "collectedAt": "2026-10-25T05:38:25.200Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8fff3c2cabfcd2edad595898",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-25T05:38:29.144Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF Flows Trail Price Moves, DWF Study Finds",
+        "fingerprint": "8fff3c2cabfcd2edad595898"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1278,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
+    "link": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
+    "summary": "A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing money.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/26df92e484a86266e338dfba905f61ad84262ac9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-24T17:57:11.000Z",
+    "collectedAt": "2026-10-25T05:38:25.200Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2d3aab737df3505efd4e0e64",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T05:38:30.256Z",
+    "outcome": {
+      "event": {
+        "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
+        "fingerprint": "2d3aab737df3505efd4e0e64"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1279,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+    "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+    "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f5b4bcc5ab7ba1437f88bb9961bbd70e3bbb448-5624x3749.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-24T15:00:00.000Z",
+    "collectedAt": "2026-10-25T05:38:25.200Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a7d6dfe323429320b11c688f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-25T05:38:31.390Z",
+    "outcome": {
+      "event": {
+        "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+        "fingerprint": "a7d6dfe323429320b11c688f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1280,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+    "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+    "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220516-News-Market-Decline-3.png",
+    "publishedAt": "2026-10-24T17:44:36.000Z",
+    "collectedAt": "2026-10-25T05:38:25.200Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e8502b2df5ec0d69cb5cc7e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-25T05:38:32.534Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+        "fingerprint": "3e8502b2df5ec0d69cb5cc7e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1281,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
