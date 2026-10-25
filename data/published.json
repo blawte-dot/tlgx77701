@@ -9323,5 +9323,45 @@
     "hasImage": true,
     "eventFingerprint": "1567a401e3d91f330f1cd288",
     "timestamp": "2026-10-24T22:52:08.859Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1272,
+    "text": "Are you running an outdated Bitcoin node?\n\nBitcoin Core developers have changed how security patches are handled, shifting to backport fixes for easily rediscovered vulnerabilities across all active release lines simultaneously. \n\nThe policy shift comes as network data reveals nearly 44% of self-reported Bitcoin Core peers are operating on end-of-life versions. \n\nRunning unsupported software leaves nodes exposed to known vulnerabilities that developers are actively patching. \n\nOperators are advised to review their setups and update to currently maintained releases.",
+    "hasImage": true,
+    "eventFingerprint": "38dde158816f5757bb646f2c",
+    "timestamp": "2026-10-25T00:47:11.818Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1273,
+    "text": "Smart money is quietly pulling massive liquidity off the books while retail gets ground down by October losses.\n\nData from Santiment shows roughly 169,770 ETH left centralized platforms on net yesterday—marking the largest single-day exchange outflow in over four months. \n\nAt current reference prices near $2,400, that translates to about $407 million in native assets moving into cold storage. \n\nFor context, the last outflow of this magnitude hit on June 5, preceding a notable local price floor. \n\nIt is worth noting that heavy withdrawals do not guarantee an immediate reversal, but they do signal diminishing sell-side pressure on spot books as broader crypto ETF products face sustained headwinds this month.",
+    "hasImage": true,
+    "eventFingerprint": "5ecb99ce31cb7a9763e2cd60",
+    "timestamp": "2026-10-25T00:47:14.715Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1274,
+    "text": "How many people does it take to secure a Bitcoin loan without getting rugged by your own lender?\n\nSygnum thinks the magic number is three. \n\nTheir new MultiSYG service splits Bitcoin collateral keys between the borrower, the bank, and independent institutional custodians. \n\nTurns out traditional banking's solution to self-custody anxiety is just turning your collateral into a three-way group chat.",
+    "hasImage": true,
+    "eventFingerprint": "97b596f521e9c2e03d8a9d04",
+    "timestamp": "2026-10-25T00:47:16.409Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1275,
+    "text": "Are holders quietly preparing to bail as momentum fades? 🚨\n\nShiba Inu exchange netflow climbed by 77 billion tokens over the last 24 hours, pointing to a rising positive balance across centralized platforms during the broader market pullback. \n\nWhen exchange inflows spike while price action softens, it typically signals that participants are positioning themselves to sell. \n\nData via U.Today.",
+    "hasImage": true,
+    "eventFingerprint": "fa2a894d3e9b0bc3425f6254",
+    "timestamp": "2026-10-25T00:47:17.399Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1276,
+    "text": "Why is network growth surging to a four-year high while the token itself bleeds?\n\nUniswap just hit key adoption milestones, yet UNI dropped 5.4% over the latest session. \n\nOn-chain data points to expanding protocol usage sitting alongside heavy whale distribution. \n\nMarket analysts indicate this potential large-holder selling pressure will likely continue to weigh on price action near-term, despite the underlying network expansion.",
+    "hasImage": true,
+    "eventFingerprint": "a09a30cc76f75a86ce89e09d",
+    "timestamp": "2026-10-25T00:47:18.411Z"
   }
 ]

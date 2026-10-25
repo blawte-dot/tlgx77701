@@ -49891,5 +49891,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin Core speeds up security fixes as 44% of surveyed nodes run unsupported versions",
+    "link": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions/",
+    "summary": "Bitcoin Core merged a policy amendment on Oct. 22 that lets developers backport fixes for easily rediscovered vulnerabilities to every maintained release line and publish an advisory alongside them. A network snapshot from Oct. 18 shows that 3,671 of 8,422 self-reported Bitcoin Core peers (43.6%) ran release lines that had already reached end of life.…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-core-security-fixes.webp",
+    "publishedAt": "2026-10-24T14:45:04.000Z",
+    "collectedAt": "2026-10-25T00:47:09.720Z",
+    "corroboratingSources": 1,
+    "fingerprint": "38dde158816f5757bb646f2c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T00:47:11.827Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Core speeds up security fixes as 44% of surveyed nodes run unsupported versions",
+        "fingerprint": "38dde158816f5757bb646f2c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1272,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
+    "link": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
+    "summary": "About 169,770 ETH left centralized exchanges on net in one day, Santiment reported Oct. 23, the largest daily withdrawal in more than four months and worth about $407 million at the $2,400 reference price. The last bigger episode came June 5, when roughly 223,800 ETH left exchanges near what Santiment calls a local buying opportunity.…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-etf-outflow-pressure.webp",
+    "publishedAt": "2026-10-24T13:30:53.000Z",
+    "collectedAt": "2026-10-25T00:47:09.720Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5ecb99ce31cb7a9763e2cd60",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T00:47:14.767Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
+        "fingerprint": "5ecb99ce31cb7a9763e2cd60"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1273,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Sygnum Launches Bitcoin Loans With Collateral Keys Shared Across Parties",
+    "link": "https://www.newsbtc.com/bitcoin-news/sygnum-multisyg-bitcoin-loans-shared-collateral-keys/",
+    "summary": "Sygnum’s MultiSYG lending service distributes Bitcoin collateral keys among clients, the bank and independent institutional key holders.",
+    "image": null,
+    "publishedAt": "2026-10-24T15:00:00.000Z",
+    "collectedAt": "2026-10-25T00:47:09.720Z",
+    "corroboratingSources": 1,
+    "fingerprint": "97b596f521e9c2e03d8a9d04",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T00:47:16.417Z",
+    "outcome": {
+      "event": {
+        "title": "Sygnum Launches Bitcoin Loans With Collateral Keys Shared Across Parties",
+        "fingerprint": "97b596f521e9c2e03d8a9d04"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1274,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Shiba Inu Exchange Netflow Hits 77 Billion SHIB in 24 Hours",
+    "link": "https://u.today/shiba-inu-exchange-netflow-hits-77-billion-shib-in-24-hours",
+    "summary": "Shiba Inu exchange netflow is increasing amid the broader market downturn, projecting a positive balance as momentum fades.",
+    "image": null,
+    "publishedAt": "2026-10-23T16:22:33.000Z",
+    "collectedAt": "2026-10-25T00:47:09.721Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fa2a894d3e9b0bc3425f6254",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T00:47:17.407Z",
+    "outcome": {
+      "event": {
+        "title": "Shiba Inu Exchange Netflow Hits 77 Billion SHIB in 24 Hours",
+        "fingerprint": "fa2a894d3e9b0bc3425f6254"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1275,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Analyzing why Uniswap&#8217;s network growth hit a 4-year high despite UNI’s 5.4% drop",
+    "link": "https://ambcrypto.com/analyzing-why-uniswaps-network-growth-hit-a-4-year-high-despite-unis-5-4-drop/",
+    "summary": "Potential whale selling pressure will continue to weigh on UNI.",
+    "image": null,
+    "publishedAt": "2026-10-24T23:00:23.000Z",
+    "collectedAt": "2026-10-25T00:47:09.721Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a09a30cc76f75a86ce89e09d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T00:47:18.419Z",
+    "outcome": {
+      "event": {
+        "title": "Analyzing why Uniswap&#8217;s network growth hit a 4-year high despite UNI’s 5.4% drop",
+        "fingerprint": "a09a30cc76f75a86ce89e09d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1276,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
