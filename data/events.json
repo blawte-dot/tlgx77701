@@ -50301,5 +50301,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Peter Schiff&#8217;s &#8216;$75K Bitcoin call&#8217; meets a vital week: Fed, inflation, and ETF outflows loom",
+    "link": "https://ambcrypto.com/peter-schiffs-75k-bitcoin-call-meets-a-vital-week-fed-inflation-and-etf-outflows-loom/",
+    "summary": "Bitcoin faces fresh downside risks as rising OI, ETF outflow fears, and the midterm election curse fuel concerns over a bigger crash.",
+    "image": null,
+    "publishedAt": "2026-10-25T09:00:14.000Z",
+    "collectedAt": "2026-10-25T10:39:41.856Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cb3dac0e6a395f803e44708e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-25T10:39:44.981Z",
+    "outcome": {
+      "event": {
+        "title": "Peter Schiff&#8217;s &#8216;$75K Bitcoin call&#8217; meets a vital week: Fed, inflation, and ETF outflows loom",
+        "fingerprint": "cb3dac0e6a395f803e44708e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1282,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Dogecoin Community Gets Crucial Warning as Hardware Wallet Reveals Security Incident",
+    "link": "https://u.today/dogecoin-community-gets-crucial-warning-as-hardware-wallet-reveals-security-incident",
+    "summary": "Dogecoin community receives security warning following a data breach disclosed by hardware wallet provider Keystone.",
+    "image": null,
+    "publishedAt": "2026-10-25T09:45:00.000Z",
+    "collectedAt": "2026-10-25T10:39:41.856Z",
+    "corroboratingSources": 1,
+    "fingerprint": "07053790cb26250b31e1eeb9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-25T10:39:46.449Z",
+    "outcome": {
+      "event": {
+        "title": "Dogecoin Community Gets Crucial Warning as Hardware Wallet Reveals Security Incident",
+        "fingerprint": "07053790cb26250b31e1eeb9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1283,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Kraken wants to be your bank, but who will protect your money?",
+    "link": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money/",
+    "summary": "Kraken&#039;s parent company wants a place in your finances long before you buy Bitcoin and long after you sell it. On Oct. 14, Payward agreed to acquire Saldo Finance Oy, the Finnish owner of Lithuania&#039;s Saldo Bank, in a deal expected to close in 2027 if regulators approve it. The purchase would add deposit accounts,…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-deposit-protection.webp",
+    "publishedAt": "2026-10-25T08:00:04.000Z",
+    "collectedAt": "2026-10-25T10:39:41.855Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b9ce167ab79e335a6c9be4c2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-25T10:39:47.577Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken wants to be your bank, but who will protect your money?",
+        "fingerprint": "b9ce167ab79e335a6c9be4c2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1284,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin&#8217;s Fed Week Starts With A Fresh Rise In US Inflation Expectations",
+    "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-fed-week-us-inflation-expectations-october-2026/",
+    "summary": "Michigan's final October survey shows rising inflation expectations ahead of the Fed's next meeting, adding a complication for Bitcoin's macro outlook.",
+    "image": null,
+    "publishedAt": "2026-10-25T07:00:00.000Z",
+    "collectedAt": "2026-10-25T10:39:41.855Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1603bc2aa0bbb18bee1f6525",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-25T10:39:48.736Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin&#8217;s Fed Week Starts With A Fresh Rise In US Inflation Expectations",
+        "fingerprint": "1603bc2aa0bbb18bee1f6525"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1285,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin ETF Week Stays Positive After Nearly $774 Million In Late Outflows",
+    "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-ethereum-etf-flows-october-23-weekly-preliminary/",
+    "summary": "Preliminary ETF data shows Bitcoin funds retaining a weekly gain after late withdrawals, while Ether funds remain negative. Friday's figures are incomplete.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/N19-etf-flows-750x422.png",
+    "publishedAt": "2026-10-25T06:00:00.000Z",
+    "collectedAt": "2026-10-25T10:39:41.855Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a1c5e98c8c010f532b094f17",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-25T10:39:49.786Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF Week Stays Positive After Nearly $774 Million In Late Outflows",
+        "fingerprint": "a1c5e98c8c010f532b094f17"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1286,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

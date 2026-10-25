@@ -9403,5 +9403,45 @@
     "hasImage": true,
     "eventFingerprint": "3e8502b2df5ec0d69cb5cc7e",
     "timestamp": "2026-10-25T05:38:32.526Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1282,
+    "text": "Peter Schiff might finally get the sub-zero liquidation cascade he has spent a decade predicting.\n\nBitcoin enters a critical seven days under heavy macro pressure. Open interest is climbing while spot ETFs register renewed outflow anxiety, testing structural bids right as US inflation prints and Federal Reserve commentary land. \n\nHistorically, midterm cycles add seasonal headwinds that catch leveraged longs off guard. \n\nWhether this week marks a local capitulation or the start of a deeper drawdown depends entirely on whether spot buyers step in below support—or let the order books thin out.",
+    "hasImage": true,
+    "eventFingerprint": "cb3dac0e6a395f803e44708e",
+    "timestamp": "2026-10-25T10:39:44.971Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1283,
+    "text": "Hardware wallet security extends far beyond the top-tier assets.\n\nKeystone has disclosed a data breach affecting a subset of its users, prompting a direct security warning across the Dogecoin community. \n\nThe incident involves customer support records rather than direct private key compromises, according to preliminary disclosures from the firm. \n\nEven so, exposed contact details and shipping information routinely feed targeted phishing campaigns against holders of specific altcoin communities. \n\nUsers who purchased devices through affected channels should remain on high alert for fraudulent communications impersonating support staff.",
+    "hasImage": true,
+    "eventFingerprint": "07053790cb26250b31e1eeb9",
+    "timestamp": "2026-10-25T10:39:46.441Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1284,
+    "text": "Crypto exchanges are no longer content with just trading fees—they want your actual bank account.\n\nKraken's parent company, Payward, has agreed to acquire Finnish-owned Saldo Bank in a deal aimed at bringing traditional deposit accounts under its umbrella. \n\nIf approved by regulators by 2027, the move blurs the historic line between crypto platforms and chartered banking institutions. \n\nUsers gain tighter integration between fiat and digital assets, but centralization brings familiar trade-offs regarding fund custody, regulatory reach, and counterparty exposure.",
+    "hasImage": true,
+    "eventFingerprint": "b9ce167ab79e335a6c9be4c2",
+    "timestamp": "2026-10-25T10:39:47.569Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1285,
+    "text": "The market keeps pricing in the one thing Jerome Powell is trying to exorcise.\n\nMichigan’s final October survey dropped this morning, showing US inflation expectations ticking back up right as the Federal Reserve heads into its next rate meeting. \n\nRisk assets spent the morning reacting, but the macro squeeze on Bitcoin is tightening. When consumer sentiment starts pricing in sticky prices, the central bank's pivot narrative gets a lot more complicated. \n\nFed week is officially live.",
+    "hasImage": true,
+    "eventFingerprint": "1603bc2aa0bbb18bee1f6525",
+    "timestamp": "2026-10-25T10:39:48.727Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1286,
+    "text": "Bitcoin ETFs still closed the week in the green despite nearly $774 million draining out in late sessions, while Ether funds failed to find a footing. \n\nWith net weekly inflows holding up despite that late pressure, are you seeing this late-week pullback as a healthy reset or the start of a broader distribution phase?",
+    "hasImage": true,
+    "eventFingerprint": "a1c5e98c8c010f532b094f17",
+    "timestamp": "2026-10-25T10:39:49.776Z"
   }
 ]
