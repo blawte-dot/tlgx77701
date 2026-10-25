@@ -50506,5 +50506,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XRP ETFs buck Bitcoin and Ethereum outflows – Can price follow?",
+    "link": "https://ambcrypto.com/xrp-etfs-buck-bitcoin-and-ethereum-outflows-can-price-follow/",
+    "summary": "XRP’s recovery faces a key test as ETF demand improves but bearish momentum and liquidation risks keep traders cautious.",
+    "image": null,
+    "publishedAt": "2026-10-25T11:00:32.000Z",
+    "collectedAt": "2026-10-25T14:46:29.213Z",
+    "corroboratingSources": 1,
+    "fingerprint": "84aac1094b3b772be4dc98dd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-25T14:46:32.013Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETFs buck Bitcoin and Ethereum outflows – Can price follow?",
+        "fingerprint": "84aac1094b3b772be4dc98dd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1287,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+    "link": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+    "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-10-25T14:01:03.000Z",
+    "collectedAt": "2026-10-25T14:46:29.213Z",
+    "corroboratingSources": 1,
+    "fingerprint": "894ce6ec0cbe9ff51eb672d1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-25T14:46:33.098Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+        "fingerprint": "894ce6ec0cbe9ff51eb672d1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1288,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+    "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+    "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-25T13:00:00.000Z",
+    "collectedAt": "2026-10-25T14:46:29.213Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d7d87800d75ebc03200a0697",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-25T14:46:35.846Z",
+    "outcome": {
+      "event": {
+        "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+        "fingerprint": "d7d87800d75ebc03200a0697"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1289,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "&#8216;I dumped it all&#8217; &#8211; Arthur Hayes sells $22M in altcoins amid geopolitical fears",
+    "link": "https://ambcrypto.com/i-dumped-it-all-arthur-hayes-sells-22m-in-altcoins-amid-geopolitical-fears/",
+    "summary": "ETH ETFs saw over $1B in outflows in October, marking the second-worst month since their debut.",
+    "image": null,
+    "publishedAt": "2026-10-25T06:00:29.000Z",
+    "collectedAt": "2026-10-25T14:46:29.213Z",
+    "corroboratingSources": 1,
+    "fingerprint": "28c6d19d302a10f39bda3dae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-25T14:46:39.123Z",
+    "outcome": {
+      "event": {
+        "title": "&#8216;I dumped it all&#8217; &#8211; Arthur Hayes sells $22M in altcoins amid geopolitical fears",
+        "fingerprint": "28c6d19d302a10f39bda3dae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1290,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Cardano Opens Dijkstra Testnet While The Upgrade Itself Awaits Its Next Step",
+    "link": "https://www.newsbtc.com/news/cardano/cardano-dijkstra-public-testnet-conway-upgrade-step/",
+    "summary": "Cardano developers now have a public environment for preparing the Dijkstra upgrade, but its name needs careful reading. The test network is available; the transition to Dijkstra's new protocol rules is still a separate step.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Cardano-from-Unsplash-9.avif",
+    "publishedAt": "2026-10-25T13:00:00.000Z",
+    "collectedAt": "2026-10-25T14:46:29.213Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f216bac85947141eb36fae6a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T14:46:40.124Z",
+    "outcome": {
+      "event": {
+        "title": "Cardano Opens Dijkstra Testnet While The Upgrade Itself Awaits Its Next Step",
+        "fingerprint": "f216bac85947141eb36fae6a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "api_error",
+          "error": "Bad Request: failed to get HTTP URL content"
+        }
+      }
+    }
   }
 ]
