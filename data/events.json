@@ -51121,5 +51121,206 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png",
+    "publishedAt": "2026-10-25T22:48:40.000Z",
+    "collectedAt": "2026-10-25T23:46:39.819Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5ea82259ddb2b5b9fe01acd4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-25T23:46:42.091Z",
+    "outcome": {
+      "event": {
+        "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+        "fingerprint": "5ea82259ddb2b5b9fe01acd4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1301,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Circle Match Gives USDC Desks A New Fee Trade-Off And A Separate Funding Balance",
+    "link": "https://www.newsbtc.com/stablecoins/circle-match-usdc-rebate-prefunding-balance/",
+    "summary": "Circle's October 22 update on Match describes a service for connecting institutional USDC flows. A consequential detail sits in its funding documentation: money prepared for a mint-side order remains separate from the ordinary Circle Mint wallet.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N03.png",
+    "publishedAt": "2026-10-25T23:00:00.000Z",
+    "collectedAt": "2026-10-25T23:46:39.819Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8864f7031e1dfab1472a6745",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T23:46:43.131Z",
+    "outcome": {
+      "event": {
+        "title": "Circle Match Gives USDC Desks A New Fee Trade-Off And A Separate Funding Balance",
+        "fingerprint": "8864f7031e1dfab1472a6745"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Mastercard Praises Ripple's RLUSD Stablecoin",
+    "link": "https://u.today/mastercard-praises-ripples-rlusd-stablecoin",
+    "summary": "Payments giant Mastercard has reportedly praised Ripple's RLUSD stablecoin during the XRP Ledger Hackathon in New York.",
+    "image": null,
+    "publishedAt": "2026-10-25T07:34:54.000Z",
+    "collectedAt": "2026-10-25T23:46:39.820Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dfa49b3385e4912d7c502239",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-10-25T23:46:43.909Z",
+    "outcome": {
+      "event": {
+        "title": "Mastercard Praises Ripple's RLUSD Stablecoin",
+        "fingerprint": "dfa49b3385e4912d7c502239"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+    "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png",
+    "publishedAt": "2026-10-25T11:42:00.000Z",
+    "collectedAt": "2026-10-25T23:46:39.819Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dd7a629fdd9ee0992170a57c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-25T23:46:45.074Z",
+    "outcome": {
+      "event": {
+        "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+        "fingerprint": "dd7a629fdd9ee0992170a57c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin vs Ethereum ETFs: The Gap Is Getting Hard to Ignore",
+    "link": "https://cryptopotato.com/bitcoin-vs-ethereum-etfs-the-gap-is-getting-hard-to-ignore/",
+    "summary": "The past week showed another interesting discrepancy between the funds tracking both asset.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Ethereum_ETF-1.jpg",
+    "publishedAt": "2026-10-25T18:37:13.000Z",
+    "collectedAt": "2026-10-25T23:46:39.819Z",
+    "corroboratingSources": 1,
+    "fingerprint": "28e7330efb4fc776496d7e31",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-25T23:46:46.210Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin vs Ethereum ETFs: The Gap Is Getting Hard to Ignore",
+        "fingerprint": "28e7330efb4fc776496d7e31"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "daily_budget_reached"
+        }
+      }
+    }
   }
 ]
