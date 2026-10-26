@@ -51937,5 +51937,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Coinbase Institutional Co-CEO: Bitcoin&#8217;s &#8220;Second Wave&#8221; of Institutional Capital has Arrived",
+    "link": "https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived",
+    "summary": "&#9654;Bitcoin Magazine\n\nCoinbase Institutional Co-CEO: Bitcoin&#8217;s &#8220;Second Wave&#8221; of Institutional Capital has Arrived\nSeven mega banks tap Coinbase infrastructure. Brett Tejpaul explains why stablecoin rails are driving adoption, while institutions still view BTC as tech.\nThis post Coinbase Institutional Co-CEO: Bitcoin&#8217;s &#8220;Second Wave&#8221; of Institutional Capital has Arrived first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/3JLon67yVfY/hqdefault.jpg",
+    "publishedAt": "2026-10-26T19:24:08.000Z",
+    "collectedAt": "2026-10-26T21:19:13.697Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cc550aa5c79c6e923048c604",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-26T21:19:16.043Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Institutional Co-CEO: Bitcoin&#8217;s &#8220;Second Wave&#8221; of Institutional Capital has Arrived",
+        "fingerprint": "cc550aa5c79c6e923048c604"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1317,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
+    "link": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
+    "summary": "Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-26-at-13.06.55.png",
+    "publishedAt": "2026-10-26T13:19:08.000Z",
+    "collectedAt": "2026-10-26T21:19:13.697Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9107c58db18181d6808f357d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-26T21:19:16.976Z",
+    "outcome": {
+      "event": {
+        "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
+        "fingerprint": "9107c58db18181d6808f357d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1318,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+    "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+    "publishedAt": "2026-10-26T10:25:01.000Z",
+    "collectedAt": "2026-10-26T21:19:13.697Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0d4d43bce21d7fd5b9548ae1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-26T21:19:17.987Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+        "fingerprint": "0d4d43bce21d7fd5b9548ae1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1319,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+    "link": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms",
+    "summary": "Analysts point to a sell-off in AI stocks and ETF outflows, with HashKey's Tim Sun flagging $75,000 as the next key support level.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+    "publishedAt": "2026-10-26T13:02:43.000Z",
+    "collectedAt": "2026-10-26T21:19:13.697Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2bd3fe9cb93faf8e7376a774",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-26T21:19:18.893Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+        "fingerprint": "2bd3fe9cb93faf8e7376a774"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1320,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Hovers Near $80,000 as Traders Await Fed Decision\nBitcoin price hovers near $80,000 as traders wait on this week’s Fed decision, with geopolitical tensions and Anthropic’s possible IPO adding to the uncertainty.\nThis post Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Price-Hovers-Around-80000-as-Traders-Await-Fed-Decision.jpg",
+    "publishedAt": "2026-10-26T17:43:18.000Z",
+    "collectedAt": "2026-10-26T21:19:13.697Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6c2c8364fb91f55eb24bd3c8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-26T21:19:19.778Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+        "fingerprint": "6c2c8364fb91f55eb24bd3c8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1321,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
