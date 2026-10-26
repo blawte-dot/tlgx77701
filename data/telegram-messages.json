@@ -8402,5 +8402,40 @@
     "hasImage": true,
     "eventFingerprint": "93f2208da7510310cde4b8c7",
     "timestamp": "2026-10-26T03:05:18.345Z"
+  },
+  {
+    "messageId": 1307,
+    "text": "Can heavily concentrated whale capital weather a prolonged macro storm as Bitcoin slips under $80,000?\n\nRecent order book data points to a distinct structural shift. Average spot order sizes have tilted heavily toward large-scale whale accumulation over the past several weeks. \n\nYet dominance by big capital cuts both ways. While large holders provide baseline liquidity, sustained downward pressure tests whether these entities possess the staying power to absorb further macro shocks ahead of the upcoming Federal Reserve rate decision. \n\nMarkets are currently pricing in elevated volatility across both crypto and traditional equities. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "f74c8b1711b9b2896aa4633b",
+    "timestamp": "2026-10-26T09:39:27.611Z"
+  },
+  {
+    "messageId": 1308,
+    "text": "Don't celebrate the rebound just yet. \n\nUS spot Bitcoin ETFs snapped a two-week outflow streak with $301 million in net inflows this week, though the momentum masked a volatile shift. \n\nAfter a strong three-day start, heavy withdrawals returned to close out the period. \n\nThe reversal highlights how fragile institutional demand remains at current price levels.",
+    "hasImage": true,
+    "eventFingerprint": "d18b3c0e4cc8847e8559c707",
+    "timestamp": "2026-10-26T09:39:28.448Z"
+  },
+  {
+    "messageId": 1309,
+    "text": "Hardware security is facing a structural stress test.\n\nLeaked shipping data continues to expose physical address records of crypto hardware owners, highlighting a vulnerability that no firmware patch can resolve. \n\nWhen physical logistics become the weakest link in self-custody, device-level encryption alone is no longer enough. Experts are arguing that the entire operational model of hardware wallet distribution needs a systemic overhaul.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "cb6089903f5bf6da044d5447",
+    "timestamp": "2026-10-26T09:39:29.361Z"
+  },
+  {
+    "messageId": 1310,
+    "text": "Central banks take center stage this week with rate decisions due from the Fed, ECB, and BOJ. \n\nMacro conditions remain the primary driver for risk assets as traders brace for coordinated monetary updates. \n\nCorporate earnings also enter the mix, with Coinbase reporting quarterly results amid shifting market volumes.\n\nExpect heightened volatility across both crypto and traditional markets as these catalysts unfold.\n\n#Macro",
+    "hasImage": true,
+    "eventFingerprint": "bf89e6a876bfb44a44c588f9",
+    "timestamp": "2026-10-26T09:39:30.591Z"
+  },
+  {
+    "messageId": 1311,
+    "text": "Bitcoin users face a newly disclosed vulnerability that allows attackers to drain funds without ever touching private keys.\n\nA patch released in version 4.8.3 addresses a malicious-server vector. The exploit manipulated manual fee-bump requests, tricking wallets into approving unintended outbound transfers to attacker-controlled addresses.\n\nThe flaw highlights how interface manipulation can bypass traditional cryptographic security models. \n\nUsers running affected software versions are advised to update immediately.",
+    "hasImage": true,
+    "eventFingerprint": "e5accdcc4188acbe7d17f395",
+    "timestamp": "2026-10-26T09:39:31.688Z"
   }
 ]

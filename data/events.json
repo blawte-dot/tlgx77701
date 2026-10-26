@@ -51527,5 +51527,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin loses $80K before Fed decision: Assessing whether BTC whale can withstand more selling",
+    "link": "https://ambcrypto.com/bitcoin-loses-80k-before-fed-decision-assessing-whether-btc-whale-can-withstand-more-selling/",
+    "summary": "Bitcoin spot average order size has favored big whale orders in recent weeks.",
+    "image": null,
+    "publishedAt": "2026-10-26T08:00:03.000Z",
+    "collectedAt": "2026-10-26T09:39:24.760Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f74c8b1711b9b2896aa4633b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-26T09:39:27.629Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin loses $80K before Fed decision: Assessing whether BTC whale can withstand more selling",
+        "fingerprint": "f74c8b1711b9b2896aa4633b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1307,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VG5FEK5DYH3VAXH3PE69X7/bitcoin-etf-7.jpg",
+    "publishedAt": "2026-10-26T08:20:49.000Z",
+    "collectedAt": "2026-10-26T09:39:24.759Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d18b3c0e4cc8847e8559c707",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-26T09:39:28.464Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+        "fingerprint": "d18b3c0e4cc8847e8559c707"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1308,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "‘Hardware wallets are dead’ – Why Keystone’s security fix cannot end risks from leaked shipping data",
+    "link": "https://ambcrypto.com/hardware-wallets-are-dead-why-keystones-security-fix-cannot-end-risks-from-leaked-shipping-data/",
+    "summary": "Experts are calling for a rethink of the entire crypto hardware sector amid persistent security challenges",
+    "image": null,
+    "publishedAt": "2026-10-26T04:00:59.000Z",
+    "collectedAt": "2026-10-26T09:39:24.760Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cb6089903f5bf6da044d5447",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-26T09:39:29.379Z",
+    "outcome": {
+      "event": {
+        "title": "‘Hardware wallets are dead’ – Why Keystone’s security fix cannot end risks from leaked shipping data",
+        "fingerprint": "cb6089903f5bf6da044d5447"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1309,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+    "summary": "Your look at what's coming in the week starting Oct. 26.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-26T09:14:47.000Z",
+    "collectedAt": "2026-10-26T09:39:24.759Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bf89e6a876bfb44a44c588f9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-26T09:39:30.617Z",
+    "outcome": {
+      "event": {
+        "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+        "fingerprint": "bf89e6a876bfb44a44c588f9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1310,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Hackers found a way to steal Bitcoin without private keys",
+    "link": "https://cryptoslate.com/hackers-found-a-way-to-steal-bitcoin-without-private-keys/",
+    "summary": "Version 4.8.3 fixes a malicious-server attack that can turn a manual fee increase into approval of an attacker-directed payment.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/electrum-wallet-signing-risk.webp",
+    "publishedAt": "2026-10-26T09:30:56.000Z",
+    "collectedAt": "2026-10-26T09:39:24.760Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e5accdcc4188acbe7d17f395",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-26T09:39:31.705Z",
+    "outcome": {
+      "event": {
+        "title": "Hackers found a way to steal Bitcoin without private keys",
+        "fingerprint": "e5accdcc4188acbe7d17f395"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1311,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
