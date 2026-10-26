@@ -51732,5 +51732,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "OCC calls on community banks to enter the stablecoin payments market",
+    "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+    "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a623e61743b25176fc14fe8438bbe43ad09a982b-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-26T15:45:51.000Z",
+    "collectedAt": "2026-10-26T16:27:13.840Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5eba59b186bec255ce58b954",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-26T16:27:31.929Z",
+    "outcome": {
+      "event": {
+        "title": "OCC calls on community banks to enter the stablecoin payments market",
+        "fingerprint": "5eba59b186bec255ce58b954"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1312,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "XRP Ledger Gets Another Major Fund as Aviva Expands Tokenization Push",
+    "link": "https://cryptopotato.com/xrp-ledger-gets-another-major-fund-as-aviva-expands-tokenization-push/",
+    "summary": "Following its USD fund launch, Aviva has added a sterling product to XRPL, while strengthening its partnership with Ripple in Europe.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/10/XRP_Ledger.jpg",
+    "publishedAt": "2026-10-26T16:20:03.000Z",
+    "collectedAt": "2026-10-26T16:27:13.840Z",
+    "corroboratingSources": 1,
+    "fingerprint": "70bad5a656caf13dcfcb5102",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-26T16:27:55.273Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Ledger Gets Another Major Fund as Aviva Expands Tokenization Push",
+        "fingerprint": "70bad5a656caf13dcfcb5102"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1313,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "10 Days Left: Zcash Set to Cut Block Times to 25 Seconds",
+    "link": "https://u.today/10-days-left-zcash-set-to-cut-block-times-to-25-seconds",
+    "summary": "Zcash upgrade countdown begins with 25 seconds blocks ahead.",
+    "image": null,
+    "publishedAt": "2026-10-26T10:10:22.000Z",
+    "collectedAt": "2026-10-26T16:27:13.840Z",
+    "corroboratingSources": 1,
+    "fingerprint": "47ccb53310158a1e8ad808fd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-26T16:28:21.504Z",
+    "outcome": {
+      "event": {
+        "title": "10 Days Left: Zcash Set to Cut Block Times to 25 Seconds",
+        "fingerprint": "47ccb53310158a1e8ad808fd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1314,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+    "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+    "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c380b97dddcd8138aeaafd733f574fccd63dbd5a-4369x2421.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-26T14:23:41.000Z",
+    "collectedAt": "2026-10-26T16:27:13.840Z",
+    "corroboratingSources": 1,
+    "fingerprint": "efa70c08b50ae9a5d2efa8e4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-26T16:28:39.322Z",
+    "outcome": {
+      "event": {
+        "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+        "fingerprint": "efa70c08b50ae9a5d2efa8e4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1315,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+    "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+    "summary": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bf9272d06a5476928a866fea961f9bba82e9422-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-26T11:24:33.000Z",
+    "collectedAt": "2026-10-26T16:27:13.840Z",
+    "corroboratingSources": 1,
+    "fingerprint": "02ffac048ccbf3be8b637876",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-26T16:28:57.877Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+        "fingerprint": "02ffac048ccbf3be8b637876"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1316,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
