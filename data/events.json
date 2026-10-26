@@ -51322,5 +51322,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "World ID Brings Human Verification Into The Banking Fraud Debate",
+    "link": "https://www.newsbtc.com/crypto-news/world-id-banking-human-verification-fraud-controls/",
+    "summary": "World launched its banking-and-finance offering on October 18. For a bank considering human verification, the useful question is narrower than whether an interaction looks authentic: what exactly does the proof establish, and what must the institution still verify?",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/04/a_96a69a.jpg",
+    "publishedAt": "2026-10-26T03:00:00.000Z",
+    "collectedAt": "2026-10-26T03:05:09.731Z",
+    "corroboratingSources": 1,
+    "fingerprint": "afcc571e58ee18a064ef2bc8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-26T03:05:12.622Z",
+    "outcome": {
+      "event": {
+        "title": "World ID Brings Human Verification Into The Banking Fraud Debate",
+        "fingerprint": "afcc571e58ee18a064ef2bc8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1302,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "UNDP And Blockchain For Good Put Public-Service Security Ahead Of New Payment Rails",
+    "link": "https://www.newsbtc.com/crypto-news/undp-blockchain-for-good-cybersecurity-public-services/",
+    "summary": "UNDP and the Blockchain for Good Alliance announced a two-year cybersecurity programme on October 19. The initiative brings a practical question into blockchain adoption by public institutions: whether the people operating a service can prevent failures, respond to them and restore access.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/04/bitcoin-shielded-from-quantum-attack-bitcoin-logo-.jpeg",
+    "publishedAt": "2026-10-26T02:00:00.000Z",
+    "collectedAt": "2026-10-26T03:05:09.731Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7a1ccd3aabd85ad17e3f8db9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-26T03:05:13.865Z",
+    "outcome": {
+      "event": {
+        "title": "UNDP And Blockchain For Good Put Public-Service Security Ahead Of New Payment Rails",
+        "fingerprint": "7a1ccd3aabd85ad17e3f8db9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1303,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+    "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg",
+    "publishedAt": "2026-10-26T02:24:04.000Z",
+    "collectedAt": "2026-10-26T03:05:09.731Z",
+    "corroboratingSources": 1,
+    "fingerprint": "02c456071a74fc3f20473084",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-10-26T03:05:15.583Z",
+    "outcome": {
+      "event": {
+        "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+        "fingerprint": "02c456071a74fc3f20473084"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1304,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Another Major Hardware Wallet Provider Suffers Data Breach as Security Concerns Mount",
+    "link": "https://cryptopotato.com/another-major-hardware-wallet-provider-suffers-data-breach-as-security-concerns-mount/",
+    "summary": "The incident follows the problems faced by Ledger and Trezor in the past few months.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/09/security-265130_640.jpg",
+    "publishedAt": "2026-10-25T07:42:40.000Z",
+    "collectedAt": "2026-10-26T03:05:09.731Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2e99616e8c1983fc6b46e816",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-26T03:05:16.723Z",
+    "outcome": {
+      "event": {
+        "title": "Another Major Hardware Wallet Provider Suffers Data Breach as Security Concerns Mount",
+        "fingerprint": "2e99616e8c1983fc6b46e816"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1305,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Risks Decline to $0.98 if Whale Distribution Persists",
+    "link": "https://u.today/xrp-risks-decline-to-098-if-whale-distribution-persists",
+    "summary": "As 12 large XRP wallets distribute holdings, a 50 million token exchange influx puts August's price support at immediate risk.",
+    "image": null,
+    "publishedAt": "2026-10-25T15:29:55.000Z",
+    "collectedAt": "2026-10-26T03:05:09.731Z",
+    "corroboratingSources": 1,
+    "fingerprint": "93f2208da7510310cde4b8c7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-10-26T03:05:18.363Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Risks Decline to $0.98 if Whale Distribution Persists",
+        "fingerprint": "93f2208da7510310cde4b8c7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1306,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
