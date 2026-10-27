@@ -8577,5 +8577,40 @@
     "hasImage": true,
     "eventFingerprint": "d95b72aa6402a0cdee424ad4",
     "timestamp": "2026-10-27T07:15:08.248Z"
+  },
+  {
+    "messageId": 1332,
+    "text": "Ignore this milestone at your own peril: Ripple just cleared the final Office of the Comptroller of the Currency hurdle to establish its national trust bank. \n\nThis isn't just about regulatory compliance. It gives Ripple a federally supervised engine to manage reserves for RLUSD and act as a direct collateral trustee for token holders. \n\nWall Street and Washington are quietly building the plumbing for institutional stablecoin adoption right now. \n\nWith three independent outlets confirming the final clearance today, the perimeter around regulated crypto assets just shrank considerably. Institutional rails are moving from theory to execution.",
+    "hasImage": true,
+    "eventFingerprint": "4335ed4618d968a9db9668ef",
+    "timestamp": "2026-10-27T13:55:14.356Z"
+  },
+  {
+    "messageId": 1333,
+    "text": "How do you scale a multi-billion-dollar stablecoin while traditional banks actively litigate against federal crypto charters in court?\n\nRipple just secured the answer. \n\nThe Office of the Comptroller of the Currency has granted final approval for Ripple's federally supervised trust bank, positioning the institution to directly manage reserves for its $2.6 billion RLUSD stablecoin and handle digital asset custody. \n\nComing as banking associations mount aggressive legal challenges to block crypto firms from federal banking access, this green light is a significant regulatory milestone. \n\nWhile competitors face mounting friction from traditional financial institutions, Ripple now operates with explicit federal oversight for its core stablecoin infrastructure. \n\nThe battle for institutional crypto custody is shifting from the courts to the balance sheet.",
+    "hasImage": true,
+    "eventFingerprint": "5221f1ce5feb4dc305faf694",
+    "timestamp": "2026-10-27T13:55:47.032Z"
+  },
+  {
+    "messageId": 1334,
+    "text": "AI-driven automation is fundamentally reshaping how vulnerabilities are uncovered in financial infrastructure. 🛡️\n\nBitcoin security pioneer Jameson Lopp warns that cyberattacks are on an exponential trajectory. \n\nAs automated tools accelerate threat discovery, core developers are shifting toward real-time defense models and open vulnerability intelligence. Recent incidents, including the PHP security flaw, highlight the growing speed at which modern exploits evolve.\n\nDefensive engineering now requires matching the velocity of automated offense.",
+    "hasImage": true,
+    "eventFingerprint": "6ddc7b0b1b55c028d503c056",
+    "timestamp": "2026-10-27T13:56:49.253Z"
+  },
+  {
+    "messageId": 1335,
+    "text": "Global liquidity risks are quietly building beneath the surface of this market cycle.\n\nAs central banks prepare for upcoming rate decisions, UTXO’s Duke Waldrop is warning that potential shifts from the Bank of Japan could trigger a sharp tightening in global funding conditions. \n\nThe mechanism points back to the yen carry trade. When Japanese monetary policy turns restrictive, leveraged positions unwind rapidly across global risk assets. Because crypto trades around the clock, Bitcoin often absorbs the immediate brunt of those cross-border margin calls when traditional equity desks are closed.\n\nYet Waldrop also highlights structural anomalies worth watching, pointing to firms like Metaplanet trading below net asset value as a distinct market dislocation amid the broader macro friction. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "e2bb99159980ef5b4f93a378",
+    "timestamp": "2026-10-27T13:57:17.668Z"
+  },
+  {
+    "messageId": 1336,
+    "text": "Are traditional capital markets quietly rewiring through Hong Kong?\n\nMirae Asset Securities' Hong Kong arm has teamed up with derivatives exchange Grvt to issue tokenised funding notes. \n\nThe initial phase kicks off with Grvt subscribing to Mirae's structured digital notes. \n\nBoth firms plan to explore broader tokenised offerings down the line, spanning U.S. Treasuries, corporate debt, and ETFs, pending regulatory approval. \n\nIt marks another step as major Asian financial institutions bridge traditional fixed income with distributed ledger infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "feffc1a910e0423572128559",
+    "timestamp": "2026-10-27T13:57:37.898Z"
   }
 ]
