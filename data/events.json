@@ -52142,5 +52142,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XRP ETFs bring in $4.26M – Yet THIS whale signal raises questions",
+    "link": "https://ambcrypto.com/xrp-etfs-bring-in-4-26m-yet-this-whale-signal-raises-questions/",
+    "summary": "XRP ETF inflows are turning positive, but whale selling continues. Is this divergence setting the stage for a breakdown below $1?",
+    "image": null,
+    "publishedAt": "2026-10-26T22:00:14.000Z",
+    "collectedAt": "2026-10-27T01:05:09.080Z",
+    "corroboratingSources": 1,
+    "fingerprint": "61eb3032b0c8f75677c5d457",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-27T01:05:14.279Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETFs bring in $4.26M – Yet THIS whale signal raises questions",
+        "fingerprint": "61eb3032b0c8f75677c5d457"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1322,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "US OCC calls on community banks to become payment stablecoin issuers",
+    "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WZ9ZYBPWXY53Q33BECCJE8/hi-coin-entering-bank.png",
+    "publishedAt": "2026-10-26T21:38:30.000Z",
+    "collectedAt": "2026-10-27T01:05:09.080Z",
+    "corroboratingSources": 2,
+    "fingerprint": "a4e9f84fb132792cb43aa60e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-27T01:05:15.549Z",
+    "outcome": {
+      "event": {
+        "title": "US OCC calls on community banks to become payment stablecoin issuers",
+        "fingerprint": "a4e9f84fb132792cb43aa60e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1323,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Crypto traders value Anthropic at $1.9 trillion as investor warns its IPO could mark the top of the AI bubble",
+    "link": "https://cryptoslate.com/crypto-traders-value-anthropic-at-1-9-trillion-as-investor-warns-its-ipo-could-mark-the-top-of-the-ai-bubble/",
+    "summary": "Anthropic filed for a Nasdaq IPO Monday, reporting a quarterly operating profit as crypto markets valued it near $2 trillion. The Claude developer submitted its S-1 registration statement to the US Securities and Exchange Commission (SEC) on Oct. 26, seeking a listing under the ticker ANT. Goldman Sachs and Morgan Stanley are leading the offering,…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/anthropic-ipo-market-chasm.webp",
+    "publishedAt": "2026-10-26T22:30:23.000Z",
+    "collectedAt": "2026-10-27T01:05:09.080Z",
+    "corroboratingSources": 1,
+    "fingerprint": "71dacdb1f63c401e0ac70ee1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-27T01:05:16.593Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto traders value Anthropic at $1.9 trillion as investor warns its IPO could mark the top of the AI bubble",
+        "fingerprint": "71dacdb1f63c401e0ac70ee1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1324,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Ripple wins final US approval for national trust bank",
+    "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg",
+    "publishedAt": "2026-10-27T00:06:41.000Z",
+    "collectedAt": "2026-10-27T01:05:09.080Z",
+    "corroboratingSources": 2,
+    "fingerprint": "1ef4e908a97ef880d0e6aed2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6.5,
+    "processedAt": "2026-10-27T01:05:18.732Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple wins final US approval for national trust bank",
+        "fingerprint": "1ef4e908a97ef880d0e6aed2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1325,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+    "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+    "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
+    "publishedAt": "2026-10-26T22:16:03.000Z",
+    "collectedAt": "2026-10-27T01:05:09.080Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a05fd4dfd93b138aab6b8014",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-27T01:05:20.105Z",
+    "outcome": {
+      "event": {
+        "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+        "fingerprint": "a05fd4dfd93b138aab6b8014"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1326,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
