@@ -9763,5 +9763,45 @@
     "hasImage": true,
     "eventFingerprint": "a05fd4dfd93b138aab6b8014",
     "timestamp": "2026-10-27T01:05:20.094Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1327,
+    "text": "Federal banking regulators just handed Ripple the key to an entirely different playing field. \n\nThe Office of the Comptroller of the Currency has granted final approval for a national trust bank charter, pulling RLUSD reserve management and custody directly under federal oversight. \n\nThat splits the operational plumbing cleanly: issuance stays with the New York-regulated entity, while federal supervision wraps around the underlying collateral. \n\nIt is a structural shift that bridges traditional institutional guardrails with native crypto rails—giving enterprise clients a federally supervised counterparty for stablecoin settlement. \n\n#Ripple",
+    "hasImage": true,
+    "eventFingerprint": "51c417ca2fcec6eac71770ee",
+    "timestamp": "2026-10-27T07:15:02.488Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1328,
+    "text": "A federal banking charter usually moves markets. This time, the market barely blinked.\n\nRipple has secured final US regulatory approval to establish its national trust bank, clearing a high compliance hurdle that few crypto firms have managed to cross. \n\nYet XRP sat flat following the announcement. \n\nTraders have grown numb to regulatory milestones after years of protracted litigation and incremental victories. Infrastructure progress no longer guarantees an immediate price reaction when broader macro liquidity dictates direction. \n\nThe approval cements Ripple's institutional plumbing in the US. Now the question shifts from whether they can build the rails, to who will actually use them at scale.",
+    "hasImage": true,
+    "eventFingerprint": "8d7770b49912d3a1fa4ba92f",
+    "timestamp": "2026-10-27T07:15:04.395Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1329,
+    "text": "What does it mean when a major crypto player secures a federal charter right as regulatory walls shift? \n\nRipple just cleared the final hurdle to launch its own U.S. national trust bank. \n\nCEO Brad Garlinghouse confirmed the approval from the Office of the Comptroller of the Currency this morning. \n\nThe newly minted Ripple National Trust Bank bridges a critical gap. It gives the firm direct federal oversight to operate custody, fiduciary, and trust services across state lines without piecemeal state-level licensing. \n\nFor institutional markets, this changes the custody equation. \n\nInstead of routing digital asset infrastructure through third-party intermediaries, Ripple can now anchor its enterprise rails directly inside the U.S. banking perimeter. \n\nExecution details and timelines for the rollout remain under wraps, but the institutional footprint is expanding fast.",
+    "hasImage": true,
+    "eventFingerprint": "1de552c94250b6f07da93049",
+    "timestamp": "2026-10-27T07:15:05.771Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1330,
+    "text": "3,200 addresses are currently holding the line on ETH derivatives as heavy short exposure builds across major exchanges.\n\nUnconfirmed reports suggest large holders are aggressively expanding bearish positions below current support levels. \n\nThat activity runs counter to broader exchange data. Reserve balances continue to drain lower, pointing to ongoing accumulation rather than distribution. \n\nPrice action remains pinned under $2,350 as these conflicting forces collide. \n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "4643a2028338855a9d3d278a",
+    "timestamp": "2026-10-27T07:15:07.045Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1331,
+    "text": "Hardware wallet security relies entirely on trust in the initial manufacture.\n\nKeystone has confirmed that hackers stole an authenticity verification key during a recent data breach, potentially allowing counterfeit devices to pass as genuine hardware. \n\nWhen the supply chain and verification layer are both compromised, the fundamental premise of cold storage starts to break down. \n\nWhere do you draw the line between software risk and hardware risk when choosing where to store keys?",
+    "hasImage": true,
+    "eventFingerprint": "d95b72aa6402a0cdee424ad4",
+    "timestamp": "2026-10-27T07:15:08.256Z"
   }
 ]

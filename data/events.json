@@ -52347,5 +52347,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+    "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+    "summary": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ripple-occ.png",
+    "publishedAt": "2026-10-27T02:28:18.000Z",
+    "collectedAt": "2026-10-27T07:15:00.071Z",
+    "corroboratingSources": 1,
+    "fingerprint": "51c417ca2fcec6eac71770ee",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-27T07:15:02.498Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+        "fingerprint": "51c417ca2fcec6eac71770ee"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1327,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Secures Major US Banking Approval, XRP Fails to Rally",
+    "link": "https://u.today/ripple-secures-major-us-banking-approval-xrp-fails-to-rally",
+    "summary": "Ripple has secured final US regulatory approval for its national trust bank, marking a major milestone for the company.",
+    "image": null,
+    "publishedAt": "2026-10-27T06:14:45.000Z",
+    "collectedAt": "2026-10-27T07:15:00.071Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8d7770b49912d3a1fa4ba92f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-27T07:15:04.404Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Secures Major US Banking Approval, XRP Fails to Rally",
+        "fingerprint": "8d7770b49912d3a1fa4ba92f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1328,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+    "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+    "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08996a3dca840a6a70f04df3ee9284ea39cc0a81-3579x2013.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-27T04:28:49.000Z",
+    "collectedAt": "2026-10-27T07:15:00.070Z",
+    "corroboratingSources": 2,
+    "fingerprint": "1de552c94250b6f07da93049",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-10-27T07:15:05.782Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+        "fingerprint": "1de552c94250b6f07da93049"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1329,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ethereum price prediction — Will ETH stay below $2,350 after whales take more short positions?",
+    "link": "https://ambcrypto.com/ethereum-price-prediction-will-eth-stay-below-2350-after-whales-take-more-short-positions/",
+    "summary": "Whales are reportedly opening more short positions despite the network's falling exchange reserves.",
+    "image": null,
+    "publishedAt": "2026-10-27T06:00:27.000Z",
+    "collectedAt": "2026-10-27T07:15:00.071Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4643a2028338855a9d3d278a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-27T07:15:07.056Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum price prediction — Will ETH stay below $2,350 after whales take more short positions?",
+        "fingerprint": "4643a2028338855a9d3d278a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1330,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+    "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg",
+    "publishedAt": "2026-10-27T01:55:03.000Z",
+    "collectedAt": "2026-10-27T07:15:00.071Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d95b72aa6402a0cdee424ad4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-27T07:15:08.265Z",
+    "outcome": {
+      "event": {
+        "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+        "fingerprint": "d95b72aa6402a0cdee424ad4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1331,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
