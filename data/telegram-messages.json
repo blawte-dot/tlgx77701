@@ -8612,5 +8612,40 @@
     "hasImage": true,
     "eventFingerprint": "feffc1a910e0423572128559",
     "timestamp": "2026-10-27T13:57:37.898Z"
+  },
+  {
+    "messageId": 1337,
+    "text": "Why is the world's largest exchange suddenly shrinking its menu in Latin America's biggest economy?\n\nBinance just submitted its formal application for a Brazilian virtual asset service provider license ahead of today's regulatory cutoff. \n\nAt the same time, local users are waking up to 22 newly delisted crypto assets as compliance frameworks tighten across the region. \n\nManagement is betting that securing the central bank's stamp of approval will eventually pave the way to reinstate those restricted services. \n\nFor now, the path forward runs entirely through Brasilia.",
+    "hasImage": true,
+    "eventFingerprint": "66b181401cc714597daf2fe0",
+    "timestamp": "2026-10-27T19:12:32.972Z"
+  },
+  {
+    "messageId": 1338,
+    "text": "Don't ignore what just landed on the regulatory ledger.\n\nRipple has secured final approval from the Office of the Comptroller of the Currency to charter the Ripple National Trust Bank. \n\nFour independent outlets have confirmed the development this morning. \n\nThis is no ordinary compliance milestone. Federal chartering brings institutional rails directly into Ripple’s orbit, positioning its RLUSD stablecoin infrastructure within a fully regulated US banking framework. \n\nMarkets are still pricing in what this means for cross-border liquidity and digital asset custody. The institutional perimeter just shifted.",
+    "hasImage": true,
+    "eventFingerprint": "94697ea660191a7a98ac1bfa",
+    "timestamp": "2026-10-27T19:12:35.379Z"
+  },
+  {
+    "messageId": 1339,
+    "text": "State regulators just drew fire from Washington over who gets to police prediction markets. \n\nThe CFTC filed a federal lawsuit against Utah this week, directly intervening in the state's ongoing legal battle with Kalshi. \n\nAt stake is the jurisdictional boundary of crypto-adjacent derivatives. Utah previously moved to halt Kalshi's operations within its borders, arguing state-level authority over gambling and unlicensed financial products. \n\nFederal regulators see it differently. By stepping in, the CFTC is asserting that interstate derivatives markets fall exclusively under federal oversight, not a patchwork of state-level enforcement actions. \n\nAs prediction volume scales alongside upcoming political and macroeconomic events, this collision between state attorneys general and federal commodities regulators is setting the definitive legal precedent for the sector. \n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "60fc2e76aeb3713bbb9ed62f",
+    "timestamp": "2026-10-27T19:12:37.814Z"
+  },
+  {
+    "messageId": 1340,
+    "text": "Wall Street custody is quietly moving onto the ledger.\n\nRipple just expanded its partnership with BNY, bringing institutional support for XRP and RLUSD custody directly into the banking giant's infrastructure. \n\nThe move also lays the groundwork for tokenized trade finance on the XRP Ledger, bridging traditional banking operations with public blockchain rails. \n\nDetails remain focused on institutional deployment, with specific asset volumes yet to be disclosed.",
+    "hasImage": true,
+    "eventFingerprint": "80ddde409807adc1ef181036",
+    "timestamp": "2026-10-27T19:12:38.782Z"
+  },
+  {
+    "messageId": 1341,
+    "text": "Decoupling from Asian equity markets is rarely a bullish signal for crypto bulls.\n\nBitcoin slipped beneath the $80,000 threshold early Tuesday, hovering near $79,700 following a modest 0.4% slide since midnight UTC. \n\nBroader digital assets faced heavier selling pressure. The DeFi sector dropped 1.8% over the same window, completely bypassing the broader risk-on sentiment lifted by regional tech rallies in Asia.\n\nMacro attention now shifts stateside. The Federal Reserve kicks off its two-day policy meeting today, with markets pricing in the path ahead for interest rates.",
+    "hasImage": true,
+    "eventFingerprint": "69a7a3b3fc0f4d5bdb308b2f",
+    "timestamp": "2026-10-27T19:12:40.209Z"
   }
 ]

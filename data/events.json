@@ -52757,5 +52757,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+    "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png",
+    "publishedAt": "2026-10-27T08:04:21.000Z",
+    "collectedAt": "2026-10-27T19:12:31.107Z",
+    "corroboratingSources": 1,
+    "fingerprint": "66b181401cc714597daf2fe0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-27T19:12:32.984Z",
+    "outcome": {
+      "event": {
+        "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+        "fingerprint": "66b181401cc714597daf2fe0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1337,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Ripple Receives Final OCC Trust Bank Approval as RLUSD Expands",
+    "link": "https://www.newsbtc.com/news/ripple-receives-final-occ-trust-bank-approval-as-rlusd-expands/",
+    "summary": "Ripple said on October 26 that the Office of the Comptroller of the Currency had granted final approval to charter Ripple National Trust Bank. The.",
+    "image": null,
+    "publishedAt": "2026-10-27T15:00:00.000Z",
+    "collectedAt": "2026-10-27T19:12:31.107Z",
+    "corroboratingSources": 4,
+    "fingerprint": "94697ea660191a7a98ac1bfa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-27T19:12:35.395Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Receives Final OCC Trust Bank Approval as RLUSD Expands",
+        "fingerprint": "94697ea660191a7a98ac1bfa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1338,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+    "link": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+    "summary": "The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
+    "publishedAt": "2026-10-27T18:51:46.000Z",
+    "collectedAt": "2026-10-27T19:12:31.107Z",
+    "corroboratingSources": 1,
+    "fingerprint": "60fc2e76aeb3713bbb9ed62f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-27T19:12:37.825Z",
+    "outcome": {
+      "event": {
+        "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+        "fingerprint": "60fc2e76aeb3713bbb9ed62f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1339,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Ledger Scores Huge BNY Trade Finance Breakthrough",
+    "link": "https://u.today/xrp-ledger-scores-huge-bny-trade-finance-breakthrough",
+    "summary": "Ripple has expanded its partnership with banking giant BNY, bringing institutional XRP and RLUSD custody support and plans for tokenized trade finance to the XRP Ledger.",
+    "image": null,
+    "publishedAt": "2026-10-27T14:01:10.000Z",
+    "collectedAt": "2026-10-27T19:12:31.107Z",
+    "corroboratingSources": 1,
+    "fingerprint": "80ddde409807adc1ef181036",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-27T19:12:38.794Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Ledger Scores Huge BNY Trade Finance Breakthrough",
+        "fingerprint": "80ddde409807adc1ef181036"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1340,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+    "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+    "summary": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d9786ace14e73654f21a94a72d9d19a3f66730e-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-27T11:32:45.000Z",
+    "collectedAt": "2026-10-27T19:12:31.107Z",
+    "corroboratingSources": 1,
+    "fingerprint": "69a7a3b3fc0f4d5bdb308b2f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-27T19:12:40.221Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+        "fingerprint": "69a7a3b3fc0f4d5bdb308b2f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1341,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
