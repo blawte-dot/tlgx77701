@@ -9883,5 +9883,45 @@
     "hasImage": true,
     "eventFingerprint": "69a7a3b3fc0f4d5bdb308b2f",
     "timestamp": "2026-10-27T19:12:40.215Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1342,
+    "text": "A federal banking charter fundamentally changes how Ripple operates inside the US financial system.\n\nThe Office of the Comptroller of the Currency has granted final approval for Ripple's National Trust Bank application, putting the firm on equal regulatory footing with traditional institutional custodians. \n\nSeveral major crypto outlets are confirming the milestone this morning, moving Ripple from external payment provider to federally regulated bank.\n\nFor RLUSD, this transition removes a major adoption barrier. \n\nA native stablecoin issued under a national trust framework carries a level of compliance that commercial banks and institutional asset managers require before deploying capital on-chain. \n\nIssuing RLUSD directly through a chartered entity solves custody, settlement, and regulatory hurdles in one move, positioning the asset for deeper integration into institutional treasury operations.",
+    "hasImage": true,
+    "eventFingerprint": "0aac3c8d4060caac645a0981",
+    "timestamp": "2026-10-27T23:27:43.805Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1343,
+    "text": "Federal regulators just handed a crypto company the keys to the traditional banking system. \n\nRipple secured final approval from the OCC to launch Ripple National Trust Bank. \n\nThe mandate is specific: manage reserves for RLUSD and handle digital asset custody at a federal level. \n\nLegacy banking groups pushed back hard during the process, arguing crypto firms shouldn't hold national charters. \n\nThose objections failed. \n\nFor XRP, this bridges a structural gap between decentralized ledgers and federally regulated balance sheets. \n\nExecution matters more than the headline now. Watch how institutional volume actually moves into RLUSD reserves in the coming quarters.\n\n#Ripple",
+    "hasImage": true,
+    "eventFingerprint": "3d93458b0568d1d477d3d295",
+    "timestamp": "2026-10-27T23:27:44.972Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1344,
+    "text": "Traditional portfolio construction is quietly rewriting its own rules. 📈\n\nVanEck has rolled out a new Wealth Builder ETF that permanently embeds direct Bitcoin exposure alongside traditional equities and fixed income. \n\nThe fund targets a baseline 2% allocation to digital assets via a spot ETP, allowing that weight to drift between 1% and 5% depending on market conditions. \n\nWhile the nominal size is modest, the architectural shift is significant. Regulated multi-asset products are moving past the experimental phase and treating Bitcoin as a standard structural component of balanced portfolio math.",
+    "hasImage": true,
+    "eventFingerprint": "e95bf8c1b9975af0a249a832",
+    "timestamp": "2026-10-27T23:27:46.240Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1345,
+    "text": "Traditional portfolio construction just absorbed another crypto rail.\n\nVanEck has rolled out its Wealth Builder ETF on the NYSE under the ticker WBMO, packaging equities, fixed income, gold, and indirect Bitcoin exposure into a single multi-asset product. \n\nManagement fees are set at 0.26% annually. \n\nRather than forcing allocators to juggle separate digital asset vehicles, the fund integrates crypto directly alongside traditional macro hedges. It is a quiet structural shift as regulated multi-asset products continue to normalize Bitcoin's presence in standard balance sheets.",
+    "hasImage": true,
+    "eventFingerprint": "40ac5307e210225494ffd3c1",
+    "timestamp": "2026-10-27T23:27:47.283Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1346,
+    "text": "Nothing says peak Washington pragmatism quite like adopting internet money to save the global reserve currency.\n\nU.S. Treasury Secretary Scott Bessent pointed to crypto at Ripple’s conference this week as a fresh mechanism to reinforce dollar dominance. \n\nWith the Clarity Act stalled in Congress, he suggested coordinated moves by the SEC and CFTC could step in to bridge the regulatory gap—while simultaneously putting an end to the quiet debanking of digital asset firms. \n\nWhen survival of the fiat hegemony requires outsourcing liquidity architecture to token networks, policy shifts start moving rather quickly.",
+    "hasImage": true,
+    "eventFingerprint": "3264e2f7ad04cea6144e2965",
+    "timestamp": "2026-10-27T23:27:48.590Z"
   }
 ]

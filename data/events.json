@@ -52962,5 +52962,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ripple wins final OCC approval for National Trust Bank &#8211; How RLUSD benefits",
+    "link": "https://ambcrypto.com/ripple-wins-final-occ-approval-for-national-trust-bank-how-rlusd-benefits/",
+    "summary": "Ripple joins other crypto firms pursuing national trust bank charters.",
+    "image": null,
+    "publishedAt": "2026-10-27T11:00:29.000Z",
+    "collectedAt": "2026-10-27T23:27:40.480Z",
+    "corroboratingSources": 4,
+    "fingerprint": "0aac3c8d4060caac645a0981",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-27T23:27:43.815Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple wins final OCC approval for National Trust Bank &#8211; How RLUSD benefits",
+        "fingerprint": "0aac3c8d4060caac645a0981"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1342,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Ripple gets final US trust bank approval. What does XRP gain?",
+    "link": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
+    "summary": "Ripple said it secured final US approval for a national trust bank despite objections from traditional banking groups concerned about crypto firms entering regulated finance. The company announced on Oct. 26 that the Office of the Comptroller of the Currency (OCC) had granted final approval for Ripple National Trust Bank to manage RLUSD reserves, serve…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-institutional-charter.webp",
+    "publishedAt": "2026-10-27T20:00:02.000Z",
+    "collectedAt": "2026-10-27T23:27:40.480Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3d93458b0568d1d477d3d295",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-27T23:27:44.981Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple gets final US trust bank approval. What does XRP gain?",
+        "fingerprint": "3d93458b0568d1d477d3d295"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1343,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+    "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZJHJBWY657RY1S76WDA6QD/hi-goldman-sachs-and-bitcoin-etf.png",
+    "publishedAt": "2026-10-27T21:28:22.000Z",
+    "collectedAt": "2026-10-27T23:27:40.479Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e95bf8c1b9975af0a249a832",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-27T23:27:46.249Z",
+    "outcome": {
+      "event": {
+        "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+        "fingerprint": "e95bf8c1b9975af0a249a832"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1344,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
+    "link": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
+    "summary": "Bitcoin Magazine\n\nVanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure\nVanEck launched its Wealth Builder ETF (WBMO) on the NYSE, bundling stocks, bonds, gold and indirect bitcoin exposure into one fund for 0.26% a year.\nThis post VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/VanEck-Launches-All-in-One-Wealth-Builder-ETF-With-Bitcoin-Exposure.jpg",
+    "publishedAt": "2026-10-27T19:18:06.000Z",
+    "collectedAt": "2026-10-27T23:27:40.480Z",
+    "corroboratingSources": 1,
+    "fingerprint": "40ac5307e210225494ffd3c1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-27T23:27:47.292Z",
+    "outcome": {
+      "event": {
+        "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
+        "fingerprint": "40ac5307e210225494ffd3c1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1345,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+    "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+    "summary": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/528b526a6142370bcf93434bcb75c0a0c371fa8c-5270x3513.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-27T20:41:33.000Z",
+    "collectedAt": "2026-10-27T23:27:40.479Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3264e2f7ad04cea6144e2965",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-27T23:27:48.601Z",
+    "outcome": {
+      "event": {
+        "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+        "fingerprint": "3264e2f7ad04cea6144e2965"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1346,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
