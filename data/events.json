@@ -53577,5 +53577,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+    "link": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
+    "summary": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
+    "publishedAt": "2026-10-28T16:15:02.000Z",
+    "collectedAt": "2026-10-28T16:57:49.414Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e9766e41fd937bf2bba78a9d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-28T16:58:13.232Z",
+    "outcome": {
+      "event": {
+        "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+        "fingerprint": "e9766e41fd937bf2bba78a9d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1357,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "MEXC and Hacken Launch AI Trading Safety Handbook to Promote Safer AI Adoption",
+    "link": "https://www.newsbtc.com/news/mexc-and-hacken-launch-ai-trading-safety-handbook-to-promote-safer-ai-adoption/",
+    "summary": "Mutsamudu, Comoros, October 28, 2026 – MEXC, a pioneer in 0-fee digital asset trading, and blockchain security, compliance, and regulatory assurance partner Hacken, have released the MEXC × Hacken AI Trading Safety Handbook, providing practical guidance on how users and platforms can use and deploy AI-assisted and automated trading tools more safely, from research and decision support through trade execution. The handbook follows the recent MEXC AI Trading Report, which found strong interest in ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/unnamed-30-715x536.png",
+    "publishedAt": "2026-10-28T10:45:03.000Z",
+    "collectedAt": "2026-10-28T16:57:49.414Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1e1e87ebff8c7b0f40a271e6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-28T16:58:24.354Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC and Hacken Launch AI Trading Safety Handbook to Promote Safer AI Adoption",
+        "fingerprint": "1e1e87ebff8c7b0f40a271e6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1358,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Coinbase Denies Breach After Amplitude Security Incident Exposes Customer Data",
+    "link": "https://cryptopotato.com/coinbase-denies-breach-after-amplitude-security-incident-exposes-customer-data/",
+    "summary": "Coinbase asserted that hackers did not access its systems, but some customer contact data was caught up in Amplitude's security incident.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/05/Coinbase.jpg",
+    "publishedAt": "2026-10-28T13:18:35.000Z",
+    "collectedAt": "2026-10-28T16:57:49.414Z",
+    "corroboratingSources": 2,
+    "fingerprint": "5813f7eb92087fe36fcfd41a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-28T16:58:51.063Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Denies Breach After Amplitude Security Incident Exposes Customer Data",
+        "fingerprint": "5813f7eb92087fe36fcfd41a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1359,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "BetFury Launches Birthday 007: $2,000,000 Spy-Themed Celebration of Seven Years",
+    "link": "https://cryptopotato.com/betfury-launches-birthday-007-2000000-spy-themed-celebration-of-seven-years/",
+    "summary": "[PRESS RELEASE &#8211; Willemstad, Curaçao, October 27th, 2026] BetFury, a leading crypto casino, is officially marking its seventh Anniversary with Birthday 007. The platform-wide campaign is styled after the world of secret agents and backed by a guaranteed $2,000,000 prize pool. The event brings a four-day announcement phase on October 26, 2026, followed by the [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/10/Chainwire___Birthday_007___1200_x_720_1792763557pcBzJGw3a2.jpg",
+    "publishedAt": "2026-10-28T11:59:42.000Z",
+    "collectedAt": "2026-10-28T16:57:49.414Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e525352768745f2474d1588",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-28T16:59:40.778Z",
+    "outcome": {
+      "event": {
+        "title": "BetFury Launches Birthday 007: $2,000,000 Spy-Themed Celebration of Seven Years",
+        "fingerprint": "3e525352768745f2474d1588"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1360,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance Delisting Alert: 10 Pairs to Go as October Ends, BTC and ETH Affected",
+    "link": "https://u.today/binance-delisting-alert-10-pairs-to-go-as-october-ends-btc-and-eth-affected",
+    "summary": "October ends with a Binance delisting shake-up affecting 10 margin pairs.",
+    "image": null,
+    "publishedAt": "2026-10-28T12:00:05.000Z",
+    "collectedAt": "2026-10-28T16:57:49.414Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1c09e25569f071d84654bf58",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-28T17:00:07.268Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Delisting Alert: 10 Pairs to Go as October Ends, BTC and ETH Affected",
+        "fingerprint": "1c09e25569f071d84654bf58"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1361,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -10003,5 +10003,45 @@
     "hasImage": true,
     "eventFingerprint": "e56a16d9cdb076b0f4ef5ca3",
     "timestamp": "2026-10-28T10:19:32.962Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1357,
+    "text": "Who actually bought the dip when Wall Street's fast money ran for the exits? 📉\n\nGalaxy Research data shows nine major hedge funds and banks dumped roughly 68,000 BTC in spot ETF exposure as the popular cash-and-carry trade wound down. \n\nYet aggregate supply barely flinched. \n\nThe structural shift reveals that wealth platforms and sovereign wealth funds quietly absorbed the institutional outflows, replacing short-term arbitrage capital with stickier institutional allocations. \n\nA quiet composition change beneath the surface of spot ETF flows.",
+    "hasImage": true,
+    "eventFingerprint": "e9766e41fd937bf2bba78a9d",
+    "timestamp": "2026-10-28T16:58:13.223Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1358,
+    "text": "Automated trading tools are moving faster than your risk controls, and that blind spot is about to cost retail traders dearly. \n\nMEXC and Hacken have just dropped their joint AI Trading Safety Handbook, targeting the friction points between automated execution and actual user security. \n\nThe release outlines structural guidelines for algorithmic deployment, research verification, and execution safeguards as machine learning takes a deeper hold of daily order flow. \n\nIt follows data from the recent MEXC AI Trading Report showing a sharp spike in automated tool adoption across digital asset markets. \n\nPrudent implementation beats chasing efficiency blind every single time.",
+    "hasImage": true,
+    "eventFingerprint": "1e1e87ebff8c7b0f40a271e6",
+    "timestamp": "2026-10-28T16:58:24.343Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1359,
+    "text": "Check your inbox before you click anything. \n\nCoinbase is scrambling to reassure users this morning after customer contact data leaked—not from internal exchange vaults, but via a third-party analytics provider, Amplitude. \n\nUnconfirmed reports suggest threat actors are already trying to leverage the exposed emails and phone numbers for targeted phishing campaigns. \n\nThe exchange maintains its core infrastructure remains fully secure and internal systems were never breached. \n\nStill, third-party dependencies continue to prove that an exchange is only as secure as its weakest vendor. \n\nIf you receive an unexpected notification, SMS, or reset link claiming to be from Coinbase today, assume it is hostile.",
+    "hasImage": true,
+    "eventFingerprint": "5813f7eb92087fe36fcfd41a",
+    "timestamp": "2026-10-28T16:58:51.053Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1360,
+    "text": "Seven years in the crypto casino sector is a long operational runway. \n\nBetFury is marking that milestone with a $2,000,000 spy-themed anniversary campaign dubbed Birthday 007. \n\nAccording to press releases issued from Curaçao, the platform rolled out a four-day preview phase ahead of the main event. The guaranteed prize pool anchors a promotional push aimed at active users on the platform. \n\nSpecific turnover requirements and game weightings for the promotion remain detailed on the operator's site.",
+    "hasImage": true,
+    "eventFingerprint": "3e525352768745f2474d1588",
+    "timestamp": "2026-10-28T16:59:40.766Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1361,
+    "text": "Margin traders face another round of liquidations as Binance trims its order books.\n\nTen cross and isolated margin pairs are slated for removal as the month closes. \n\nAmong the affected assets are specific trading pairs tied to Bitcoin and Ethereum. \n\nPositions remaining open on these pairs will be automatically closed and settled when the delisting takes effect. \n\nTraders holding exposure across these specific markets should review their collateral requirements immediately to avoid unintended forced closures.",
+    "hasImage": true,
+    "eventFingerprint": "1c09e25569f071d84654bf58",
+    "timestamp": "2026-10-28T17:00:07.258Z"
   }
 ]
