@@ -53167,5 +53167,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Decoding Bitcoin&#8217;s midterm setup amid hawkish Fed risks",
+    "link": "https://ambcrypto.com/decoding-bitcoins-midterm-setup-amid-hawkish-fed-risks/",
+    "summary": "Bitcoin faces Fed and PCE uncertainty as on-chain data hints at a potential bottom near $80k.",
+    "image": null,
+    "publishedAt": "2026-10-28T03:00:03.000Z",
+    "collectedAt": "2026-10-28T03:52:33.037Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1e2bfb23b3a392a944a38a23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-28T03:52:35.787Z",
+    "outcome": {
+      "event": {
+        "title": "Decoding Bitcoin&#8217;s midterm setup amid hawkish Fed risks",
+        "fingerprint": "1e2bfb23b3a392a944a38a23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1347,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+    "link": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
+    "summary": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-27-at-10.20.12.png",
+    "publishedAt": "2026-10-27T10:57:34.000Z",
+    "collectedAt": "2026-10-28T03:52:33.037Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c46c92406d34841f7f918262",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-28T03:52:36.791Z",
+    "outcome": {
+      "event": {
+        "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+        "fingerprint": "c46c92406d34841f7f918262"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1348,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs claw back $110M after $774M exit",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y1DYG85AQWCC0729JDM8E5/hi-bitcoin-is-now-bigger-3.jpg",
+    "publishedAt": "2026-10-27T07:35:37.000Z",
+    "collectedAt": "2026-10-28T03:52:33.037Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b6ea99213516fc5086f81162",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-28T03:52:37.813Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs claw back $110M after $774M exit",
+        "fingerprint": "b6ea99213516fc5086f81162"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1349,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-rests-near-80500-midterms",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom\nBitcoin price recovered from an early-morning low near $79,400 to trade around $80,500 on Tuesday, holding above $80,000 ahead of this week’s Fed decision and the November midterms.\nThis post Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Price-Rests-Near-80500-as-Midterms-Fed-Decision-Loom.jpg",
+    "publishedAt": "2026-10-27T19:48:48.000Z",
+    "collectedAt": "2026-10-28T03:52:33.037Z",
+    "corroboratingSources": 1,
+    "fingerprint": "176f737ccee9703ac0017075",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-28T03:52:39.011Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
+        "fingerprint": "176f737ccee9703ac0017075"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1350,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Whales Reach Milestone Not Seen Since 2022",
+    "link": "https://u.today/xrp-whales-reach-milestone-not-seen-since-2022",
+    "summary": "XRP whales have reached their highest concentration of holdings since November 2022, even as the cryptocurrency struggles near $1.30 and derivatives trading activity remains elevated.",
+    "image": null,
+    "publishedAt": "2026-10-27T08:05:42.000Z",
+    "collectedAt": "2026-10-28T03:52:33.037Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3ea0948abb9bc2f9df05a089",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-28T03:52:40.263Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Whales Reach Milestone Not Seen Since 2022",
+        "fingerprint": "3ea0948abb9bc2f9df05a089"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1351,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
