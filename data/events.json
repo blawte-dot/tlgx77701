@@ -53782,5 +53782,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Fed leaves interest rates unchanged, as expected",
+    "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+    "summary": "A rate hike in December remains likely as the U.S. central bank continues to focus on inflation, which remains well above its 2% target.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/122c7325c0be35556b3113612a0e2dbc323846f5-1920x980.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-28T18:00:42.000Z",
+    "collectedAt": "2026-10-28T21:33:03.679Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cfae5702668b5e2105fddcc5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-28T21:33:05.808Z",
+    "outcome": {
+      "event": {
+        "title": "Fed leaves interest rates unchanged, as expected",
+        "fingerprint": "cfae5702668b5e2105fddcc5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1362,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report",
+    "link": "https://bitcoinmagazine.com/news/google-debuting-a-bank-grade-crypto-tool",
+    "summary": "Bitcoin Magazine\n\nGoogle Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report\nGoogle is previewing a crypto custody system that splits private keys across separate environments, with several banks testing it ahead of a planned early 2027 launch.\nThis post Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Google-Debuting-a-Bank-Grade-Crypto-Custody-Tool-Built-on-Split-Keys-Report.jpg",
+    "publishedAt": "2026-10-28T17:26:10.000Z",
+    "collectedAt": "2026-10-28T21:33:03.679Z",
+    "corroboratingSources": 1,
+    "fingerprint": "39728a86fa1696825d5a1743",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-28T21:33:06.901Z",
+    "outcome": {
+      "event": {
+        "title": "Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report",
+        "fingerprint": "39728a86fa1696825d5a1743"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1363,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+    "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up spending before the US midterm elections.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61JZDJN7WGW76Y3DV75013F/magnifier-coin-bitcoin-search-21.jpg",
+    "publishedAt": "2026-10-28T17:05:42.000Z",
+    "collectedAt": "2026-10-28T21:33:03.679Z",
+    "corroboratingSources": 1,
+    "fingerprint": "39b032def5fd5ae9886c9371",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-28T21:33:08.194Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+        "fingerprint": "39b032def5fd5ae9886c9371"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1364,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+    "link": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+    "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-woman-money-gID_7.png",
+    "publishedAt": "2026-10-28T20:16:03.000Z",
+    "collectedAt": "2026-10-28T21:33:03.679Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f13cdba64e4b34e5e5129f2a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-28T21:33:09.216Z",
+    "outcome": {
+      "event": {
+        "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+        "fingerprint": "f13cdba64e4b34e5e5129f2a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1365,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+    "link": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
+    "summary": "South Korea's second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
+    "publishedAt": "2026-10-28T10:57:29.000Z",
+    "collectedAt": "2026-10-28T21:33:03.679Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bf5d85c120dea9e091325604",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-28T21:33:10.513Z",
+    "outcome": {
+      "event": {
+        "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+        "fingerprint": "bf5d85c120dea9e091325604"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1366,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

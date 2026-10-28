@@ -8787,5 +8787,40 @@
     "hasImage": true,
     "eventFingerprint": "1c09e25569f071d84654bf58",
     "timestamp": "2026-10-28T17:00:07.250Z"
+  },
+  {
+    "messageId": 1362,
+    "text": "3 times. That’s how many meetings the Federal Reserve has left in 2024 to decide if monetary policy needs another turn of the screw. \n\nToday, policymakers held the benchmark interest rate steady. \n\nYet the central bank's underlying stance hasn't softened. Persistent inflation readings sitting well above the 2% target keep December rate-hike probabilities very much alive on Wall Street desks. \n\nMarkets are pricing in a prolonged plateau rather than an immediate pivot. That macro reality continues to shape risk asset liquidity across both traditional and digital markets. \n\n#Macro",
+    "hasImage": true,
+    "eventFingerprint": "cfae5702668b5e2105fddcc5",
+    "timestamp": "2026-10-28T21:33:05.792Z"
+  },
+  {
+    "messageId": 1363,
+    "text": "Big tech is quietly positioning itself for the institutional phase of digital assets.\n\nGoogle is currently previewing a bank-grade crypto custody tool that relies on split-key infrastructure, dividing private keys across separate, isolated environments to mitigate single-point-of-failure risks.\n\nAccording to reports from Bitcoin Magazine, multiple commercial banks are already testing the architecture ahead of a targeted early 2027 rollout. \n\nInfrastructure of this scale signals that traditional finance integration is moving deeper into core tech stacks, well beyond simple ETF wrappers.",
+    "hasImage": true,
+    "eventFingerprint": "39728a86fa1696825d5a1743",
+    "timestamp": "2026-10-28T21:33:06.886Z"
+  },
+  {
+    "messageId": 1364,
+    "text": "A sudden filing outage at the Federal Election Commission has raised questions about transparency just as political action committees open their wallets for the midterms. \n\nThe agency reported an electronic filing system disruption on Tuesday. \n\nWith US midterm spending historically accelerating in the final stretch, the timing obscures real-time tracking of crypto industry lobbying funds and super PAC disclosures. \n\nObservers are monitoring whether the technical failure will delay public access to crucial campaign finance reports ahead of the vote.",
+    "hasImage": true,
+    "eventFingerprint": "39b032def5fd5ae9886c9371",
+    "timestamp": "2026-10-28T21:33:08.178Z"
+  },
+  {
+    "messageId": 1365,
+    "text": "Autonomous AI agents are introducing attack surfaces that traditional cloud defenses were never built to handle.\n\nSecurity startup Upwind just closed a $400 million funding round at a $3.8 billion valuation, fueled by what the firm reports as a fourfold jump in revenue over the past year. \n\nAs enterprises rush to deploy autonomous agents into core infrastructure, capital is aggressively flowing toward runtime threat detection specifically designed for machine-to-machine activity. \n\nSource: Decrypt",
+    "hasImage": true,
+    "eventFingerprint": "f13cdba64e4b34e5e5129f2a",
+    "timestamp": "2026-10-28T21:33:09.200Z"
+  },
+  {
+    "messageId": 1366,
+    "text": "South Korea’s exchange sector is back on high alert following a targeted digital breach.\n\nBithumb confirmed this week that unauthorized actors penetrated an internal system, triggering urgent audits to determine the extent of any customer data exposure. \n\nThe incident coincides with similar cyber events reported by two separate financial institutions in the region, raising fresh questions about institutional perimeter security. \n\nInvestigators are still verifying whether user credentials or sensitive personal information were compromised. \n\n#Bithumb",
+    "hasImage": true,
+    "eventFingerprint": "bf5d85c120dea9e091325604",
+    "timestamp": "2026-10-28T21:33:10.497Z"
   }
 ]
