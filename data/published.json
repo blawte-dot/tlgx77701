@@ -9963,5 +9963,45 @@
     "hasImage": true,
     "eventFingerprint": "3ea0948abb9bc2f9df05a089",
     "timestamp": "2026-10-28T03:52:40.254Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1352,
+    "text": "Wall Street might still be debating custody, but traditional banking giants in Latin America are already executing.\n\nBrazil’s Itaú Unibanco formally registered its crypto trading and custody operations with the central bank this week, clearing the final regulatory hurdle ahead of the October 30 deadline. \n\nThe move makes Itaú the country's first major commercial lender to fully institutionalize digital asset services under Brazil's new supervisory framework. \n\nRather than building isolated pilots, South America's largest private bank by assets is embedding spot crypto directly into its existing retail wealth management infrastructure. \n\nClear rules are drawing heavy balance sheets into the space.",
+    "hasImage": true,
+    "eventFingerprint": "b56817e7d8b4ab9d9966ec8c",
+    "timestamp": "2026-10-28T10:19:27.153Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1353,
+    "text": "Few expected a federal charter to land this fast while New York state oversight stays fully intact. \n\nRipple just cleared the final OCC hurdle for a national trust bank dedicated to handling RLUSD reserves and fiduciary custody. \n\nSplitting the New York-regulated issuer from a federally chartered reserve bank creates a dual-layer compliance model we haven't seen yet for a major stablecoin. \n\nDoes this federal trust backing genuinely position RLUSD to challenge Tether and Circle's market share, or is institutional infrastructure alone not enough to drive actual volume? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "d5d1bf774c5de8016ff26fcd",
+    "timestamp": "2026-10-28T10:19:28.371Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1354,
+    "text": "Another day, another reminder that your exchange password being \"Bitcoin123\" is a structural risk to the global financial system.\n\nSouth Korean regulators are poking around Bithumb following fresh security questions, while Coinbase deals with its own recurring scrutiny. \n\nThe real question isn't whether platforms get targeted. It's whether the infrastructure actually holds up when they do.",
+    "hasImage": true,
+    "eventFingerprint": "a315fcfbb91fe362ca24da90",
+    "timestamp": "2026-10-28T10:19:30.806Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1355,
+    "text": "What happens when institutional demand quietly returns just as the broader market stops panicking?\n\nUS spot Bitcoin ETFs pulled in $286 million across two sessions, single-handedly erasing nearly all of October's net outflows. \n\nBitcoin has since reclaimed the $80,000 handle, while the Crypto Fear & Greed Index holds steady in neutral territory. \n\nFlows are shifting.",
+    "hasImage": true,
+    "eventFingerprint": "254bc98250e529272ca2bb54",
+    "timestamp": "2026-10-28T10:19:31.902Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1356,
+    "text": "All eyes are on Washington this week as macroeconomic policy collides directly with crypto price action. \n\nBitcoin is currently trading near the $80,000 threshold while markets await the Federal Reserve's upcoming interest-rate decision. \n\nTraders are weighing potential shifts in monetary policy against persistent macro headwinds. \n\nVolatility remains the baseline as the central bank prepares its next move.",
+    "hasImage": true,
+    "eventFingerprint": "e56a16d9cdb076b0f4ef5ca3",
+    "timestamp": "2026-10-28T10:19:32.962Z"
   }
 ]

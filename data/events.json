@@ -53372,5 +53372,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+    "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+    "summary": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d46ba6649c1aae115103732eff1cb5d1d02aaf6-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-28T10:07:54.000Z",
+    "collectedAt": "2026-10-28T10:19:24.653Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b56817e7d8b4ab9d9966ec8c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-28T10:19:27.163Z",
+    "outcome": {
+      "event": {
+        "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+        "fingerprint": "b56817e7d8b4ab9d9966ec8c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1352,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
+    "summary": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/0df7ec173f90e67af09c0ede74dcfc851bf6119f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-26T23:37:47.000Z",
+    "collectedAt": "2026-10-28T10:19:24.653Z",
+    "corroboratingSources": 4,
+    "fingerprint": "d5d1bf774c5de8016ff26fcd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-28T10:19:28.380Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
+        "fingerprint": "d5d1bf774c5de8016ff26fcd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1353,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bithumb and Coinbase face security concerns &#8211; What did attackers actually access?",
+    "link": "https://ambcrypto.com/bithumb-and-coinbase-face-security-concerns-what-did-attackers-actually-access/",
+    "summary": "South Korea’s financial sector faces fresh cybersecurity concerns - Here's what you should know.",
+    "image": null,
+    "publishedAt": "2026-10-28T08:30:50.000Z",
+    "collectedAt": "2026-10-28T10:19:24.653Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a315fcfbb91fe362ca24da90",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-28T10:19:30.815Z",
+    "outcome": {
+      "event": {
+        "title": "Bithumb and Coinbase face security concerns &#8211; What did attackers actually access?",
+        "fingerprint": "a315fcfbb91fe362ca24da90"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1354,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60NEYRT27HS3BACTE6CCD20/futures-bitcoin-options-top-5.jpg",
+    "publishedAt": "2026-10-28T07:57:18.000Z",
+    "collectedAt": "2026-10-28T10:19:24.653Z",
+    "corroboratingSources": 1,
+    "fingerprint": "254bc98250e529272ca2bb54",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-28T10:19:31.912Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+        "fingerprint": "254bc98250e529272ca2bb54"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1355,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin Hovers Around $80,000 as Fed Decision Draws Closer",
+    "link": "https://www.newsbtc.com/news/bitcoin-hovers-around-80-000-as-fed-decision-draws-closer/",
+    "summary": "Bitcoin market participants entered October 27 focused on the Federal Reserve's policy discussion and the upcoming interest-rate decision. Contemporary.",
+    "image": null,
+    "publishedAt": "2026-10-28T08:00:00.000Z",
+    "collectedAt": "2026-10-28T10:19:24.653Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e56a16d9cdb076b0f4ef5ca3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-28T10:19:32.971Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Hovers Around $80,000 as Fed Decision Draws Closer",
+        "fingerprint": "e56a16d9cdb076b0f4ef5ca3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1356,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
