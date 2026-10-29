@@ -54602,5 +54602,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Hackers Target Crypto Users With Fake ChatGPT and Claude Apps",
+    "link": "https://u.today/hackers-target-crypto-users-with-fake-chatgpt-and-claude-apps",
+    "summary": "Hackers are using fake ChatGPT and Claude desktop apps to secretly install cryptocurrency mining malware, according to cybersecurity researchers at Check Point Research.",
+    "image": null,
+    "publishedAt": "2026-10-29T20:17:07.000Z",
+    "collectedAt": "2026-10-29T20:50:17.803Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9cc8557ae89bb36721ef668a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T20:50:20.619Z",
+    "outcome": {
+      "event": {
+        "title": "Hackers Target Crypto Users With Fake ChatGPT and Claude Apps",
+        "fingerprint": "9cc8557ae89bb36721ef668a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1382,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Polymarket Hit by Massive Hack",
+    "link": "https://u.today/polymarket-hit-by-massive-hack",
+    "summary": "Nearly 1,000 Polymarket accounts have reportedly been drained in a massive security breach, with hackers stealing more than $2.6 million.",
+    "image": null,
+    "publishedAt": "2026-10-29T19:01:44.000Z",
+    "collectedAt": "2026-10-29T20:50:17.803Z",
+    "corroboratingSources": 1,
+    "fingerprint": "22384d4873331316ec8eb3a3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T20:50:21.798Z",
+    "outcome": {
+      "event": {
+        "title": "Polymarket Hit by Massive Hack",
+        "fingerprint": "22384d4873331316ec8eb3a3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1383,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Google tests crypto custody amid rising security hacks: ‘Our biggest launch to date!’",
+    "link": "https://ambcrypto.com/google-tests-crypto-custody-amid-rising-security-hacks-our-biggest-launch-to-date/",
+    "summary": "Wallet key compromise contributed to over half of crypto hacks.",
+    "image": null,
+    "publishedAt": "2026-10-29T16:00:11.000Z",
+    "collectedAt": "2026-10-29T20:50:17.804Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a78cf7ff029e86651d71e843",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T20:50:25.592Z",
+    "outcome": {
+      "event": {
+        "title": "Google tests crypto custody amid rising security hacks: ‘Our biggest launch to date!’",
+        "fingerprint": "a78cf7ff029e86651d71e843"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1384,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "CFTC Chair Calls Utah's Kalshi Prosecution 'Blatant Overreach'",
+    "link": "https://thedefiant.io/news/regulation/cftc-chair-calls-utah-s-kalshi-prosecution-blatant-overreach",
+    "summary": "A federal lawsuit seeks to block Utah enforcement, but the state has already won an initial ruling against the prediction market exchange.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-29T20:50:02.000Z",
+    "collectedAt": "2026-10-29T20:50:17.804Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9c9359a30d217e4b8c787f5e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T20:50:26.711Z",
+    "outcome": {
+      "event": {
+        "title": "CFTC Chair Calls Utah's Kalshi Prosecution 'Blatant Overreach'",
+        "fingerprint": "9c9359a30d217e4b8c787f5e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1385,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Polygon Extends Bank-to-Stablecoin Payment Stack to Solana",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/polygon-extends-bank-to-stablecoin-payment-stack-to-solana",
+    "summary": "The rollout connects Solana wallets to bank funding and payouts, following Tron support and the completion of Polygon's Coinme acquisition.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/01559b00b3ed56fe81b03e5ab54aeca5fa417b9a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-29T16:14:01.000Z",
+    "collectedAt": "2026-10-29T20:50:17.804Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a9ecb56868c2a0904e2d227a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T20:50:27.932Z",
+    "outcome": {
+      "event": {
+        "title": "Polygon Extends Bank-to-Stablecoin Payment Stack to Solana",
+        "fingerprint": "a9ecb56868c2a0904e2d227a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1386,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

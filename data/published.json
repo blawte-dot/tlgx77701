@@ -10203,5 +10203,45 @@
     "hasImage": true,
     "eventFingerprint": "9e7a4052b6c80fb5450a5487",
     "timestamp": "2026-10-29T15:09:29.011Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1382,
+    "text": "Your desktop AI assistant might be quietly draining your CPU to mint someone else's crypto.\n\nCheck Point Research has uncovered a widespread campaign distributing malicious desktop wrappers for ChatGPT and Claude. These rogue applications look and feel identical to the official tools, but download hidden payloads designed to mine cryptocurrency in the background.\n\nAttackers are leveraging the massive popularity of consumer AI tools to bypass standard user caution. The trojanized apps primarily target Windows systems, executing unauthorized scripts immediately after installation. \n\nAlways verify download sources directly from official domains before installing desktop software, especially when dealing with utilities that require elevated system permissions.",
+    "hasImage": true,
+    "eventFingerprint": "9cc8557ae89bb36721ef668a",
+    "timestamp": "2026-10-29T20:50:20.612Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1383,
+    "text": "Prediction markets are fast becoming prime targets for attackers.\n\nUnconfirmed reports circulating across crypto channels suggest that nearly 1,000 Polymarket accounts have been drained in an ongoing security breach. \n\nTotal losses are currently estimated at more than $2.6 million, though details remain scarce as investigators look into how the compromise occurred. \n\nUsers are advised to exercise caution and monitor their account security while the situation develops.",
+    "hasImage": true,
+    "eventFingerprint": "22384d4873331316ec8eb3a3",
+    "timestamp": "2026-10-29T20:50:21.792Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1384,
+    "text": "What happens when Web3 security fails at the infrastructure level?\n\nGoogle is quietly testing crypto custody solutions, according to recent reports, stepping directly into the market as private key compromises continue to drain billions from users. \n\nData shows wallet key vulnerabilities accounted for over half of all crypto hacks. \n\nExternalizing key management to tech giants could reshape institutional trust, but it revives an old debate in digital assets: convenience versus self-sovereignty.",
+    "hasImage": true,
+    "eventFingerprint": "a78cf7ff029e86651d71e843",
+    "timestamp": "2026-10-29T20:50:25.585Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1385,
+    "text": "State-level friction is quickly becoming the biggest operational risk for prediction markets. \n\nCFTC Chairman Rostin Behnam has characterized Utah’s aggressive enforcement against Kalshi as a \"blatant overreach,\" drawing a sharp jurisdictional line between federal oversight and state regulators. \n\nWhile a newly filed federal lawsuit attempts to halt the state's crackdown, Utah has already secured an initial legal win in local court. \n\nThe core conflict centers on whether state gaming laws apply to federally regulated event contracts—a dispute that will ultimately test the limits of CFTC authority nationwide.",
+    "hasImage": true,
+    "eventFingerprint": "9c9359a30d217e4b8c787f5e",
+    "timestamp": "2026-10-29T20:50:26.705Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1386,
+    "text": "Liquidity pipelines between traditional finance and major blockchains just got a significant upgrade.\n\nPolygon Labs is expanding its bank-to-stablecoin payment stack to support Solana wallets, enabling direct fiat funding and payouts across the network. \n\nThe rollout follows recent integration for Tron and builds on the infrastructure secured through Polygon's acquisition of crypto gateway Coinme earlier this year. \n\nBy bypassing traditional merchant intermediaries, the system allows platforms to handle bank-funded stablecoin conversions natively on-chain. \n\nAs multi-chain liquidity standards continue to converge, infrastructure providers are racing to bridge legacy rails directly into high-throughput execution layers.",
+    "hasImage": true,
+    "eventFingerprint": "a9ecb56868c2a0904e2d227a",
+    "timestamp": "2026-10-29T20:50:27.926Z"
   }
 ]
