@@ -53987,5 +53987,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "$200M Bitcoin hits exchanges in 24 hours &#8211; But a $903M whale buy absorbs the pressure",
+    "link": "https://ambcrypto.com/200m-bitcoin-hits-exchanges-in-24-hours-but-a-903m-whale-buy-absorbs-the-pressure/",
+    "summary": "Bitcoin faces rising whale short pressure as ETF and exchange outflows hint at tightening supply and a potential market reversal.",
+    "image": null,
+    "publishedAt": "2026-10-29T01:00:07.000Z",
+    "collectedAt": "2026-10-29T01:30:24.142Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aac1437deecc3f108c250fe4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T01:30:55.136Z",
+    "outcome": {
+      "event": {
+        "title": "$200M Bitcoin hits exchanges in 24 hours &#8211; But a $903M whale buy absorbs the pressure",
+        "fingerprint": "aac1437deecc3f108c250fe4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1367,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SEC Crypto Custody Proposal Could Expand Options for Advisers and Funds",
+    "link": "https://www.newsbtc.com/news/sec-crypto-custody-proposal-could-expand-options-for-advisers-and-funds/",
+    "summary": "The SEC has proposed a tailored custody framework for investment advisers and registered funds that handle crypto assets.",
+    "image": null,
+    "publishedAt": "2026-10-29T01:00:00.000Z",
+    "collectedAt": "2026-10-29T01:30:24.142Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3d7e23a8ff7335b1307bfdbf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-29T01:30:56.328Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Crypto Custody Proposal Could Expand Options for Advisers and Funds",
+        "fingerprint": "3d7e23a8ff7335b1307bfdbf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1368,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SEC Flags Tokenization and Market Infrastructure in 2027 Exam Priorities",
+    "link": "https://www.newsbtc.com/news/sec-flags-tokenization-and-market-infrastructure-in-2027-exam-priorities/",
+    "summary": "The US Securities and Exchange Commission has identified tokenization and evolving market infrastructure among risks for its fiscal 2027 examination programme.",
+    "image": null,
+    "publishedAt": "2026-10-29T00:00:00.000Z",
+    "collectedAt": "2026-10-29T01:30:24.142Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eae035cf995f0ba956ed52c4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-29T01:30:59.086Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Flags Tokenization and Market Infrastructure in 2027 Exam Priorities",
+        "fingerprint": "eae035cf995f0ba956ed52c4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1369,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
+    "link": "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch",
+    "summary": "Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/5318b65a7de0e19fd87b3bd1f1f6afb628dadc2a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-29T01:16:05.000Z",
+    "collectedAt": "2026-10-29T01:30:24.142Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3b304e80a20c06d6bf35f836",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-29T01:31:00.314Z",
+    "outcome": {
+      "event": {
+        "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
+        "fingerprint": "3b304e80a20c06d6bf35f836"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1370,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Tokenized Stock and ETF Roster: Ondo, DTCC and OKXICE",
+    "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stock-and-etf-roster-ondo-dtcc-and-okxice",
+    "summary": "Ondo reports 15 tokens live on Robinhood Chain. This dated reference separates that roster from DTCC’s institutional tokenization scope and OKXICE’s proposed listings and disclosed objections.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/a934873066c1481a019b97bb3f383a68685ac65d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-28T13:19:46.000Z",
+    "collectedAt": "2026-10-29T01:30:24.142Z",
+    "corroboratingSources": 1,
+    "fingerprint": "900861fd352c192fe2b12f7d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-29T01:31:30.047Z",
+    "outcome": {
+      "event": {
+        "title": "Tokenized Stock and ETF Roster: Ondo, DTCC and OKXICE",
+        "fingerprint": "900861fd352c192fe2b12f7d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1371,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

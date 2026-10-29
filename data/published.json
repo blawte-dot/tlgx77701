@@ -10083,5 +10083,45 @@
     "hasImage": true,
     "eventFingerprint": "bf5d85c120dea9e091325604",
     "timestamp": "2026-10-28T21:33:10.505Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1367,
+    "text": "The order books just absorbed a heavy blow.\n\nOver $200 million in Bitcoin moved onto exchange wallets within a 24-hour window, testing spot liquidity as short-term sell pressure picked up. \n\nYet the drop was met head-on. \n\nOn-chain data highlights a massive $903 million whale accumulation order that cleanly absorbed the incoming supply, preventing a deeper cascade. \n\nBeneath the surface volatility, structural demand remains firmly intact. Spot ETF outflows have slowed while broader exchange reserves continue a multi-month downward trend, pointing to persistent supply tightening. \n\nShort-term traders are pressing their bets, but heavy-pocketed buyers are quietly setting the floor.",
+    "hasImage": true,
+    "eventFingerprint": "aac1437deecc3f108c250fe4",
+    "timestamp": "2026-10-29T01:30:55.126Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1368,
+    "text": "Institutional crypto rails are facing a potential redesign. \n\nThe SEC has introduced a tailored custody framework aimed directly at investment advisers and registered funds managing digital assets. \n\nUnder the proposed rules, qualified custodians would need to meet stricter segregation and recordkeeping standards specifically designed for crypto holdings. \n\nThe initiative attempts to bridge traditional compliance obligations with the operational realities of blockchain-based assets. \n\nIndustry feedback is expected to shape the final parameters as regulators weigh systemic risk against growing institutional demand.",
+    "hasImage": true,
+    "eventFingerprint": "3d7e23a8ff7335b1307bfdbf",
+    "timestamp": "2026-10-29T01:30:56.317Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1369,
+    "text": "The SEC is already looking two years ahead at where market risks are heading. ⚠️\n\nThe agency’s newly released examination priorities for fiscal 2027 explicitly single out real-world asset tokenization and changing market infrastructure as primary areas of focus. \n\nWhile the program outlines institutional compliance targets rather than immediate enforcement actions, it signals that regulators plan a deep dive into how digital assets integrate with traditional financial rails as adoption grows.",
+    "hasImage": true,
+    "eventFingerprint": "eae035cf995f0ba956ed52c4",
+    "timestamp": "2026-10-29T01:30:59.075Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1370,
+    "text": "Beijing's cashless giants are drawing a hard line as crypto tangles with mainstream rails once again. \n\nAlipay has publicly denied any commercial ties to digital asset trading following the beta rollout by peer-to-peer platform Peer. \n\nDespite the official disavowal, Peer's website still lists the payment giant as an active method, even as its own compliance guide acknowledges the absence of an official partnership. \n\nThe friction highlights the persistent gray area retail platforms navigate as they attempt to tap into established fintech networks across restrictive jurisdictions.",
+    "hasImage": true,
+    "eventFingerprint": "3b304e80a20c06d6bf35f836",
+    "timestamp": "2026-10-29T01:31:00.302Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1371,
+    "text": "15 different tokenized products now sit live on Robinhood Chain via Ondo, marking a notable shift in how real-world assets meet on-chain infrastructure. \n\nParsing this development requires keeping three distinct tracks straight. \n\nOndo's retail-facing footprint on Robinhood contrasts sharply with DTCC’s separate institutional tokenization scope. Meanwhile, OKXICE faces its own proposed listings alongside disclosed industry objections. \n\nConflating these distinct initiatives risks misreading where actual adoption is moving.",
+    "hasImage": true,
+    "eventFingerprint": "900861fd352c192fe2b12f7d",
+    "timestamp": "2026-10-29T01:31:30.032Z"
   }
 ]
