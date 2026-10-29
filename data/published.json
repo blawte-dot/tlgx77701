@@ -10123,5 +10123,45 @@
     "hasImage": true,
     "eventFingerprint": "900861fd352c192fe2b12f7d",
     "timestamp": "2026-10-29T01:31:30.032Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1372,
+    "text": "$137 million entered US spot Bitcoin funds yesterday, effectively flipping October back to net positive inflows.\n\nThe late-week capital wave offset earlier macro headwinds, bringing three-day cumulative inflows to $424 million. \n\nDespite a hawkish Federal Reserve stance and cooling retail sentiment, institutional buyers continue to absorb supply at current levels. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "943524cbdbf48f8de2f8be43",
+    "timestamp": "2026-10-29T07:58:54.828Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1373,
+    "text": "Why did a manufacturing slump in Seoul just trigger a nine-figure washout in crypto derivatives?\n\nBitcoin broke under $80,000 today following a sharp risk-off rotation across global markets. \n\nThe catalyst was a double blow: renewed tech sector jitters led by supply chain pressures at Samsung, colliding with a increasingly hawkish Federal Reserve stance on interest rates. \n\nThat macro pressure immediately translated to the leverage market. \n\nOver $356 million in long and short positions were liquidated across major exchanges in less than twenty-four hours as volatility spiked. \n\nSpot volumes remain thin as traders recalibrate positions ahead of upcoming macroeconomic prints.",
+    "hasImage": true,
+    "eventFingerprint": "dd74760b71eb209c7a7b1fe0",
+    "timestamp": "2026-10-29T07:58:56.340Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1374,
+    "text": "Wall Street's plumbing just quietly crossed a major Rubicon.\n\nThe Depository Trust & Clearing Corporation has officially taken its tokenization infrastructure live, connecting private networks like Besu and Canton Network with over twenty major financial institutions. \n\nJPMorgan, Citi, and Morgan Stanley are among the firms participating in the rollout. \n\nThe initiative brings a slice of the roughly $30 trillion in securities processed by DTCC directly into range of distributed ledger technology. \n\nRather than a speculative retail play, this marks institutional infrastructure quietly migrating onto on-chain rails at scale.",
+    "hasImage": true,
+    "eventFingerprint": "7bcaae1d2901cfd48e6cc8fd",
+    "timestamp": "2026-10-29T07:58:57.814Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1375,
+    "text": "Institutional grade security is finally catching up to enterprise crypto demand. \n\nAlphabet is quietly testing its new Multi-Party Compute system in private preview, using the technology to secure its own digital asset holdings across Ethereum and Solana. \n\nSeveral major financial institutions are already evaluating the stack as AI-driven security threats continue to accelerate. \n\nGoogle is positioning itself as foundational infrastructure for corporate web3 adoption.",
+    "hasImage": true,
+    "eventFingerprint": "0b20e24942c7f435b1491164",
+    "timestamp": "2026-10-29T07:58:59.012Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1376,
+    "text": "Ever wonder what a convicted fraudster thinks of his own on-screen adaptation?\n\nSam Bankman-Fried has reportedly reached out from federal custody to Irish actor Anthony Boyle, who is portraying the former FTX CEO in an upcoming Netflix dramatization of the exchange's collapse. \n\nWhile SBF prepares for a 25-year prison sentence, production on the series continues to track the fallout of the multi-billion-dollar fraud and his relationship with Alameda Research executive Caroline Ellison. \n\n#FTX",
+    "hasImage": true,
+    "eventFingerprint": "defd7b1f228b85a40c49e57b",
+    "timestamp": "2026-10-29T07:59:01.383Z"
   }
 ]

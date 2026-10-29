@@ -54192,5 +54192,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M635F2FZPQBQ2SP21XCPWHDQ/hi-bitcoins-are-flash-green-1.jpg",
+    "publishedAt": "2026-10-29T07:32:20.000Z",
+    "collectedAt": "2026-10-29T07:58:52.467Z",
+    "corroboratingSources": 1,
+    "fingerprint": "943524cbdbf48f8de2f8be43",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T07:58:54.836Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+        "fingerprint": "943524cbdbf48f8de2f8be43"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1372,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+    "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+    "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5a54cb869867498c969938b5f8e8b30abb19838-2166x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-29T03:32:43.000Z",
+    "collectedAt": "2026-10-29T07:58:52.467Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dd74760b71eb209c7a7b1fe0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-29T07:58:56.348Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+        "fingerprint": "dd74760b71eb209c7a7b1fe0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1373,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+    "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+    "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-28T13:14:37.000Z",
+    "collectedAt": "2026-10-29T07:58:52.467Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7bcaae1d2901cfd48e6cc8fd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-29T07:58:57.821Z",
+    "outcome": {
+      "event": {
+        "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+        "fingerprint": "7bcaae1d2901cfd48e6cc8fd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1374,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Google to preview crypto custody security system as AI threats grow",
+    "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+    "summary": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-28T11:00:00.000Z",
+    "collectedAt": "2026-10-29T07:58:52.467Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0b20e24942c7f435b1491164",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-29T07:58:59.020Z",
+    "outcome": {
+      "event": {
+        "title": "Google to preview crypto custody security system as AI threats grow",
+        "fingerprint": "0b20e24942c7f435b1491164"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1375,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+    "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61TQHACVDH0XJQJK1P5B22V/crypto-news-neutral-sbf-movie.jpg",
+    "publishedAt": "2026-10-28T19:10:40.000Z",
+    "collectedAt": "2026-10-29T07:58:52.467Z",
+    "corroboratingSources": 1,
+    "fingerprint": "defd7b1f228b85a40c49e57b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-29T07:59:01.392Z",
+    "outcome": {
+      "event": {
+        "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+        "fingerprint": "defd7b1f228b85a40c49e57b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1376,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
