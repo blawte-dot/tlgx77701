@@ -54397,5 +54397,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+    "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+    "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e43ef5cf3ed3e97c897a26c451cadd0f72554efa-5972x3981.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-29T14:15:46.000Z",
+    "collectedAt": "2026-10-29T15:07:06.146Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6fd3408332ef071a3297ddf7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T15:07:38.578Z",
+    "outcome": {
+      "event": {
+        "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+        "fingerprint": "6fd3408332ef071a3297ddf7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1377,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
+    "link": "https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto",
+    "summary": "Bitcoin Magazine\n\nRussia Approves Securities Group to Oversee Crypto Exchanges\nThe Bank of Russia approved NAUFOR as the country’s first self-regulatory organization for crypto exchanges and digital depositories.\nThis post Russia Approves Securities Group to Oversee Crypto Exchanges first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Russia-Approves-Securities-Group-to-Oversee-Crypto-Exchanges.jpg",
+    "publishedAt": "2026-10-29T15:03:46.000Z",
+    "collectedAt": "2026-10-29T15:07:06.146Z",
+    "corroboratingSources": 1,
+    "fingerprint": "13ac366277e49e4d642d7fd4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-29T15:08:00.929Z",
+    "outcome": {
+      "event": {
+        "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
+        "fingerprint": "13ac366277e49e4d642d7fd4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1378,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bank of England opens consultation on tokenized collateral for clearing",
+    "link": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M640KSE3Z43BT819XP76F6D2/bank-of-england-stablecoin-2.jpg",
+    "publishedAt": "2026-10-29T14:27:46.000Z",
+    "collectedAt": "2026-10-29T15:07:06.146Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f430cb53aab06c2aecb0dc80",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-29T15:08:27.412Z",
+    "outcome": {
+      "event": {
+        "title": "Bank of England opens consultation on tokenized collateral for clearing",
+        "fingerprint": "f430cb53aab06c2aecb0dc80"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1379,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+    "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+    "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed’s preferred inflation gauge is due later today.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7ed18ce37d5719636d0aec2ba3ac55379d649fa8-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-29T11:11:48.000Z",
+    "collectedAt": "2026-10-29T15:07:06.146Z",
+    "corroboratingSources": 1,
+    "fingerprint": "92091c4dadf2077326a637b9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-29T15:09:07.943Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+        "fingerprint": "92091c4dadf2077326a637b9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1380,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+    "link": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
+    "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240502_Solana_News_3.jpg",
+    "publishedAt": "2026-10-29T13:00:00.000Z",
+    "collectedAt": "2026-10-29T15:07:06.146Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9e7a4052b6c80fb5450a5487",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-29T15:09:29.023Z",
+    "outcome": {
+      "event": {
+        "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+        "fingerprint": "9e7a4052b6c80fb5450a5487"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1381,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
