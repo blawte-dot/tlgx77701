@@ -8962,5 +8962,40 @@
     "hasImage": true,
     "eventFingerprint": "a9ecb56868c2a0904e2d227a",
     "timestamp": "2026-10-29T20:50:27.919Z"
+  },
+  {
+    "messageId": 1387,
+    "text": "Markets move fast when custody comes under a sudden spotlight. \n\nBinance is currently looking into security reports following notable wallet outflows, while unconfirmed reports suggest major stablecoin issuers have intervened to freeze over 1.56M USDT tied to the activity. \n\nBinance maintains that all user funds remain safe as researchers pore over the on-chain data. \n\nWith multiple outlets tracking the situation independently, liquidity and market sensitivity are running high. We are monitoring the chain and will share verified updates as they land.",
+    "hasImage": true,
+    "eventFingerprint": "16b60abd8f1b747a4e97b4b8",
+    "timestamp": "2026-10-30T00:34:41.197Z"
+  },
+  {
+    "messageId": 1388,
+    "text": "Internal security systems remain shockingly vulnerable.\n\nA hacktivist collective claims to have published the work details of over 41,000 Department of Homeland Security employees, according to reports from Decrypt. \n\nThe leaked data reportedly includes names, job titles, and direct phone numbers extracted directly from an internal login system. \n\nWhile federal authorities have yet to issue a formal verification of the breach's scope, the incident highlights persistent weaknesses in foundational government cybersecurity architecture.",
+    "hasImage": true,
+    "eventFingerprint": "c878275101105c0bd5e77435",
+    "timestamp": "2026-10-30T00:34:42.364Z"
+  },
+  {
+    "messageId": 1389,
+    "text": "Regulatory friction remains the primary bottleneck for institutional stablecoin adoption in the US.\n\nCircle is officially pushing the SEC to carve out an exemption from a decades-old Wall Street rule, arguing that traditional broker-dealer capital requirements are fundamentally incompatible with digital dollar reserves. \n\nIn a letter to regulators, the issuer asked for separate regulatory frameworks governing public offerings, broker capital, and customer reserve segregation. \n\nThe core issue: current rules force stablecoin reserves to be treated like standard corporate brokerage assets rather than isolated, bankruptcy-remote trust funds. \n\nIf granted, the exemption could fundamentally alter how institutional players integrate and scale tokenized liquidity.",
+    "hasImage": true,
+    "eventFingerprint": "91ee39631580c0e982836bd0",
+    "timestamp": "2026-10-30T00:34:43.774Z"
+  },
+  {
+    "messageId": 1390,
+    "text": "Your private keys might be safe, but the infrastructure signing your transactions is a silent single point of failure.\n\nBlockaid CEO Ido Ben-Natan suggests the recent Binance security incident likely stemmed from the misuse of private keys rather than a direct theft. \n\nInstead of breaching storage vaults, attackers appear to have manipulated transaction-signing systems directly. \n\nIt is a mechanism strikingly similar to the exploit vector seen in the Bybit breach earlier this year. \n\nAs protocols secure their cold storage, the software layer handling authorized transactions is becoming the primary battleground.",
+    "hasImage": true,
+    "eventFingerprint": "3de5b2a10f409ec6f8193040",
+    "timestamp": "2026-10-30T00:34:45.318Z"
+  },
+  {
+    "messageId": 1391,
+    "text": "Five point eight billion dollars left Binance in a single wave.\n\nBitcoin slid under $79,000 following unconfirmed reports of a massive exploit targeting the exchange's hot wallets. \n\nThe fallout was immediate. Tether and Circle moved quickly to block between $1.8 billion and $2.4 billion in stolen stablecoins before they could be laundered through decentralized protocols. \n\nMarkets are currently digesting the scale of the outflow as on-chain analysts track the remaining funds. Volatility remains elevated across major trading pairs.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "1c609e897cbe58a6f46d32ba",
+    "timestamp": "2026-10-30T00:34:46.542Z"
   }
 ]

@@ -54807,5 +54807,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Binance investigates security reports as Tether says it froze over 1.567B USDT",
+    "link": "https://ambcrypto.com/binance-investigates-security-reports-as-tether-says-it-froze-over-1-567b-usdt/",
+    "summary": "Binance says customer funds are safe as security researchers examine large wallet outflows and stablecoin issuers reportedly intervene.",
+    "image": null,
+    "publishedAt": "2026-10-29T22:09:21.000Z",
+    "collectedAt": "2026-10-30T00:34:38.613Z",
+    "corroboratingSources": 2,
+    "fingerprint": "16b60abd8f1b747a4e97b4b8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 9.5,
+    "processedAt": "2026-10-30T00:34:41.216Z",
+    "outcome": {
+      "event": {
+        "title": "Binance investigates security reports as Tether says it froze over 1.567B USDT",
+        "fingerprint": "16b60abd8f1b747a4e97b4b8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1387,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+    "link": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
+    "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/04/dhs-gID_4.jpg",
+    "publishedAt": "2026-10-29T18:46:02.000Z",
+    "collectedAt": "2026-10-30T00:34:38.613Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c878275101105c0bd5e77435",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-30T00:34:42.382Z",
+    "outcome": {
+      "event": {
+        "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+        "fingerprint": "c878275101105c0bd5e77435"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1388,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Circle wants SEC to erase a costly Wall Street rule holding stablecoins back",
+    "link": "https://cryptoslate.com/circle-wants-sec-to-erase-a-costly-wall-street-rule-holding-stablecoins-back/",
+    "summary": "Circle’s SEC letter seeks separate permissions for offerings, brokerage capital and customer reserves, showing where issuer regulation leaves further decisions.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-cash-recognition-test.webp",
+    "publishedAt": "2026-10-29T16:30:28.000Z",
+    "collectedAt": "2026-10-30T00:34:38.613Z",
+    "corroboratingSources": 1,
+    "fingerprint": "91ee39631580c0e982836bd0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-30T00:34:43.792Z",
+    "outcome": {
+      "event": {
+        "title": "Circle wants SEC to erase a costly Wall Street rule holding stablecoins back",
+        "fingerprint": "91ee39631580c0e982836bd0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1389,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+    "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Blockaid’s Ido Ben-Natan suspects attackers manipulated Binance’s transaction-signing infrastructure, drawing parallels with the Bybit hack.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg",
+    "publishedAt": "2026-10-30T00:11:26.000Z",
+    "collectedAt": "2026-10-30T00:34:38.613Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3de5b2a10f409ec6f8193040",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-30T00:34:45.337Z",
+    "outcome": {
+      "event": {
+        "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+        "fingerprint": "3de5b2a10f409ec6f8193040"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1390,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-price-slides-binance",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack\nBitcoin price fell below $79,000 as reports of a suspected Binance hack, with outflows of up to $5.8 billion, prompted Tether and Circle to freeze roughly $1.8 to $2.4 billion in stablecoins.\nThis post Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/Binance-France-CEO-Targeted-in-Failed-Home-Invasion-Near-Paris-Three-Arrested.jpg",
+    "publishedAt": "2026-10-29T23:06:37.000Z",
+    "collectedAt": "2026-10-30T00:34:38.613Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1c609e897cbe58a6f46d32ba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-30T00:34:46.562Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
+        "fingerprint": "1c609e897cbe58a6f46d32ba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1391,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
