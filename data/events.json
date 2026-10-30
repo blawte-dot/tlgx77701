@@ -55422,5 +55422,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+    "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WK9FWJATF4KMADN8DRH10/hi-will-googles-quantum-supremacy-break-bitcoin-in-2022.jpg",
+    "publishedAt": "2026-10-30T17:09:31.000Z",
+    "collectedAt": "2026-10-30T18:58:02.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2866f0dc9ce814687f382454",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T18:58:05.386Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+        "fingerprint": "2866f0dc9ce814687f382454"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1402,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+    "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+    "summary": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-10-30T17:50:26.000Z",
+    "collectedAt": "2026-10-30T18:58:02.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4ad92ddb3fd36758b15c948d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T18:58:06.625Z",
+    "outcome": {
+      "event": {
+        "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+        "fingerprint": "4ad92ddb3fd36758b15c948d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1403,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin fell after the Fed’s pause, but blaming interest rates misses the Binance shock",
+    "link": "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock/",
+    "summary": "he Federal Reserve asked for more information before changing interest rates. Eighteen and a half hours later, the economy supplied it: growth was strong, inflation remained elevated, and households were spending more without buying much more. But before investors could settle what that combination meant for Bitcoin, a Binance security breach raised a more immediate…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/fed-rate-pathways.webp",
+    "publishedAt": "2026-10-30T14:00:23.000Z",
+    "collectedAt": "2026-10-30T18:58:02.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e179ad670f3e59c56cafc29c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T18:58:07.848Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin fell after the Fed’s pause, but blaming interest rates misses the Binance shock",
+        "fingerprint": "e179ad670f3e59c56cafc29c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1404,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Solana (SOL) Moves In on Hong Kong Banks to Scale Its $14 Billion Stablecoin Market",
+    "link": "https://u.today/solana-sol-moves-in-on-hong-kong-banks-to-scale-its-14-billion-stablecoin-market",
+    "summary": "While China bans crypto, Solana secures a regulated Hong Kong dollar gateway via a licensed Standard Chartered venture.",
+    "image": null,
+    "publishedAt": "2026-10-30T17:01:05.000Z",
+    "collectedAt": "2026-10-30T18:58:02.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7b669ef5452f0ae4f15058ff",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T18:58:10.951Z",
+    "outcome": {
+      "event": {
+        "title": "Solana (SOL) Moves In on Hong Kong Banks to Scale Its $14 Billion Stablecoin Market",
+        "fingerprint": "7b669ef5452f0ae4f15058ff"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1405,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+    "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+    "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba7711718abff560f6bffba93947c12093554e65-4498x3000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-30T16:31:17.000Z",
+    "collectedAt": "2026-10-30T18:58:02.729Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ef1b832ed047f63efca06da7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-30T18:58:12.276Z",
+    "outcome": {
+      "event": {
+        "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+        "fingerprint": "ef1b832ed047f63efca06da7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1406,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
