@@ -55012,5 +55012,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+    "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+    "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/620842f6b69f8d4379c9ef8109bf2fef3539f530-2173x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-30T04:00:43.000Z",
+    "collectedAt": "2026-10-30T06:45:50.721Z",
+    "corroboratingSources": 1,
+    "fingerprint": "326a71c336c84e081d4232ff",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-30T06:45:52.835Z",
+    "outcome": {
+      "event": {
+        "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+        "fingerprint": "326a71c336c84e081d4232ff"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1392,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+    "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+    "summary": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2a355ad6263f621c2c80597c2656c906b2bd252-7358x5127.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-30T03:36:11.000Z",
+    "collectedAt": "2026-10-30T06:45:50.721Z",
+    "corroboratingSources": 1,
+    "fingerprint": "16387e2876699d9d8f97225a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-30T06:45:54.013Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+        "fingerprint": "16387e2876699d9d8f97225a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1393,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+    "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N1W42V728M2XGSHNH0A01/hi-north-korea-own-crypto.jpg",
+    "publishedAt": "2026-10-30T05:51:41.000Z",
+    "collectedAt": "2026-10-30T06:45:50.721Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f61076d67be28f041e7f5ba5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-30T06:45:55.817Z",
+    "outcome": {
+      "event": {
+        "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+        "fingerprint": "f61076d67be28f041e7f5ba5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1394,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
+    "link": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
+    "summary": "Bitcoin Magazine\n\nFranklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin\nFranklin Templeton’s two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq.\nThis post Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Franklin-Templeton-to-Acquire-CoinFund-Spinoff-for-Institutional-Crypto-Push-WSJ.jpg",
+    "publishedAt": "2026-10-29T16:26:24.000Z",
+    "collectedAt": "2026-10-30T06:45:50.721Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1e2c92abbf5bcee5a08a0c2e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-30T06:45:56.973Z",
+    "outcome": {
+      "event": {
+        "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
+        "fingerprint": "1e2c92abbf5bcee5a08a0c2e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1395,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+    "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+    "summary": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f7ef13317cdfd77bf7ecbfc1b784d3d087b9720-1500x915.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-30T05:43:07.000Z",
+    "collectedAt": "2026-10-30T06:45:50.721Z",
+    "corroboratingSources": 1,
+    "fingerprint": "617b7ee17d5cb9b46dd84ec7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-30T06:45:58.235Z",
+    "outcome": {
+      "event": {
+        "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+        "fingerprint": "617b7ee17d5cb9b46dd84ec7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1396,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

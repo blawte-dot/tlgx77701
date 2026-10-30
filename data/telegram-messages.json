@@ -8997,5 +8997,40 @@
     "hasImage": true,
     "eventFingerprint": "1c609e897cbe58a6f46d32ba",
     "timestamp": "2026-10-30T00:34:46.542Z"
+  },
+  {
+    "messageId": 1392,
+    "text": "Security assumptions in crypto just took another violent reset.\n\nMarkets are absorbing the fallout from a suspected $6.3 billion breach tied to Binance, alongside a separate exploit on Polymarket. Bitcoin and ether both tumbled sharply as the news broke.\n\nStandard Chartered is warning clients that the downside pressure may persist before the market establishes a durable base. \n\nLiquidity is thinning and risk models are being rewritten in real time.",
+    "hasImage": true,
+    "eventFingerprint": "326a71c336c84e081d4232ff",
+    "timestamp": "2026-10-30T06:45:52.818Z"
+  },
+  {
+    "messageId": 1393,
+    "text": "$6 billion vanished from Binance in a single Thursday operation.\n\nBlockchain analysts are pointing to a familiar culprit behind the massive breach: North Korea's state-backed Lazarus Group. \n\nSecurity researchers note the technical footprints match previous high-profile exploits tied to the hermit kingdom's cyber units. \n\nBinance has not yet confirmed the final loss figures or the vector of the attack as investigations continue across multiple jurisdictions. \n\nWe are tracking developments as forensic data emerges.",
+    "hasImage": true,
+    "eventFingerprint": "16387e2876699d9d8f97225a",
+    "timestamp": "2026-10-30T06:45:53.997Z"
+  },
+  {
+    "messageId": 1394,
+    "text": "Six billion dollars in stolen crypto now traces back to a single operational nexus.\n\nBlockchain intelligence firm TRM Labs has tied the notorious North Korean threat cluster TraderTraitor to the historic $6.3 billion Binance exploit. \n\nOn-chain analyst ZachXBT corroborated the infrastructure overlap, tracking funds pilfered from both Binance and Bitget converging on the exact same destination addresses. \n\nState-sponsored cyber units continue to drive a massive share of illicit volume across the ecosystem, turning protocol exploits into state-level funding mechanisms.",
+    "hasImage": true,
+    "eventFingerprint": "f61076d67be28f041e7f5ba5",
+    "timestamp": "2026-10-30T06:45:55.801Z"
+  },
+  {
+    "messageId": 1395,
+    "text": "Traditional dividend yields are finding a direct pipeline into digital assets.\n\nFranklin Templeton has officially brought two new products to the Nasdaq. \n\nTickers FBEQ and FIBT are now live, operating under a dividend reinvestment plan framework that automatically converts traditional payouts into Bitcoin exposure. \n\nIt marks another structural bridge between legacy equity markets and crypto infrastructure, embedding automated accumulation directly into standard brokerage accounts. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "1e2c92abbf5bcee5a08a0c2e",
+    "timestamp": "2026-10-30T06:45:56.956Z"
+  },
+  {
+    "messageId": 1396,
+    "text": "When the plumbing in Singapore leaks, everyone downstairs in Mumbai reaches for buckets. \n\nThat is essentially what just hit CoinDCX. A security incident at Binance knocked out a shared liquidity provider, forcing India's largest exchange to temporarily pump the brakes on new futures positions. \n\nCustomer funds and basic deposits are reportedly untouched, but the friction shows just how tightly wired the entire sector remains to a handful of central nodes. \n\nOne major API hiccup upstream, and the ripples hit local order books instantly. Decentralization is still a work in progress.",
+    "hasImage": true,
+    "eventFingerprint": "617b7ee17d5cb9b46dd84ec7",
+    "timestamp": "2026-10-30T06:45:58.219Z"
   }
 ]
