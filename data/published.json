@@ -10323,5 +10323,45 @@
     "hasImage": true,
     "eventFingerprint": "617b7ee17d5cb9b46dd84ec7",
     "timestamp": "2026-10-30T06:45:58.227Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1397,
+    "text": "Markets care less about the narrative and entirely about the leverage until it is violently gone. \n\nOver $1.57 billion in crypto futures liquidations ripped through the board today following reports of a $6.3 billion security breach involving Binance. \n\nBitcoin slid toward $77,350 as cascading margin calls wiped out long positions in minutes. \n\nOrder books are thinning and volatility remains elevated. Traders are currently pricing in systemic risk while forensic teams verify the scale of the exploit. \n\nThe immediate price action shows how fragile market structure remains under sudden stress.",
+    "hasImage": true,
+    "eventFingerprint": "7ef8af6de0b54f49cafb646a",
+    "timestamp": "2026-10-30T13:48:35.163Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1398,
+    "text": "Security budgets are facing a stress test across the entire digital asset landscape right now. \n\nBinance just disclosed a $6.34 billion reserve specifically earmarked to cover potential hack losses. Simultaneously, coordinated tracking with industry partners has succeeded in freezing roughly $3 billion in affected funds from recent incidents. \n\nThe numbers are staggering, but the timing is the real story. \n\nAs exploit complexity rises, exchanges and protocols are shifting from reactive defense to pre-funded liquidity shields. It sets a new benchmark for capital allocation in platform risk management, but it also underscores just how high the stakes remain for protocol security.",
+    "hasImage": true,
+    "eventFingerprint": "e79fc62435547600b6a993d3",
+    "timestamp": "2026-10-30T13:48:38.031Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1399,
+    "text": "Macro tailwinds are quietly reshaping the institutional playbook.\n\nIn a recent breakdown for Bitcoin Magazine, Tyler Evans points to a decisive pivot in spot ETF data—moving away from heavy distribution and straight back into strong accumulation. \n\nThe shift coincides with evolving Federal Reserve policy and shifting bond yields, creating a very different structural backdrop than the previous phase of the cycle. \n\nEvans also highlights U.S. midterms as a critical political catalyst to watch as liquidity conditions develop heading toward 2027. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "1014ea7d65f12f49a21f9b10",
+    "timestamp": "2026-10-30T13:48:40.596Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1400,
+    "text": "Three breach vectors are now confirmed in the ongoing investigation into the estimated $6 billion security incident. \n\nBinance investigators expanded their scope beyond an initial focus on a single compromised DevOps employee laptop. \n\nSpecific details regarding the newly discovered vectors remain undisclosed. \n\nWhat matters here is scale and operational security. When an incident of this magnitude reveals multiple points of failure rather than a single compromised endpoint, it forces a hard reassessment of internal infrastructure assumptions across major trading venues. \n\nMonitoring how exchanges tighten authorization and deployment pipelines in the coming weeks is critical.",
+    "hasImage": true,
+    "eventFingerprint": "9502b35651bfb7a47ac04183",
+    "timestamp": "2026-10-30T13:48:42.585Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1401,
+    "text": "If your assets are sitting on a centralized exchange today, you might want to rethink the risk model. \n\nBinance is currently navigating what is shaping up to be the industry's most complex security crisis to date. Unconfirmed reports point to billions in suspicious outflows, alongside roughly $478 million in sudden Bitcoin liquidations that caught leveraged traders off guard. \n\nWhile public chatter fixates on the social media friction between prominent figures, on-chain analyst ZachXBT has flagged a far more concerning angle: potential ties to state-sponsored North Korean actors. \n\nThe situation remains fluid as exchange operators work to contain the fallout. Verify your custody arrangements before the next wave hits.",
+    "hasImage": true,
+    "eventFingerprint": "babe48641dfedb5d668a3a95",
+    "timestamp": "2026-10-30T13:48:44.186Z"
   }
 ]

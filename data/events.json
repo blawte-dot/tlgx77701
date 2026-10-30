@@ -55217,5 +55217,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+    "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+    "summary": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/626f394b90a6e05df4c0c35773ffc98792fbce44-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-30T11:09:24.000Z",
+    "collectedAt": "2026-10-30T13:48:32.341Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7ef8af6de0b54f49cafb646a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T13:48:35.176Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+        "fingerprint": "7ef8af6de0b54f49cafb646a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1397,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Binance says it has $6.34 billion ready to cover hack losses",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
+    "summary": "Binance has allocated $6.34 billion to cover hack losses, while industry partners have frozen another $3 billion in affected assets.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_4.jpg",
+    "publishedAt": "2026-10-30T13:14:56.000Z",
+    "collectedAt": "2026-10-30T13:48:32.341Z",
+    "corroboratingSources": 4,
+    "fingerprint": "e79fc62435547600b6a993d3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T13:48:38.043Z",
+    "outcome": {
+      "event": {
+        "title": "Binance says it has $6.34 billion ready to cover hack losses",
+        "fingerprint": "e79fc62435547600b6a993d3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1398,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Tyler Evans: Bitcoin ETF Flows Flipped From “Highly Negative” to “Strong Accumulation”",
+    "link": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
+    "summary": "&#9654;Bitcoin Magazine\n\nTyler Evans: Bitcoin ETF Flows Flipped From “Highly Negative” to “Strong Accumulation”\nTyler Evans breaks down Bitcoin's post-bear setup: Fed policy, bond yields, surging ETF accumulation, and why U.S. midterms are pivotal heading into 2027.\nThis post Tyler Evans: Bitcoin ETF Flows Flipped From “Highly Negative” to “Strong Accumulation” first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/EIeJTVKzOsw/hqdefault.jpg",
+    "publishedAt": "2026-10-30T13:31:15.000Z",
+    "collectedAt": "2026-10-30T13:48:32.341Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1014ea7d65f12f49a21f9b10",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T13:48:40.608Z",
+    "outcome": {
+      "event": {
+        "title": "Tyler Evans: Bitcoin ETF Flows Flipped From “Highly Negative” to “Strong Accumulation”",
+        "fingerprint": "1014ea7d65f12f49a21f9b10"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1399,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Binance uncovers more breach points in $6 billion hack",
+    "link": "https://cryptoslate.com/binance-breach-points-6-billion-hack/",
+    "summary": "Binance said investigators uncovered additional breach points in the approximately $6 billion hack after initially suspecting a compromised employee laptop. The exchange has not disclosed what those additional breach points were. In an earlier Oct. 30 security update, the exchange said its preliminary investigation identified a potentially compromised DevOps engineer&#039;s laptop that may have allowed…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-hack-north-korea.webp",
+    "publishedAt": "2026-10-30T11:13:40.000Z",
+    "collectedAt": "2026-10-30T13:48:32.341Z",
+    "corroboratingSources": 2,
+    "fingerprint": "9502b35651bfb7a47ac04183",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T13:48:42.600Z",
+    "outcome": {
+      "event": {
+        "title": "Binance uncovers more breach points in $6 billion hack",
+        "fingerprint": "9502b35651bfb7a47ac04183"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1400,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Binance Hit by a $6.3B Security Nightmare: Nikita Bier Mocks CZ, While ZachXBT Spots a Bigger Threat",
+    "link": "https://cryptopotato.com/binance-hit-by-a-6-3b-security-nightmare-nikita-bier-mocks-cz-while-zachxbt-spots-a-bigger-threat/",
+    "summary": "Billions in suspected stolen funds, $478 million in Bitcoin liquidations, and a possible North Korean connection has turned Binance's hack into crypto's biggest security story.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/11/Changpeng_Zhao.jpg",
+    "publishedAt": "2026-10-30T07:40:03.000Z",
+    "collectedAt": "2026-10-30T13:48:32.341Z",
+    "corroboratingSources": 1,
+    "fingerprint": "babe48641dfedb5d668a3a95",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-10-30T13:48:44.197Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Hit by a $6.3B Security Nightmare: Nikita Bier Mocks CZ, While ZachXBT Spots a Bigger Threat",
+        "fingerprint": "babe48641dfedb5d668a3a95"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1401,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
