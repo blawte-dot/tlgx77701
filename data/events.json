@@ -55627,5 +55627,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg",
+    "publishedAt": "2026-10-30T11:29:23.000Z",
+    "collectedAt": "2026-10-30T22:51:39.676Z",
+    "corroboratingSources": 1,
+    "fingerprint": "934ba34c8b8374ed92d9284c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-30T22:51:42.350Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+        "fingerprint": "934ba34c8b8374ed92d9284c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1407,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Binance Hacked for $6.3B, Fed Holds Rates, Bitcoin Crashes to 6-Week Low: Weekly Crypto Recap",
+    "link": "https://cryptopotato.com/binance-hacked-for-6-3b-fed-holds-rates-bitcoin-crashes-to-6-week-low-weekly-crypto-recap/",
+    "summary": "The biggest hack in the crypto industry took place on Friday morning and sent shockwaves across the entire market.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/12/market_update_cover_new.jpg",
+    "publishedAt": "2026-10-30T16:25:14.000Z",
+    "collectedAt": "2026-10-30T22:51:39.676Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c9337e32138af9c852144522",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-30T22:51:43.606Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Hacked for $6.3B, Fed Holds Rates, Bitcoin Crashes to 6-Week Low: Weekly Crypto Recap",
+        "fingerprint": "c9337e32138af9c852144522"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1408,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
+    "link": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+    "summary": "Both firms blame the group behind the Bybit hack, as Binance says it has set aside $6.34 billion of its own funds to cover user losses.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-10-30T12:22:04.000Z",
+    "collectedAt": "2026-10-30T22:51:39.676Z",
+    "corroboratingSources": 2,
+    "fingerprint": "e461a47b7d3b8fc55c642159",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-30T22:51:45.087Z",
+    "outcome": {
+      "event": {
+        "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
+        "fingerprint": "e461a47b7d3b8fc55c642159"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1409,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Blockchain Firms Link North Korea to $6.3 Billion Binance Hack",
+    "link": "https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack",
+    "summary": "Bitcoin Magazine\n\nBlockchain Firms Link North Korea to $6.3 Billion Binance Hack \nChainalysis and TRM Labs have linked yesterday’s $6.3 billion Binance hack to North Korea’s TraderTraitor group.\nThis post Blockchain Firms Link North Korea to $6.3 Billion Binance Hack  first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Blockchain-Firms-Link-North-Korea-to-6.3-Billion-Binance-Hack-.jpg",
+    "publishedAt": "2026-10-30T14:13:15.000Z",
+    "collectedAt": "2026-10-30T22:51:39.676Z",
+    "corroboratingSources": 2,
+    "fingerprint": "6c68539e139c1cf0b63cb365",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-30T22:51:47.888Z",
+    "outcome": {
+      "event": {
+        "title": "Blockchain Firms Link North Korea to $6.3 Billion Binance Hack",
+        "fingerprint": "6c68539e139c1cf0b63cb365"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1410,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+    "link": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+    "summary": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Binance_Color.jpg",
+    "publishedAt": "2026-10-30T21:20:23.000Z",
+    "collectedAt": "2026-10-30T22:51:39.676Z",
+    "corroboratingSources": 1,
+    "fingerprint": "37ef90534e5f06fc8c1b5d4d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-30T22:51:49.958Z",
+    "outcome": {
+      "event": {
+        "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+        "fingerprint": "37ef90534e5f06fc8c1b5d4d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1411,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

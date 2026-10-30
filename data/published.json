@@ -10403,5 +10403,45 @@
     "hasImage": true,
     "eventFingerprint": "ef1b832ed047f63efca06da7",
     "timestamp": "2026-10-30T18:58:12.267Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1407,
+    "text": "Markets often find their footing precisely where the margin calls end.\n\nBitcoin managed to defend the $76,000 threshold this week, absorbing the shock of a massive $6.3 billion security breach at Binance that triggered $1.6 billion in system-wide liquidations, alongside a broader tech-sector pullback. \n\nDerivatives data shows leverage has largely flushed out of the system. Funding rates have cooled significantly, and spot accumulation patterns suggest structural buyers are stepping in beneath the wreckage. \n\nWhile macro headwinds remain sharp, the clearing of speculative froth has historically created the conditions for a measured recovery. Price action now hinges on whether spot demand can outweigh lingering exchange-risk jitters.",
+    "hasImage": true,
+    "eventFingerprint": "934ba34c8b8374ed92d9284c",
+    "timestamp": "2026-10-30T22:51:42.343Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1408,
+    "text": "A $6.3 billion security breach changes the risk conversation for the entire sector overnight.\n\nThat was the grim reality for markets heading into the weekend, colliding directly with a Federal Reserve decision to hold interest rates steady. \n\nBitcoin dropped to a six-week low as liquidity tightened and risk aversion took over trading desks globally. \n\nWhen macro pressure and protocol vulnerabilities hit at the same time, defensive positioning usually follows.",
+    "hasImage": true,
+    "eventFingerprint": "c9337e32138af9c852144522",
+    "timestamp": "2026-10-30T22:51:43.600Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1409,
+    "text": "6.4 billion reasons why your opsec needs work.\n\nTRM Labs and Chainalysis are pointing the finger squarely at North Korea's TraderTraitor for the massive Binance exploit. \n\nThe state-backed hackers keep printing nine-figure payloads, while Binance says it has ring-fenced over $6.3 billion of its own capital to absorb the blow. \n\nAudit your smart contracts.",
+    "hasImage": true,
+    "eventFingerprint": "e461a47b7d3b8fc55c642159",
+    "timestamp": "2026-10-30T22:51:45.081Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1410,
+    "text": "A single exploit just drained an astronomical sum, and blockchain intelligence firms point directly to state-sponsored actors in Pyongyang.\n\nChainalysis and TRM Labs have tied yesterday's $6.3 billion breach on Binance to the North Korean cybercrime syndicate known as TraderTraitor. \n\nIf confirmed, this ranks among the largest thefts in financial history and significantly escalates pressure on centralized exchange security standards. \n\nMarkets are watching closely for official exchange statements and potential fund recovery updates as investigations develop.",
+    "hasImage": true,
+    "eventFingerprint": "6c68539e139c1cf0b63cb365",
+    "timestamp": "2026-10-30T22:51:47.882Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1411,
+    "text": "How do you quietly siphon $6.3 billion from the world's largest crypto exchange without setting off immediate alarms?\n\nInvestigators have officially tied the historic Binance breach to North Korean state-backed actors. \n\nNew details from The Block reveal how attackers systematically compromised hot-wallet signing infrastructure before dispersing the capital across complex mixing routes. \n\nSecurity audits are ongoing as forensics teams trace the movement of the stolen assets.\n\n#Binance",
+    "hasImage": true,
+    "eventFingerprint": "37ef90534e5f06fc8c1b5d4d",
+    "timestamp": "2026-10-30T22:51:49.952Z"
   }
 ]
