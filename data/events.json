@@ -56652,5 +56652,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "What to Know About the $6.3 Billion Binance Hack",
+    "link": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
+    "summary": "&#9654;Bitcoin Magazine\n\nWhat to Know About the $6.3 Billion Binance Hack\nBinance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto.\nThis post What to Know About the $6.3 Billion Binance Hack first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/tx_G1ScRVWQ/hqdefault.jpg",
+    "publishedAt": "2026-10-31T00:57:26.000Z",
+    "collectedAt": "2026-10-31T23:01:54.659Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0d6b2910c53f2e0487cdbd77",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-31T23:01:58.443Z",
+    "outcome": {
+      "event": {
+        "title": "What to Know About the $6.3 Billion Binance Hack",
+        "fingerprint": "0d6b2910c53f2e0487cdbd77"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1432,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Why is CZ expecting limited Bitcoin downside from the $6.3B Binance hack?",
+    "link": "https://ambcrypto.com/why-is-cz-expecting-limited-bitcoin-downside-from-the-6-3b-binance-hack/",
+    "summary": "Will the Binance hack confirm BTC's cycle bottom like FTX's implosion did?",
+    "image": null,
+    "publishedAt": "2026-10-31T16:00:29.000Z",
+    "collectedAt": "2026-10-31T23:01:54.659Z",
+    "corroboratingSources": 1,
+    "fingerprint": "907fd65266257ba1cd0d8a2a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-31T23:02:00.739Z",
+    "outcome": {
+      "event": {
+        "title": "Why is CZ expecting limited Bitcoin downside from the $6.3B Binance hack?",
+        "fingerprint": "907fd65266257ba1cd0d8a2a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1433,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ethereum whales withdraw $29M despite bearish signals &#8211; Will ETH recover?",
+    "link": "https://ambcrypto.com/ethereum-whales-withdraw-29m-despite-bearish-signals-will-eth-recover/",
+    "summary": "Ethereum whales accumulated $29 million as exchange outflows continued, raising hopes for a potential rebound.",
+    "image": null,
+    "publishedAt": "2026-10-31T15:00:08.000Z",
+    "collectedAt": "2026-10-31T23:01:54.659Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f01d506a304bbfa582e73c43",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-10-31T23:02:01.609Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum whales withdraw $29M despite bearish signals &#8211; Will ETH recover?",
+        "fingerprint": "f01d506a304bbfa582e73c43"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1434,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
+    "link": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
+    "summary": "The bureau named TraderTraitor and sought blocks on the laundering trail, while Binance kept Nov. 1 as its withdrawal restart target.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/cd9198f143a324231ae0b80e12c682b485dcb155-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-10-31T21:46:33.000Z",
+    "collectedAt": "2026-10-31T23:01:54.659Z",
+    "corroboratingSources": 2,
+    "fingerprint": "e22afe0aa5c7d0c32dd272ba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5.5,
+    "processedAt": "2026-10-31T23:02:02.790Z",
+    "outcome": {
+      "event": {
+        "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
+        "fingerprint": "e22afe0aa5c7d0c32dd272ba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1435,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Why Didn’t Bitcoin Crash Harder After the Binance Hack? CZ Weighs In",
+    "link": "https://cryptopotato.com/why-didnt-bitcoin-crash-harder-after-the-binance-hack-cz-weighs-in/",
+    "summary": "CZ believes the headline $6.3 billion figure does not tell the full story.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2021/11/Changpeng_Zhao.jpg",
+    "publishedAt": "2026-10-31T08:45:15.000Z",
+    "collectedAt": "2026-10-31T23:01:54.659Z",
+    "corroboratingSources": 2,
+    "fingerprint": "5ed21905e5632a666fb3c48f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4.5,
+    "processedAt": "2026-10-31T23:02:03.878Z",
+    "outcome": {
+      "event": {
+        "title": "Why Didn’t Bitcoin Crash Harder After the Binance Hack? CZ Weighs In",
+        "fingerprint": "5ed21905e5632a666fb3c48f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1436,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
