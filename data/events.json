@@ -56242,5 +56242,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+    "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
+    "summary": "The Binance hack has revived debates about whether decentralization is the digital asset industry’s greatest security advantage or its biggest point of weakness.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e0794b53fab4b04d9e3fdbc0f3d1a70cdf36125-1920x1283.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-31T12:00:00.000Z",
+    "collectedAt": "2026-10-31T14:59:31.833Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a0c99041b2709a12575906f5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-10-31T14:59:34.177Z",
+    "outcome": {
+      "event": {
+        "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+        "fingerprint": "a0c99041b2709a12575906f5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1422,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin turns 18: Has the original rebel grown up?",
+    "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png",
+    "publishedAt": "2026-10-31T14:27:52.000Z",
+    "collectedAt": "2026-10-31T14:59:31.833Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3c0857e4861c56e39de88147",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-31T14:59:35.566Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin turns 18: Has the original rebel grown up?",
+        "fingerprint": "3c0857e4861c56e39de88147"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1423,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Dogecoin Alert: Critical Wallet Security Threat Uncovered, What's Next?",
+    "link": "https://u.today/dogecoin-alert-critical-wallet-security-threat-uncovered-whats-next",
+    "summary": "Crypto wallet provider update prompts urgent security warning for Dogecoin commmunity.",
+    "image": null,
+    "publishedAt": "2026-10-31T14:00:19.000Z",
+    "collectedAt": "2026-10-31T14:59:31.833Z",
+    "corroboratingSources": 1,
+    "fingerprint": "48e07597b843b7d5a251a282",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-31T14:59:38.138Z",
+    "outcome": {
+      "event": {
+        "title": "Dogecoin Alert: Critical Wallet Security Threat Uncovered, What's Next?",
+        "fingerprint": "48e07597b843b7d5a251a282"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1424,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+    "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+    "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-14-gID_7.png",
+    "publishedAt": "2026-10-30T18:45:03.000Z",
+    "collectedAt": "2026-10-31T14:59:31.833Z",
+    "corroboratingSources": 2,
+    "fingerprint": "9a9edd1d4a8d96fec6991150",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-10-31T14:59:39.168Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+        "fingerprint": "9a9edd1d4a8d96fec6991150"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1425,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
+    "link": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
+    "summary": "The firm has also been tracking Binance’s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Chainalysis-Data-Wave-Network_clean.png",
+    "publishedAt": "2026-10-31T13:27:17.000Z",
+    "collectedAt": "2026-10-31T14:59:31.833Z",
+    "corroboratingSources": 1,
+    "fingerprint": "49d9849b757398ec3a0ef671",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-31T14:59:40.469Z",
+    "outcome": {
+      "event": {
+        "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
+        "fingerprint": "49d9849b757398ec3a0ef671"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1426,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
