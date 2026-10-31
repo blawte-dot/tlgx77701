@@ -55832,5 +55832,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitwise, Galaxy, and Morpho back CCI&#8217;s new framework for U.S crypto vault regulations",
+    "link": "https://ambcrypto.com/bitwise-galaxy-and-morpho-back-ccis-new-framework-for-u-s-crypto-vault-regulations/",
+    "summary": "Decades-old securities laws face new challenges in regulating today's evolving DeFi infrastructure.",
+    "image": null,
+    "publishedAt": "2026-10-31T01:00:57.000Z",
+    "collectedAt": "2026-10-31T01:58:42.215Z",
+    "corroboratingSources": 1,
+    "fingerprint": "014825acc5cd2fd9766c3194",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-10-31T01:58:45.587Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise, Galaxy, and Morpho back CCI&#8217;s new framework for U.S crypto vault regulations",
+        "fingerprint": "014825acc5cd2fd9766c3194"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1412,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance says it holds $5B in matching tokens to cover hack losses",
+    "link": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66BRB3N5FEXF6ZJA32PXWYM/hi-binance-is-now-accumulating-btc-at-an-even-faster-rate.jpg",
+    "publishedAt": "2026-10-30T12:41:43.000Z",
+    "collectedAt": "2026-10-31T01:58:42.215Z",
+    "corroboratingSources": 4,
+    "fingerprint": "b68a36643237e2635c342092",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-31T01:58:46.951Z",
+    "outcome": {
+      "event": {
+        "title": "Binance says it holds $5B in matching tokens to cover hack losses",
+        "fingerprint": "b68a36643237e2635c342092"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1413,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Recap: How Binance’s record $6.3B hack unfolded",
+    "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66TN01T6CSZ7TMBS3C4EWKE/digitally-locked-binance.png",
+    "publishedAt": "2026-10-30T16:53:46.000Z",
+    "collectedAt": "2026-10-31T01:58:42.215Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d6a31787069e81f198db745d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-31T01:58:48.063Z",
+    "outcome": {
+      "event": {
+        "title": "Recap: How Binance’s record $6.3B hack unfolded",
+        "fingerprint": "d6a31787069e81f198db745d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1414,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
+    "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6602N70GW2FG23Y7A1E55CV/hi-binance-hack.jpg",
+    "publishedAt": "2026-10-30T11:00:10.000Z",
+    "collectedAt": "2026-10-31T01:58:42.215Z",
+    "corroboratingSources": 1,
+    "fingerprint": "45adb29a9aa515f3db511051",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-31T01:58:49.162Z",
+    "outcome": {
+      "event": {
+        "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
+        "fingerprint": "45adb29a9aa515f3db511051"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1415,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
+    "link": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
+    "summary": "Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+    "publishedAt": "2026-10-30T13:00:09.000Z",
+    "collectedAt": "2026-10-31T01:58:42.215Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cf03dc54b91123442a5ce250",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-10-31T01:58:50.293Z",
+    "outcome": {
+      "event": {
+        "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
+        "fingerprint": "cf03dc54b91123442a5ce250"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1416,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

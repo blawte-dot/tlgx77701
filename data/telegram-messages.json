@@ -9137,5 +9137,40 @@
     "hasImage": true,
     "eventFingerprint": "37ef90534e5f06fc8c1b5d4d",
     "timestamp": "2026-10-30T22:51:49.946Z"
+  },
+  {
+    "messageId": 1412,
+    "text": "Applying 1940s securities rules to modern decentralized credit markets is a square-peg, round-hole problem the industry is finally trying to solve.\n\nBitwise, Galaxy, and Morpho have thrown their weight behind the Crypto Council for Innovation's newly proposed regulatory framework for U.S. crypto vaults. \n\nThe initiative attempts to bridge traditional compliance standards with the realities of automated, on-chain liquidity infrastructure. \n\nAs DeFi scales toward institutional capital, clarity around vault custody and risk management remains the primary bottleneck. \n\nWhether U.S. regulators engage with industry-led models like CCI's remains the open question.",
+    "hasImage": true,
+    "eventFingerprint": "014825acc5cd2fd9766c3194",
+    "timestamp": "2026-10-31T01:58:45.567Z"
+  },
+  {
+    "messageId": 1413,
+    "text": "Exchanges are locking down liquidity before the next volatility wave hits. \n\nBinance just confirmed it holds over $5 billion in matching tokens—part of a broader $6.34 billion reserve earmarked strictly for potential hack losses. The funds are slated to go live in the exchange's next proof-of-reserves audit. \n\nWith platform security and reserve transparency under heavier scrutiny than ever, does holding matching tokens actually solve counterparty risk, or is it just optics? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "b68a36643237e2635c342092",
+    "timestamp": "2026-10-31T01:58:46.932Z"
+  },
+  {
+    "messageId": 1414,
+    "text": "Security floors are only as strong as their weakest integration, and yesterday’s $6.3 billion breach on Binance stands as a stark reminder of that reality. \n\nCointelegraph's live coverage captured the unfolding crisis from initial exploit reports to the exchange's swift commitment to full user reimbursement. \n\nMarkets are digesting the fallout as investigators trace the stolen funds across chains. \n\n#Binance",
+    "hasImage": true,
+    "eventFingerprint": "d6a31787069e81f198db745d",
+    "timestamp": "2026-10-31T01:58:48.044Z"
+  },
+  {
+    "messageId": 1415,
+    "text": "Security analysts are clarifying the mechanics behind the recent Binance incident. \n\nWhile investigators confirmed that EIP-7702 was not the root cause of the hack, the Ethereum upgrade appears to have streamlined how attackers bypassed existing withdrawal safeguards. \n\nThe exploit did not rely on the new standard to initiate unauthorized access, but researchers note the feature may have accelerated the draining process once internal controls were compromised.",
+    "hasImage": true,
+    "eventFingerprint": "45adb29a9aa515f3db511051",
+    "timestamp": "2026-10-31T01:58:49.143Z"
+  },
+  {
+    "messageId": 1416,
+    "text": "Exploiting a bad line of smart contract code should be treated as a software bug, not a cybercrime—or at least that was the old defense. \n\nUnconfirmed reports suggest Israel’s Supreme Court just dismantled that argument entirely, clearing the extradition of an alleged Nomad bridge exploiter to the US over a $2.8M hack under the logic that manipulating flawed code still counts as unauthorized intrusion. \n\nWhere do you draw the line between aggressive arbitrage on faulty code and outright criminal hacking?",
+    "hasImage": true,
+    "eventFingerprint": "cf03dc54b91123442a5ce250",
+    "timestamp": "2026-10-31T01:58:50.273Z"
   }
 ]
