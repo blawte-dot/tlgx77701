@@ -56857,5 +56857,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s recovery faces rising derivatives exposure and $643 million in ETF outflows",
+    "link": "https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows/",
+    "summary": "Higher selected derivatives exposure and ETF redemptions leave the recovery facing a demand test before November 6 payrolls.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-hidden-leverage.webp",
+    "publishedAt": "2026-11-01T01:10:55.000Z",
+    "collectedAt": "2026-11-01T04:13:02.916Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f46162182080d1dde58549cb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-01T04:13:05.238Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s recovery faces rising derivatives exposure and $643 million in ETF outflows",
+        "fingerprint": "f46162182080d1dde58549cb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1437,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+    "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
+    "summary": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed47e4a86a4ace19658928b22a1e0aa5b1cb288f-3022x1452.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-10-30T07:54:07.000Z",
+    "collectedAt": "2026-11-01T04:13:02.916Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aa33c69895e35346a7389c87",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-01T04:13:06.513Z",
+    "outcome": {
+      "event": {
+        "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+        "fingerprint": "aa33c69895e35346a7389c87"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1438,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+    "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WKPS8FDGYTHCJZHC1FP3Y/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold.png",
+    "publishedAt": "2026-10-30T17:48:27.000Z",
+    "collectedAt": "2026-11-01T04:13:02.916Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3df6f629eedf23b4c9171698",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-01T04:13:07.717Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+        "fingerprint": "3df6f629eedf23b4c9171698"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1439,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "FBI and Secret Service join response to Binance’s $6.3B hack",
+    "link": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US agencies are investigating the theft and helping trace stolen assets, while Binance says about $3 billion has been frozen.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66DY7634YFAY00EZKKKTQV0/hi-crypto-crime-investigation-regulation-police-cybercrime-criminal-detective-token.jpg",
+    "publishedAt": "2026-10-30T13:11:10.000Z",
+    "collectedAt": "2026-11-01T04:13:02.916Z",
+    "corroboratingSources": 1,
+    "fingerprint": "673ce4104e7c213dbf645b89",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-01T04:13:08.963Z",
+    "outcome": {
+      "event": {
+        "title": "FBI and Secret Service join response to Binance’s $6.3B hack",
+        "fingerprint": "673ce4104e7c213dbf645b89"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1440,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
+    "link": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg",
+    "publishedAt": "2026-10-30T09:52:29.000Z",
+    "collectedAt": "2026-11-01T04:13:02.916Z",
+    "corroboratingSources": 1,
+    "fingerprint": "99430fa696ed67c5306276ad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-01T04:13:10.411Z",
+    "outcome": {
+      "event": {
+        "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
+        "fingerprint": "99430fa696ed67c5306276ad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1441,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
