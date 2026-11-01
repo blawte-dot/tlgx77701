@@ -10683,5 +10683,45 @@
     "hasImage": true,
     "eventFingerprint": "99430fa696ed67c5306276ad",
     "timestamp": "2026-11-01T04:13:10.405Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1442,
+    "text": "How do state-sponsored hackers siphon over six billion dollars without tripping traditional circuit breakers?\n\nThe FBI has officially pinned the record Binance exploit on North Korea's cyber divisions, marking a watershed moment in how intelligence agencies view exchange-level security. \n\nWashington is no longer treating this as a standard cybercrime investigation. \n\nFederal authorities are actively drafting private-sector crypto firms into a coordinated defense ring, aiming to freeze illicit capital before it hits privacy mixers and decentralized cross-chain bridges. \n\nWhen state actors weaponize blockchain analytics against the infrastructure itself, the compliance burden on exchanges shifts overnight. \n\nExpect heightened surveillance on inbound liquidity channels across every major venue as platforms scramble to appease regulators before the next subpoena lands.",
+    "hasImage": true,
+    "eventFingerprint": "3b546dbdac4f85d814902a52",
+    "timestamp": "2026-11-01T11:39:05.213Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1443,
+    "text": "How do you secure a platform after history's largest digital asset heist? \n\nBinance is beginning to answer that question, reopening customer withdrawals in careful phases following last week's staggering $6.3 billion exploit. \n\nBitcoin leads the initial rollout as trading and security teams test system integrity under live conditions. \n\nFurther asset classes will follow as verifications clear.",
+    "hasImage": true,
+    "eventFingerprint": "e43243d6c9fe36744aa63bb9",
+    "timestamp": "2026-11-01T11:39:06.351Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1444,
+    "text": "DeFi security continues to face relentless pressure as exploiters find new ways to extract capital from emerging protocols.\n\nPremia Labs is the latest victim, suffering a $464,000 loss in a recent exploit. \n\nIncident response teams are already moving. NEAR Intents and Chainflip have both joined the active trail to trace the stolen funds across cross-chain bridges. \n\nAs losses mount across the ecosystem, the pressure for stricter regulatory oversight and deeper technical audits is only growing.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "4b864cb714d568d2df1590b7",
+    "timestamp": "2026-11-01T11:39:08.373Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1445,
+    "text": "When a safety net absorbs the blow, who pays to patch the holes?\n\nBinance reports that 95% of recent hack losses have been fully covered using its internal liquidation safety net, restoring user balances and allowing normal withdrawals to proceed without interruption. \n\nThe immediate crisis is contained, but questions remain over how quickly and through what mechanisms the exchange plans to rebuild those depleted reserves moving forward.",
+    "hasImage": true,
+    "eventFingerprint": "1fd339527072125f3c4a2dcc",
+    "timestamp": "2026-11-01T11:39:09.534Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1446,
+    "text": "Ever wonder how many state-sponsored hacking groups it takes to test a top exchange's cold storage?\n\nBinance just kicked off phase one of its withdrawal recovery following the staggering $6.3 billion exploit. \n\nThe FBI points the finger directly at Pyongyang's cyber units for the record heist. \n\nGradually, then suddenly, the doors open back up.",
+    "hasImage": true,
+    "eventFingerprint": "dee423da7631dc40329494a0",
+    "timestamp": "2026-11-01T11:39:10.629Z"
   }
 ]
