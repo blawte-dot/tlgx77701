@@ -10723,5 +10723,45 @@
     "hasImage": true,
     "eventFingerprint": "dee423da7631dc40329494a0",
     "timestamp": "2026-11-01T11:39:10.629Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1447,
+    "text": "$643,200,000 vanished from Bitcoin ETFs in a single session.\n\nFriday marked the first full trading day following the $6.4 billion Binance breach, and institutional investors voted with their feet. \n\nThe sharp reversal erased October's earlier momentum, dragging the month to a close with roughly $516 million in net outflows. \n\nRisk appetite is shifting across the board as markets re-evaluate exchange security and custody exposure.",
+    "hasImage": true,
+    "eventFingerprint": "55e05f0896bb6f3d8774a255",
+    "timestamp": "2026-11-01T17:36:36.184Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1448,
+    "text": "BlackRock’s $62 billion Bitcoin fund might already be on Pyongyang's radar. \n\nOneKey founder Yishi Wang warned this week that IBIT makes an attractive target for state-backed hackers, pointing to past operations linked to North Korea. \n\nThe concern centers on Coinbase, which acts as the primary custodian for the vast majority of spot Bitcoin ETFs in the US. \n\nWhile institutional products utilize heavy cold-storage security and multi-layer compliance checks, state actors have repeatedly shown willingness to target the crypto ecosystem's critical infrastructure. \n\nNo direct breaches against ETF custodians have been reported. But as billions in institutional capital aggregate into centralized custody points, the threat model for sovereign-backed cyber groups is shifting upward.",
+    "hasImage": true,
+    "eventFingerprint": "4dc75c703f5dd0d499539bea",
+    "timestamp": "2026-11-01T17:36:48.287Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1449,
+    "text": "Forty-three years. That is how long it could take the Bank of Japan to finish unloading its equity holdings, even after supercharging the disposal rate by 2.6 times. \n\nThe BOJ is caught in an unprecedented unwinding process. \n\nTo avoid crashing local markets, the central bank must offload its massive ETF portfolio at a glacial pace. \n\nDecades of aggressive monetary easing leave behind scars that take generations to heal. \n\nMacro overhangs like this shape global liquidity far beyond traditional equities. \n\n#Macro",
+    "hasImage": true,
+    "eventFingerprint": "b88b331284d2c35c80f744aa",
+    "timestamp": "2026-11-01T17:37:00.567Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1450,
+    "text": "Six billion dollars vanishes into a cross-chain maze, and the bureau is pointing directly at Pyongyang.\n\nThe FBI officially pinned the massive October 29 Binance breach on North Korea's TraderTraitor collective in an alert issued Thursday. \n\nInvestigators are now pushing THORChain and other decentralized liquidity protocols to freeze incoming deposits from addresses linked to the multi-billion-dollar heist. \n\nDecentralized bridges present a uniquely complex hurdle for law enforcement attempting to track state-sponsored digital asset laundering in real time.\n\n#Binance",
+    "hasImage": true,
+    "eventFingerprint": "850aefc0809063ab1650e9e4",
+    "timestamp": "2026-11-01T17:37:12.545Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1451,
+    "text": "Nearly half a trillion tokens hit the market, and the price barely flinched.\n\nUnconfirmed reports suggest the wallet tied to the recent Binance breach offloaded 499 billion SHIB earlier today. \n\nDespite the sudden wave of supply, order books have largely absorbed the pressure so far. \n\nMarket participants continue to monitor the suspect addresses for further activity as analysts verify on-chain data.",
+    "hasImage": true,
+    "eventFingerprint": "447cb8f4c0fdda50b574edef",
+    "timestamp": "2026-11-01T17:37:24.289Z"
   }
 ]

@@ -57267,5 +57267,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+    "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+    "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+    "publishedAt": "2026-11-01T16:01:02.000Z",
+    "collectedAt": "2026-11-01T17:36:18.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "55e05f0896bb6f3d8774a255",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-01T17:36:36.191Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+        "fingerprint": "55e05f0896bb6f3d8774a255"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1447,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "OneKey founder warns BlackRock’s Bitcoin ETF could be a North Korean target",
+    "link": "https://cryptoslate.com/onekey-founder-warns-blackrocks-bitcoin-etf-could-be-a-north-korean-target/",
+    "summary": "North Korean hackers could target BlackRock&#039;s $62 billion Bitcoin exchange-traded fund (ETF), crypto wallet maker OneKey founder Yishi Wang warned. “I suspect IBIT is already on North Korea&#039;s shortlist,” Wang said, following the $6 billion Binance hack that US authorities attributed to North Korea&#039;s TraderTraitor operation. The warning puts fresh attention on Coinbase, which serves…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next.",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/onekey-blackrock-ibit-warning-579693.webp",
+    "publishedAt": "2026-11-01T16:30:46.000Z",
+    "collectedAt": "2026-11-01T17:36:18.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4dc75c703f5dd0d499539bea",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-01T17:36:48.297Z",
+    "outcome": {
+      "event": {
+        "title": "OneKey founder warns BlackRock’s Bitcoin ETF could be a North Korean target",
+        "fingerprint": "4dc75c703f5dd0d499539bea"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1448,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Japan’s central bank will sell ETFs 2.6 times faster and could still take 43 years to exit",
+    "link": "https://cryptoslate.com/japans-central-bank-will-sell-etfs-2-6-times-faster-and-could-still-take-43-years-to-exit/",
+    "summary": "Japan&#039;s central bank has decided to sell its stock funds about 2.6 times faster than usual, reducing the estimated time needed to dispose of them from 112 years to 43. If you&#039;re wondering why such a supercharged exit still stretches across more than four decades, it&#039;s because the Bank of Japan is trying to undo…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/10/boj-etf-snail-burden.webp",
+    "publishedAt": "2026-11-01T15:30:12.000Z",
+    "collectedAt": "2026-11-01T17:36:18.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b88b331284d2c35c80f744aa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-01T17:37:00.575Z",
+    "outcome": {
+      "event": {
+        "title": "Japan’s central bank will sell ETFs 2.6 times faster and could still take 43 years to exit",
+        "fingerprint": "b88b331284d2c35c80f744aa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1449,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "FBI blames North Korea for $6 billion Binance hack, urges THORChain to block stolen funds",
+    "link": "https://cryptoslate.com/fbi-blames-north-korea-for-6-billion-binance-hack-urges-thorchain-to-block-stolen-funds/",
+    "summary": "The US Federal Bureau of Investigation (FBI) has blamed North Korea&#039;s TraderTraitor operation for stealing more than $6 billion from Binance. In an Oct. 31 security alert, the agency attributed the Oct. 29 attack to North Korean cyber actors, providing official US government confirmation of the perpetrators behind one of history&#039;s largest cryptocurrency thefts. The…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in y",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/fbi-binance-north-korea-579660.webp",
+    "publishedAt": "2026-11-01T12:20:43.000Z",
+    "collectedAt": "2026-11-01T17:36:18.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "850aefc0809063ab1650e9e4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-01T17:37:12.551Z",
+    "outcome": {
+      "event": {
+        "title": "FBI blames North Korea for $6 billion Binance hack, urges THORChain to block stolen funds",
+        "fingerprint": "850aefc0809063ab1650e9e4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1450,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "499 Billion SHIB Dumped by Binance Hacker, Yet Price Absorbs It",
+    "link": "https://u.today/499-billion-shib-dumped-by-binance-hacker-yet-price-absorbs-it",
+    "summary": "Shiba Inu (SHIB) is drawing attention after Binance hacker reportedly dumped 499 billion tokens.",
+    "image": null,
+    "publishedAt": "2026-11-01T13:00:36.000Z",
+    "collectedAt": "2026-11-01T17:36:18.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "447cb8f4c0fdda50b574edef",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-01T17:37:24.298Z",
+    "outcome": {
+      "event": {
+        "title": "499 Billion SHIB Dumped by Binance Hacker, Yet Price Absorbs It",
+        "fingerprint": "447cb8f4c0fdda50b574edef"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1451,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
