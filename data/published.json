@@ -10763,5 +10763,45 @@
     "hasImage": true,
     "eventFingerprint": "447cb8f4c0fdda50b574edef",
     "timestamp": "2026-11-01T17:37:24.289Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1452,
+    "text": "Regulatory enforcement is moving faster than the market can price in risk.\n\nUnconfirmed reports suggest the SEC has filed a civil complaint accusing BG Wealth and DSJ Exchange of orchestrating a $130 million crypto scheme through fabricated filings and false trading claims. \n\nWhile these allegations are not yet final judgments, the timing underscores a broader shift. \n\nAs regulatory scrutiny intensifies across secondary platforms, compliance history and operational transparency are becoming critical vectors for market liquidity. \n\nWe are tracking developments as independent outlets verify the filings.",
+    "hasImage": true,
+    "eventFingerprint": "b908c7b8be0a2e93a72c2bd2",
+    "timestamp": "2026-11-01T21:39:36.568Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1453,
+    "text": "Even federal regulators aren't immune to impersonation, with unconfirmed reports pointing to a sophisticated scheme that allegedly used the SEC’s own web infrastructure to funnel victims into a $130 million fraud.\n\nWhen official channels are weaponized like this, basic due diligence stops being enough for retail investors. \n\nWhere do you draw the line between trusting an official URL and verifying a project's legitimacy? Drop your thoughts below.",
+    "hasImage": true,
+    "eventFingerprint": "b5e70f7748b7dfebac5c8daf",
+    "timestamp": "2026-11-01T21:39:37.722Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1454,
+    "text": "How much strain can a nine-figure exploit actually put on the industry's biggest balance sheet?\n\nBinance processed $3.64 billion in net outflows over the weekend as withdrawals fully reopened following a record security breach. \n\nManagement notes that the sum represents roughly 2.1 percent of its total $171 billion asset pool, downplaying the exit volume as an initial spike that has since tapered off. \n\nEven so, sudden multi-billion-dollar liquidity shifts remain the primary stress test to watch across major venues during high-volatility windows.",
+    "hasImage": true,
+    "eventFingerprint": "c0ee777a36a9b3240a8ec41b",
+    "timestamp": "2026-11-01T21:39:39.018Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1455,
+    "text": "Billions in stolen crypto are back in the crosshairs of global law enforcement.\n\nThe FBI has formally linked North Korean state actors to a staggering $6B+ hack, turning an industry-wide security debate into an active geopolitical flashpoint.\n\nAgainst that backdrop, Binance has initiated withdrawal recovery protocols. The exchange maintains that user deposits were untouched and remain fully operational throughout the incident.\n\nWhen state-sponsored threat actors target ecosystem liquidity at this scale, infrastructure resilience and exchange monitoring face an immediate stress test. \n\nMarkets are watching how custody providers handle the fallout.",
+    "hasImage": true,
+    "eventFingerprint": "26d630746ae1693a4cd68555",
+    "timestamp": "2026-11-01T21:39:40.260Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1456,
+    "text": "Sometimes the scariest thing in crypto isn't high volatility or bad macro data. \n\nIt's a zero-token math quirk.\n\nBitcoin staking platform b14g just lost roughly 97 million CORE tokens—worth about $1.47 million at the time—after an attacker cleared out 91 staking positions in a single transaction. \n\nThe method? Simply submitting withdrawal requests for zero. \n\nBitquery's post-mortem confirmed how the exploit played out on October 31. No complex flash loan gymnastics required, just an input that slipped past the logic checks.",
+    "hasImage": true,
+    "eventFingerprint": "b9c696e9f648f597e641eb70",
+    "timestamp": "2026-11-01T21:39:41.489Z"
   }
 ]
