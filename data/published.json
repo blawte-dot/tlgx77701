@@ -10803,5 +10803,45 @@
     "hasImage": true,
     "eventFingerprint": "b9c696e9f648f597e641eb70",
     "timestamp": "2026-11-01T21:39:41.489Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1457,
+    "text": "Binance just processed $5.8 billion in net outflows as customer withdrawals reopened following a major security breach.\n\nThe exchange maintains that the volume represents a fraction of its roughly $171 billion in total user reserves, aiming to calm systemic contagion fears across the broader market. \n\nWithdrawals have reportedly begun to taper off, but liquidity stress across major venues remains the primary metric to watch today.",
+    "hasImage": true,
+    "eventFingerprint": "0d960e20631339c297f0d7e5",
+    "timestamp": "2026-11-02T01:14:02.634Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1458,
+    "text": "Solvency tests for centralized platforms don't get much more real-time than this. \n\nBinance has started processing Bitcoin withdrawals again following the $6.3 billion exploit reported across major desks this week. \n\nManagement notes roughly 95% of the drained capital has been backstopped. The remaining 5% tied up in thinner altcoin order books will take additional time to clear. \n\nFor now, the broader market is watching mempool flows closely to see if customer demand creates a liquidity bottleneck.",
+    "hasImage": true,
+    "eventFingerprint": "32e2f116d7335973a583657f",
+    "timestamp": "2026-11-02T01:14:03.870Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1459,
+    "text": "7 percent. \n\nThat was the net loss for Bitcoin across October, effectively killing the traditional seasonal rally before it ever found momentum. \n\nPersistent ETF outflows and a security breach at Binance weighed heavily on market sentiment throughout the month, turning what many traders anticipated as \"Uptober\" into a prolonged consolidation phase. \n\nAttention now turns to November. Historical data offers little immediate clarity, leaving traders watching macro liquidity and upcoming exchange flows for direction rather than seasonal patterns.",
+    "hasImage": true,
+    "eventFingerprint": "e7b701ed130ebbcf507f254d",
+    "timestamp": "2026-11-02T01:14:05.027Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1460,
+    "text": "XRP is defending the 200-week moving average following heavy market stress.\n\nThe token stabilized near $1.25 today as buyers stepped in to absorb panic selling tied to the recent Binance exchange hack. \n\nLiquidation maps indicate this zone is acting as a primary local floor, though broader macro conditions remain fragile. \n\nVolume profiles across major exchanges show thinning order books below current levels, leaving the asset sensitive to any sudden shifts in spot demand.",
+    "hasImage": true,
+    "eventFingerprint": "3124afd76678dbbc813c3a0a",
+    "timestamp": "2026-11-02T01:14:06.941Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1461,
+    "text": "Whale wallets are dumping Zcash after a multi-million dollar dispute over community grants hijacked an otherwise massive market milestone. \n\nZEC touched $1,280 today, but internal friction among top holders is intensifying. Large accounts have begun rotating funds outward as disagreement deepens over how treasury capital should be allocated moving forward. \n\nMarkets often reprice assets quickly when governance stalls. We are tracking liquidity flows closely as the sell-off develops.",
+    "hasImage": true,
+    "eventFingerprint": "63a5c8c28896476933b8dd3d",
+    "timestamp": "2026-11-02T01:14:08.459Z"
   }
 ]

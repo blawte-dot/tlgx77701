@@ -57677,5 +57677,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+    "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg",
+    "publishedAt": "2026-11-01T23:59:27.000Z",
+    "collectedAt": "2026-11-02T01:14:00.333Z",
+    "corroboratingSources": 4,
+    "fingerprint": "0d960e20631339c297f0d7e5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-02T01:14:02.646Z",
+    "outcome": {
+      "event": {
+        "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+        "fingerprint": "0d960e20631339c297f0d7e5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1457,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack",
+    "link": "https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack",
+    "summary": "The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/9b3ee045d1d61acba4826cc35b57a6ff913a5511-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-01T06:25:43.000Z",
+    "collectedAt": "2026-11-02T01:14:00.333Z",
+    "corroboratingSources": 4,
+    "fingerprint": "32e2f116d7335973a583657f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-02T01:14:03.880Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack",
+        "fingerprint": "32e2f116d7335973a583657f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1458,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "&#8216;Uptober&#8217; Flopped as BTC Tanked 7%: Will November Be Any Different?",
+    "link": "https://cryptopotato.com/uptober-flopped-as-btc-tanked-7-will-november-be-any-different/",
+    "summary": "The ETF outflows and the Binance hack were among the reasons behind BTC's price decline.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/08/macro_red_bitcoin_cover.png",
+    "publishedAt": "2026-11-01T07:57:00.000Z",
+    "collectedAt": "2026-11-02T01:14:00.333Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e7b701ed130ebbcf507f254d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-02T01:14:05.037Z",
+    "outcome": {
+      "event": {
+        "title": "&#8216;Uptober&#8217; Flopped as BTC Tanked 7%: Will November Be Any Different?",
+        "fingerprint": "e7b701ed130ebbcf507f254d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1459,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Tests Critical $1.25 Support as Liquidation Map Reveals Local Bottom",
+    "link": "https://u.today/xrp-tests-critical-125-support-as-liquidation-map-reveals-local-bottom",
+    "summary": "XRP stabilizes at $1.25, defending its 200-week moving average as buyers absorb the panic from the recent Binance hack.",
+    "image": null,
+    "publishedAt": "2026-11-01T14:41:25.000Z",
+    "collectedAt": "2026-11-02T01:14:00.333Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3124afd76678dbbc813c3a0a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-02T01:14:06.952Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Tests Critical $1.25 Support as Liquidation Map Reveals Local Bottom",
+        "fingerprint": "3124afd76678dbbc813c3a0a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1460,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Zcash (ZEC) Hits $1,280 Milestone but Fight Over Grant Money Sparks Whale Revolt",
+    "link": "https://u.today/zcash-zec-hits-1280-milestone-but-fight-over-grant-money-sparks-whale-revolt",
+    "summary": "Zcash price reaches $1280 but a bitter dispute over million-dollar community grants triggers a major whale exodus.",
+    "image": null,
+    "publishedAt": "2026-11-01T11:56:40.000Z",
+    "collectedAt": "2026-11-02T01:14:00.333Z",
+    "corroboratingSources": 1,
+    "fingerprint": "63a5c8c28896476933b8dd3d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-02T01:14:08.470Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash (ZEC) Hits $1,280 Milestone but Fight Over Grant Money Sparks Whale Revolt",
+        "fingerprint": "63a5c8c28896476933b8dd3d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1461,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
