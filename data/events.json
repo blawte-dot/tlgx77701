@@ -58087,5 +58087,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+    "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+    "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-11-02T18:46:03.000Z",
+    "collectedAt": "2026-11-02T19:08:28.675Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0a52a0a4c7bcf7278cc5a58e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-02T19:08:31.461Z",
+    "outcome": {
+      "event": {
+        "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+        "fingerprint": "0a52a0a4c7bcf7278cc5a58e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1467,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+    "link": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
+    "summary": "Bitcoin Magazine\n\nBinance Reopens Withdrawals as Hack Recovery Enters Second Week \nBinance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open.\nThis post Binance Reopens Withdrawals as Hack Recovery Enters Second Week  first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Reopens-Withdrawals-as-Hack-Recovery-Enters-Second-Week-.jpg",
+    "publishedAt": "2026-11-02T14:57:34.000Z",
+    "collectedAt": "2026-11-02T19:08:28.675Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ce78eedfc5a36a983e384a3e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-02T19:08:32.720Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+        "fingerprint": "ce78eedfc5a36a983e384a3e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1468,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "BNB’s $99 million ETF inflows came almost entirely before Binance’s hack",
+    "link": "https://cryptoslate.com/bnbs-99-million-etf-inflows-came-almost-entirely-before-binances-hack/",
+    "summary": "BNB exchange-traded funds (ETFs) led October inflows among US-listed spot crypto ETFs tracked by SoSoValue, with the largest allocation arriving weeks before Binance suffered a record $6.3 billion cryptocurrency hack. The US-listed VanEck BNB ETF attracted $99 million during the month, ahead of $35 million for NEAR and $19 million for XRP, according to SoSoValue…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bnb-receding-capital-tide.webp",
+    "publishedAt": "2026-11-02T18:40:47.000Z",
+    "collectedAt": "2026-11-02T19:08:28.676Z",
+    "corroboratingSources": 1,
+    "fingerprint": "17e9c363e2a06114a52d5d40",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-02T19:08:34.067Z",
+    "outcome": {
+      "event": {
+        "title": "BNB’s $99 million ETF inflows came almost entirely before Binance’s hack",
+        "fingerprint": "17e9c363e2a06114a52d5d40"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1469,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Final Move: Binance Empties Hacked Wallet of Last $101 Million",
+    "link": "https://u.today/xrp-final-move-binance-empties-hacked-wallet-of-last-101-million",
+    "summary": "Following a historic exploit, the world's biggest crypto exchange secures the remaining $101 million in XRP from its compromised wallet.",
+    "image": null,
+    "publishedAt": "2026-11-02T09:26:45.000Z",
+    "collectedAt": "2026-11-02T19:08:28.676Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5a1c80134c11814c6f327cf9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-02T19:08:36.219Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Final Move: Binance Empties Hacked Wallet of Last $101 Million",
+        "fingerprint": "5a1c80134c11814c6f327cf9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1470,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Partner Mercado Suspends Withdrawals After Confirming 'Security Incident'",
+    "link": "https://u.today/ripple-partner-mercado-suspends-withdrawals-after-confirming-security-incident",
+    "summary": "Ripple partner Mercado Bitcoin has temporarily suspended cryptocurrency deposits and withdrawals after confirming a security breach, with blockchain investigators reporting more than $40 million in suspicious transactions.",
+    "image": null,
+    "publishedAt": "2026-11-02T17:33:55.000Z",
+    "collectedAt": "2026-11-02T19:08:28.676Z",
+    "corroboratingSources": 1,
+    "fingerprint": "07d25a8ca5569c5f6cc02255",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-02T19:08:40.245Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Partner Mercado Suspends Withdrawals After Confirming 'Security Incident'",
+        "fingerprint": "07d25a8ca5569c5f6cc02255"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1471,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

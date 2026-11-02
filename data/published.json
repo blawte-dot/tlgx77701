@@ -10883,5 +10883,45 @@
     "hasImage": true,
     "eventFingerprint": "3fc0e9cab79553acce555de7",
     "timestamp": "2026-11-02T08:50:32.357Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1467,
+    "text": "Twelve thousand addresses, rotating every twenty-five seconds. \n\nThat is the scale of the automated infrastructure North Korea is deploying to scrub the proceeds of the massive Binance exploit. \n\nWhile forensic tracking has managed to freeze roughly $2.85 billion of the stolen $6.43 billion—far outstripping the 3% recovery rate seen in the Bybit incident—the sheer velocity of the laundering operation highlights a structural challenge for on-chain surveillance. \n\nAs state-backed syndicates scale algorithmic laundering across thousands of ephemeral endpoints, traditional exchange freezes are hitting a logistical ceiling.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "0a52a0a4c7bcf7278cc5a58e",
+    "timestamp": "2026-11-02T19:08:31.450Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1468,
+    "text": "Billions vanished in minutes, but the ledger is nearly whole again.\n\nBinance has officially resumed withdrawals entering the second week of its recovery following the $6.3 billion exploit attributed to North Korean actors. \n\nAccording to reports from Bitcoin Magazine, the exchange has covered 95% of the total losses using internal funds and maintains sufficient reserves to clear the remaining deficit. \n\nPost-mortem reviews and security audits remain active as operations normalize. Further updates are expected as forensic tracking of the stolen funds continues across major networks.\n\n#Binance",
+    "hasImage": true,
+    "eventFingerprint": "ce78eedfc5a36a983e384a3e",
+    "timestamp": "2026-11-02T19:08:32.711Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1469,
+    "text": "Timing in crypto is everything, and the books tell a wild story for BNB this October. 📈\n\nUS-listed spot crypto ETFs tracked by SoSoValue show the VanEck BNB fund pulled in $99 million during the month, comfortably leading products tied to NEAR and XRP. \n\nThe twist? Nearly all of that capital landed weeks before Binance was hit with a record $6.3 billion exploit. \n\nMarkets moved aggressively into the asset before the shock hit the ecosystem. Data from CryptoSlate highlights how quickly positioning can shift against the backdrop of unexpected protocol events. \n\n#BNB",
+    "hasImage": true,
+    "eventFingerprint": "17e9c363e2a06114a52d5d40",
+    "timestamp": "2026-11-02T19:08:34.058Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1470,
+    "text": "Damage control on a historic scale just concluded.\n\nBinance has drained the final $101 million in XRP from a wallet compromised in a major exploit, effectively locking down the last exposed funds before further damage could be done. \n\nThe move caps off a tense recovery effort by the exchange following the security breach. \n\nOn-chain data confirms the remaining assets now sit in secure custody, ending days of intense speculation over whether the stolen sum could be recovered or moved further through decentralized mixers. \n\nMarkets have shown muted reaction to the sweep so far, with trading volumes holding steady as traders digest the completion of the asset rescue.",
+    "hasImage": true,
+    "eventFingerprint": "5a1c80134c11814c6f327cf9",
+    "timestamp": "2026-11-02T19:08:36.210Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1471,
+    "text": "How secure are your exchange assets today?\n\nRipple partner Mercado Bitcoin has temporarily halted all crypto deposits and withdrawals following a confirmed security incident.\n\nOn-chain investigators are tracking more than $40 million in suspicious wallet outflows tied to the breach. \n\nPlatform representatives stated that internal systems are undergoing a full forensic audit. Additional details on the scale of user fund exposure remain unconfirmed at this hour.\n\n#MercadoBitcoin",
+    "hasImage": true,
+    "eventFingerprint": "07d25a8ca5569c5f6cc02255",
+    "timestamp": "2026-11-02T19:08:40.235Z"
   }
 ]
