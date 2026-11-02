@@ -57882,5 +57882,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+    "link": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+    "summary": "The $6.3 billion Binance breach has revived a debate over whether crypto exchanges are less secure than banks or simply harder to protect once hackers get inside.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c680f66195c34bc3c9fd0674baef5211b8a010aa-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-02T08:32:01.000Z",
+    "collectedAt": "2026-11-02T08:50:23.852Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4c3bea3345a47964d7a2463f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-02T08:50:26.119Z",
+    "outcome": {
+      "event": {
+        "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+        "fingerprint": "4c3bea3345a47964d7a2463f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1462,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+    "link": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+    "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bitcoin_binance_1920x1080.png",
+    "publishedAt": "2026-11-02T04:11:05.000Z",
+    "collectedAt": "2026-11-02T08:50:23.852Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5d57297504d108df40fe74bb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-02T08:50:27.622Z",
+    "outcome": {
+      "event": {
+        "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+        "fingerprint": "5d57297504d108df40fe74bb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1463,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DFVVTB1BSHSCFQ2R7VR4PQ/hi-top-news-of-the-week-5-bitcoin.jpg",
+    "publishedAt": "2026-11-02T07:50:36.000Z",
+    "collectedAt": "2026-11-02T08:50:23.852Z",
+    "corroboratingSources": 1,
+    "fingerprint": "51ad7c5cd8e9e17b00c57731",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-02T08:50:28.921Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+        "fingerprint": "51ad7c5cd8e9e17b00c57731"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1464,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+    "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+    "summary": "The first trading day after the Binance hack saw  the biggest ETF outflow since June 25.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/38d30fc1824fe6912461d5945a73ef3f7d52f5e3-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-02T06:46:41.000Z",
+    "collectedAt": "2026-11-02T08:50:23.852Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e19cfa30a5b55be9104a8fa2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-02T08:50:30.318Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+        "fingerprint": "e19cfa30a5b55be9104a8fa2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1465,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Tracked Binance wallets record $2.5 billion in outflows as withdrawals reopen after hack",
+    "link": "https://cryptoslate.com/tracked-binance-wallets-record-2-5-billion-in-outflows-as-withdrawals-reopen-after-hack/",
+    "summary": "Binance&#039;s tracked cryptocurrency wallets recorded $2,510 million in net outflows on Nov. 1 after the exchange resumed withdrawals following its $6.3 billion security breach. According to DeFiLlama data, the outflows included approximately $1,083 million in USDT, $912 million in Bitcoin, $385 million in USDC and $131 million in wrapped Ethereum. These outflows coincided with Binance&#039;s…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Ge",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-outflow-junction.webp",
+    "publishedAt": "2026-11-01T21:00:31.000Z",
+    "collectedAt": "2026-11-02T08:50:23.852Z",
+    "corroboratingSources": 4,
+    "fingerprint": "3fc0e9cab79553acce555de7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-02T08:50:32.367Z",
+    "outcome": {
+      "event": {
+        "title": "Tracked Binance wallets record $2.5 billion in outflows as withdrawals reopen after hack",
+        "fingerprint": "3fc0e9cab79553acce555de7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1466,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
