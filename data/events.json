@@ -58907,5 +58907,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+    "link": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+    "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230419_CZ_Generic3.jpg",
+    "publishedAt": "2026-11-03T20:43:38.000Z",
+    "collectedAt": "2026-11-03T22:52:19.377Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ee2dfcfee4a320948dd2e37c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-03T22:52:21.695Z",
+    "outcome": {
+      "event": {
+        "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+        "fingerprint": "ee2dfcfee4a320948dd2e37c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1487,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Binance relied on AI to fight fraud before hackers exploited internal tool in $6 billion theft",
+    "link": "https://cryptoslate.com/binance-relied-on-ai-to-fight-fraud-before-hackers-exploited-internal-tool-in-6-billion-theft/",
+    "summary": "Hackers exploited Binance&#039;s internal artificial intelligence tools to compromise engineers before stealing $6.34 billion in cryptocurrency, the exchange disclosed. In its Nov. 3 security report, Binance said attackers used a compromised employee computer and an internal AI tool on Oct. 20 to take control of two engineers responsible for its wallet infrastructure. The attackers subsequently…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. G",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-software-trojan-horse.webp",
+    "publishedAt": "2026-11-03T22:30:31.000Z",
+    "collectedAt": "2026-11-03T22:52:19.377Z",
+    "corroboratingSources": 1,
+    "fingerprint": "715a43f78efbb8d71aae5629",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-03T22:52:22.806Z",
+    "outcome": {
+      "event": {
+        "title": "Binance relied on AI to fight fraud before hackers exploited internal tool in $6 billion theft",
+        "fingerprint": "715a43f78efbb8d71aae5629"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1488,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
+    "link": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
+    "summary": "The Fed&#039;s November 2 survey shows tougher approvals alongside stronger nonbank demand, with no evidence of forced Bitcoin sales.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-nonbank-credit-clamp.webp",
+    "publishedAt": "2026-11-03T21:20:34.000Z",
+    "collectedAt": "2026-11-03T22:52:19.377Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b44b44f9148001d865fe2374",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-03T22:52:23.923Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
+        "fingerprint": "b44b44f9148001d865fe2374"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1489,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+    "summary": "Liquid Network said its bitcoin reserves are back to full backing after September's exploit, with Blockstream providing the funds.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-03-at-10.31.29.png",
+    "publishedAt": "2026-11-03T11:49:20.000Z",
+    "collectedAt": "2026-11-03T22:52:19.377Z",
+    "corroboratingSources": 3,
+    "fingerprint": "4d69959f68c23953b275654f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-03T22:52:25.403Z",
+    "outcome": {
+      "event": {
+        "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+        "fingerprint": "4d69959f68c23953b275654f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1490,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+    "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+    "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-11-03T20:36:02.000Z",
+    "collectedAt": "2026-11-03T22:52:19.377Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d90b34d3d077d982454d9291",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-03T22:52:26.448Z",
+    "outcome": {
+      "event": {
+        "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+        "fingerprint": "d90b34d3d077d982454d9291"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1491,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
