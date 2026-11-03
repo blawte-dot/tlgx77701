@@ -58702,5 +58702,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+    "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+    "summary": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8eddb9b21b48fe943883fef2e8b24ae4bbf39f0e-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-03T16:49:56.000Z",
+    "collectedAt": "2026-11-03T17:30:17.726Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a2e2c061320101b8568c8ad6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-03T17:30:45.066Z",
+    "outcome": {
+      "event": {
+        "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+        "fingerprint": "a2e2c061320101b8568c8ad6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1482,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+    "link": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png",
+    "publishedAt": "2026-11-03T16:44:06.000Z",
+    "collectedAt": "2026-11-03T17:30:17.726Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ff5d2b8110e845324b094f21",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-03T17:30:49.300Z",
+    "outcome": {
+      "event": {
+        "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+        "fingerprint": "ff5d2b8110e845324b094f21"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1483,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Binance Says $6.34 Billion Hack Began With Fake Job Interview",
+    "link": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
+    "summary": "Bitcoin Magazine\n\nBinance Says $6.34 Billion Hack Began With Fake Job Interview \nBinance’s incident report says the $6.34 billion Oct. 29 theft was a five-month campaign that began with a fake job interview and a poisoned developer tool.\nThis post Binance Says $6.34 Billion Hack Began With Fake Job Interview  first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg",
+    "publishedAt": "2026-11-03T16:44:20.000Z",
+    "collectedAt": "2026-11-03T17:30:17.726Z",
+    "corroboratingSources": 2,
+    "fingerprint": "71e847d2cb914b1167dd57db",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-03T17:31:30.614Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Says $6.34 Billion Hack Began With Fake Job Interview",
+        "fingerprint": "71e847d2cb914b1167dd57db"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1484,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+    "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+    "summary": "Bitcoin edged up 0.2% to around $76,900 since midnight UTC as spot ETFs lost $399 million for a second day and Binance customers pulled a net $4.72 billion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1eda435df17418c17d9c649e9d89c092d470c3c7-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-03T11:28:00.000Z",
+    "collectedAt": "2026-11-03T17:30:17.726Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bfa3d779b437dd99598abb29",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-03T17:31:52.423Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+        "fingerprint": "bfa3d779b437dd99598abb29"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1485,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+    "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+    "summary": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d460229c5ab8c0f933fe8f5c77cd52109daa59af-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-03T09:40:32.000Z",
+    "collectedAt": "2026-11-03T17:30:17.726Z",
+    "corroboratingSources": 3,
+    "fingerprint": "a9f466b3efacd003e771caf5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-03T17:32:19.572Z",
+    "outcome": {
+      "event": {
+        "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+        "fingerprint": "a9f466b3efacd003e771caf5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1486,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
