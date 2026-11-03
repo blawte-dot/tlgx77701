@@ -10963,5 +10963,45 @@
     "hasImage": true,
     "eventFingerprint": "d1f9e35e49a547d0e3af105f",
     "timestamp": "2026-11-03T01:58:39.889Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1477,
+    "text": "Three independent ledgers, zero asset movement.\n\nConsensys just rolled out a new infrastructure stack aimed squarely at traditional financial institutions. \n\nThe system lets banks route and settle transactions across fragmented blockchain networks while keeping underlying assets stationary. \n\nIt marks another step toward bridging legacy finance rails with multichain architecture, reducing the friction that has historically slowed institutional digital asset adoption.\n\n#Consensys",
+    "hasImage": true,
+    "eventFingerprint": "d51033a2a516d63b6e839328",
+    "timestamp": "2026-11-03T09:17:02.142Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1478,
+    "text": "Wall Street's clearing infrastructure is quietly validating the tokenized equities model. \n\nStoneX argues that the DTCC's new tokenization launch directly reinforces Securitize’s market position. \n\nThe firm reiterated its buy rating on SECZ as digital stock offerings continue to expand. Traditional finance rails and blockchain infrastructure are converging faster than projected.",
+    "hasImage": true,
+    "eventFingerprint": "035c9ec551c50d9cb3b3aabf",
+    "timestamp": "2026-11-03T09:17:03.603Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1479,
+    "text": "When the world's largest asset manager posts its heaviest Bitcoin ETF bleed in five months, it forces a quick reassessment of institutional flows. \n\nBlackRock's IBIT shed $405.3 million on Monday, dragging total US spot Bitcoin fund outflows to nearly $399 million as November trading got underway. \n\nAre institutional allocations cooling off into year-end, or is this just routine portfolio rebalancing after recent upside? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "92e8827bb978f67f23623b2b",
+    "timestamp": "2026-11-03T09:17:04.678Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1480,
+    "text": "Four consecutive weekly losses have brought Bitcoin to a crucial structural test.\n\nBTC is currently attempting to stabilize near $78,000 as it sits inside a major demand zone. \n\nMarket sentiment remains pressured following a record hack on Binance and a heavy $643.3 million single-day outflow from U.S. spot ETFs on Friday. \n\nWhether this support level holds will likely determine if the broader September rally structure can survive.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "ff7835466b98c4deacc54492",
+    "timestamp": "2026-11-03T09:17:05.717Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1481,
+    "text": "Federation withdrawals are finally back online. \n\nBlockstream's Liquid Network has restored full Bitcoin backing following the operational restrictions that followed the Elements exploit. \n\nReserves now meet every strict requirement needed to resume direct federation outflows safely. \n\nOperations return to normal after a prolonged period of enhanced controls.",
+    "hasImage": true,
+    "eventFingerprint": "f9312ae42af285c4d256bf7e",
+    "timestamp": "2026-11-03T09:17:06.832Z"
   }
 ]
