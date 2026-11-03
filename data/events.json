@@ -58292,5 +58292,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "XRP’s ‘Binance Hack 2026’ wallets move 40M tokens as ETF inflows persist",
+    "link": "https://ambcrypto.com/xrps-binance-hack-2026-wallets-move-40m-tokens-as-etf-inflows-persist/",
+    "summary": "Binance hack-linked transfers raise fresh concerns over XRP’s recovery, while ETF inflows signal continued institutional interest.",
+    "image": null,
+    "publishedAt": "2026-11-03T01:00:01.000Z",
+    "collectedAt": "2026-11-03T01:58:31.269Z",
+    "corroboratingSources": 1,
+    "fingerprint": "74f96652f0e1cd4839c222ce",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-03T01:58:34.607Z",
+    "outcome": {
+      "event": {
+        "title": "XRP’s ‘Binance Hack 2026’ wallets move 40M tokens as ETF inflows persist",
+        "fingerprint": "74f96652f0e1cd4839c222ce"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1472,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+    "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png",
+    "publishedAt": "2026-11-02T21:54:41.000Z",
+    "collectedAt": "2026-11-03T01:58:31.269Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8f1c19a720162196e4126e10",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-03T01:58:36.029Z",
+    "outcome": {
+      "event": {
+        "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+        "fingerprint": "8f1c19a720162196e4126e10"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1473,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+    "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
+    "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/03/north-korea-2662076_1920-e1734489004471.jpg",
+    "publishedAt": "2026-11-02T22:26:06.000Z",
+    "collectedAt": "2026-11-03T01:58:31.269Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d2a4ead802d2c9d721d25148",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-03T01:58:37.364Z",
+    "outcome": {
+      "event": {
+        "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+        "fingerprint": "d2a4ead802d2c9d721d25148"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1474,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
+    "link": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+    "summary": "Tom Lee believes crypto&#039;s muted reaction to Binance&#039;s $6.3 billion hack is another sign that a bull market is underway. The BitMine chairman pointed to Ethereum&#039;s roughly 4% decline following the Oct. 29 theft, which was more than four times larger than the $1.5 billion stolen from Bybit in February 2025. Ethereum fell 8% on…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/tom-lee-bull-projection.webp",
+    "publishedAt": "2026-11-03T01:05:23.000Z",
+    "collectedAt": "2026-11-03T01:58:31.269Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b6363c6bfd9820fd4856f8d1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-03T01:58:38.641Z",
+    "outcome": {
+      "event": {
+        "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
+        "fingerprint": "b6363c6bfd9820fd4856f8d1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1475,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Zcash (ZEC) Whale Builds $14 Million Long Ahead of 300% Speed Upgrade",
+    "link": "https://u.today/zcash-zec-whale-builds-14-million-long-ahead-of-300-speed-upgrade",
+    "summary": "A crypto whale builds a $14 million Zcash position on Hyperliquid ahead of the NU7 hard fork, betting big on the privacy coin's upcoming 300% speed upgrade.",
+    "image": null,
+    "publishedAt": "2026-11-02T12:38:15.000Z",
+    "collectedAt": "2026-11-03T01:58:31.269Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d1f9e35e49a547d0e3af105f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-03T01:58:39.898Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash (ZEC) Whale Builds $14 Million Long Ahead of 300% Speed Upgrade",
+        "fingerprint": "d1f9e35e49a547d0e3af105f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1476,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

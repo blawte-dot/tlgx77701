@@ -9557,5 +9557,40 @@
     "hasImage": true,
     "eventFingerprint": "07d25a8ca5569c5f6cc02255",
     "timestamp": "2026-11-02T19:08:40.226Z"
+  },
+  {
+    "messageId": 1472,
+    "text": "Wallets linked to the historical Binance security incident just shifted 40 million tokens. \n\nThe unexpected movement comes at a curious juncture for the asset. Spot ETF inflows continue to register steady institutional demand, creating a distinct tug-of-war between lingering security overhangs and fresh capital allocators. \n\nMarket participants are closely tracking whether the transferred supply will find its way to order books or simply shift into cold storage.",
+    "hasImage": true,
+    "eventFingerprint": "74f96652f0e1cd4839c222ce",
+    "timestamp": "2026-11-03T01:58:34.586Z"
+  },
+  {
+    "messageId": 1473,
+    "text": "Forget quantum computing for a moment. The more immediate threat to crypto infrastructure is already sitting in plain sight.\n\nAccording to Swan Bitcoin's founder, malicious actors are leveraging large language models to identify and exploit codebase vulnerabilities using only basic prompts. \n\nWhat used to require deep technical specialization and weeks of research can now be accelerated through automated AI tooling. \n\nWhile quantum threats remain largely theoretical and years away from breaking current cryptographic standards, AI-driven code exploitation is happening right now. \n\nSecurity audits and continuous code review are no longer just best practices. They are the frontline defense against automated attacks.",
+    "hasImage": true,
+    "eventFingerprint": "8f1c19a720162196e4126e10",
+    "timestamp": "2026-11-03T01:58:36.010Z"
+  },
+  {
+    "messageId": 1474,
+    "text": "Pyongyang is officially pushing back against Washington's digital forensics.\n\nNorth Korea has reportedly denied any involvement in the record $6 billion Binance exploit, pushing back against the FBI's attribution of the massive heist to state-sponsored hacking groups. \n\nThe bureau’s technical assessment previously pointed squarely at Pyongyang-linked operators. \n\nOfficial state media statements now reject those findings entirely. \n\nGiven the opacity surrounding state-backed cyber operations, independent verification remains difficult. \n\nInvestigations into the wallet movements continue as markets monitor the fallout.",
+    "hasImage": true,
+    "eventFingerprint": "d2a4ead802d2c9d721d25148",
+    "timestamp": "2026-11-03T01:58:37.346Z"
+  },
+  {
+    "messageId": 1475,
+    "text": "Is a $6.3 billion exchange exploit no longer enough to break a bull market?\n\nBitMine chairman Tom Lee is pointing to Ethereum’s relatively muted reaction following the late-October theft as a sign of underlying market strength. \n\nETH dropped roughly 4% in the immediate aftermath of the incident. For comparison, a smaller $1.5 billion exploit earlier in the year triggered an 8% slide. \n\nLee argues that when major negative catalysts fail to spark deep liquidations, it suggests buyers are absorbing supply faster than historical averages. \n\nWhether that resilience holds under broader macro pressure remains the key question for spot traders this week.",
+    "hasImage": true,
+    "eventFingerprint": "b6363c6bfd9820fd4856f8d1",
+    "timestamp": "2026-11-03T01:58:38.622Z"
+  },
+  {
+    "messageId": 1476,
+    "text": "Whale activity is returning to privacy assets as network upgrades loom.\n\nA large market participant has opened a $14 million long position in Zcash on Hyperliquid, positioning ahead of the upcoming NU7 hard fork. \n\nThe network upgrade aims to deliver a roughly 300% increase in transaction speed, drawing renewed attention to legacy privacy coins. \n\nOpen interest and leverage in privacy tokens have ticked higher as traders price in potential technical improvements, though broader market direction remains tied to broader macro liquidity.",
+    "hasImage": true,
+    "eventFingerprint": "d1f9e35e49a547d0e3af105f",
+    "timestamp": "2026-11-03T01:58:39.880Z"
   }
 ]
