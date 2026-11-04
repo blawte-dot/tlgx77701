@@ -59112,5 +59112,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+    "link": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+    "summary": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
+    "publishedAt": "2026-11-03T13:11:47.000Z",
+    "collectedAt": "2026-11-04T02:53:05.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "33f160f09021ccb7d126c02d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T02:53:08.231Z",
+    "outcome": {
+      "event": {
+        "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+        "fingerprint": "33f160f09021ccb7d126c02d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1492,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Trades Near $77,500 as Midterm Voting Begins\nBitcoin price trades near $77,500 as midterm voting begins, pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions.\nThis post Bitcoin Price Trades Near $77,500 as Midterm Voting Begins first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Near-77500-as-Midterm-Voting-Begins.jpg",
+    "publishedAt": "2026-11-03T13:46:39.000Z",
+    "collectedAt": "2026-11-04T02:53:05.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1066423d2a9f322fffe7bc97",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T02:53:09.633Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+        "fingerprint": "1066423d2a9f322fffe7bc97"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1493,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Essential Privacy and Security Tools for Crypto Investors",
+    "link": "https://cryptopotato.com/essential-privacy-and-security-tools-for-crypto-investors/",
+    "summary": "As lucrative as the crypto market is, many individuals and businesses remain hesitant to enter the ecosystem. The reason? For many, it is the fear of falling victim to security exploits. Others worry about privacy, especially because blockchain transactions are publicly accessible. What if there were tools that could make crypto investing more secure and [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/11/essential_crypto_privacy.jpg",
+    "publishedAt": "2026-11-03T13:17:55.000Z",
+    "collectedAt": "2026-11-04T02:53:05.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "99674bb4807fd6c19c7f4020",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T02:53:11.011Z",
+    "outcome": {
+      "event": {
+        "title": "Essential Privacy and Security Tools for Crypto Investors",
+        "fingerprint": "99674bb4807fd6c19c7f4020"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1494,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Hyperliquid Whale Refuses to Sell 35 Million XRP as Market Slumps: Main Crypto News This Morning",
+    "link": "https://u.today/hyperliquid-whale-refuses-to-sell-35-million-xrp-as-market-slumps-main-crypto-news-this-morning",
+    "summary": "Crypto news this morning, Nov 3: a whale defends XRP with a $44 million long despite $398 million outflows from US ETFs and Binance drain.",
+    "image": null,
+    "publishedAt": "2026-11-03T13:11:05.000Z",
+    "collectedAt": "2026-11-04T02:53:05.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2473110523d9402ec4ff34d0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T02:53:12.681Z",
+    "outcome": {
+      "event": {
+        "title": "Hyperliquid Whale Refuses to Sell 35 Million XRP as Market Slumps: Main Crypto News This Morning",
+        "fingerprint": "2473110523d9402ec4ff34d0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1495,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Mercado Bitcoin hack: Attacker still holds PEPE, AAVE, and PENDLE as millions remain exposed",
+    "link": "https://ambcrypto.com/mercado-bitcoin-hack-attacker-still-holds-pepe-aave-and-pendle-as-millions-remain-exposed/",
+    "summary": "The Mercado Bitcoin exploit leaves several altcoins vulnerable to further transfers and possible liquidation.",
+    "image": null,
+    "publishedAt": "2026-11-03T13:00:31.000Z",
+    "collectedAt": "2026-11-04T02:53:05.938Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0249100a57e945650c040ea3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T02:53:13.961Z",
+    "outcome": {
+      "event": {
+        "title": "Mercado Bitcoin hack: Attacker still holds PEPE, AAVE, and PENDLE as millions remain exposed",
+        "fingerprint": "0249100a57e945650c040ea3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1496,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

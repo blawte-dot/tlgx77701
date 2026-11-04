@@ -9697,5 +9697,40 @@
     "hasImage": true,
     "eventFingerprint": "d90b34d3d077d982454d9291",
     "timestamp": "2026-11-03T22:52:26.427Z"
+  },
+  {
+    "messageId": 1492,
+    "text": "When Tom Lee calls a major exchange exploit bullish for Ethereum, the market tends to listen—even if spot flows are telling a very different story.\n\nFundstrat's head of research argued the recent Binance breach highlights vulnerabilities in centralized infrastructure, potentially driving long-term adoption toward decentralized alternatives like ETH. \n\nTraders haven't bought the narrative just yet. \n\nSpot Bitcoin and Ethereum exchange-traded funds both recorded net outflows in the immediate wake of the incident, sending broader crypto prices lower alongside macro risk assets. \n\nWhile structural theses point to decentralization, short-term liquidity remains constrained by cautious institutional positioning.",
+    "hasImage": true,
+    "eventFingerprint": "33f160f09021ccb7d126c02d",
+    "timestamp": "2026-11-04T02:53:08.210Z"
+  },
+  {
+    "messageId": 1493,
+    "text": "Whale wallets are quietly watching the tape as US voters head to the polls.\n\nBitcoin is holding around $77,500 this morning. \n\nMacro headwinds are piling up fast. Binance just absorbed a record $6.3 billion exploit, spot ETFs are leaking capital, and crude oil has breached $100 amid rising Iran tensions. \n\nAdd in a Federal Reserve leaning back toward a December rate hike, and the risk-off environment is clear. \n\nElectoral volatility typically triggers sudden liquidity shifts. Markets are pricing in the unknown.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "1066423d2a9f322fffe7bc97",
+    "timestamp": "2026-11-04T02:53:09.614Z"
+  },
+  {
+    "messageId": 1494,
+    "text": "Public ledgers make transparency a feature, but they also turn every wallet into an open book. \n\nAs capital flows deeper into digital assets, operational security and privacy have shifted from optional add-ons to core infrastructure. Protecting holdings requires moving past basic exchange accounts and adopting tools built for self-sovereignty.\n\nHardware wallets remain the baseline defense against remote exploits, keeping private keys entirely offline. Beyond storage, operational security involves managing metadata, using dedicated network layers, and understanding how public address clustering exposes transaction history.\n\nSecurity isn't a static setting. It's a continuous process of risk reduction.",
+    "hasImage": true,
+    "eventFingerprint": "99674bb4807fd6c19c7f4020",
+    "timestamp": "2026-11-04T02:53:10.989Z"
+  },
+  {
+    "messageId": 1495,
+    "text": "A single trader just dropped $44 million on an XRP long as the broader market bled.\n\nWhile US spot ETFs shed $398 million and exchange reserves drained across Binance, one whale doubled down on 35 million tokens rather than capitulate. \n\nConviction of this scale during severe macro outflows demands attention, regardless of how the trade plays out.",
+    "hasImage": true,
+    "eventFingerprint": "2473110523d9402ec4ff34d0",
+    "timestamp": "2026-11-04T02:53:12.660Z"
+  },
+  {
+    "messageId": 1496,
+    "text": "Millions in altcoins remain exposed following the Mercado Bitcoin security breach.\n\nThe attacker is still holding significant positions in PEPE, AAVE, and PENDLE. \n\nBecause these assets have not yet been moved or liquidated, secondary sell pressure hangs directly over the affected order books. \n\nOn-chain trackers note that the stolen funds sit in addresses flagged by security researchers, though freezing mechanisms have limited effect against decentralized liquidity pools. \n\nFurther updates depend on whether issuing protocols step in to blacklist the associated addresses before secondary routing occurs.",
+    "hasImage": true,
+    "eventFingerprint": "0249100a57e945650c040ea3",
+    "timestamp": "2026-11-04T02:53:13.938Z"
   }
 ]
