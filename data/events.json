@@ -59317,5 +59317,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Polkadot lost $1.38 million after hacker exploited security flaw fixed four months earlier",
+    "link": "https://cryptoslate.com/polkadot-lost-1-38-million-after-hacker-exploited-security-flaw-fixed-four-months-earlier/",
+    "summary": "The attacker resumed on October 26 with its own relayer before the XCM fix; a later upgrade corrected supply without changing balances.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/polkadot-relayer-bypass.webp",
+    "publishedAt": "2026-11-04T14:50:52.000Z",
+    "collectedAt": "2026-11-04T18:25:37.335Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5dae115828fe38e703550bdf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-04T18:26:20.487Z",
+    "outcome": {
+      "event": {
+        "title": "Polkadot lost $1.38 million after hacker exploited security flaw fixed four months earlier",
+        "fingerprint": "5dae115828fe38e703550bdf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1502,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+    "link": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+    "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
+    "publishedAt": "2026-11-04T18:16:02.000Z",
+    "collectedAt": "2026-11-04T18:25:37.335Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4f541a51b9b9b3f27f5599ec",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T18:26:35.458Z",
+    "outcome": {
+      "event": {
+        "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+        "fingerprint": "4f541a51b9b9b3f27f5599ec"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1503,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SEC Updates Crypto-Asset FAQs as Firms Seek Clarity on Federal Securities Rules",
+    "link": "https://www.newsbtc.com/news/sec-updates-crypto-asset-faqs-as-firms-seek-clarity-on-federal-securities-rules/",
+    "summary": "The SEC Division of Corporation Finance added questions 1.4, 1.5 and 1.6 to its crypto-assets FAQ on November 2, 2026.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/N29_sec-updates-crypto-asset-faqs-as-firms-seek-clarity-on-federal-securities-rules-750x394.jpg",
+    "publishedAt": "2026-11-04T07:00:00.000Z",
+    "collectedAt": "2026-11-04T18:25:37.335Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1fb4f3d0ea8fb0a11725007a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T18:45:45.931Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Updates Crypto-Asset FAQs as Firms Seek Clarity on Federal Securities Rules",
+        "fingerprint": "1fb4f3d0ea8fb0a11725007a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1504,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "ECB Links Europe’s T+1 Securities Transition to a Broader Settlement Overhaul",
+    "link": "https://www.newsbtc.com/news/ecb-links-europes-t-1-securities-transition-to-a-broader-settlement-overhaul/",
+    "summary": "European Central Bank officials have discussed the planned move to T+1 securities settlement in October 2027 alongside longer-term work on tokenized…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/N27_ecb-links-europes-t-1-securities-transition-to-a-broader-settlement-overhaul-750x394.jpg",
+    "publishedAt": "2026-11-04T06:00:00.000Z",
+    "collectedAt": "2026-11-04T18:25:37.335Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4286c3c9b188e102a935d325",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T18:45:51.489Z",
+    "outcome": {
+      "event": {
+        "title": "ECB Links Europe’s T+1 Securities Transition to a Broader Settlement Overhaul",
+        "fingerprint": "4286c3c9b188e102a935d325"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1505,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance Hacker Continues Aggressive Bitcoin Buying Spree",
+    "link": "https://u.today/binance-hacker-continues-aggressive-bitcoin-buying-spree",
+    "summary": "The hacker behind the massive $6.3 billion Binance security breach continues aggressively accumulating Bitcoin (BTC) by converting stolen Solana (SOL) tokens through a complex series of cross-chain transactions.",
+    "image": null,
+    "publishedAt": "2026-11-04T05:26:23.000Z",
+    "collectedAt": "2026-11-04T18:25:37.335Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d41ff51d0b02321cd19ac5ee",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-04T18:45:55.034Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Hacker Continues Aggressive Bitcoin Buying Spree",
+        "fingerprint": "d41ff51d0b02321cd19ac5ee"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1506,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

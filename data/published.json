@@ -11123,5 +11123,45 @@
     "hasImage": true,
     "eventFingerprint": "0249100a57e945650c040ea3",
     "timestamp": "2026-11-04T02:53:13.949Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1502,
+    "text": "Forgotten code remains a multi-million dollar liability.\n\nPolkadot lost $1.38 million this week after an attacker exploited a security vulnerability that developers had supposedly patched four months ago. \n\nThe incident originated from a relayer issue. While the protocol had implemented an XCM fix earlier this year, the attacker successfully leveraged their own relayer to strike before the previous vulnerability was fully closed. \n\nA subsequent upgrade has since corrected the supply discrepancy, but the exploit highlights a persistent issue in blockchain maintenance: closing a vulnerability isn't enough if the network hasn't fully purged the stale entry points. \n\nNo funds were permanently lost from user balances, but the breach serves as a stark reminder that even audited fixes can leave gaps if implementation is not absolute.",
+    "hasImage": true,
+    "eventFingerprint": "5dae115828fe38e703550bdf",
+    "timestamp": "2026-11-04T18:26:20.474Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1503,
+    "text": "Institutional tokenization just cleared a major regulatory hurdle.\n\nSEC staff have signaled that Canton Coin will be treated as a digital commodity, confirming they will not recommend enforcement action regarding its minting process. This regulatory clarity arrives just one week after the DTCC launched its new tokenization service, which operates on the Canton Network.\n\nThe move marks a significant pivot for traditional finance infrastructure. By providing a clear path for institutional assets to move on-chain without the looming threat of securities litigation, the SEC is effectively greenlighting the next phase of Wall Street’s transition to distributed ledger technology.\n\nThe Canton Network is positioned as the primary plumbing for this shift. As legacy giants like the DTCC continue to integrate, the focus now turns to which specific assets will be the first to transition from legacy ledgers to the Canton ecosystem.",
+    "hasImage": true,
+    "eventFingerprint": "4f541a51b9b9b3f27f5599ec",
+    "timestamp": "2026-11-04T18:26:35.440Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1504,
+    "text": "The SEC is quietly tightening its regulatory framework around crypto-asset disclosures.\n\nNew guidance published November 2 by the Division of Corporation Finance introduces questions 1.4, 1.5, and 1.6 to the agency’s crypto-asset FAQs. These additions address specific firm-level inquiries regarding federal securities compliance and reporting requirements.\n\nFor market participants, the update signals a move toward more formal technical standards for digital asset issuers. While the SEC has not issued new enforcement actions alongside these FAQs, the language clarifies expectations for how firms must account for assets under current securities law. \n\nThe move reflects the ongoing push for institutional clarity as firms navigate the friction between existing regulatory frameworks and decentralized infrastructure. ⚖️",
+    "hasImage": true,
+    "eventFingerprint": "1fb4f3d0ea8fb0a11725007a",
+    "timestamp": "2026-11-04T18:45:45.916Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1505,
+    "text": "Europe’s financial plumbing is approaching a critical structural upgrade.\n\nThe European Central Bank is preparing to shift securities settlement to a T+1 cycle by October 2027. This isn't just a calendar update; officials are positioning the move as a foundational step toward a broader overhaul of the regional settlement infrastructure.\n\nThe goal is to align current market practices with the rapid pace of tokenized assets. By shortening the settlement window, the ECB aims to reduce counterparty risk and improve capital efficiency across the eurozone.\n\nIntegration with DLT-based settlement systems is now front and center. While the transition date is set, the technical bridge between legacy systems and tokenized frameworks remains the primary hurdle for market participants. Expect the coming months to focus on liquidity management and the operational stability of cross-border clearing.",
+    "hasImage": true,
+    "eventFingerprint": "4286c3c9b188e102a935d325",
+    "timestamp": "2026-11-04T18:45:51.478Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1506,
+    "text": "A massive liquidation event is unfolding in the shadows of the Binance breach.\n\nThe hacker responsible for the $6.3 billion exploit is systematically offloading stolen Solana (SOL) holdings. These assets are being routed through a complex web of cross-chain bridges to fuel an aggressive Bitcoin (BTC) accumulation strategy.\n\nThis move marks a shift toward consolidation. By converting volatile altcoin positions into Bitcoin, the attacker is prioritizing liquidity and store-of-value stability over high-risk assets.\n\nThe scale of these transactions suggests a high degree of operational sophistication. While the funds remain tainted and monitored by major exchanges, the hacker continues to exploit decentralized liquidity pools to mask the trail. \n\nMarket participants should remain aware that these forced conversions are creating significant downward pressure on SOL while increasing inflows into BTC, regardless of broader market sentiment.",
+    "hasImage": true,
+    "eventFingerprint": "d41ff51d0b02321cd19ac5ee",
+    "timestamp": "2026-11-04T18:45:55.025Z"
   }
 ]
