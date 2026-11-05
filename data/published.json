@@ -11203,5 +11203,45 @@
     "hasImage": true,
     "eventFingerprint": "abda5eb939912fa0f3fcbef3",
     "timestamp": "2026-11-05T00:07:09.112Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1512,
+    "text": "A stolen private key just bypassed security protocols to trigger another major platform breach.\n\nThe Mercado Bitcoin hacker is actively dumping altcoin reserves on the open market, consolidating millions of dollars into Ether following the exploit. \n\nAttention has quickly turned to BitMart. Founders are addressing emerging on-chain links between the drained wallets and the exchange's previous historical exploits. \n\nIlliquid altcoins are absorbing the heaviest sell pressure as the stolen capital moves through mixers and bridge contracts. Market participants are watching withdrawal limits closely as liquidity thins across secondary pairs.",
+    "hasImage": true,
+    "eventFingerprint": "4992a58d6381fbfa72a959c7",
+    "timestamp": "2026-11-05T07:40:39.569Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1513,
+    "text": "When algorithms wage war on your defenses, human reaction time is already obsolete.\n\nIndia's primary cybersecurity agency has issued an urgent alert regarding a threat actor deploying AI-powered automation against domestic crypto exchanges and financial platforms. \n\nThe attacks aren't just sophisticated; they operate at machine speed, scanning for vulnerabilities and executing exploits faster than manual security patches can deploy. \n\nIt marks a clear escalation in how threat actors leverage machine learning for continuous, high-frequency intrusion attempts. \n\nAs digital asset infrastructure grows more complex, the race between automated offense and automated defense is defining the next era of cyber security in finance.",
+    "hasImage": true,
+    "eventFingerprint": "9a81190b94e6ccb48f83566b",
+    "timestamp": "2026-11-05T07:40:41.319Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1514,
+    "text": "Regulatory clarity is the ultimate unlock for any token, and Canton just caught a major break. \n\nThe SEC’s Division of Corporation Finance has indicated it views the network as a digital commodity, citing operations and market dynamics rather than centralized control as the drivers of its value. \n\nThat stamp of legitimacy shifts the narrative for CC. \n\nTraders are now zeroing in on the $0.10 level as the critical technical test for the asset following the announcement. 📌",
+    "hasImage": true,
+    "eventFingerprint": "42d146b8094b07098c5a7f35",
+    "timestamp": "2026-11-05T07:40:42.311Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1515,
+    "text": "On-chain trackers flag a familiar pattern returning to decentralized liquidity pools. \n\nNorth Korea-linked hackers associated with the TraderTraitor group have resumed laundering funds stolen from the 2022 Binance smart contract exploit. \n\nData shows the attackers routing Ether through THORChain to swap for native Bitcoin, following an earlier phase that utilized the Tron network. \n\nThe activity has coincided with a roughly 10% move in RUNE over the past 24 hours amid heightened volume across cross-chain bridges. \n\n#THORChain",
+    "hasImage": true,
+    "eventFingerprint": "1001f70b1d04a16d9bfa86d8",
+    "timestamp": "2026-11-05T07:40:43.638Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1516,
+    "text": "Markets are proving remarkably resilient to shocks that used to trigger brutal liquidations.\n\nBitcoin climbed back above $80,500 earlier today, adding 3.5% over the session, while Ether advanced 6%. \n\nThe recovery follows the conclusion of the U.S. midterms, which delivered control of Congress to the Democrats. Meanwhile, Bitwise analysts note that the recent security breach at Binance has had a strictly contained impact on broader spot liquidity and open interest.\n\nPrice action suggests sell-side exhaustion is currently outweighing macro headwinds.",
+    "hasImage": true,
+    "eventFingerprint": "2692562979539b5cd83f9989",
+    "timestamp": "2026-11-05T07:40:44.775Z"
   }
 ]

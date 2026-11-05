@@ -59727,5 +59727,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "BitMart founder confirms second exchange hack &#8211; Links to Mercado Bitcoin emerge",
+    "link": "https://ambcrypto.com/bitmart-founder-confirms-second-exchange-hack-links-to-mercado-bitcoin-emerge/",
+    "summary": "Altcoins face renewed crash fears as the Mercado Bitcoin hacker dumps tokens, moves millions into ETH, and raises questions about a possible BitMart link.",
+    "image": null,
+    "publishedAt": "2026-11-05T07:00:31.000Z",
+    "collectedAt": "2026-11-05T07:40:36.455Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4992a58d6381fbfa72a959c7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-05T07:40:39.580Z",
+    "outcome": {
+      "event": {
+        "title": "BitMart founder confirms second exchange hack &#8211; Links to Mercado Bitcoin emerge",
+        "fingerprint": "4992a58d6381fbfa72a959c7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1512,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+    "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "India’s cybersecurity agency says a threat actor is escalating an AI-assisted hacking campaign targeting crypto exchanges and other financial firms.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MPCPYRKAQX7P4642EX1VWB/ai-hacker.jpg",
+    "publishedAt": "2026-11-05T01:51:21.000Z",
+    "collectedAt": "2026-11-05T07:40:36.455Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9a81190b94e6ccb48f83566b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-05T07:40:41.329Z",
+    "outcome": {
+      "event": {
+        "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+        "fingerprint": "9a81190b94e6ccb48f83566b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1513,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "SEC gives Canton crypto regulatory relief &#8211; Why CC faces a $0.10 test",
+    "link": "https://ambcrypto.com/sec-gives-canton-crypto-regulatory-relief-why-cc-faces-a-0-10-test/",
+    "summary": "The SEC Division of Corporation Finance reported that it views Canton as a digital commodity, as its value arises from operations and market dynamics.",
+    "image": null,
+    "publishedAt": "2026-11-04T14:00:55.000Z",
+    "collectedAt": "2026-11-05T07:40:36.455Z",
+    "corroboratingSources": 1,
+    "fingerprint": "42d146b8094b07098c5a7f35",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-05T07:40:42.322Z",
+    "outcome": {
+      "event": {
+        "title": "SEC gives Canton crypto regulatory relief &#8211; Why CC faces a $0.10 test",
+        "fingerprint": "42d146b8094b07098c5a7f35"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1514,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+    "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+    "summary": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-04T12:49:56.000Z",
+    "collectedAt": "2026-11-05T07:40:36.455Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1001f70b1d04a16d9bfa86d8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-05T07:40:43.662Z",
+    "outcome": {
+      "event": {
+        "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+        "fingerprint": "1001f70b1d04a16d9bfa86d8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1515,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+    "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+    "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-12.23.49.png",
+    "publishedAt": "2026-11-04T20:09:58.000Z",
+    "collectedAt": "2026-11-05T07:40:36.455Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2692562979539b5cd83f9989",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-05T07:40:44.788Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+        "fingerprint": "2692562979539b5cd83f9989"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1516,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
