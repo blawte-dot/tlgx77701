@@ -59932,5 +59932,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Asian crypto exchanges bunker down as hacks surge: Asia Express",
+    "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+    "publishedAt": "2026-11-05T22:18:42.000Z",
+    "collectedAt": "2026-11-05T22:30:27.900Z",
+    "corroboratingSources": 1,
+    "fingerprint": "71c7047bcb9dd97289180c23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-05T22:30:33.983Z",
+    "outcome": {
+      "event": {
+        "title": "Asian crypto exchanges bunker down as hacks surge: Asia Express",
+        "fingerprint": "71c7047bcb9dd97289180c23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1521,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+    "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PFFXJ4XKPEQ9E1ESY0C401/two-men-with-badges.png",
+    "publishedAt": "2026-11-05T18:32:45.000Z",
+    "collectedAt": "2026-11-05T22:30:27.900Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c6866791fe0f8bd4ea5bd197",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-05T22:30:36.805Z",
+    "outcome": {
+      "event": {
+        "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+        "fingerprint": "c6866791fe0f8bd4ea5bd197"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1522,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
+    "link": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
+    "summary": "Bitcoin Magazine\n\nUkraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading\nUkraine's National Bank says draft law 10225-d on virtual assets lacks safeguards on foreign tokens and platform licensing.\nThis post Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Ukraine-Central-Bank-Refuses-to-Back-Crypto-Bill-Cleared-for-Second-Reading.jpg",
+    "publishedAt": "2026-11-05T15:45:00.000Z",
+    "collectedAt": "2026-11-05T22:30:27.900Z",
+    "corroboratingSources": 1,
+    "fingerprint": "983cb1a36762f30b5760907f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-05T22:30:38.040Z",
+    "outcome": {
+      "event": {
+        "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
+        "fingerprint": "983cb1a36762f30b5760907f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1523,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
+    "link": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
+    "summary": "Bitcoin Magazine\n\nFed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack\nFederal Reserve and OCC supervisors contacted U.S. banks this week to check for vulnerabilities after the Binance hack.\nThis post Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Fed-OCC-Banks-Binance-Hack.jpg",
+    "publishedAt": "2026-11-05T15:25:00.000Z",
+    "collectedAt": "2026-11-05T22:30:27.900Z",
+    "corroboratingSources": 1,
+    "fingerprint": "35524c0f68bc1a25211075b2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-05T22:30:39.275Z",
+    "outcome": {
+      "event": {
+        "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
+        "fingerprint": "35524c0f68bc1a25211075b2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1524,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+    "summary": "Bitcoin slipped 0.2% to around $80,250 since midnight UTC, holding above $80,000 after Wednesday’s jump, as spot ETFs ended a three-day outflow streak.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b6b7adbd2d46e62c55e664bc16b7bdfb7912d532-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-05T11:30:00.000Z",
+    "collectedAt": "2026-11-05T22:30:27.900Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a65a0cef68a7e922fcec7934",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-05T22:30:40.705Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+        "fingerprint": "a65a0cef68a7e922fcec7934"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1525,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

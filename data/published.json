@@ -11243,5 +11243,45 @@
     "hasImage": true,
     "eventFingerprint": "2692562979539b5cd83f9989",
     "timestamp": "2026-11-05T07:40:44.775Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1521,
+    "text": "What happens when the tools defending a network are outmatched by the ones attacking it?\n\nAsian crypto exchanges are rapidly overhauling their security infrastructure amid growing anxiety over sophisticated, potentially AI-driven exploit campaigns. \n\nThe defensive scramble highlights a sharp paradox taking shape across the region. While major financial hubs aggressively greenlight tokenization pilots and stablecoin frameworks, the operational risk at the infrastructure layer has rarely been higher. \n\nOperators are racing to patch vulnerabilities before attackers weaponize automated threat vectors at scale. Regulatory backing is expanding, but the perimeter defense is being tested in real time.",
+    "hasImage": true,
+    "eventFingerprint": "71c7047bcb9dd97289180c23",
+    "timestamp": "2026-11-05T22:30:33.971Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1522,
+    "text": "Regulators are tightening the perimeter following the Binance security breach.\n\nUnconfirmed reports suggest that the Federal Reserve and the Office of the Comptroller of the Currency (OCC) have reached out to US-based banking institutions in the wake of the exchange’s recent $6.3 billion hack. \n\nWhile the nature of these inquiries remains private, the move underscores rising institutional anxiety regarding crypto-asset exposure. \n\nSecurity experts are increasingly highlighting vulnerabilities in cross-chain bridge protocols and the broader risks inherent in modern transaction security. As scrutiny intensifies, the primary question for the sector is whether this will trigger a broader regulatory shift in how traditional banks manage exposure to digital asset platforms.",
+    "hasImage": true,
+    "eventFingerprint": "c6866791fe0f8bd4ea5bd197",
+    "timestamp": "2026-11-05T22:30:36.795Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1523,
+    "text": "Ukraine’s regulatory push for crypto has hit a significant wall. \n\nThe National Bank of Ukraine (NBU) has formally withheld its support for draft law 10225-d, despite the legislation recently clearing hurdles for a second reading in parliament. \n\nRegulators cite two primary sticking points: \n\nFirst, the NBU claims the current framework lacks sufficient safeguards regarding the integration and taxation of foreign digital tokens. Second, there are unresolved concerns regarding the stringency of licensing requirements for virtual asset service providers. \n\nWhile the bill aims to align Ukraine with European Union regulatory standards, the central bank’s opposition suggests that key stakeholders remain misaligned on how to balance innovation with financial oversight. \n\nFor now, the path toward a comprehensive domestic legal framework remains stalled as parliament and the NBU navigate these technical disagreements.",
+    "hasImage": true,
+    "eventFingerprint": "983cb1a36762f30b5760907f",
+    "timestamp": "2026-11-05T22:30:38.028Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1524,
+    "text": "Regulators are tightening the leash on traditional finance as the fallout from the Binance hack spreads.\n\nThe Federal Reserve and the Office of the Comptroller of the Currency (OCC) have begun contacting U.S. banks this week to audit their exposure to the exchange. Supervisors are specifically probing the security protocols and vulnerabilities of banking institutions that maintain ties to the platform.\n\nThis regulatory scrutiny follows reports of a $6.3 billion security breach, signaling a shift in how federal agencies view the contagion risks posed by major crypto entities. \n\nThe move suggests that banking watchdogs are no longer treating crypto-related operational failures as isolated incidents. Instead, they are treating them as systemic risks that require direct oversight of the fiat on-ramps. \n\nExpect deeper scrutiny of custodial relationships between regulated banks and crypto service providers in the coming months.",
+    "hasImage": true,
+    "eventFingerprint": "35524c0f68bc1a25211075b2",
+    "timestamp": "2026-11-05T22:30:39.263Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1525,
+    "text": "Bitcoin is consolidating its gains at a critical psychological threshold.\n\nThe asset is trading near $80,250, down roughly 0.2% since midnight UTC. This follows a notable jump on Wednesday that effectively stabilized the market after a period of indecision. \n\nFlow data suggests a shift in institutional sentiment. Spot ETFs have snapped a three-day outflow streak, indicating that demand is returning to the regulated product layer even as the underlying price holds firm above the $80,000 mark.\n\nElsewhere in the ecosystem, Injective is seeing outsized movement. The token is rallying today following the listing of a staked ETF product, highlighting a trend where market participants are increasingly seeking yield-bearing derivatives within the crypto landscape.\n\nEyes remain on whether this $80,000 floor holds through the daily close, as institutional capital continues to recalibrate its positions.",
+    "hasImage": true,
+    "eventFingerprint": "a65a0cef68a7e922fcec7934",
+    "timestamp": "2026-11-05T22:30:40.693Z"
   }
 ]
