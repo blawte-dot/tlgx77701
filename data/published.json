@@ -11163,5 +11163,45 @@
     "hasImage": true,
     "eventFingerprint": "d41ff51d0b02321cd19ac5ee",
     "timestamp": "2026-11-04T18:45:55.025Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1507,
+    "text": "How does a crypto exchange restructure its way into a security crisis? \n\nBitMart’s founder just admitted the platform's security division is \"severely understaffed,\" arriving hot on the heels of a fresh exploit. \n\nOn-chain analysts are already connecting the dots to suspicious transfers potentially tied to the recent Mercado Bitcoin breach. \n\nRestructuring is rarely clean in digital asset markets. When headcount drops and oversight slips, smart contracts and bridge wallets tend to pay the price.\n\n#BitMart",
+    "hasImage": true,
+    "eventFingerprint": "70b072955be318296cf29436",
+    "timestamp": "2026-11-05T00:07:03.192Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1508,
+    "text": "Where are your keys actually resting right now?\n\nCoinbase moved to reassure its user base today, clarifying that over 99% of customer crypto sits offline in cold storage, entirely isolated from internet-connected networks.\n\nThe disclosure comes in the wake of mounting industry paranoia following reports of massive security breaches elsewhere in the sector. \n\nBeyond air-gapped storage, the exchange highlighted a defense-in-depth architecture featuring fragmented private keys and automated kill switches designed to halt unauthorized outflows mid-stream. \n\nCustody architecture remains the quiet battleground for centralized platforms as threat vectors evolve.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "3649f95031ae4e95b47ecf98",
+    "timestamp": "2026-11-05T00:07:04.478Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1509,
+    "text": "Custody audits don't stop at the frontend. ⚠️\n\nMercado Bitcoin has confirmed plans to reopen its platform in view-only mode on November 9, following a recent security breach. \n\nThe Brazilian exchange stated that missing assets will be covered entirely using corporate reserves rather than client funds. \n\nFull trading functionality and withdrawals remain offline pending independent security verification. No specific timeline has been provided yet for when those services will resume.",
+    "hasImage": true,
+    "eventFingerprint": "4834b2b4a9b377ce40dffcd1",
+    "timestamp": "2026-11-05T00:07:06.572Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1510,
+    "text": "Institutional crypto security is facing its biggest stress test of the year. \n\nBlockchain investigator ZachXBT has linked French banking institution Crédit Mutuel Arkéa to a suspected $133 million theft involving exchange accounts. \n\nCrypto.com confirms it has already frozen a portion of the funds tied to the incident. \n\nIf verified, this marks one of the largest corporate crypto compromises to date—exposing deep vulnerabilities in how traditional financial institutions handle digital asset custody. \n\nFull details are still emerging.",
+    "hasImage": true,
+    "eventFingerprint": "78576109bbb2cce30c0c5615",
+    "timestamp": "2026-11-05T00:07:07.777Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1511,
+    "text": "1 major Wall Street institution just crossed the line from experimenting with tokenized assets to deploying them live.\n\nMorgan Stanley confirmed this week it is among the first traditional banks to issue tokenized real-world assets, riding the momentum of the DTCC's new infrastructure layer launched on October 28. \n\nFor years, real-world asset tokenization has been framed as a distant modernization project for institutional finance. Now the banking giants are actually moving. \n\nHow quickly does this shift institutional liquidity away from experimental crypto-native protocols and toward bank-backed tokenized instruments?",
+    "hasImage": true,
+    "eventFingerprint": "abda5eb939912fa0f3fcbef3",
+    "timestamp": "2026-11-05T00:07:09.112Z"
   }
 ]

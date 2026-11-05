@@ -59522,5 +59522,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+    "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M43XKTYRKM47HZ3A23XGYW/money-bank-fiat-case-safety-security-huobi.png",
+    "publishedAt": "2026-11-04T22:31:58.000Z",
+    "collectedAt": "2026-11-05T00:06:56.413Z",
+    "corroboratingSources": 1,
+    "fingerprint": "70b072955be318296cf29436",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-05T00:07:03.203Z",
+    "outcome": {
+      "event": {
+        "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+        "fingerprint": "70b072955be318296cf29436"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1507,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+    "link": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+    "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png",
+    "publishedAt": "2026-11-04T20:46:03.000Z",
+    "collectedAt": "2026-11-05T00:06:56.414Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3649f95031ae4e95b47ecf98",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-05T00:07:04.489Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+        "fingerprint": "3649f95031ae4e95b47ecf98"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1508,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
+    "link": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
+    "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/da8a4b96b9b47cda5f197b0b1046f50d0428716c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-04T23:36:50.000Z",
+    "collectedAt": "2026-11-05T00:06:56.414Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4834b2b4a9b377ce40dffcd1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-05T00:07:06.584Z",
+    "outcome": {
+      "event": {
+        "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
+        "fingerprint": "4834b2b4a9b377ce40dffcd1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1509,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+    "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+    "summary": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/362a6a8a333c57aa51db38f9f86007dd61655c55-6000x3379.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-04T10:18:50.000Z",
+    "collectedAt": "2026-11-05T00:06:56.413Z",
+    "corroboratingSources": 2,
+    "fingerprint": "78576109bbb2cce30c0c5615",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-05T00:07:07.789Z",
+    "outcome": {
+      "event": {
+        "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+        "fingerprint": "78576109bbb2cce30c0c5615"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1510,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+    "link": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+    "summary": "The bank's announcement follows the launch of the Depository Trust & Clearing Corporation’s Tokenization Service, or DTS, on Oct. 28.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dab9630cd4b0b17e83c7881fffb999b344816042-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-04T09:22:58.000Z",
+    "collectedAt": "2026-11-05T00:06:56.413Z",
+    "corroboratingSources": 1,
+    "fingerprint": "abda5eb939912fa0f3fcbef3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-05T00:07:09.122Z",
+    "outcome": {
+      "event": {
+        "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+        "fingerprint": "abda5eb939912fa0f3fcbef3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1511,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
