@@ -11403,5 +11403,45 @@
     "hasImage": true,
     "eventFingerprint": "7eb88ef270ff94145b9a62de",
     "timestamp": "2026-11-06T18:51:48.674Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1541,
+    "text": "Paraguay’s banking instability is triggering an immediate flight into digital assets.\n\nAs the local guaraní faces significant pressure—dropping 10% against the dollar—Bitcoin and USDT are trading at a localized premium on peer-to-peer markets. The volatility within the traditional banking sector has forced citizens to seek liquidity outside of the established financial system.\n\nMarket data indicates that the current interest in crypto assets is less about speculation and more about hedging against eroding purchasing power. While liquidity in P2P channels remains constrained, the surge in demand underscores a classic pattern seen in emerging markets: when the legacy system falters, digital alternatives act as the primary pressure valve.\n\nWe are watching to see if this premium persists or if capital controls tighten in response.",
+    "hasImage": true,
+    "eventFingerprint": "c5b740a67692cb53bcf58f0f",
+    "timestamp": "2026-11-06T23:37:53.004Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1542,
+    "text": "Zcash just stopped waiting for the bus.\n\nThe NU7 upgrade is live, slashing block times from 75 seconds down to 25. That’s a 3x speed boost for a chain that’s historically prioritized privacy over pace.\n\nThey’re also pulling the plug on 60% of transaction fees, effectively burning them out of the supply. It’s a rare move toward deflationary pressure in a market obsessed with yield. \n\nHarder, faster, and leaner. Whether the market cares is an entirely different question.",
+    "hasImage": true,
+    "eventFingerprint": "cd19a2fb47d948a1722e2657",
+    "timestamp": "2026-11-06T23:37:53.978Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1543,
+    "text": "Institutional conviction is cooling as crypto markets enter a period of volatility.\n\nU.S. spot crypto ETFs recorded net outflows exceeding $540 million on Thursday. This reversal follows the post-election momentum seen earlier in the week, marking a sharp shift in sentiment among institutional participants.\n\nThe sell-off occurred alongside a broader slide in digital asset prices. As liquidity conditions fluctuate, the recent inflows that fueled the latest rally are now facing their first significant test.",
+    "hasImage": true,
+    "eventFingerprint": "c56afb2724fd149c15828549",
+    "timestamp": "2026-11-06T23:37:55.139Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1544,
+    "text": "The $6.3 billion Binance theft is no longer a standard security breach—it is an act of state-sponsored cyber warfare.\n\nAri Redbord of TRM Labs is now calling for a shift in how governments handle North Korean threat actors. Rather than passive defense, he argues that proactive, offensive measures are required to combat the persistent infrastructure used by these state-linked hackers.\n\nFor the broader ecosystem, this signals a potential pivot in policy. We are moving toward a landscape where crypto security is increasingly treated as a matter of national defense rather than mere private sector IT management.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "b909892be08d22ac79cba8c9",
+    "timestamp": "2026-11-06T23:38:07.865Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1545,
+    "text": "Nigeria is tightening its grip on the digital asset sector.\n\nThe Central Bank of Nigeria has issued new licensing requirements for crypto payment service providers, mandating strict reserve holdings. Under the new framework, algorithmic stablecoins are now officially prohibited.\n\nThe guidelines aim to increase oversight of local crypto infrastructure, requiring issuers to maintain full backing for any stablecoins in circulation. Entities that fail to secure the necessary licenses will be barred from offering these services within the country.",
+    "hasImage": true,
+    "eventFingerprint": "b10e4aa70faba969017a8b74",
+    "timestamp": "2026-11-06T23:38:08.937Z"
   }
 ]

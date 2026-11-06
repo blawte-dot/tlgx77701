@@ -60752,5 +60752,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin and USDT attract modest premiums in Paraguay as millions face banking crisis",
+    "link": "https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/",
+    "summary": "Bitcoin and USDT have traded at premiums in Paraguay&#039;s peer-to-peer markets as a banking collapse unsettles the country&#039;s financial system. The turmoil has coincided with a 10% surge in the dollar against the Paraguayan guaraní, growing public interest in Bitcoin and calls from crypto executives for alternatives to traditional banking. Data from CriptoNoticias, which tracks…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cata",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/paraguay-crypto-search-interest.webp",
+    "publishedAt": "2026-11-06T23:20:28.000Z",
+    "collectedAt": "2026-11-06T23:37:50.617Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c5b740a67692cb53bcf58f0f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-06T23:37:53.014Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin and USDT attract modest premiums in Paraguay as millions face banking crisis",
+        "fingerprint": "c5b740a67692cb53bcf58f0f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1541,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Zcash NU7 Upgrade Goes Live, Slashing Block Times From 75 Seconds to Just 25 Seconds",
+    "link": "https://cryptopotato.com/zcash-nu7-upgrade-goes-live-slashing-block-times-from-75-seconds-to-just-25-seconds/",
+    "summary": "Zcash's latest upgrade removes 60% of transaction fees from circulation.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/06/Zcash_ZEC.jpg",
+    "publishedAt": "2026-11-06T22:52:43.000Z",
+    "collectedAt": "2026-11-06T23:37:50.617Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cd19a2fb47d948a1722e2657",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-06T23:37:53.988Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash NU7 Upgrade Goes Live, Slashing Block Times From 75 Seconds to Just 25 Seconds",
+        "fingerprint": "cd19a2fb47d948a1722e2657"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1542,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+    "link": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
+    "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-06-at-11.04.48.png",
+    "publishedAt": "2026-11-06T12:33:31.000Z",
+    "collectedAt": "2026-11-06T23:37:50.617Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c56afb2724fd149c15828549",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-06T23:37:55.151Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+        "fingerprint": "c56afb2724fd149c15828549"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1543,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+    "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MAGXTEN3YDD171XWZ849SA/hacked-with-trm-logo.png",
+    "publishedAt": "2026-11-06T20:36:25.000Z",
+    "collectedAt": "2026-11-06T23:37:50.617Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b909892be08d22ac79cba8c9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-06T23:38:07.877Z",
+    "outcome": {
+      "event": {
+        "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+        "fingerprint": "b909892be08d22ac79cba8c9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1544,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+    "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RFZC8EDJXT26642DWHC0EV/hi-the-crypto-act-explained-nigeria-1.jpg",
+    "publishedAt": "2026-11-06T13:57:14.000Z",
+    "collectedAt": "2026-11-06T23:37:50.617Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b10e4aa70faba969017a8b74",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-06T23:38:08.951Z",
+    "outcome": {
+      "event": {
+        "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+        "fingerprint": "b10e4aa70faba969017a8b74"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1545,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
