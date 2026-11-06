@@ -9907,5 +9907,40 @@
     "hasImage": true,
     "eventFingerprint": "6ae950b30e28cf8f722f1555",
     "timestamp": "2026-11-06T03:06:53.574Z"
+  },
+  {
+    "messageId": 1531,
+    "text": "African markets are tightening the perimeter around digital currency issuers.\n\nThe Central Bank of Nigeria has unveiled a formal licensing framework for virtual asset service providers, establishing clear guardrails for stablecoin operations inside the country. \n\nUnder the new guidelines, any entity issuing stablecoins locally must secure explicit regulatory approval. At the same time, the framework draws a hard line against algorithmic models, effectively banning them from operating within the jurisdiction. \n\nThe move brings long-awaited clarity for fiat-backed stablecoin operators, but signals zero tolerance for unbacked or algorithmic experiments as regulators across the continent move to protect domestic monetary stability.",
+    "hasImage": true,
+    "eventFingerprint": "72884ea12db7c2857706c8f5",
+    "timestamp": "2026-11-06T11:46:42.567Z"
+  },
+  {
+    "messageId": 1532,
+    "text": "Two months of silence is all it took for attackers to compromise one of the world's largest crypto exchanges.\n\nSecurity Alliance estimates that hackers maintained undetected access to Binance’s infrastructure for eight weeks before executing their maneuvers. This timeframe matches a pattern identified in other major breaches, including the $388 million Bitget exploit.\n\nThe investigation highlights a worrying trend: sophisticated groups are shifting toward multi-stage, long-term intrusions rather than smash-and-grab attacks. By embedding themselves in systems well before the final exploit, these actors bypass traditional security alarms that trigger on sudden spikes in activity.\n\nWhile the $6.3 billion figure underscores the scale of the threat, the extended duration of the infiltration is the more critical takeaway for institutional security. It suggests that current monitoring systems are failing to detect slow, incremental unauthorized access.",
+    "hasImage": true,
+    "eventFingerprint": "67b4d3fbff656820df8f2c68",
+    "timestamp": "2026-11-06T11:47:00.760Z"
+  },
+  {
+    "messageId": 1533,
+    "text": "Geopolitical volatility is testing the correlation between AI sentiment and global equity stability.\n\nBitcoin remains steady near the $75,000 level today, demonstrating resilience as traditional markets face a sharp correction in Asia. The KOSPI index suffered an 8% slide earlier, triggering an emergency halt as investors reacted to growing concerns over potential US AI regulation.\n\nSouth Korean authorities have already signaled plans to deploy market-stabilization measures to curb the panic. While broader tech stocks struggle under the weight of regulatory uncertainty, crypto markets appear to be decoupling, maintaining their current range despite the spillover of fear into the wider macro landscape. \n\nWe are monitoring whether this bid for Bitcoin sustains itself if Asian equity sell-offs persist through the week.",
+    "hasImage": true,
+    "eventFingerprint": "79f970bb8924e7f6bc2f9795",
+    "timestamp": "2026-11-06T11:47:02.153Z"
+  },
+  {
+    "messageId": 1534,
+    "text": "Can you feel the liquidity evaporating?\n\nWall Street’s $3 trillion wipeout is officially bleeding into the crypto space, with Bitcoin and Ethereum ETFs shedding $530 million in a single session. \n\nThe brief recovery in ETF demand just hit a brick wall. Markets are recalibrating, and for now, the institutional appetite for risk is taking a backseat to broader macro volatility.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "3c9768fa9c29e868679850e5",
+    "timestamp": "2026-11-06T11:47:03.107Z"
+  },
+  {
+    "messageId": 1535,
+    "text": "Ethereum developers are flagging critical contract vulnerabilities following a security audit of the Glamsterdam upgrade.\n\nThe Ethereum Foundation has issued a call for developers to audit their smart contracts, specifically targeting issues related to fixed gas budgets and internal reserve management. \n\nMost identified risks stem from how these contracts interact with the proposed changes. As a result, the Hoodi testnet remains paused. \n\nThere is currently no confirmed timeline for a mainnet activation while the team works to address these security findings. \n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "fabe2d944f8459b892a3278c",
+    "timestamp": "2026-11-06T11:47:04.325Z"
   }
 ]

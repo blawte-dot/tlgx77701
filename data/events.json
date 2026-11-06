@@ -60342,5 +60342,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+    "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+    "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-06-at-14.13.09.png",
+    "publishedAt": "2026-11-06T11:43:44.000Z",
+    "collectedAt": "2026-11-06T11:46:39.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "72884ea12db7c2857706c8f5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-06T11:46:42.589Z",
+    "outcome": {
+      "event": {
+        "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+        "fingerprint": "72884ea12db7c2857706c8f5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1531,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+    "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg",
+    "publishedAt": "2026-11-06T11:26:30.000Z",
+    "collectedAt": "2026-11-06T11:46:39.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "67b4d3fbff656820df8f2c68",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-06T11:47:00.791Z",
+    "outcome": {
+      "event": {
+        "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+        "fingerprint": "67b4d3fbff656820df8f2c68"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1532,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+    "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T82Y5Q89Y3M191FB9H1S1C/article-covers-262292-ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan-1280x853.webp",
+    "publishedAt": "2026-11-06T11:16:53.000Z",
+    "collectedAt": "2026-11-06T11:46:39.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "79f970bb8924e7f6bc2f9795",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-06T11:47:02.177Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+        "fingerprint": "79f970bb8924e7f6bc2f9795"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1533,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+    "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
+    "summary": "Six funds recorded withdrawals on November 5, leaving this week&#039;s ETF demand recovery short-lived.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-etf-fractured-bridge.webp",
+    "publishedAt": "2026-11-06T09:55:27.000Z",
+    "collectedAt": "2026-11-06T11:46:39.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3c9768fa9c29e868679850e5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-06T11:47:03.126Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+        "fingerprint": "3c9768fa9c29e868679850e5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1534,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
+    "link": "https://thedefiant.io/news/security/ethereum-foundation-calls-for-contract-checks-after-glamsterdam-security-findings",
+    "summary": "Most findings involve fixed gas budgets and reserves. The Hoodi testnet upgrade remains paused, with no confirmed mainnet activation date.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/59ad0746b9a350dfbfca03422aac71199b81ce27-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-06T10:27:22.000Z",
+    "collectedAt": "2026-11-06T11:46:39.825Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fabe2d944f8459b892a3278c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-06T11:47:04.382Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
+        "fingerprint": "fabe2d944f8459b892a3278c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1535,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
