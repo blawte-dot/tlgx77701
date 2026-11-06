@@ -9942,5 +9942,40 @@
     "hasImage": true,
     "eventFingerprint": "fabe2d944f8459b892a3278c",
     "timestamp": "2026-11-06T11:47:04.325Z"
+  },
+  {
+    "messageId": 1536,
+    "text": "Risk appetite is evaporating as the tech sector’s cooldown spills over into digital assets.\n\nBitcoin ETFs recorded $430 million in net outflows on Thursday, marking a sharp reversal in sentiment. Heavyweights BlackRock and Fidelity led the retreat, signaling that institutional buyers are pulling back from speculative exposure amid broader market volatility.\n\nThe selloff in Wall Street’s tech giants—historically a lead indicator for crypto’s risk-on cycles—is testing the resilience of current price floors. While institutional inflows drove the recent rally, this sudden reversal suggests a \"risk-off\" posture is taking hold across traditional desks.\n\nMarket participants are now watching to see if this is a temporary liquidity rotation or the start of a deeper deleveraging event. 📉",
+    "hasImage": true,
+    "eventFingerprint": "713fecced3aa9fff288eaed7",
+    "timestamp": "2026-11-06T18:51:36.261Z"
+  },
+  {
+    "messageId": 1537,
+    "text": "Movement of stolen assets linked to the Binance hack is accelerating. \n\nBlockchain analytics firm Elliptic reports that approximately 42 million XRP—valued at roughly $50 million—has been funneled through THORChain and converted primarily into Bitcoin. \n\nThis move pushes the total volume of converted BTC linked to the theft to roughly 1,650 BTC. \n\nThe use of decentralized cross-chain bridges like THORChain is specifically designed to obfuscate the transaction trail and bypass centralized exchange blacklists. This activity confirms that the attackers are actively liquidating stolen holdings, increasing the pressure on exchanges to monitor incoming deposits for these specific, high-risk assets.",
+    "hasImage": true,
+    "eventFingerprint": "e275ca185793a6035e6aacd5",
+    "timestamp": "2026-11-06T18:51:37.434Z"
+  },
+  {
+    "messageId": 1538,
+    "text": "Is Bitget’s regulatory wall in Thailand finally crumbling?\n\nThe Thai SEC has filed a formal criminal complaint against the exchange’s operator, BG Limited. Regulators allege the platform conducted unauthorized digital asset business in the country between 2022 and 2025.\n\nThis legal action arrives just ahead of the exchange's December 5 deadline to block access for Thai users. The SEC’s move marks a significant escalation in the ongoing crackdown on unlicensed offshore service providers. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "d41688902b7191fca2345a1a",
+    "timestamp": "2026-11-06T18:51:38.496Z"
+  },
+  {
+    "messageId": 1539,
+    "text": "Security protocols are being stress-tested at Gopax following a hacking threat.\n\nThe South Korean exchange suspended all trading and withdrawals today as a precautionary measure. While the team confirms all assets are currently being moved to cold storage and no losses have been reported, the operation remains at a standstill.\n\nWith exchanges increasingly becoming targets for sophisticated digital threats, does this move toward aggressive asset migration instill more confidence in the platform's solvency, or does it signal a deeper vulnerability in their current security infrastructure?",
+    "hasImage": true,
+    "eventFingerprint": "db2af6877336a6cac77ce780",
+    "timestamp": "2026-11-06T18:51:47.577Z"
+  },
+  {
+    "messageId": 1540,
+    "text": "Thailand is tightening the screws on unregulated crypto activity.\n\nThe Securities and Exchange Commission (SEC) has filed a criminal complaint against Bitget, alleging the exchange operated an unlicensed platform for local users between 2022 and 2025. \n\nRegulators have moved to block access to the site as the company's efforts to establish a legal footprint in the country face mounting uncertainty. The SEC’s legal action marks a significant escalation in Thailand's oversight of offshore exchanges seeking domestic market share.",
+    "hasImage": true,
+    "eventFingerprint": "7eb88ef270ff94145b9a62de",
+    "timestamp": "2026-11-06T18:51:48.664Z"
   }
 ]

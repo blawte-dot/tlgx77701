@@ -60547,5 +60547,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+    "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+    "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
+    "publishedAt": "2026-11-06T18:36:03.000Z",
+    "collectedAt": "2026-11-06T18:51:33.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "713fecced3aa9fff288eaed7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-06T18:51:36.283Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+        "fingerprint": "713fecced3aa9fff288eaed7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1536,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+    "link": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+    "summary": "Bitcoin Magazine\n\nBinance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says\nAbout 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Elliptic said, lifting converted bitcoin from the Binance theft to about 1,650 BTC.\nThis post Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Hackers-Swap-XRP-Into-Bitcoin.jpg",
+    "publishedAt": "2026-11-06T14:50:00.000Z",
+    "collectedAt": "2026-11-06T18:51:33.937Z",
+    "corroboratingSources": 2,
+    "fingerprint": "e275ca185793a6035e6aacd5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-06T18:51:37.453Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+        "fingerprint": "e275ca185793a6035e6aacd5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1537,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+    "link": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+    "summary": "Bitcoin Magazine\n\nThailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block\nThailand's SEC filed a criminal complaint against Bitget operator BG Limited for unlicensed Thai trading from 2022 to 2025.\nThis post Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/Thailand-Moves-to-Cement-Bitcoin-and-Digital-Assets-in-Regulated-Derivatives-Market.jpg",
+    "publishedAt": "2026-11-06T17:30:00.000Z",
+    "collectedAt": "2026-11-06T18:51:33.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d41688902b7191fca2345a1a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-06T18:51:38.518Z",
+    "outcome": {
+      "event": {
+        "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+        "fingerprint": "d41688902b7191fca2345a1a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1538,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
+    "link": "https://bitcoinmagazine.com/news/gopax-suspends-withdrawals-hacking-threat",
+    "summary": "Bitcoin Magazine\n\nSouth Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat\nSouth Korea's Gopax halted standard withdrawals at 2:55 p.m. and trading at 3:53 p.m. Friday after a hacking-threat email, and is transferring all held assets to cold wallets with no loss reported so far.\nThis post South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Gopax-Suspends-Withdrawals-Cold-Storage.jpg",
+    "publishedAt": "2026-11-06T14:22:23.000Z",
+    "collectedAt": "2026-11-06T18:51:33.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "db2af6877336a6cac77ce780",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-06T18:51:47.604Z",
+    "outcome": {
+      "event": {
+        "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
+        "fingerprint": "db2af6877336a6cac77ce780"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1539,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+    "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+    "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bff54bee9f087950dfc85d403528a02d341fae1b-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-06T14:33:49.000Z",
+    "collectedAt": "2026-11-06T18:51:33.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7eb88ef270ff94145b9a62de",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-06T18:51:48.688Z",
+    "outcome": {
+      "event": {
+        "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+        "fingerprint": "7eb88ef270ff94145b9a62de"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1540,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
