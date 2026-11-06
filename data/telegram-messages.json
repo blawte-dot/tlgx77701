@@ -9872,5 +9872,40 @@
     "hasImage": true,
     "eventFingerprint": "a65a0cef68a7e922fcec7934",
     "timestamp": "2026-11-05T22:30:40.684Z"
+  },
+  {
+    "messageId": 1526,
+    "text": "AI just weaponized software vulnerability research. \n\nOpenAI researchers recently deployed an automated system that identified 948 Linux security flaws. It didn't just flag the bugs; it successfully generated working exploits for them.\n\nThe economic implications are significant. The system cost roughly $1,279 per flaw to research and exploit. By automating the discovery-to-exploit pipeline, the barrier to entry for finding critical vulnerabilities in global infrastructure has dropped precipitously.\n\nWhile the team also generated draft patches for the vulnerabilities found, the demonstration proves that AI can now operate at a scale and speed that human security researchers cannot match. \n\nThis isn't just a technical milestone—it's a fundamental shift in how software security will be audited, and exploited, moving forward.",
+    "hasImage": true,
+    "eventFingerprint": "9d58435549ef8636309cb1d1",
+    "timestamp": "2026-11-06T03:06:39.690Z"
+  },
+  {
+    "messageId": 1527,
+    "text": "Liquidity is the heartbeat of digital assets, and the Federal Reserve holds the pulse.\n\nMarkets often price in interest rate decisions well before the FOMC meeting concludes. When Bitcoin moves in anticipation of a pivot, it is reflecting shifting expectations regarding the cost of capital.\n\nHowever, the headline rate change is rarely the final word. Volatility is frequently driven by the \"surprise\" element—how the actual decision deviates from consensus—and the nuances in the Fed’s forward guidance.\n\nA hawkish stance can tighten financial conditions, drawing capital away from speculative assets like crypto. Conversely, a dovish pivot often signals increased liquidity, historically acting as a tailwind for risk-on sentiment.\n\nInvestors track these policy signals not just for the immediate cut or hike, but for the trajectory of monetary policy in the months ahead. When the Fed speaks, the market listens.\n\n#Macro",
+    "hasImage": true,
+    "eventFingerprint": "28f5183c34e96c5c516ba0a7",
+    "timestamp": "2026-11-06T03:06:44.417Z"
+  },
+  {
+    "messageId": 1528,
+    "text": "Is your trading data exposed?\n\nBinance has proactively revoked API keys linked to the third-party platform SignalPlus after a security vulnerability was identified.\n\nThe exchange acted to sever third-party access as a precautionary measure to protect user accounts from potential unauthorized trades. If you are a SignalPlus user, your connection has been terminated. \n\nVerify your connected applications immediately and rotate your API keys if you have utilized third-party trading tools recently. \n\n#Security",
+    "hasImage": true,
+    "eventFingerprint": "ecc124e3b249be430997a8f9",
+    "timestamp": "2026-11-06T03:06:49.440Z"
+  },
+  {
+    "messageId": 1529,
+    "text": "Security vulnerabilities at Mercado Bitcoin appear more extensive than initial internal reports suggested.\n\nNew findings indicate the exchange’s security breach remained active for hours after the company publicly claimed the attack was contained. The perpetrator siphoned approximately $391,000, primarily from wallets linked to BitMart.\n\nBitMart’s founder has confirmed a separate November 2 hack and suspects a direct connection between the two incidents. Investigations into the overlap are ongoing, and users are advised to monitor their withdrawal statuses closely while the exchange addresses the lingering technical gaps.",
+    "hasImage": true,
+    "eventFingerprint": "58b211a961a928215522cbe8",
+    "timestamp": "2026-11-06T03:06:52.122Z"
+  },
+  {
+    "messageId": 1530,
+    "text": "Exchanges are quietly changing how they prove solvency.\n\nGate just rolled out what it calls Proof of Security, claiming 104.58% cold storage coverage in a newly introduced verification framework. \n\nThe system moves past traditional reserve ratios to factor in storage structure and risk coverage capabilities. \n\nVerification details and third-party audits will determine how standard this model becomes across the sector.",
+    "hasImage": true,
+    "eventFingerprint": "6ae950b30e28cf8f722f1555",
+    "timestamp": "2026-11-06T03:06:53.574Z"
   }
 ]

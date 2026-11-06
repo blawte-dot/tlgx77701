@@ -60137,5 +60137,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
+    "link": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+    "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png",
+    "publishedAt": "2026-11-05T19:16:03.000Z",
+    "collectedAt": "2026-11-06T03:06:34.674Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9d58435549ef8636309cb1d1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-06T03:06:39.713Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
+        "fingerprint": "9d58435549ef8636309cb1d1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1526,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "How Fed Interest Rates Affect Crypto",
+    "link": "https://thedefiant.io/news/markets/how-fed-interest-rates-affect-crypto",
+    "summary": "Bitcoin can move before a rate decision as expectations shift. The surprise and the Fed’s message about future policy can matter more than the cut or hike itself.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/9872659f973011eb2e1a371ca97e126fd258e566-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-05T14:16:05.000Z",
+    "collectedAt": "2026-11-06T03:06:34.674Z",
+    "corroboratingSources": 1,
+    "fingerprint": "28f5183c34e96c5c516ba0a7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-06T03:06:44.437Z",
+    "outcome": {
+      "event": {
+        "title": "How Fed Interest Rates Affect Crypto",
+        "fingerprint": "28f5183c34e96c5c516ba0a7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1527,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance Revokes API Keys, Security Issue Found at SignalPlus",
+    "link": "https://u.today/binance-revokes-api-keys-security-issue-found-at-signalplus",
+    "summary": "Binance has revoked API keys linked to SignalPlus following a security vulnerability, cutting off third-party trading access.",
+    "image": null,
+    "publishedAt": "2026-11-05T11:33:00.000Z",
+    "collectedAt": "2026-11-06T03:06:34.674Z",
+    "corroboratingSources": 2,
+    "fingerprint": "ecc124e3b249be430997a8f9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-06T03:06:49.464Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Revokes API Keys, Security Issue Found at SignalPlus",
+        "fingerprint": "ecc124e3b249be430997a8f9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1528,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+    "link": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+    "summary": "The same attacker took about $391,000, mostly from wallets Bitquery ties to BitMart, whose founder confirmed a Nov. 2 hack and suspects a link.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-05T10:44:54.000Z",
+    "collectedAt": "2026-11-06T03:06:34.674Z",
+    "corroboratingSources": 1,
+    "fingerprint": "58b211a961a928215522cbe8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-06T03:06:52.151Z",
+    "outcome": {
+      "event": {
+        "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+        "fingerprint": "58b211a961a928215522cbe8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1529,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Gate Pioneers Proof of Security (PoSEC), Achieving 104.58% Cold Storage Coverage to Solidify Asset Security",
+    "link": "https://www.newsbtc.com/news/gate-pioneers-proof-of-security-posec-achieving-104-58-cold-storage-coverage-to-solidify-asset-security/",
+    "summary": "Gate has officially introduced Proof of Security (PoSEC), a new asset security verification framework, becoming the first digital asset trading platform in the industry to launch a PoSEC security verification system. Since its founding in 2013, Gate has consistently placed user asset security at the forefront of its priorities. With the introduction of PoSEC, Gate extends security verification beyond reserve adequacy to include asset storage structures and risk coverage capabilities, further sol",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/unknown-1-750x422.png",
+    "publishedAt": "2026-11-05T21:11:00.000Z",
+    "collectedAt": "2026-11-06T03:06:34.674Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6ae950b30e28cf8f722f1555",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-06T03:06:53.597Z",
+    "outcome": {
+      "event": {
+        "title": "Gate Pioneers Proof of Security (PoSEC), Achieving 104.58% Cold Storage Coverage to Solidify Asset Security",
+        "fingerprint": "6ae950b30e28cf8f722f1555"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1530,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
