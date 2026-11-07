@@ -60957,5 +60957,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Tom Lee says Ethereum is bottoming &#8211; A whale is betting $45M that he&#8217;s right",
+    "link": "https://ambcrypto.com/tom-lee-says-ethereum-is-bottoming-a-whale-is-betting-45m-that-hes-right/",
+    "summary": "Ethereum faces fresh downside risks as weakening staking demand, ETF outflows, and liquidation clusters challenge Tom Lee’s bottom call.",
+    "image": null,
+    "publishedAt": "2026-11-07T01:00:20.000Z",
+    "collectedAt": "2026-11-07T04:31:32.918Z",
+    "corroboratingSources": 1,
+    "fingerprint": "184c0b8eef04ce75ffda1697",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-07T04:31:51.223Z",
+    "outcome": {
+      "event": {
+        "title": "Tom Lee says Ethereum is bottoming &#8211; A whale is betting $45M that he&#8217;s right",
+        "fingerprint": "184c0b8eef04ce75ffda1697"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1546,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Price Trapped at $1.1799 After $30 Million Cascade Liquidation",
+    "link": "https://u.today/xrp-price-trapped-at-11799-after-30-million-cascade-liquidation",
+    "summary": "XRP faces a $30 million wipeout in 5 days as a massive liquidation cascade leaves prices trapped at $1.1799.",
+    "image": null,
+    "publishedAt": "2026-11-07T04:00:00.000Z",
+    "collectedAt": "2026-11-07T04:31:32.918Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b5339d4eaf7312575e1bef2f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-07T04:31:56.963Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Price Trapped at $1.1799 After $30 Million Cascade Liquidation",
+        "fingerprint": "b5339d4eaf7312575e1bef2f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1547,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg",
+    "publishedAt": "2026-11-06T08:19:18.000Z",
+    "collectedAt": "2026-11-07T04:31:32.917Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8b56a8691c02299ac3130370",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T04:32:10.765Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+        "fingerprint": "8b56a8691c02299ac3130370"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1548,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+    "link": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+    "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/paraguay-flag-protests-banks-gID_7.jpg",
+    "publishedAt": "2026-11-06T19:16:03.000Z",
+    "collectedAt": "2026-11-07T04:31:32.917Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e673029c6f34dfa00f3ce11b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T04:32:14.478Z",
+    "outcome": {
+      "event": {
+        "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+        "fingerprint": "e673029c6f34dfa00f3ce11b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1549,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+    "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+    "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg",
+    "publishedAt": "2026-11-06T16:41:29.000Z",
+    "collectedAt": "2026-11-07T04:31:32.917Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8bc0fc9d9ac903f75238c35f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T04:32:21.547Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+        "fingerprint": "8bc0fc9d9ac903f75238c35f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1550,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

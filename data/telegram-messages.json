@@ -10012,5 +10012,40 @@
     "hasImage": true,
     "eventFingerprint": "b10e4aa70faba969017a8b74",
     "timestamp": "2026-11-06T23:38:08.928Z"
+  },
+  {
+    "messageId": 1546,
+    "text": "A $45 million whale bet is clashing with Ethereum’s current market headwinds.\n\nFundstrat’s Tom Lee recently signaled that ETH may be nearing a structural bottom, a call that has now been backed by a massive influx of capital. On-chain data confirms a single whale entity recently moved $45 million into long positions, betting heavily on a rebound from current levels.\n\nDespite the optimism, the technical landscape remains fragile. \n\nStaking demand has cooled significantly, reducing the supply-side pressure that previously propped up the price. Meanwhile, institutional sentiment is being tested as consistent outflows from spot ETH ETFs continue to weigh on liquidity. \n\nLiquidation clusters are also forming near current support levels, suggesting that any further downside could trigger a cascade of forced selling. While the whale bet provides a bullish narrative, Ethereum currently lacks the fundamental tailwinds to confirm a sustained reversal.\n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "184c0b8eef04ce75ffda1697",
+    "timestamp": "2026-11-07T04:31:51.200Z"
+  },
+  {
+    "messageId": 1547,
+    "text": "XRP buyers are currently fighting a $30 million headwind.\n\nA rapid liquidation cascade has wiped out over $30 million in leveraged positions over the last five days, effectively trapping the asset's price at the $1.1799 level. \n\nThe immediate market structure shows a clear struggle between the exhaustion of long positions and the persistence of overhead supply. As liquidations force traders out, the price remains tethered to this key technical floor, unable to clear the resistance required for a breakout.\n\nVolume remains the primary indicator to watch. Without a shift in momentum to absorb the remaining liquidity, the current stagnation is expected to persist as the market reconciles the recent volatility.",
+    "hasImage": true,
+    "eventFingerprint": "b5339d4eaf7312575e1bef2f",
+    "timestamp": "2026-11-07T04:31:56.937Z"
+  },
+  {
+    "messageId": 1548,
+    "text": "Market sentiment shifts as election-driven gains retreat.\n\nUS spot Bitcoin and Ether ETFs recorded a combined $530 million in outflows on Thursday. The sell-off coincides with Bitcoin sliding below $76,000 and a broader decline across US equity markets. \n\nCapital is rotating as momentum cools following the initial post-election rally.",
+    "hasImage": true,
+    "eventFingerprint": "8b56a8691c02299ac3130370",
+    "timestamp": "2026-11-07T04:32:10.738Z"
+  },
+  {
+    "messageId": 1549,
+    "text": "The banking system is only as secure as the paper it’s printed on.\n\nIn Paraguay, Ueno Bank depositors are moving from digital complaints to physical protest, burning cards in the streets as the political fallout reaches the presidential palace.\n\nWhen depositors can’t access their capital, the social contract dissolves. Now, Congress is eyeing an impeachment vote for President Peña while crowds turn their backs on the political establishment.\n\nAnother reminder that liquidity is a feature, not a guarantee.",
+    "hasImage": true,
+    "eventFingerprint": "e673029c6f34dfa00f3ce11b",
+    "timestamp": "2026-11-07T04:32:14.456Z"
+  },
+  {
+    "messageId": 1550,
+    "text": "Security alert: Customer data compromised at Gnosis Pay.\n\nThe crypto card provider confirmed today that hackers gained unauthorized access to sensitive information stored on a legacy system. \n\nThe breach is limited to the legacy infrastructure behind their branded cards. Gnosis Pay states that user funds remain secure and their core enterprise card platform was not affected by the incident.\n\nInvestigations into the scope of the data exposure are ongoing.",
+    "hasImage": true,
+    "eventFingerprint": "8bc0fc9d9ac903f75238c35f",
+    "timestamp": "2026-11-07T04:32:21.528Z"
   }
 ]
