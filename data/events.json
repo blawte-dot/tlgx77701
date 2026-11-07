@@ -61572,5 +61572,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Bulls Stunned by 3,090% Liquidation Imbalance as Crypto Market Stalls",
+    "link": "https://u.today/xrp-bulls-stunned-by-3090-liquidation-imbalance-as-crypto-market-stalls",
+    "summary": "XRP has recorded $9.57 million in liquidations over the past 24 hours, with long positions accounting for the overwhelming majority.",
+    "image": null,
+    "publishedAt": "2026-11-07T20:54:56.000Z",
+    "collectedAt": "2026-11-07T21:24:42.038Z",
+    "corroboratingSources": 1,
+    "fingerprint": "afc2827a4d98f6aea77e24a9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-07T21:24:59.375Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Bulls Stunned by 3,090% Liquidation Imbalance as Crypto Market Stalls",
+        "fingerprint": "afc2827a4d98f6aea77e24a9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1561,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Paraguay’s Bank Collapse Exposes a Problem Bitcoin Was Built to Solve",
+    "link": "https://cryptopotato.com/paraguays-bank-collapse-exposes-a-problem-bitcoin-was-built-to-solve/",
+    "summary": "Can BTC's self-custody actually offer protection when trust in a banking institution suddenly breaks down?",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/11/Bitcoin_Paraguay.png",
+    "publishedAt": "2026-11-07T13:33:38.000Z",
+    "collectedAt": "2026-11-07T21:24:42.038Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2f73771fef6f41db513700e9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T21:25:07.328Z",
+    "outcome": {
+      "event": {
+        "title": "Paraguay’s Bank Collapse Exposes a Problem Bitcoin Was Built to Solve",
+        "fingerprint": "2f73771fef6f41db513700e9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1562,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
+    "link": "https://thedefiant.io/news/regulation/sec-vs-cftc-who-regulates-crypto-in-the-us",
+    "summary": "The activity matters: securities offerings and trading, commodity derivatives and spot-market fraud fall under different powers. A proposal is not the same as an exemption or a law.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/bee89f48bf368de3d2f4d0ec9d86995f52f85889-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-07T18:14:51.000Z",
+    "collectedAt": "2026-11-07T21:24:42.038Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5c4bd2dee489da584db250b2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T21:25:16.058Z",
+    "outcome": {
+      "event": {
+        "title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
+        "fingerprint": "5c4bd2dee489da584db250b2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1563,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+    "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+    "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/FBI-and-Bitcoin-Vineyard-Investigation_clean.png",
+    "publishedAt": "2026-11-07T20:59:47.000Z",
+    "collectedAt": "2026-11-07T21:24:42.038Z",
+    "corroboratingSources": 3,
+    "fingerprint": "9c4608e665de202e676ba5ef",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-07T21:25:21.619Z",
+    "outcome": {
+      "event": {
+        "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+        "fingerprint": "9c4608e665de202e676ba5ef"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1564,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "US Adds 165,000 Jobs in October: Why Bitcoin Traders Are Watching the Fed",
+    "link": "https://www.newsbtc.com/news/bitcoin/us-adds-165-000-jobs-in-october-why-bitcoin-traders-are-watching-the-fed/",
+    "summary": "The US economy added 165,000 payroll jobs in October while unemployment stood at 4.1%, according to the Bureau of Labor Statistics' November 6 release. The…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n07-10-federal-reserve-building-washington-commons-714x536.jpg",
+    "publishedAt": "2026-11-07T21:00:00.000Z",
+    "collectedAt": "2026-11-07T21:24:42.038Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d0658d0ad23ce8016abaeb72",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-07T21:25:26.410Z",
+    "outcome": {
+      "event": {
+        "title": "US Adds 165,000 Jobs in October: Why Bitcoin Traders Are Watching the Fed",
+        "fingerprint": "d0658d0ad23ce8016abaeb72"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1565,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
