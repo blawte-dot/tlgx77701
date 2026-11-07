@@ -61367,5 +61367,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ethereum (ETH) Whales Buying Again?",
+    "link": "https://u.today/ethereum-eth-whales-buying-again",
+    "summary": "Ethereum whales have accumulated more than $42 million worth of ETH, even as U.S. spot Ethereum ETFs report $365 million in weekly outflows.",
+    "image": null,
+    "publishedAt": "2026-11-07T13:56:06.000Z",
+    "collectedAt": "2026-11-07T17:22:59.050Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bd442dc4afac6569b427f2ae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-07T17:23:01.969Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum (ETH) Whales Buying Again?",
+        "fingerprint": "bd442dc4afac6569b427f2ae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1556,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin Price Prediction: Can BTC Reclaim $82,000 as ETF Inflows Slip to $56 Billion?",
+    "link": "https://ambcrypto.com/bitcoin-price-prediction-can-btc-reclaim-82000-as-etf-inflows-slip-to-56-billion/",
+    "summary": "Can Bitcoin climb back to $82,000? A recent forecast says BTC must reclaim that level before any real recovery, even as cumulative spot Bitcoin ETF inflows slip to about $56 billion. That makes the next few weeks pivotal for any Bitcoin price prediction.  BTC trades in a narrow range well below its record high, andContinue reading \"Bitcoin Price Prediction: Can BTC Reclaim $82,000 as ETF Inflows Slip to $56 Billion?\"",
+    "image": null,
+    "publishedAt": "2026-11-07T17:00:08.000Z",
+    "collectedAt": "2026-11-07T17:22:59.050Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7dbf46edb7ccc50b60fa7889",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-07T17:23:03.245Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Prediction: Can BTC Reclaim $82,000 as ETF Inflows Slip to $56 Billion?",
+        "fingerprint": "7dbf46edb7ccc50b60fa7889"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1557,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "BNB Chain Launches 'Red Alarm' to Combat Rising Security Risks",
+    "link": "https://u.today/bnb-chain-launches-red-alarm-to-combat-rising-security-risks",
+    "summary": "BNB Chain activates 'Red Alarm' in major security push.",
+    "image": null,
+    "publishedAt": "2026-11-07T14:25:00.000Z",
+    "collectedAt": "2026-11-07T17:22:59.050Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fa9c267c24cb2ddb46a8a669",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-07T17:23:04.526Z",
+    "outcome": {
+      "event": {
+        "title": "BNB Chain Launches 'Red Alarm' to Combat Rising Security Risks",
+        "fingerprint": "fa9c267c24cb2ddb46a8a669"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1558,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Ether ETFs Face Another $99.9M Outflow as Demand Stays Uneven",
+    "link": "https://www.newsbtc.com/news/ethereum/ether-etfs-face-another-99-9m-outflow-as-demand-stays-uneven/",
+    "summary": "US spot Ether ETFs posted a $99.9 million net outflow on November 5, Farside data show, following an $85.3 million outflow on November 3 and a temporary…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n07-02-ether-etf-flows-commons-750x422.jpg",
+    "publishedAt": "2026-11-07T13:00:00.000Z",
+    "collectedAt": "2026-11-07T17:22:59.050Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8b23e1f1aecba840826d47d8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T17:23:08.140Z",
+    "outcome": {
+      "event": {
+        "title": "Ether ETFs Face Another $99.9M Outflow as Demand Stays Uneven",
+        "fingerprint": "8b23e1f1aecba840826d47d8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1559,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin ETFs Lose $411.9M on Friday as BlackRock Drives the Selling",
+    "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-etfs-lose-411-9m-on-friday-as-blackrock-drives-the-selling/",
+    "summary": "US spot Bitcoin ETFs recorded a net $411.9 million outflow on November 6, according to Farside Investors. BlackRock's IBIT accounted for $403 million in…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n07-01-bitcoin-etf-flows-commons-750x476.jpg",
+    "publishedAt": "2026-11-07T12:00:00.000Z",
+    "collectedAt": "2026-11-07T17:22:59.050Z",
+    "corroboratingSources": 1,
+    "fingerprint": "86ca14e4a182a373b56c286e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T17:23:09.481Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Lose $411.9M on Friday as BlackRock Drives the Selling",
+        "fingerprint": "86ca14e4a182a373b56c286e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1560,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

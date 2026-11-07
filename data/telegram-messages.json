@@ -10082,5 +10082,40 @@
     "hasImage": true,
     "eventFingerprint": "737b82dc4a8c6e9a055d6dd6",
     "timestamp": "2026-11-07T11:29:02.320Z"
+  },
+  {
+    "messageId": 1556,
+    "text": "Institutional appetite is diverging from whale behavior on the Ethereum network.\n\nWhile U.S. spot Ethereum ETFs recorded $365 million in net outflows over the past week, large-scale private holders are moving in the opposite direction. Data indicates that Ethereum whales have quietly accumulated over $42 million in ETH during the recent price volatility.\n\nThis disconnect suggests a localized trend: retail and institutional fund holders are currently trimming exposure, while high-net-worth entities are viewing the current price action as an accumulation window. \n\nMarket participants are now watching to see if this whale activity provides a sufficient floor to absorb the ongoing ETF selling pressure.\n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "bd442dc4afac6569b427f2ae",
+    "timestamp": "2026-11-07T17:23:01.953Z"
+  },
+  {
+    "messageId": 1557,
+    "text": "Bitcoin is currently trapped in a high-stakes consolidation phase, and the $82,000 level has emerged as the definitive line in the sand.\n\nMarket analysts are closely watching this threshold, arguing that a reclaim is mandatory to establish the structural support needed for a sustained trend reversal. The technical outlook remains subdued as price action persists in a narrow, indecisive range well off the recent all-time highs.\n\nInstitutional momentum, a primary driver of the previous rally, shows signs of cooling. Cumulative spot Bitcoin ETF inflows have slipped to approximately $56 billion, reflecting a broader shift in risk appetite among major capital allocators.\n\nThe coming weeks are pivotal. Without a clear catalyst to push BTC back toward the $82,000 resistance zone, the market risks further stagnation. Traders are now monitoring volume profiles to determine if this cooling period represents a healthy accumulation phase or the beginning of a deeper liquidity contraction. 📉",
+    "hasImage": true,
+    "eventFingerprint": "7dbf46edb7ccc50b60fa7889",
+    "timestamp": "2026-11-07T17:23:03.230Z"
+  },
+  {
+    "messageId": 1558,
+    "text": "BNB Chain is effectively raising the drawbridge as exploit risks intensify.\n\nThe ecosystem has officially activated its \"Red Alarm\" security tool, a proactive measure designed to flag high-risk dApps and potential malicious activity in real-time. \n\nWith DeFi exploits remaining a persistent threat across the L1 landscape, the mechanism aims to provide users with immediate, data-backed warnings before they interact with suspicious smart contracts. \n\nExpect this to tighten the feedback loop between protocol monitoring and user safety. If you are active on-chain, treat any triggered alerts as a hard stop.",
+    "hasImage": true,
+    "eventFingerprint": "fa9c267c24cb2ddb46a8a669",
+    "timestamp": "2026-11-07T17:23:04.510Z"
+  },
+  {
+    "messageId": 1559,
+    "text": "Ether ETF demand is decoupling from the broader crypto market recovery.\n\nUS spot Ether ETFs recorded a $99.9 million net outflow on November 5, marking a significant acceleration in selling pressure following an $85.3 million exit just two days prior. While BTC products have seen consistent interest, Ethereum is struggling to find a consistent bid from institutional allocators.\n\nIs this a temporary liquidity rotation into Bitcoin, or are institutional investors fundamentally reevaluating Ethereum's value proposition post-merge?",
+    "hasImage": true,
+    "eventFingerprint": "8b23e1f1aecba840826d47d8",
+    "timestamp": "2026-11-07T17:23:08.122Z"
+  },
+  {
+    "messageId": 1560,
+    "text": "Institutional demand for Bitcoin spot ETFs cooled sharply on Friday as capital flows turned decisively negative.\n\nUS-based funds saw a net withdrawal of $411.9 million, marking a significant reversal in market sentiment.\n\nData from Farside Investors reveals that BlackRock’s IBIT—previously the primary driver of consistent inflows—led the exodus with $403 million in outflows. \n\nThe scale of the departure from IBIT suggests a tactical shift among large-scale institutional allocators. Markets are now recalibrating as the steady buying pressure that sustained recent price action faces its most significant test in weeks.",
+    "hasImage": true,
+    "eventFingerprint": "86ca14e4a182a373b56c286e",
+    "timestamp": "2026-11-07T17:23:09.466Z"
   }
 ]
