@@ -61162,5 +61162,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Coinbase Reveals November Delisting Schedule, Issues Warning on Solana Token Listing",
+    "link": "https://u.today/coinbase-reveals-november-delisting-schedule-issues-warning-on-solana-token-listing",
+    "summary": "Coinbase's November delisting plans come with warning for Solana-based token.",
+    "image": null,
+    "publishedAt": "2026-11-07T10:00:00.000Z",
+    "collectedAt": "2026-11-07T11:28:50.263Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0866a6ae2d419565298c393b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-07T11:28:56.119Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Reveals November Delisting Schedule, Issues Warning on Solana Token Listing",
+        "fingerprint": "0866a6ae2d419565298c393b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1551,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
+    "link": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system",
+    "summary": "Bitcoin Magazine\n\nU.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows\nFinCEN issued a final order under section 9714(a) that will bar U.S. financial institutions from sending or receiving funds with MEXC Global 30 days after Federal Register publication, citing at least $16 billion in alleged illicit activity.\nThis post U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows first appeared on Bitcoin Magazine a",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg",
+    "publishedAt": "2026-11-06T21:28:56.000Z",
+    "collectedAt": "2026-11-07T11:28:50.263Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e9d42680eca04b424a592292",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T11:28:58.697Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
+        "fingerprint": "e9d42680eca04b424a592292"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1552,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Solana's Skyline Crypto Ad Triggers Central Bank Investigation in China",
+    "link": "https://u.today/solanas-skyline-crypto-ad-triggers-central-bank-investigation-in-china",
+    "summary": "China's central bank halts Solana's Shanghai event shortly after it began and will investigate those involved.",
+    "image": null,
+    "publishedAt": "2026-11-06T13:06:05.000Z",
+    "collectedAt": "2026-11-07T11:28:50.263Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3536be228463fb5a7a8f3f08",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T11:28:59.970Z",
+    "outcome": {
+      "event": {
+        "title": "Solana's Skyline Crypto Ad Triggers Central Bank Investigation in China",
+        "fingerprint": "3536be228463fb5a7a8f3f08"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1553,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin ETFs could surpass mutual funds in AUM by 2028: Bloomberg analyst",
+    "link": "https://ambcrypto.com/bitcoin-etfs-could-surpass-mutual-funds-in-aum-by-2028-bloomberg-analyst/",
+    "summary": "But can Bitcoin ETFs sustain their influence despite November's heavy outflows?",
+    "image": null,
+    "publishedAt": "2026-11-06T21:00:55.000Z",
+    "collectedAt": "2026-11-07T11:28:50.263Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ce7e666c7d408b9775d60168",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T11:29:01.181Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs could surpass mutual funds in AUM by 2028: Bloomberg analyst",
+        "fingerprint": "ce7e666c7d408b9775d60168"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1554,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
+    "link": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
+    "summary": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publication.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/629b79200268c68fcc094c1f9b56df733e5aad00-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-07T00:00:11.000Z",
+    "collectedAt": "2026-11-07T11:28:50.263Z",
+    "corroboratingSources": 1,
+    "fingerprint": "737b82dc4a8c6e9a055d6dd6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-07T11:29:02.342Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
+        "fingerprint": "737b82dc4a8c6e9a055d6dd6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1555,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

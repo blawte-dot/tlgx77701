@@ -10047,5 +10047,40 @@
     "hasImage": true,
     "eventFingerprint": "8bc0fc9d9ac903f75238c35f",
     "timestamp": "2026-11-07T04:32:21.528Z"
+  },
+  {
+    "messageId": 1551,
+    "text": "Coinbase is tightening its asset requirements, and the consequences for lower-cap tokens are becoming increasingly clear.\n\nThe exchange has finalized its delisting schedule for November, marking a push to prune assets that no longer meet its rigorous liquidity and compliance standards. This latest cleanup operation specifically flags a Solana-based token, signaling that even high-throughput ecosystems are not immune to the exchange’s scrutiny.\n\nMarket participants should note that Coinbase’s listing criteria are dynamic. Delistings often follow a period of deteriorating volume or failure to adhere to evolving regulatory frameworks. \n\nInvestors holding assets targeted for removal face limited windows for withdrawal. Check your account alerts and verify the status of individual holdings directly on the exchange’s official dashboard to avoid liquidity traps as the November deadline approaches.",
+    "hasImage": true,
+    "eventFingerprint": "0866a6ae2d419565298c393b",
+    "timestamp": "2026-11-07T11:28:56.096Z"
+  },
+  {
+    "messageId": 1552,
+    "text": "Regulatory pressure on offshore exchanges just hit a new threshold.\n\nThe U.S. Treasury has issued a final order effectively severing MEXC Global from the U.S. financial system. FinCEN cites at least $16 billion in alleged illicit activity as the basis for the move, which takes effect 30 days following publication in the Federal Register.\n\nNote that these allegations remain unconfirmed reports at this stage.\n\nAs U.S. oversight aggressively targets offshore liquidity and compliance standards, do you see this as a necessary step for industry maturation or a move that will primarily push retail volume into riskier, less transparent jurisdictions?",
+    "hasImage": true,
+    "eventFingerprint": "e9d42680eca04b424a592292",
+    "timestamp": "2026-11-07T11:28:58.672Z"
+  },
+  {
+    "messageId": 1553,
+    "text": "Regulatory friction is intensifying for Solana in mainland China.\n\nThe People's Bank of China has halted a Solana-branded event in Shanghai shortly after its commencement, according to reports from U.Today. \n\nAuthorities have launched an investigation into the organizers behind the \"Skyline\" promotional gathering. While the specific legal basis for the intervention remains unconfirmed, the move highlights the ongoing sensitivity toward unauthorized crypto-related marketing within the region.",
+    "hasImage": true,
+    "eventFingerprint": "3536be228463fb5a7a8f3f08",
+    "timestamp": "2026-11-07T11:28:59.950Z"
+  },
+  {
+    "messageId": 1554,
+    "text": "4 years is the timeline Bloomberg analysts are projecting for Bitcoin ETFs to flip mutual funds in total assets under management.\n\nThe path to that milestone looks increasingly volatile. While institutional adoption remains the primary narrative, November saw a sharp cooling in inflows that has challenged the momentum of these products.\n\nSustained growth requires consistent buying pressure, yet the recent outflows suggest the market is still testing the limits of current retail and institutional appetite.\n\nDo you see the recent outflows as a temporary consolidation before a multi-year surge, or is the \"ETF-led bull market\" narrative losing its edge?",
+    "hasImage": true,
+    "eventFingerprint": "ce7e666c7d408b9775d60168",
+    "timestamp": "2026-11-07T11:29:01.162Z"
+  },
+  {
+    "messageId": 1555,
+    "text": "MEXC faces a major regulatory roadblock in the United States.\n\nThe exchange has confirmed that a FinCEN order is effectively cutting off its access to the U.S. financial system. The transfer ban is scheduled to take effect 30 days following its publication in the Federal Register.\n\nDespite the move, MEXC states that platform withdrawals remain operational. \n\nIn response to the regulatory pressure, the exchange has initiated an independent third-party review of its existing AML and sanctions compliance controls. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "737b82dc4a8c6e9a055d6dd6",
+    "timestamp": "2026-11-07T11:29:02.320Z"
   }
 ]
