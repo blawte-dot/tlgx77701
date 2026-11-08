@@ -61982,5 +61982,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple&#8217;s XRP Is Bleeding, but Whales Are Buying: Are Bulls Preparing for a Violent Reversal",
+    "link": "https://cryptopotato.com/ripples-xrp-is-bleeding-but-whales-are-buying-are-bulls-preparing-for-a-violent-reversal/",
+    "summary": "Several analysts are pointing to signs that buyers may already be positioning for what could become a long-anticipated reversal.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/03/XRP_CB-8.jpg",
+    "publishedAt": "2026-11-08T06:44:57.000Z",
+    "collectedAt": "2026-11-08T08:32:26.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2d9d055d70c3de084012cf68",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-08T08:32:28.985Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple&#8217;s XRP Is Bleeding, but Whales Are Buying: Are Bulls Preparing for a Violent Reversal",
+        "fingerprint": "2d9d055d70c3de084012cf68"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1571,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Crypto Wallets Lose $700M in Revenue During H1 2026: Report",
+    "link": "https://cryptopotato.com/crypto-wallets-lose-700m-in-revenue-during-h1-2026-report/",
+    "summary": "Gaming revenue rose despite weakness elsewhere, accounting for $3.3 billion of the consumer crypto sector's $5 billion first-half total.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/09/wallet-401080_640-3ndqamf6o53cczbilyhsei.jpg",
+    "publishedAt": "2026-11-08T05:02:54.000Z",
+    "collectedAt": "2026-11-08T08:32:26.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "abbd0eb6adc05fc89d13ace3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-08T08:32:30.118Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Wallets Lose $700M in Revenue During H1 2026: Report",
+        "fingerprint": "abbd0eb6adc05fc89d13ace3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1572,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance's CZ Calls for Crypto Industry Unity",
+    "link": "https://u.today/binances-cz-calls-for-crypto-industry-unity",
+    "summary": "Binance founder Changpeng Zhao (CZ) has called for greater unity across the cryptocurrency industry, arguing that infighting is counterproductive as the market grapples with the fallout from Binance's massive $6.34 billion hack.",
+    "image": null,
+    "publishedAt": "2026-11-08T07:28:11.000Z",
+    "collectedAt": "2026-11-08T08:32:26.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8894008b01d0e09fbafa4e34",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-08T08:32:35.602Z",
+    "outcome": {
+      "event": {
+        "title": "Binance's CZ Calls for Crypto Industry Unity",
+        "fingerprint": "8894008b01d0e09fbafa4e34"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1573,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+    "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+    "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Grayscale-Crypto-Leaders-with-Binance-Gold_clean.png",
+    "publishedAt": "2026-11-07T21:57:58.000Z",
+    "collectedAt": "2026-11-08T08:32:26.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2173fac23bc6ff40e3e154ba",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-11-08T08:32:39.751Z",
+    "outcome": {
+      "event": {
+        "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+        "fingerprint": "2173fac23bc6ff40e3e154ba"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1574,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+    "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+    "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
+    "publishedAt": "2026-11-07T16:46:02.000Z",
+    "collectedAt": "2026-11-08T08:32:26.937Z",
+    "corroboratingSources": 1,
+    "fingerprint": "67384296283aa3c12e38ff33",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-11-08T08:32:40.909Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+        "fingerprint": "67384296283aa3c12e38ff33"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1575,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
