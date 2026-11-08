@@ -62392,5 +62392,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
+    "link": "https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank",
+    "summary": "The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/6baa77de3524381f49da2c26aa3015d69b67b86e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-08T16:33:28.000Z",
+    "collectedAt": "2026-11-08T20:09:10.853Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9284951bd4c83147074c7e90",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-08T20:09:13.193Z",
+    "outcome": {
+      "event": {
+        "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
+        "fingerprint": "9284951bd4c83147074c7e90"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1581,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "The catch in recovering a hacked crypto wallet: the thief may still have a key",
+    "link": "https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key/",
+    "summary": "Keplr’s documented backups can reduce login dependence, but they cannot establish that a potentially exposed key is safe.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/keplr-duplicate-key-risk.webp",
+    "publishedAt": "2026-11-08T19:30:55.000Z",
+    "collectedAt": "2026-11-08T20:09:10.853Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aeb3d8593627eb780f2b48fc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-08T20:09:14.574Z",
+    "outcome": {
+      "event": {
+        "title": "The catch in recovering a hacked crypto wallet: the thief may still have a key",
+        "fingerprint": "aeb3d8593627eb780f2b48fc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1582,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+    "link": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+    "summary": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
+    "publishedAt": "2026-11-08T18:32:11.000Z",
+    "collectedAt": "2026-11-08T20:09:10.853Z",
+    "corroboratingSources": 1,
+    "fingerprint": "fb1a5d505bb409b9f59c0a20",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-08T20:09:15.567Z",
+    "outcome": {
+      "event": {
+        "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+        "fingerprint": "fb1a5d505bb409b9f59c0a20"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1583,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus",
+    "link": "https://cryptoslate.com/one-blackrock-fund-dominates-bitcoins-billion-dollar-etf-exodus/",
+    "summary": "Fidelity finished positive in the November 2-6 week, but the other funds collectively remained negative without IBIT.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ibit-net-flow-basin.webp",
+    "publishedAt": "2026-11-08T17:30:44.000Z",
+    "collectedAt": "2026-11-08T20:09:10.853Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d9e2dd2def5aec2f85cf77ee",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-11-08T20:09:16.656Z",
+    "outcome": {
+      "event": {
+        "title": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus",
+        "fingerprint": "d9e2dd2def5aec2f85cf77ee"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1584,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Elliptic Traces $124M in Bitcoin Swaps From Binance Hack Funds",
+    "link": "https://www.newsbtc.com/security/elliptic-traces-124m-in-bitcoin-swaps-from-binance-hack-funds/",
+    "summary": "A November 6 update from blockchain intelligence firm Elliptic says roughly $124 million of assets stolen in the October Binance breach had been converted…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/04/bitcoin-shielded-from-quantum-attack-bitcoin-logo-.jpeg",
+    "publishedAt": "2026-11-08T04:00:00.000Z",
+    "collectedAt": "2026-11-08T20:09:10.853Z",
+    "corroboratingSources": 1,
+    "fingerprint": "df4debc98827a134e8927b7c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-11-08T20:09:17.640Z",
+    "outcome": {
+      "event": {
+        "title": "Elliptic Traces $124M in Bitcoin Swaps From Binance Hack Funds",
+        "fingerprint": "df4debc98827a134e8927b7c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1585,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

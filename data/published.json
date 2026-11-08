@@ -11723,5 +11723,45 @@
     "hasImage": true,
     "eventFingerprint": "015ab773c64dd996a9ca1a90",
     "timestamp": "2026-11-08T15:46:05.875Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1581,
+    "text": "The federal barrier to entry for stablecoin issuers just moved, but the path remains narrow.\n\nThe OCC has granted conditional approval for Bridge to establish a national trust bank, marking a rare instance of a crypto-native firm securing federal banking status. \n\nThe regulatory fine print is rigorous:\n• $45 million in minimum capital requirements.\n• Stringent pre-opening examination protocols.\n• Ongoing liquidity and compliance oversight.\n\nCrucially, this charter does not bypass the legislative process. Even with a federal bank designation, Bridge remains subject to broader federal frameworks, specifically the requirements laid out by the proposed GENIUS Act. \n\nA banking charter provides a stamp of institutional legitimacy and a clear regulatory perimeter, but it is not a shortcut around future stablecoin-specific oversight. The transition from crypto startup to federal institution requires more than a signature; it requires a level of capital intensity that few competitors can currently match.",
+    "hasImage": true,
+    "eventFingerprint": "9284951bd4c83147074c7e90",
+    "timestamp": "2026-11-08T20:09:13.186Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1582,
+    "text": "Recovering a hacked wallet is often a trap, not a solution.\n\nIf your seed phrase or private key has been compromised, simply restoring access via a backup tool does nothing to secure your assets. Once a thief holds your keys, they hold the keys to your funds indefinitely.\n\nKeplr’s backup features are designed for account recovery, but they cannot purge a malicious actor who already possesses your credentials. \n\nIf your wallet has been breached, assume your funds are gone. The only reliable path is to migrate to a brand-new, hardware-isolated wallet and move any remaining liquidity immediately. Do not attempt to \"recover\" a compromised wallet; replace it.",
+    "hasImage": true,
+    "eventFingerprint": "aeb3d8593627eb780f2b48fc",
+    "timestamp": "2026-11-08T20:09:14.563Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1583,
+    "text": "Web3Auth claims it beat hackers to the punch, rescuing $5.6 million in assets from vulnerable Keplr wallets.\n\nThe security team confirmed they moved the funds preemptively to prevent theft after identifying an active exposure. \n\nWhile the recovery effort was successful, the team acknowledged that an \"original attacker\" had already managed to seize an undisclosed amount of capital.\n\nDetails regarding the total volume of lost funds remain limited as the investigation continues. \n\n#Web3Auth",
+    "hasImage": true,
+    "eventFingerprint": "fb1a5d505bb409b9f59c0a20",
+    "timestamp": "2026-11-08T20:09:15.560Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1584,
+    "text": "BlackRock’s IBIT is currently the only thing keeping the broader US spot Bitcoin ETF market from total stagnation.\n\nData from the week of November 2–6 shows a clear divergence in institutional demand. While Fidelity’s FBTC managed to scrape together positive inflows, the rest of the competitive field saw a collective exodus of capital.\n\nWithout BlackRock’s consistent daily intake, the aggregate flow data for the week would have painted a significantly bleaker picture for the sector. Institutional appetite remains highly concentrated, favoring the largest incumbents as the broader market struggles to sustain consistent net interest across all providers. \n\nSource: CryptoSlate",
+    "hasImage": true,
+    "eventFingerprint": "d9e2dd2def5aec2f85cf77ee",
+    "timestamp": "2026-11-08T20:09:16.648Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1585,
+    "text": "Over $124 million in stolen Binance funds has been laundered through Bitcoin swaps.\n\nBlockchain intelligence firm Elliptic confirmed today that a significant portion of the assets compromised in the October breach has been moved. \n\nThe funds were funneled through various mixing services and cross-chain swaps to obscure their origin. Analysts are currently monitoring the remaining addresses linked to the exploit. \n\nInvestigation remains ongoing.",
+    "hasImage": true,
+    "eventFingerprint": "df4debc98827a134e8927b7c",
+    "timestamp": "2026-11-08T20:09:17.632Z"
   }
 ]
