@@ -62187,5 +62187,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Hyperliquid Recovery: Binance Reopens HYPE Withdrawals After $6.4 Billion Hack",
+    "link": "https://u.today/hyperliquid-recovery-binance-reopens-hype-withdrawals-after-64-billion-hack",
+    "summary": "World's largest crypto exchange makes Hyperliquid token HYPE available for withdrawals after $6.4 billion hack amid the community's outrage over 'sabotage' claims.",
+    "image": null,
+    "publishedAt": "2026-11-08T14:14:45.000Z",
+    "collectedAt": "2026-11-08T15:45:43.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "985d6dc14b819520cd615d64",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-08T15:45:47.283Z",
+    "outcome": {
+      "event": {
+        "title": "Hyperliquid Recovery: Binance Reopens HYPE Withdrawals After $6.4 Billion Hack",
+        "fingerprint": "985d6dc14b819520cd615d64"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1576,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Web3Auth Exploit Doesn't Affect Trust Wallet: Products That Might be Affected",
+    "link": "https://u.today/web3auth-exploit-doesnt-affect-trust-wallet-products-that-might-be-affected",
+    "summary": "A Web3Auth security breach has reportedly exposed thousands of Keplr wallets, with attackers draining at least $6 million across eight Cosmos ecosystem networks.",
+    "image": null,
+    "publishedAt": "2026-11-08T09:14:00.000Z",
+    "collectedAt": "2026-11-08T15:45:43.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "939c9f7dc0354415101d2798",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-08T15:45:49.294Z",
+    "outcome": {
+      "event": {
+        "title": "Web3Auth Exploit Doesn't Affect Trust Wallet: Products That Might be Affected",
+        "fingerprint": "939c9f7dc0354415101d2798"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1577,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Tornado Cash Whale Deposits $7 Million to Hyperliquid for Massive Bitcoin Long",
+    "link": "https://u.today/tornado-cash-whale-deposits-7-million-to-hyperliquid-for-massive-bitcoin-long",
+    "summary": "Instead of cashing out, a Tornado Cash whale deploys $7 million onto Hyperliquid to orchestrate a massive 20x Bitcoin long.",
+    "image": null,
+    "publishedAt": "2026-11-08T11:41:15.000Z",
+    "collectedAt": "2026-11-08T15:45:43.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "39cad133698b567c6e3d52ca",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-08T15:45:56.273Z",
+    "outcome": {
+      "event": {
+        "title": "Tornado Cash Whale Deposits $7 Million to Hyperliquid for Massive Bitcoin Long",
+        "fingerprint": "39cad133698b567c6e3d52ca"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1578,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "'We Have Big Plans for 2027': Ripple Engineering Director Teases XRP Ledger Overhaul",
+    "link": "https://u.today/we-have-big-plans-for-2027-ripple-engineering-director-teases-xrp-ledger-overhaul",
+    "summary": "Promising “big plans for 2027,” Ripple engineers have begun overhauling the XRPL core to handle smart contracts and commercial bank payments.",
+    "image": null,
+    "publishedAt": "2026-11-08T14:50:15.000Z",
+    "collectedAt": "2026-11-08T15:45:43.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "89812be0d5133e51013fa0ab",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-08T15:45:57.693Z",
+    "outcome": {
+      "event": {
+        "title": "'We Have Big Plans for 2027': Ripple Engineering Director Teases XRP Ledger Overhaul",
+        "fingerprint": "89812be0d5133e51013fa0ab"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1579,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Gold is still 25% below its peak even as demand reaches $188B in Q3",
+    "link": "https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/",
+    "summary": "Central banks bought more gold in the third quarter of 2026 than consumers worldwide bought for jewelry. According to the World Gold Council&#039;s latest demand report, central banks and other official institutions acquired an estimated net 321 metric tons, while jewelry consumption came to 313 tons. In the same quarter a year earlier, jewelry buyers…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/loaded-gold-lift.webp",
+    "publishedAt": "2026-11-08T11:20:50.000Z",
+    "collectedAt": "2026-11-08T15:45:43.225Z",
+    "corroboratingSources": 1,
+    "fingerprint": "015ab773c64dd996a9ca1a90",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-08T15:46:05.889Z",
+    "outcome": {
+      "event": {
+        "title": "Gold is still 25% below its peak even as demand reaches $188B in Q3",
+        "fingerprint": "015ab773c64dd996a9ca1a90"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1580,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

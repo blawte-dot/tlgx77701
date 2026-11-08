@@ -11683,5 +11683,45 @@
     "hasImage": true,
     "eventFingerprint": "67384296283aa3c12e38ff33",
     "timestamp": "2026-11-08T08:32:40.902Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1576,
+    "text": "Binance has resumed HYPE withdrawals following a massive $6.4 billion security breach.\n\nThe move marks a turning point for the Hyperliquid token as the exchange restores liquidity to affected users. Restoration comes amid a backdrop of intense community scrutiny, with persistent, unverified claims of sabotage circulating across social media platforms.\n\nWhile operations are returning to normal, the scale of the exploit continues to weigh heavily on market sentiment. We are tracking further updates on the investigation as they become available.",
+    "hasImage": true,
+    "eventFingerprint": "985d6dc14b819520cd615d64",
+    "timestamp": "2026-11-08T15:45:47.269Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1577,
+    "text": "Are your Keplr assets at risk?\n\nUnconfirmed reports are circulating regarding a potential security breach involving Web3Auth, which may have exposed thousands of Keplr wallets. \n\nCurrent claims suggest attackers have drained at least $6 million across eight different Cosmos ecosystem networks. \n\nTrust Wallet has issued a statement clarifying that their products remain unaffected by this specific vulnerability. \n\nWe are monitoring the situation as more details emerge. Exercise extreme caution and verify all official security updates before interacting with your assets.",
+    "hasImage": true,
+    "eventFingerprint": "939c9f7dc0354415101d2798",
+    "timestamp": "2026-11-08T15:45:49.282Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1578,
+    "text": "Privacy coins don't usually lead to 20x leverage.\n\nA Tornado Cash whale has bypassed the typical \"cash out and run\" playbook, instead moving $7 million directly into Hyperliquid. The funds are currently fueling a massive 20x Bitcoin long position.\n\nWhile most move through mixers to exit the ecosystem, this player is doubling down on the volatility. A high-stakes bet that suggests the liquidity—or the conviction—is elsewhere.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "39cad133698b567c6e3d52ca",
+    "timestamp": "2026-11-08T15:45:56.257Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1579,
+    "text": "Ripple is looking three years into the future to save the XRP Ledger.\n\nEngineering leads have officially kicked off a core overhaul aimed at integrating smart contracts and high-volume commercial banking infrastructure. The roadmap is explicitly tethered to 2027, signaling a long-term pivot away from simple settlement toward complex enterprise utility.\n\nThis transition requires a fundamental rewrite of the ledger's architecture to compete with modern EVM-compatible ecosystems. \n\nCan the XRPL successfully bridge the gap to enterprise smart contracts without sacrificing the speed and efficiency that defined its original value proposition?",
+    "hasImage": true,
+    "eventFingerprint": "89812be0d5133e51013fa0ab",
+    "timestamp": "2026-11-08T15:45:57.676Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1580,
+    "text": "Central banks are now outpacing the global jewelry market in gold accumulation.\n\nOfficial institutions acquired a net 321 metric tons of gold in Q3 2026, surpassing the 313 tons purchased by retail jewelry consumers. This shift in buying behavior marks a significant departure from historical demand patterns.\n\nDespite this institutional heavy lifting, gold remains roughly 25% below its all-time high. \n\nTotal quarterly demand reached $188 billion, according to the latest data from the World Gold Council. The trend highlights a tightening supply-demand dynamic as sovereign entities continue to prioritize physical reserves over private consumption.",
+    "hasImage": true,
+    "eventFingerprint": "015ab773c64dd996a9ca1a90",
+    "timestamp": "2026-11-08T15:46:05.875Z"
   }
 ]
