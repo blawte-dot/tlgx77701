@@ -61777,5 +61777,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Nasdaq Lists Canary&#8217;s Staked INJ ETF, Adding Another Route to Altcoin Exposure",
+    "link": "https://www.newsbtc.com/altcoin/nasdaq-lists-canary-s-staked-inj-etf-adding-another-route-to-altcoin-exposure/",
+    "summary": "Nasdaq began listing the Canary Staked INJ ETF under ticker INJC on November 5, according to the exchange's listing notice and Canary Capital. The product…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n07-14-nasdaq-market-display-illustrative-commons-750x500.jpg",
+    "publishedAt": "2026-11-08T01:00:00.000Z",
+    "collectedAt": "2026-11-08T01:03:06.264Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e8186dac7efe78304fa1c405",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-08T01:03:08.799Z",
+    "outcome": {
+      "event": {
+        "title": "Nasdaq Lists Canary&#8217;s Staked INJ ETF, Adding Another Route to Altcoin Exposure",
+        "fingerprint": "e8186dac7efe78304fa1c405"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1566,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Zcash Activates NU7 With 25-Second Block Target and New Fee Reserve",
+    "link": "https://www.newsbtc.com/altcoin/zcash-activates-nu7-with-25-second-block-target-and-new-fee-reserve/",
+    "summary": "Zcash's NU7 upgrade activated at mainnet block 3,543,405, reducing target block spacing from 75 to 25 seconds. It also changes how fees contribute to future…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n07-12-zcash-nu7-emblem-commons-750x422.jpg",
+    "publishedAt": "2026-11-07T23:00:00.000Z",
+    "collectedAt": "2026-11-08T01:03:06.264Z",
+    "corroboratingSources": 1,
+    "fingerprint": "32a3f444cbfb6756017fb25c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-08T01:03:09.944Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash Activates NU7 With 25-Second Block Target and New Fee Reserve",
+        "fingerprint": "32a3f444cbfb6756017fb25c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1567,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Nigeria Sets New Stablecoin Licensing Rules and Capital Requirements",
+    "link": "https://www.newsbtc.com/regulation/nigeria-sets-new-stablecoin-licensing-rules-and-capital-requirements/",
+    "summary": "Nigeria's central bank issued a new framework on November 5 for non-security virtual assets, with separate stablecoin licences tied to naira and…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n07-11-cbn-building-abuja-commons-402x536.jpg",
+    "publishedAt": "2026-11-07T22:00:00.000Z",
+    "collectedAt": "2026-11-08T01:03:06.264Z",
+    "corroboratingSources": 1,
+    "fingerprint": "65f0963055e1de814932e014",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-08T01:03:11.053Z",
+    "outcome": {
+      "event": {
+        "title": "Nigeria Sets New Stablecoin Licensing Rules and Capital Requirements",
+        "fingerprint": "65f0963055e1de814932e014"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1568,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Ethereum — Can whales&#8217; latest buying spree offset bearish market trend?",
+    "link": "https://ambcrypto.com/ethereum-can-whales-latest-buying-spree-offset-bearish-market-trend/",
+    "summary": "Large ETH holders are positioning themselves around key support levels.",
+    "image": null,
+    "publishedAt": "2026-11-08T01:00:56.000Z",
+    "collectedAt": "2026-11-08T01:03:06.264Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ceba22a7a9af9c642914ce8b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-08T01:03:13.572Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum — Can whales&#8217; latest buying spree offset bearish market trend?",
+        "fingerprint": "ceba22a7a9af9c642914ce8b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1569,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Zcash’s new security fund is 99.7% old money",
+    "link": "https://cryptoslate.com/zcashs-new-security-fund-is-99-7-old-money/",
+    "summary": "A November 7 mainnet snapshot puts the historical seed at 99.7% of the reserve, with 1.12 ZEC accumulated under NU7’s fee rules.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/zcash-inherited-reserve.webp",
+    "publishedAt": "2026-11-07T19:20:50.000Z",
+    "collectedAt": "2026-11-08T01:03:06.264Z",
+    "corroboratingSources": 1,
+    "fingerprint": "43478b8967063eba784c2425",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-08T01:03:14.535Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash’s new security fund is 99.7% old money",
+        "fingerprint": "43478b8967063eba784c2425"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1570,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

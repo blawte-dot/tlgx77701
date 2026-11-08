@@ -10152,5 +10152,40 @@
     "hasImage": true,
     "eventFingerprint": "d0658d0ad23ce8016abaeb72",
     "timestamp": "2026-11-07T21:25:26.381Z"
+  },
+  {
+    "messageId": 1566,
+    "text": "Institutional access to altcoins just hit a new milestone.\n\nNasdaq officially listed the Canary Staked INJ ETF (INJC) as of November 5, marking a fresh bridge between traditional markets and the Injective ecosystem. \n\nThis product is designed to provide investors with exposure to INJ while capturing staking yields, moving beyond simple spot holding. \n\nWhile the crypto ETF landscape has been dominated by Bitcoin and Ethereum, this move suggests a growing appetite for specialized, yield-bearing altcoin vehicles among regulated market participants.\n\nThe listing adds a new layer of liquidity and accessibility for Injective, though volume trends in the coming weeks will determine if this serves as a template for other altcoin-based products.\n\n#Injective",
+    "hasImage": true,
+    "eventFingerprint": "e8186dac7efe78304fa1c405",
+    "timestamp": "2026-11-08T01:03:08.775Z"
+  },
+  {
+    "messageId": 1567,
+    "text": "Zcash is accelerating its network heartbeat to stay competitive in the privacy space.\n\nMainnet block 3,543,405 marks the successful activation of the NU7 upgrade. The core shift is a significant reduction in target block times, dropping from 75 seconds down to just 25 seconds. \n\nThis threefold increase in frequency is designed to improve transaction throughput and responsiveness for users.\n\nBeyond the speed boost, the upgrade introduces a new fee reserve mechanism. This changes how transaction fees contribute to the network’s long-term sustainability, altering the economic structure for future development.\n\nThe network is now operating under these new parameters. Developers and node operators should verify their configurations to ensure compatibility with the faster block cadence. ⚡️",
+    "hasImage": true,
+    "eventFingerprint": "32a3f444cbfb6756017fb25c",
+    "timestamp": "2026-11-08T01:03:09.924Z"
+  },
+  {
+    "messageId": 1568,
+    "text": "Nigeria has finalized a new regulatory framework for stablecoins.\n\nThe Central Bank of Nigeria issued the guidelines on November 5, establishing clear licensing requirements for non-security virtual assets. \n\nThe mandate introduces distinct licensing categories for stablecoins pegged to the naira and those pegged to other fiat currencies. Firms will now face strictly defined capital requirements to operate within the region. \n\nThis move signals a shift toward formal oversight for stablecoin issuers looking to tap into the Nigerian market.",
+    "hasImage": true,
+    "eventFingerprint": "65f0963055e1de814932e014",
+    "timestamp": "2026-11-08T01:03:11.030Z"
+  },
+  {
+    "messageId": 1569,
+    "text": "Whales are aggressively accumulating ETH at major support levels while the broader market struggles to find footing.\n\nOn-chain data indicates large holders are viewing these current price points as a value zone, directly countering the prevailing bearish sentiment.\n\nIf these support levels hold, we could see a rapid shift in market momentum. However, if selling pressure continues to overwhelm this whale demand, the outlook remains fragile.\n\nDo you see this accumulation as a sign of a local bottom, or are these whales simply catching a falling knife? \n\n#Ethereum",
+    "hasImage": true,
+    "eventFingerprint": "ceba22a7a9af9c642914ce8b",
+    "timestamp": "2026-11-08T01:03:13.550Z"
+  },
+  {
+    "messageId": 1570,
+    "text": "Zcash’s latest security fund update is essentially a historical archive masquerading as new policy.\n\nA November 7 snapshot reveals that 99.7% of the reserve is comprised of legacy holdings. Despite the shift to NU7 fee rules, a mere 1.12 ZEC has been collected under the new regime.\n\nThe transition to a new security model hasn't changed the reality of the balance sheet: the fund is currently running on the momentum of the past, not the fees of the present. \n\n#ZEC",
+    "hasImage": true,
+    "eventFingerprint": "43478b8967063eba784c2425",
+    "timestamp": "2026-11-08T01:03:14.508Z"
   }
 ]
