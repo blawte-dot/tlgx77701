@@ -10362,5 +10362,40 @@
     "hasImage": true,
     "eventFingerprint": "61d080d682b956c64c732048",
     "timestamp": "2026-11-09T07:37:12.020Z"
+  },
+  {
+    "messageId": 1596,
+    "text": "Can traditional equities find a reliable home on Solana?\n\nFormation Securities is planning a 2027 launch for the network's first tokenized stock venue operating under a U.S. regulatory framework. \n\nThe platform intends to feature shares from Galaxy, Exodus, and Forward Industries. \n\nIt marks a notable expansion of the SEC's ongoing exploration into blockchain-based securities settlement. While timing and execution depend on formal approvals, the move signals a broader institutional push toward on-chain asset issuance.",
+    "hasImage": true,
+    "eventFingerprint": "72742bbfe6ff313c39fc15a1",
+    "timestamp": "2026-11-09T18:16:15.737Z"
+  },
+  {
+    "messageId": 1597,
+    "text": "What happens when a top-10 US commercial bank quietly opens the door to digital dollars?\n\nPNC Bank is rolling out a pilot allowing corporate and institutional clients to accept USDC payments, building on its expanded relationship with Coinbase. \n\nIt marks a notable shift from experimental blockchain pilots to actual treasury infrastructure at scale. \n\nTraditional banking rails and stablecoin networks are continuing to converge. \n\n#Crypto",
+    "hasImage": true,
+    "eventFingerprint": "81b8b3771eefb2132b165be6",
+    "timestamp": "2026-11-09T18:16:16.824Z"
+  },
+  {
+    "messageId": 1598,
+    "text": "Self-custody is supposed to be the ultimate fortress—until the physical threats start.\n\nBlackRock's digital assets head Robbie Mitchnick told Barron’s this week that demand to swap directly held bitcoin for the iShares Bitcoin Trust (IBIT) is hitting record highs. \n\nThe primary driver isn't yield or tax efficiency. It's personal security. \n\nAs targeted physical attacks, kidnappings, and sophisticated hacks against high-net-worth holders climb, wealthy investors are deciding that counterparty risk with a Wall Street giant is preferable to the physical vulnerability of holding keys at home. \n\nConvenience matters, but physical safety is proving to be the unexpected catalyst drawing institutional-scale wealth out of cold storage and into regulated wrappers.",
+    "hasImage": true,
+    "eventFingerprint": "2b9f678dcdad2d3359f35f58",
+    "timestamp": "2026-11-09T18:16:18.195Z"
+  },
+  {
+    "messageId": 1599,
+    "text": "Over one billion dollars in leveraged positions vanished overnight as Bitcoin slid to $73,477 before recovering slightly.\n\nRisk appetite took a sharp hit across markets following news of a federal probe into Nvidia and renewed regulatory concerns from Washington.\n\nSpot exchange-traded funds added to the selling pressure with notable net outflows, dragging the broader crypto market down to levels not seen since August. \n\nPrices have since stabilized near $74,700, but the flush highlights just how quickly leveraged exposure can unwind when macro sentiment shifts.",
+    "hasImage": true,
+    "eventFingerprint": "ab8220c29cee9dd853be1a1c",
+    "timestamp": "2026-11-09T18:16:19.625Z"
+  },
+  {
+    "messageId": 1600,
+    "text": "Stablecoin blacklisting is rapidly becoming the ultimate circuit breaker in digital asset security.\n\nWhen $2.85 billion in stolen funds from the recent Binance-linked exploits hit the ledger, protocol-level freezes effectively rendered the loot unusable. It was a clear demonstration of centralized remediation stopping major threats in real time.\n\nThat operational reality has prompted fresh policy debate in Westminster. \n\nIndustry advocates are now arguing that the UK should formally codify stablecoin freeze capabilities into regulatory compliance—making clear freeze rules a mandatory baseline for any fiat-backed asset permitted on exchanges. \n\nProponents point to systemic risk mitigation, while privacy advocates warn of overreach and the erosion of censorship resistance. \n\nAs the Financial Conduct Authority finalizes its digital asset framework, the question is no longer whether issuers can freeze assets, but who ultimately holds the authority to pull the trigger.",
+    "hasImage": true,
+    "eventFingerprint": "2c1a1174c465fba0d75e32a7",
+    "timestamp": "2026-11-09T18:16:21.464Z"
   }
 ]
