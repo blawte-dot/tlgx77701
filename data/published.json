@@ -11803,5 +11803,45 @@
     "hasImage": true,
     "eventFingerprint": "497920c51494b9bbe8aa601d",
     "timestamp": "2026-11-09T00:30:10.088Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1591,
+    "text": "The SEC is quietly laying the groundwork for a new era of regulated crypto-adjacent betting.\n\nA filing published November 6 reveals that KalshiEX has submitted a rule change to the Commission regarding listing standards for perpetual security-futures products. \n\nThis is a technical but critical development. Kalshi, currently best known for its political event contracts, is clearly positioning itself to push deeper into the derivatives space. If approved, the filing would establish the specific frameworks required for these products to trade under SEC oversight. \n\nFor the broader market, this signals that the push for perpetuals—a cornerstone of crypto trading—is shifting toward formalized, regulated venues. \n\nWhether this ultimately bridges the gap between traditional exchange standards and decentralized perpetual models remains to be seen. We are tracking the comment period for further regulatory clarity.",
+    "hasImage": true,
+    "eventFingerprint": "df727576e15e4bf583506814",
+    "timestamp": "2026-11-09T07:37:06.854Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1592,
+    "text": "The institutional honeymoon for XRP ETFs appears to be officially over.\n\nAfter a period of quiet optimism, volume has evaporated, marking the first time the asset has seen this level of stagnation since August. It’s a stark reminder that retail hype and institutional appetite are two very different beasts.\n\nMeanwhile, Solana funds are continuing their streak of outflows, suggesting that the \"Solana Summer\" trade is facing a cold reality check in the current macro environment. The market is showing little patience for anything that isn't actively printing price action.",
+    "hasImage": true,
+    "eventFingerprint": "000a1a904791d94c1a71ea94",
+    "timestamp": "2026-11-09T07:37:08.056Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1593,
+    "text": "Exchanges are finally admitting that \"trust me bro\" isn't a business model.\n\nBitget just launched its Open Custody Network, aiming to decouple institutional trading from asset storage. By plugging into external banks and third-party custodians, they are trying to solve the perennial crypto problem: how to trade on a centralized venue without actually handing over the keys.\n\nIt is a quiet pivot toward the \"Wall Street\" standard of separation between the broker and the vault. If the industry wants institutional capital at scale, the era of the exchange holding the keys, the ledger, and the liquidity is effectively on notice.",
+    "hasImage": true,
+    "eventFingerprint": "e5c630dfa3c5c851433e8ea6",
+    "timestamp": "2026-11-09T07:37:09.212Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1594,
+    "text": "Ethereum volatility is testing major leveraged positions.\n\nThe asset has shed 15% of its value over the past five days, triggering a cascade of liquidations. On-chain data identifies a single whale position worth nearly $45 million that was forced into liquidation during the recent drawdown.\n\nWhile some large holders are using the current price action to accumulate, the market remains characterized by extreme deleveraging. Traders should be aware of continued liquidity swings as the market stabilizes.",
+    "hasImage": true,
+    "eventFingerprint": "951544e66b6b4228228b387e",
+    "timestamp": "2026-11-09T07:37:10.390Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1595,
+    "text": "Ethereum is currently testing the structural integrity of the $2,100 floor.\n\nThe asset is down 6.5% over the last 24 hours, trading at $2,090.97 according to CoinGecko data. For the \"ultrasound money\" thesis, the current price action is proving to be considerably louder than expected.",
+    "hasImage": true,
+    "eventFingerprint": "61d080d682b956c64c732048",
+    "timestamp": "2026-11-09T07:37:12.026Z"
   }
 ]

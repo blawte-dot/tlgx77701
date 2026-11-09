@@ -62802,5 +62802,243 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "SEC Publishes New Kalshi Security-Futures Filing as Perpetual Contracts Advance",
+    "link": "https://www.newsbtc.com/regulation/sec-publishes-new-kalshi-security-futures-filing-as-perpetual-contracts-advance/",
+    "summary": "The SEC published a November 6 notice on a KalshiEX rule change concerning listing standards for perpetual security-futures products. The filing takes…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n07-14-nasdaq-market-display-illustrative-commons-750x500.jpg",
+    "publishedAt": "2026-11-09T07:00:00.000Z",
+    "collectedAt": "2026-11-09T07:37:04.804Z",
+    "corroboratingSources": 1,
+    "fingerprint": "df727576e15e4bf583506814",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-09T07:37:06.862Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Publishes New Kalshi Security-Futures Filing as Perpetual Contracts Advance",
+        "fingerprint": "df727576e15e4bf583506814"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1591,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) ETFs Turn Into a Ghost Town, Solana (SOL) Funds Keep Bleeding",
+    "link": "https://cryptopotato.com/ripple-xrp-etfs-turn-into-a-ghost-town-solana-sol-funds-keep-bleeding/",
+    "summary": "The XRP ETFs experienced something they hadn't seen since August.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/01/Ripple_ETF.jpg",
+    "publishedAt": "2026-11-09T05:06:04.000Z",
+    "collectedAt": "2026-11-09T07:37:04.804Z",
+    "corroboratingSources": 1,
+    "fingerprint": "000a1a904791d94c1a71ea94",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-09T07:37:08.063Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple (XRP) ETFs Turn Into a Ghost Town, Solana (SOL) Funds Keep Bleeding",
+        "fingerprint": "000a1a904791d94c1a71ea94"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1592,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitget Launches Open Custody Network to Separate Institutional Trading From Asset Storage",
+    "link": "https://www.newsbtc.com/security/bitget-launches-open-custody-network-to-separate-institutional-trading-from-asset-storage/",
+    "summary": "Bitget announced an Open Custody Network on November 5 intended to connect external banks and institutional custodians with its trading infrastructure. The…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2024/01/clint-patterson-dYEuFB8KQJk-unsplash.jpeg",
+    "publishedAt": "2026-11-09T06:00:00.000Z",
+    "collectedAt": "2026-11-09T07:37:04.804Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e5c630dfa3c5c851433e8ea6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-09T07:37:09.219Z",
+    "outcome": {
+      "event": {
+        "title": "Bitget Launches Open Custody Network to Separate Institutional Trading From Asset Storage",
+        "fingerprint": "e5c630dfa3c5c851433e8ea6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1593,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ethereum Whales Buy the Dip as ETH Crumbles 15% in 5 Days",
+    "link": "https://cryptopotato.com/ethereum-whales-buy-the-dip-as-eth-crumbles-15-in-5-days/",
+    "summary": "Meanwhile, on-chain data shows that a massive ETH bull was liquidated for nearly $45 million.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/05/ETH_CB-9.jpg",
+    "publishedAt": "2026-11-09T06:48:50.000Z",
+    "collectedAt": "2026-11-09T07:37:04.804Z",
+    "corroboratingSources": 1,
+    "fingerprint": "951544e66b6b4228228b387e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-09T07:37:10.398Z",
+    "outcome": {
+      "event": {
+        "title": "Ethereum Whales Buy the Dip as ETH Crumbles 15% in 5 Days",
+        "fingerprint": "951544e66b6b4228228b387e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1594,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "market_move",
+    "source": "CoinGecko",
+    "title": "ETH down 6.5% in 24h",
+    "link": null,
+    "summary": "ETH is trading at $2,090.97, down 6.5% over the last 24 hours.",
+    "image": null,
+    "publishedAt": "2026-11-09T07:37:04.812Z",
+    "collectedAt": "2026-11-09T07:37:04.812Z",
+    "meta": {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "price": 2090.97,
+      "change24h": -6.48,
+      "marketCap": 255462244689,
+      "sparkline": [
+        2231.3041322154736,
+        2238.5938176581676,
+        2236.587332992956,
+        2234.573591368139,
+        2233.701595345737,
+        2238.069014475513,
+        2237.0029409839967,
+        2234.189815414129,
+        2238.5936943111083,
+        2239.066249412174,
+        2227.792993298523,
+        2228.50638229601,
+        2233.9606926598226,
+        2230.2342706292293,
+        2225.1956161631647,
+        2122.2374164799944,
+        2126.8541806986154,
+        2124.382944680146,
+        2143.1749471104818,
+        2140.8559132386745,
+        2144.5339741697317,
+        2138.7183038302182,
+        2136.4388837507595,
+        2127.4881056318864
+      ]
+    },
+    "corroboratingSources": 1,
+    "fingerprint": "61d080d682b956c64c732048",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-09T07:37:12.034Z",
+    "outcome": {
+      "event": {
+        "title": "ETH down 6.5% in 24h",
+        "fingerprint": "61d080d682b956c64c732048"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1595,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
