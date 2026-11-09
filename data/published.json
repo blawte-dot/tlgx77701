@@ -11763,5 +11763,45 @@
     "hasImage": true,
     "eventFingerprint": "df4debc98827a134e8927b7c",
     "timestamp": "2026-11-08T20:09:17.632Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1586,
+    "text": "Is your wallet connected to the latest exchange security breach?\n\nCircle has confirmed it froze approximately $1.1 billion in USDC linked to the reported Binance exploit. The stablecoin issuer stated the action was taken in direct coordination with law enforcement agencies.\n\nWhile the investigation remains ongoing, the move highlights the centralized control mechanisms inherent in major stablecoin protocols. \n\nWe are monitoring for further details on whether these funds were stolen from Binance itself or from secondary addresses associated with the broader incident. Users should remain cautious of any unexpected volatility or platform updates resulting from this liquidity freeze.",
+    "hasImage": true,
+    "eventFingerprint": "3f129eba4cde157e7f3349f1",
+    "timestamp": "2026-11-09T00:29:58.819Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1587,
+    "text": "Is the institutional \"buy the dip\" turning into a \"get me out of here\"?\n\nBitcoin ETFs just logged their heaviest outflow in four months, shedding nearly $1.3 billion over the last seven days. \n\nEthereum funds aren’t finding a floor either, continuing their streak in the red. \n\nThe ETF honeymoon phase is being put to a serious stress test as macro sentiment shifts.",
+    "hasImage": true,
+    "eventFingerprint": "666d28df3e193ba350232862",
+    "timestamp": "2026-11-09T00:29:59.872Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1588,
+    "text": "Regulatory overreach just hit a significant roadblock.\n\nFinCEN and the Federal Reserve have officially withdrawn a proposed expansion of the \"Travel Rule\" requirements that would have dramatically tightened recordkeeping rules for US crypto transactions.\n\nThe proposal, which originally sought to lower the transaction threshold for data collection, will not be moving forward in its current form. \n\nThis move marks a rare retreat for federal regulators in the ongoing push to bring virtual asset service providers under stricter reporting mandates. Policy analysts are viewing the withdrawal as a potential signal of shifting priorities within the Treasury regarding the administrative burden on the digital asset sector.",
+    "hasImage": true,
+    "eventFingerprint": "05312b38c6565b528ae10b55",
+    "timestamp": "2026-11-09T00:30:07.844Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1589,
+    "text": "Centralization risks are tightening as Coinbase expands its reach across the entire token lifecycle.\n\nThe exchange is now pitching an end-to-end service for issuers, covering everything from initial public sales and distribution to final listing and institutional-grade custody.\n\nWhile this streamlines operations for projects, it effectively places the world’s largest public exchange in the position of gatekeeper, distributor, and custodian simultaneously. \n\nThis model creates a closed-loop ecosystem that concentrates significant leverage within a single entity, heightening counterparty risk for both issuers and retail participants who rely on Coinbase’s infrastructure for liquidity and storage.\n\n#CryptoMarkets",
+    "hasImage": true,
+    "eventFingerprint": "176f10b9fc2fd633c045e083",
+    "timestamp": "2026-11-09T00:30:08.969Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1590,
+    "text": "Bitcoin mining is currently enduring its longest period of sub-ATH difficulty in network history.\n\nEven the 2021 China crackdown didn't suppress mining intensity for this duration. We are witnessing a clear transition: smaller, less efficient operations are being forced out, while the survivors consolidate power and hash rate.\n\nThis isn't just a lull; it's a structural reset of the mining landscape. \n\nAre you viewing this prolonged slump as a signal that the network is becoming dangerously centralized toward massive institutional miners, or is this just the necessary \"cleansing\" of an overheated market?\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "497920c51494b9bbe8aa601d",
+    "timestamp": "2026-11-09T00:30:10.088Z"
   }
 ]
