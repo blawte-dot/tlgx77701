@@ -63450,5 +63450,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+    "link": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
+    "summary": "The acquisition is expected to add a new layer of financing to Securitize, enabling the platform to offer asset-backed lending.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News.jpg",
+    "publishedAt": "2026-11-10T02:13:07.000Z",
+    "collectedAt": "2026-11-10T09:12:20.204Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3ec121edef09532b5d190ae0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-10T09:12:22.210Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+        "fingerprint": "3ec121edef09532b5d190ae0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1606,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+    "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+    "publishedAt": "2026-11-10T07:49:14.000Z",
+    "collectedAt": "2026-11-10T09:12:20.204Z",
+    "corroboratingSources": 2,
+    "fingerprint": "90d40dd4cb485d41659d7457",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9.5,
+    "processedAt": "2026-11-10T09:12:27.177Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+        "fingerprint": "90d40dd4cb485d41659d7457"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1607,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "21X and LayerZero Report 10,000 Onchain Order Matches Per Second in Pilot",
+    "link": "https://www.newsbtc.com/news/21x-and-layerzero-report-10-000-onchain-order-matches-per-second-in-pilot/",
+    "summary": "European trading venue 21X and LayerZero say a private, permissioned deployment of Zero handled 10,000 order matches per second in a month-long technical pilot. The companies disclosed the result on November 4, reporting a 45-fold performance…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/12_21x-and-layerzero-report-10-000-onchain-order-matches-per-second-in-pilot-750x422.png",
+    "publishedAt": "2026-11-10T02:00:00.000Z",
+    "collectedAt": "2026-11-10T09:12:20.204Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7c2edd41924077651421a7b2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-10T09:12:28.967Z",
+    "outcome": {
+      "event": {
+        "title": "21X and LayerZero Report 10,000 Onchain Order Matches Per Second in Pilot",
+        "fingerprint": "7c2edd41924077651421a7b2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1608,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Coinbase, Five Firms Back CFTC in Stock Perps Lawsuit",
+    "link": "https://thedefiant.io/converge/regulation/coinbase-five-firms-back-cftc-in-stock-perps-lawsuit",
+    "summary": "The proposed amicus brief supports joint SEC-CFTC oversight as a November 10 reply deadline approaches in the bid to halt single-stock perpetuals.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/4afc1c7d14755a0696c5b7b041cae9ce2bbda4a1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-10T08:28:31.000Z",
+    "collectedAt": "2026-11-10T09:12:20.204Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ae3f76232201d574fde5a158",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-10T09:12:30.543Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase, Five Firms Back CFTC in Stock Perps Lawsuit",
+        "fingerprint": "ae3f76232201d574fde5a158"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1609,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+    "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg",
+    "publishedAt": "2026-11-09T20:26:34.000Z",
+    "collectedAt": "2026-11-10T09:12:20.204Z",
+    "corroboratingSources": 2,
+    "fingerprint": "943cbaf4dd6f3d15eebd1bb6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-10T09:12:31.811Z",
+    "outcome": {
+      "event": {
+        "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+        "fingerprint": "943cbaf4dd6f3d15eebd1bb6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1610,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

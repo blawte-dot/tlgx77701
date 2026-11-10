@@ -10432,5 +10432,40 @@
     "hasImage": true,
     "eventFingerprint": "62c6fdc0d92a825d2d6dbb82",
     "timestamp": "2026-11-10T01:51:59.869Z"
+  },
+  {
+    "messageId": 1606,
+    "text": "Securitize just logged a 12% after-hours jump following its Q3 earnings print and a key expansion move.\n\nThe platform has entered into an agreement to acquire River One, a deal designed to introduce asset-backed lending capabilities to its infrastructure. \n\nIntegrating River One brings a fresh layer of financing options directly to the tokenization ecosystem, bridging traditional credit markets with digital asset rails. \n\nThe transaction remains subject to customary closing conditions.",
+    "hasImage": true,
+    "eventFingerprint": "3ec121edef09532b5d190ae0",
+    "timestamp": "2026-11-10T09:12:22.191Z"
+  },
+  {
+    "messageId": 1607,
+    "text": "What happens when institutional tokenization meets direct credit markets?\n\nSecuritize is moving to acquire River One, aiming to wire stablecoin liquidity directly into asset-backed lending. \n\nThe deal isn't scheduled to close until the fourth quarter of 2026, but the structural intent is clear. \n\nTokenized real-world assets have spent years focusing on yield generation through short-term government paper. This acquisition signals a push into more complex credit structures, bridging on-chain capital pools with off-chain borrowing demand. \n\nAs real-world asset pipelines expand beyond T-bills, the infrastructure layer is consolidating fast.",
+    "hasImage": true,
+    "eventFingerprint": "90d40dd4cb485d41659d7457",
+    "timestamp": "2026-11-10T09:12:27.158Z"
+  },
+  {
+    "messageId": 1608,
+    "text": "High-frequency trading is moving onchain.\n\nEuropean venue 21X and interoperability protocol LayerZero just concluded a month-long technical pilot, clocking 10,000 onchain order matches per second.\n\nThe trial utilized a private, permissioned deployment of LayerZero’s infrastructure. According to the companies, this represents a 45-fold increase in performance compared to their previous benchmarks.\n\nThe objective is to demonstrate that distributed ledger technology can meet the low-latency demands of traditional institutional markets. By moving order matching onchain, the firms aim to reduce settlement times and eliminate the need for manual reconciliation in regulated trading environments.\n\nWhile these results are promising for institutional infrastructure, the pilot operated within a controlled, permissioned environment. Real-world adoption will depend on how this performance scales across public, permissionless networks where network congestion and finality times remain significant hurdles.",
+    "hasImage": true,
+    "eventFingerprint": "7c2edd41924077651421a7b2",
+    "timestamp": "2026-11-10T09:12:28.944Z"
+  },
+  {
+    "messageId": 1609,
+    "text": "The regulatory battleground over single-stock perpetual futures is expanding as private sector heavyweights intervene.\n\nCoinbase and five other firms have filed an amicus brief supporting the CFTC in its effort to block the retail trading of crypto-based, single-stock perpetuals. The core of the argument rests on jurisdictional clarity: the coalition is pushing for a framework that mandates joint SEC-CFTC oversight rather than allowing these products to bypass traditional securities laws.\n\nThis intervention comes just ahead of a critical November 10 deadline for replies in the ongoing litigation. \n\nAt stake is the expansion of leverage on crypto platforms and the potential for a massive regulatory precedent regarding tokenized equities. If the courts rule in favor of the CFTC's aggressive stance, it could effectively shut down the nascent market for synthetic stock exposure on decentralized exchanges.\n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "ae3f76232201d574fde5a158",
+    "timestamp": "2026-11-10T09:12:30.525Z"
+  },
+  {
+    "messageId": 1610,
+    "text": "Lazarus Group is weaponizing memecoins to scrub stolen crypto.\n\nBlockchain intelligence firm Elliptic reports the North Korean hacking collective has developed a new money laundering playbook, utilizing six custom tokens on the NEAR protocol. \n\nThe hackers are leveraging liquidity pools to obfuscate the flow of funds originating from the 2022 Binance-linked heist. By swapping stolen assets into these tokens, the group is effectively bypassing traditional tracing methods to move capital across chains.\n\nThis signals a significant shift in illicit finance tactics: bad actors are moving away from centralized mixers and toward decentralized liquidity pools to hide their tracks. \n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "943cbaf4dd6f3d15eebd1bb6",
+    "timestamp": "2026-11-10T09:12:31.794Z"
   }
 ]
