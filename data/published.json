@@ -11883,5 +11883,45 @@
     "hasImage": true,
     "eventFingerprint": "2c1a1174c465fba0d75e32a7",
     "timestamp": "2026-11-09T18:16:21.473Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1601,
+    "text": "Traditional asset-backed finance is running straight into an on-chain collision course. \n\nTokenization infrastructure provider Securitize just acquired River One, planting its flag firmly in the middle of a $6 trillion market. \n\nThe move comes alongside a $50 million stock buyback program and a 13% quarter-over-quarter revenue bump. After-hours trading pushed SECZ shares up 10% in response. \n\nWall Street's legacy credit plumbing is being digitized whether intermediaries like it or not. The bridge between private credit and public blockchains is no longer theoretical.\n\n#Securitize",
+    "hasImage": true,
+    "eventFingerprint": "3020b139aac9a3dba06775e0",
+    "timestamp": "2026-11-10T01:51:55.266Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1602,
+    "text": "Federal banking regulators just handed Coinbase something few crypto firms ever manage to secure.\n\nThe exchange has cleared its final hurdle with the Office of the Comptroller of the Currency to operate as a national trust bank. \n\nThat pulls Coinbase's institutional custody operations directly under federal oversight, joining a very short list of crypto heavyweights like Circle and Ripple that hold federal charters alongside existing state-level credentials. \n\nWall Street standards are slowly migrating on-chain.\n\n#Crypto",
+    "hasImage": true,
+    "eventFingerprint": "8460535fca6bfe7f56e1cc77",
+    "timestamp": "2026-11-10T01:51:56.413Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1603,
+    "text": "Federal banking regulators are slowly opening the door to institutional crypto infrastructure. \n\nCoinbase has secured conditional approval from the OCC for a national trust bank charter, following a similar path carved out by Ripple and Anchorage Digital. \n\nThe move brings major industry players further under federal oversight, potentially streamlining custody operations across state lines. \n\nSeveral other digital asset firms currently have pending applications with the agency, signaling a broader shift toward federal rather than state-by-state supervision as the regulatory landscape matures.",
+    "hasImage": true,
+    "eventFingerprint": "c545ffa99d8abe3eab3414fe",
+    "timestamp": "2026-11-10T01:51:57.615Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1604,
+    "text": "Equities are climbing and oil is sliding, yet Bitcoin refuses to follow the script.\n\nBTC is range-bound near $75,000 following a heavy flush of leveraged positions that cleared out over-extended longs. \n\nAttention now turns squarely to Tuesday's U.S. inflation data. The print will either validate current pricing for a December Federal Reserve rate cut or force a sharp repricing across risk assets. \n\nWith macro tailwinds colliding with local deleveraging, the path of least resistance remains highly data-dependent.",
+    "hasImage": true,
+    "eventFingerprint": "2f682324d7f78c0915ad463d",
+    "timestamp": "2026-11-10T01:51:58.653Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1605,
+    "text": "State-sponsored hackers are turning to shitcoins as standard mixing services tighten up.\n\nBlockchain analytics firm Elliptic reports that North Korean actors deployed six custom memecoins to launder 117,000 NEAR—roughly $430,000—linked to the massive Binance breach. \n\nIt marks a shift in tactical execution. Instead of relying on traditional privacy tools that face mounting regulatory pressure, threat actors are using decentralized liquidity pools and illiquid tokens to obscure the trail of stolen funds.",
+    "hasImage": true,
+    "eventFingerprint": "62c6fdc0d92a825d2d6dbb82",
+    "timestamp": "2026-11-10T01:51:59.878Z"
   }
 ]

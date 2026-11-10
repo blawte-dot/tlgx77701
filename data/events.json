@@ -63245,5 +63245,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+    "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+    "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-09T22:56:27.000Z",
+    "collectedAt": "2026-11-10T01:51:53.054Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3020b139aac9a3dba06775e0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-10T01:51:55.278Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+        "fingerprint": "3020b139aac9a3dba06775e0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1601,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+    "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
+    "summary": "The exchange will move its institutional crypto custody business under federal oversight, building on its 2018 New York trust charter.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
+    "publishedAt": "2026-11-09T11:50:36.000Z",
+    "collectedAt": "2026-11-10T01:51:53.054Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8460535fca6bfe7f56e1cc77",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-10T01:51:56.423Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+        "fingerprint": "8460535fca6bfe7f56e1cc77"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1602,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Coinbase Joins Ripple as OCC Gives Green Light to Trust Bank Charter",
+    "link": "https://cryptopotato.com/coinbase-joins-ripple-as-occ-gives-green-light-to-trust-bank-charter/",
+    "summary": "Coinbase just cleared a major regulatory hurdle, while several other crypto firms are lining up for their own federal trust bank charters.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/02/Coinbase_WallStreet.jpg",
+    "publishedAt": "2026-11-09T22:40:36.000Z",
+    "collectedAt": "2026-11-10T01:51:53.054Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c545ffa99d8abe3eab3414fe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-10T01:51:57.628Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Joins Ripple as OCC Gives Green Light to Trust Bank Charter",
+        "fingerprint": "c545ffa99d8abe3eab3414fe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1603,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+    "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+    "summary": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+    "publishedAt": "2026-11-09T19:06:03.000Z",
+    "collectedAt": "2026-11-10T01:51:53.054Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2f682324d7f78c0915ad463d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-10T01:51:58.666Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+        "fingerprint": "2f682324d7f78c0915ad463d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1604,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+    "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+    "summary": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-09T15:00:44.000Z",
+    "collectedAt": "2026-11-10T01:51:53.054Z",
+    "corroboratingSources": 2,
+    "fingerprint": "62c6fdc0d92a825d2d6dbb82",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-10T01:51:59.890Z",
+    "outcome": {
+      "event": {
+        "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+        "fingerprint": "62c6fdc0d92a825d2d6dbb82"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1605,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
