@@ -63860,5 +63860,200 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Rothschild Investment Reveals XRP ETF Stake",
+    "link": "https://u.today/rothschild-investment-reveals-xrp-etf-stake",
+    "summary": "Chicago-based investment management firm Rothschild Investment LLC has disclosed its first reported stake in the Bitwise XRP ETF, adding the Ripple-linked cryptocurrency to its portfolio.",
+    "image": null,
+    "publishedAt": "2026-11-10T21:05:05.000Z",
+    "collectedAt": "2026-11-10T22:48:10.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "68f9e13e303b06d3cbab411c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-10T22:48:13.439Z",
+    "outcome": {
+      "event": {
+        "title": "Rothschild Investment Reveals XRP ETF Stake",
+        "fingerprint": "68f9e13e303b06d3cbab411c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1616,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds",
+    "link": "https://bitcoinmagazine.com/news/lnbits-releases-1-7-0-urgent-security-update-after-november-8-attacks-drain-funds",
+    "summary": "Bitcoin Magazine\n\nLNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds\nLNbits released version 1.7.0 on November 10 as an urgent security update following active attacks that began November 8. Operators must upgrade before restarting servers as prior versions put funds at risk of theft.\nThis post LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-5.webp",
+    "publishedAt": "2026-11-10T21:32:45.000Z",
+    "collectedAt": "2026-11-10T22:48:10.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1f0c07f31fbd2fd00bd3552a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-10T22:48:15.480Z",
+    "outcome": {
+      "event": {
+        "title": "LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds",
+        "fingerprint": "1f0c07f31fbd2fd00bd3552a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1617,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "North Korea Is Creating Fake Meme Coins to Launder Millions From the $6.4B Binance Hack",
+    "link": "https://cryptopotato.com/north-korea-is-creating-fake-meme-coins-to-launder-millions-from-the-6-4b-binance-hack/",
+    "summary": "Six meme coins created on NEAR helped North Korean hackers move stolen funds, with almost no genuine trading activity involved.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2023/08/hacker_cover.jpg",
+    "publishedAt": "2026-11-10T21:07:21.000Z",
+    "collectedAt": "2026-11-10T22:48:10.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0f52008922ff66e550e33563",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-10T22:48:24.781Z",
+    "outcome": {
+      "event": {
+        "title": "North Korea Is Creating Fake Meme Coins to Launder Millions From the $6.4B Binance Hack",
+        "fingerprint": "0f52008922ff66e550e33563"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Banks Commit $270 Million to Stablecoin Venture: Report",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/banks-commit-270-million-to-stablecoin-venture-report",
+    "summary": "The reported funding would cover five years of operations for the issuer, whose consortium has targeted a first-half 2027 dollar stablecoin launch.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/f4e5310bbee6d32cd9c092738fc4ad613ecbfb41-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-10T17:33:04.000Z",
+    "collectedAt": "2026-11-10T22:48:10.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "57027c09f5abff4a43718711",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-10T22:48:30.382Z",
+    "outcome": {
+      "event": {
+        "title": "Banks Commit $270 Million to Stablecoin Venture: Report",
+        "fingerprint": "57027c09f5abff4a43718711"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1618,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Will stablecoins survive once the banks catch up?",
+    "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+    "summary": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/041cb93d9a2c90ce28847a6b4c8f7283902171a9-5616x3744.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-10T14:00:00.000Z",
+    "collectedAt": "2026-11-10T22:48:10.363Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c24bc402ce9a85f01f0dd4aa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-10T22:48:31.567Z",
+    "outcome": {
+      "event": {
+        "title": "Will stablecoins survive once the banks catch up?",
+        "fingerprint": "c24bc402ce9a85f01f0dd4aa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1619,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

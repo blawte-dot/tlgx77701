@@ -12003,5 +12003,37 @@
     "hasImage": true,
     "eventFingerprint": "4d8f4b81f30a446c2fc1fcf4",
     "timestamp": "2026-11-10T17:27:52.678Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1616,
+    "text": "Institutional money keeps finding unexpected entry points.\n\nChicago-based Rothschild Investment LLC has disclosed its first reported stake in the Bitwise XRP ETF, according to a recent filing. \n\nWhile the exact position size remains modest relative to the firm's broader portfolio, the disclosure marks a notable shift in how traditional asset managers approach Ripple-linked products. \n\nExposure is arriving quietly through regulated vehicles, bypassing the friction of direct custody. \n\nThe move comes as institutional appetite for alternative crypto assets broadens beyond baseline Bitcoin and Ethereum allocations, signaling a maturation in how legacy wealth accesses digital asset markets.",
+    "hasImage": true,
+    "eventFingerprint": "68f9e13e303b06d3cbab411c",
+    "timestamp": "2026-11-10T22:48:13.428Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1617,
+    "text": "Self-hosted Lightning infrastructure just took a direct hit.\n\nLNbits has issued an urgent patch following coordinated attacks that began draining funds on November 8. \n\nVersion 1.7.0 fixes the critical vulnerability, but the window to secure nodes is narrow. \n\nOperators must apply the update before bringing any affected servers back online. Running prior builds leaves remaining balances exposed to ongoing theft. \n\nMaintainers have not yet detailed the exact vector exploited in the breach. Further technical disclosures are expected once node operators secure their setups.",
+    "hasImage": true,
+    "eventFingerprint": "1f0c07f31fbd2fd00bd3552a",
+    "timestamp": "2026-11-10T22:48:15.471Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1618,
+    "text": "Traditional finance is quietly laying the groundwork for its own rails. \n\nA new banking consortium has reportedly secured $270 million in funding to back a five-year operational runway for a proprietary stablecoin issuer. \n\nAccording to coverage by The Defiant, the group is targeting a dollar-pegged token launch in the first half of 2027. \n\nThe move signals that major institutional players are shifting from experimentation to long-term infrastructure investment, even as current regulatory frameworks continue to evolve.",
+    "hasImage": true,
+    "eventFingerprint": "57027c09f5abff4a43718711",
+    "timestamp": "2026-11-10T22:48:30.370Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1619,
+    "text": "Traditional banks are finally building their own digital settlement rails. \n\nAlessandro Hatami, former COO of Digital Banking at Lloyds, argues this convergence raises a fundamental question for the sector: what lasting advantage do independent stablecoins actually retain once legacy institutions catch up on speed and availability? \n\nDrop your read on this below. Do commercial stablecoins keep their moat through global reach and DeFi integration, or do bank-backed alternatives crowd them out of mainstream use?",
+    "hasImage": true,
+    "eventFingerprint": "c24bc402ce9a85f01f0dd4aa",
+    "timestamp": "2026-11-10T22:48:31.557Z"
   }
 ]
