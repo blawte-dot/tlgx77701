@@ -63655,5 +63655,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72E53YB00WRJ8DEC2G296HR/article-covers-210628-fed-governor-tells-peers-defi-isnt-scary-960x640.webp",
+    "publishedAt": "2026-11-10T10:08:22.000Z",
+    "collectedAt": "2026-11-10T17:27:41.928Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9d63ac8376917382177e3194",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-10T17:27:44.995Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+        "fingerprint": "9d63ac8376917382177e3194"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1611,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+    "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+    "summary": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
+    "publishedAt": "2026-11-10T16:27:57.000Z",
+    "collectedAt": "2026-11-10T17:27:41.928Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bbfff8dc3f379cf2b20aed17",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-10T17:27:46.294Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+        "fingerprint": "bbfff8dc3f379cf2b20aed17"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1612,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
+    "summary": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/8c6b69f39c0e39569cd22cd02220aece270d1cea-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-09T21:30:34.000Z",
+    "collectedAt": "2026-11-10T17:27:41.928Z",
+    "corroboratingSources": 2,
+    "fingerprint": "48d30cccf2facd63f1ee9874",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-10T17:27:49.596Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
+        "fingerprint": "48d30cccf2facd63f1ee9874"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1613,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+    "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+    "summary": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-11-09T17:46:02.000Z",
+    "collectedAt": "2026-11-10T17:27:41.928Z",
+    "corroboratingSources": 2,
+    "fingerprint": "904438428bc801a4bcc69499",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-10T17:27:50.865Z",
+    "outcome": {
+      "event": {
+        "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+        "fingerprint": "904438428bc801a4bcc69499"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1614,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+    "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+    "summary": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-10T10:48:37.000Z",
+    "collectedAt": "2026-11-10T17:27:41.928Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4d8f4b81f30a446c2fc1fcf4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-10T17:27:52.688Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+        "fingerprint": "4d8f4b81f30a446c2fc1fcf4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1615,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
