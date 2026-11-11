@@ -64465,5 +64465,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+    "link": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M750XDAB96KNY5BNHMGJV4GV/2222222-1.png",
+    "publishedAt": "2026-11-11T11:56:23.000Z",
+    "collectedAt": "2026-11-11T18:20:40.580Z",
+    "corroboratingSources": 1,
+    "fingerprint": "edd90f28c12f2c03d3d4c684",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-11T18:20:43.498Z",
+    "outcome": {
+      "event": {
+        "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+        "fingerprint": "edd90f28c12f2c03d3d4c684"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1630,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Avalanche (AVAX) Gains 4% After Securing Major NYSE Partnership",
+    "link": "https://u.today/avalanche-avax-gains-4-after-securing-major-nyse-partnership",
+    "summary": "AVAX has rebounded approximately 4% in 24 hours as the NYSE plans to use Avalanche technology for a tokenized securities platform.",
+    "image": null,
+    "publishedAt": "2026-11-11T15:17:22.000Z",
+    "collectedAt": "2026-11-11T18:20:40.581Z",
+    "corroboratingSources": 1,
+    "fingerprint": "85870f014cec8320c8112924",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-11T18:20:47.116Z",
+    "outcome": {
+      "event": {
+        "title": "Avalanche (AVAX) Gains 4% After Securing Major NYSE Partnership",
+        "fingerprint": "85870f014cec8320c8112924"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1631,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+    "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+    "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/18a4296c3a7993f330aba5083aa4a1bbe33d88df-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-11T11:37:04.000Z",
+    "collectedAt": "2026-11-11T18:20:40.580Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5a6f8e25a1fa9e7b337f1a79",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-11T18:20:48.463Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+        "fingerprint": "5a6f8e25a1fa9e7b337f1a79"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1632,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
+    "link": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+    "summary": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/02/nyse.jpg",
+    "publishedAt": "2026-11-11T16:56:54.000Z",
+    "collectedAt": "2026-11-11T18:20:40.580Z",
+    "corroboratingSources": 2,
+    "fingerprint": "b79058a96daff9468ae33a6b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-11-11T18:20:50.137Z",
+    "outcome": {
+      "event": {
+        "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
+        "fingerprint": "b79058a96daff9468ae33a6b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1633,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+    "link": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
+    "summary": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/09/20220928_OKX_Generic.jpg",
+    "publishedAt": "2026-11-11T13:01:02.000Z",
+    "collectedAt": "2026-11-11T18:20:40.580Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4846f37c8431baa36197c0c9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-11T18:20:51.682Z",
+    "outcome": {
+      "event": {
+        "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+        "fingerprint": "4846f37c8431baa36197c0c9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1634,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -12115,5 +12115,45 @@
     "hasImage": true,
     "eventFingerprint": "f65c85716dda4aaef0510acb",
     "timestamp": "2026-11-11T10:16:35.035Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1630,
+    "text": "Wall Street's traditional banking giants are quietly building heavy spot Bitcoin ETF allocations. \n\nBarclays expanded its position in BlackRock's iShares Bitcoin Trust by 48% to reach $187 million as of September 30. \n\nAt the same time, Citigroup disclosed a fresh $119 million stake in Fidelity’s competing fund. \n\nThese regulatory filings underline a steady institutional integration of digital assets beneath the surface of traditional portfolios. Major balance sheets are increasingly treating spot crypto exposure as standard operational inventory rather than a speculative trade.",
+    "hasImage": true,
+    "eventFingerprint": "edd90f28c12f2c03d3d4c684",
+    "timestamp": "2026-11-11T18:20:43.490Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1631,
+    "text": "Institutional infrastructure just got a major reality check.\n\nAvalanche (AVAX) is up 4% today following confirmation that the New York Stock Exchange is exploring the network for a new tokenized securities platform.\n\nThis isn’t just another pilot program. By leveraging Avalanche’s subnet architecture, the NYSE aims to address long-standing friction in traditional trade settlement. \n\nThe move highlights a growing trend among legacy financial giants: moving away from permissionless public chains toward modular, customizable environments that can handle compliance-heavy assets.\n\nFor AVAX, the narrative shift is clear. The focus has moved from retail-facing dApps to enterprise-grade backend utility. \n\nWhether this translates into sustained volume remains to be seen, but the integration marks a significant validation of Avalanche’s \"Subnet\" scalability thesis.",
+    "hasImage": true,
+    "eventFingerprint": "85870f014cec8320c8112924",
+    "timestamp": "2026-11-11T18:20:47.107Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1632,
+    "text": "Bitcoin is decoupling from the broader market rally as macroeconomic pressure mounts.\n\nWhile stocks caught a tailwind following Tuesday’s CPI print, Bitcoin remains stagnant near the $74,000 level. The inflation data has significantly altered rate-hike expectations, with markets now pricing in a 90% probability of an increase.\n\nInstitutional appetite is cooling simultaneously. Spot Bitcoin ETFs have recorded net outflows for four consecutive sessions, signaling a shift in sentiment among large-scale participants.\n\nThe lack of upward momentum has triggered a spike in liquidations, clearing out leveraged long positions as the asset struggles to find a clear breakout catalyst. With macro volatility rising, the market is bracing for a period of consolidation.",
+    "hasImage": true,
+    "eventFingerprint": "5a6f8e25a1fa9e7b337f1a79",
+    "timestamp": "2026-11-11T18:20:48.455Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1633,
+    "text": "The wall between traditional finance and decentralized infrastructure is thinning.\n\nPyth Network has officially integrated real-time data feeds from the New York Stock Exchange into its marketplace. This marks a significant shift in how institutional pricing data moves on-chain.\n\nBy pulling directly from the NYSE, Pyth is reducing the latency and reliance on third-party aggregators for high-value assets. For DeFi protocols, this means the ability to build sophisticated derivatives, synthetic assets, and lending markets that mirror the accuracy of traditional brokerage environments.\n\nThis is not just another data integration; it is a fundamental upgrade to the oracle infrastructure required for institutional-grade trading to function on-chain. As the gap between trad-fi liquidity and crypto rails narrows, the significance of verifiable, low-latency market data cannot be overstated.",
+    "hasImage": true,
+    "eventFingerprint": "b79058a96daff9468ae33a6b",
+    "timestamp": "2026-11-11T18:20:50.130Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1634,
+    "text": "Wall Street’s traditional plumbing is about to meet the speed of blockchain.\n\nOKXICC, a joint venture involving the crypto exchange, confirmed it will launch its tokenized securities venue on November 23. The platform is leveraging a regulatory innovation exemption from the SEC to facilitate the transition.\n\nThe venue aims to bridge the gap between legacy financial instruments and digital asset architecture. By utilizing tokenization, the firm intends to streamline settlement processes and enhance liquidity for securities that have historically relied on slower, manual clearing systems.\n\nWhile details on the specific assets slated for the initial rollout remain thin, the launch marks a significant shift in how institutional-grade platforms integrate with federal oversight. \n\nMarket participants are watching to see if this compliance-first approach can successfully scale where previous decentralized attempts at real-world asset (RWA) tokenization have struggled.\n\n#Tokenization",
+    "hasImage": true,
+    "eventFingerprint": "4846f37c8431baa36197c0c9",
+    "timestamp": "2026-11-11T18:20:51.674Z"
   }
 ]
