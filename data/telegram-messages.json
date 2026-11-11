@@ -10565,5 +10565,40 @@
     "hasImage": true,
     "eventFingerprint": "ab0cdef3d30988ab01247578",
     "timestamp": "2026-11-11T02:30:40.261Z"
+  },
+  {
+    "messageId": 1625,
+    "text": "The boundary between on-chain capital and traditional credit markets is shifting faster than most realize.\n\nSecuritize has reached an agreement to acquire River One. The move is designed to channel stablecoin liquidity directly into asset-backed finance. \n\nFor months, the bottleneck in real-world asset tokenization hasn't been demand or legal frameworks. It has been the plumbing between native crypto capital and institutional-grade credit generation. \n\nBy absorbing River One, Securitize is positioning itself to bridge that gap at scale. \n\nWatch this space. The infrastructure connecting digital dollars to physical yield is consolidating quickly.",
+    "hasImage": true,
+    "eventFingerprint": "1472eb79c6f96926df2dca5b",
+    "timestamp": "2026-11-11T10:16:20.035Z"
+  },
+  {
+    "messageId": 1626,
+    "text": "How does a protocol get hit twice by the exact same vector in less than a month?\n\nInitia has confirmed a second exploit in three weeks, resulting in $3.27 million stolen after attackers compromised cloud credentials. \n\nThe network remains halted. Approximately $2.16 million of the stolen funds have been frozen so far, while investigations continue into how access was breached again.",
+    "hasImage": true,
+    "eventFingerprint": "2ecdb828a8a7d75833c8993b",
+    "timestamp": "2026-11-11T10:16:24.672Z"
+  },
+  {
+    "messageId": 1627,
+    "text": "A federal ruling just closed a key regulatory loophole for event-based prediction markets.\n\nUS District Judge Paul Engelmayer denied Novig’s bid for a preliminary injunction, clearing the way for New York to enforce state gambling laws against the platform. \n\nThe core issue hinged on classification. Novig argued its peer-to-peer sports contracts qualified as swaps under federal oversight, which would have preempted state-level gaming restrictions. \n\nThe court disagreed. Engelmayer ruled the products function as sports betting rather than financial derivatives, rejecting the idea that CFTC jurisdiction supersedes local gaming enforcement.\n\nThe decision arrives as state regulators increasingly push back against alternative betting platforms operating outside traditional sportsbooks. \n\n#Regulation",
+    "hasImage": true,
+    "eventFingerprint": "3a67d39eb74029e891a8ebf8",
+    "timestamp": "2026-11-11T10:16:27.957Z"
+  },
+  {
+    "messageId": 1628,
+    "text": "Capital is rotating fast, and Bitcoin is currently on the losing end of the trade.\n\nUS spot Bitcoin ETFs have shed $1.6 billion in November alone. \n\nWhile crypto products face sustained outflows, equity exchange-traded funds are moving in the opposite direction. Stock market buyers are aggressively deploying capital to scoop up the recent equities pullback, pulling in billions while digital asset funds bleed. \n\nThe divergence highlights a sharp shift in risk appetite as traditional markets capture institutional dip-buying flows.",
+    "hasImage": true,
+    "eventFingerprint": "3f9447ecac90d327e4c7b000",
+    "timestamp": "2026-11-11T10:16:29.904Z"
+  },
+  {
+    "messageId": 1629,
+    "text": "Federal regulators appear to be stepping back from the courtroom.\n\nUnconfirmed reports suggest the SEC filed 348 enforcement actions in fiscal 2026, marking a 24% drop from the 456 cases recorded the previous year. \n\nDigital asset markets remained firmly in the spotlight during the period. Filings reportedly covered matters ranging from alleged Bitcoin mining fraud to a settlement over FTX audits. \n\nOfficial totals and final agency breakdowns have not yet been fully verified.",
+    "hasImage": true,
+    "eventFingerprint": "f65c85716dda4aaef0510acb",
+    "timestamp": "2026-11-11T10:16:35.023Z"
   }
 ]
