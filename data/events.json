@@ -64055,5 +64055,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+    "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73RYKH763P9CHNYH2J89SZ9/without-stars-1.png",
+    "publishedAt": "2026-11-10T23:08:28.000Z",
+    "collectedAt": "2026-11-11T02:30:06.401Z",
+    "corroboratingSources": 1,
+    "fingerprint": "34b1a3d06bb9bac39fb2b8c5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-11T02:30:13.975Z",
+    "outcome": {
+      "event": {
+        "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+        "fingerprint": "34b1a3d06bb9bac39fb2b8c5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1620,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+    "link": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
+    "summary": "Grayscale’s Zcash push comes as its ETF faces continued withdrawals, extending October’s net outflows.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/zcash.png",
+    "publishedAt": "2026-11-10T17:52:14.000Z",
+    "collectedAt": "2026-11-11T02:30:06.401Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0d6b322ce4e0930e19a80f3a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-11T02:30:15.167Z",
+    "outcome": {
+      "event": {
+        "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+        "fingerprint": "0d6b322ce4e0930e19a80f3a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1621,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
+    "link": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
+    "summary": "Cathie Wood's Ark Invest sold $6.1 million worth of Block shares and $1.13 million worth of Bullish shares through its ETFs on Monday.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ark_editorial_1920x1080_2.jpg",
+    "publishedAt": "2026-11-10T10:36:53.000Z",
+    "collectedAt": "2026-11-11T02:30:06.401Z",
+    "corroboratingSources": 1,
+    "fingerprint": "8020eb593d051034a067bde3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-11T02:30:22.411Z",
+    "outcome": {
+      "event": {
+        "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
+        "fingerprint": "8020eb593d051034a067bde3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1622,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+    "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73FG8EC57FA8HQ9HDV8619S/hi-what-are-pig-butchering-crypto-scams-and-how-to-combat-them.png",
+    "publishedAt": "2026-11-10T20:26:02.000Z",
+    "collectedAt": "2026-11-11T02:30:06.401Z",
+    "corroboratingSources": 1,
+    "fingerprint": "88589055529b3496e6254d23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-11T02:30:31.859Z",
+    "outcome": {
+      "event": {
+        "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+        "fingerprint": "88589055529b3496e6254d23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1623,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+    "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs widening access to Bitcoin he expects a new record high in 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M706AM1558Y70YWGC5XVGNF0/mark-moss-trade-secrets.png",
+    "publishedAt": "2026-11-10T13:30:00.000Z",
+    "collectedAt": "2026-11-11T02:30:06.401Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab0cdef3d30988ab01247578",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-11T02:30:40.281Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+        "fingerprint": "ab0cdef3d30988ab01247578"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1624,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
