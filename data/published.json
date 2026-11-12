@@ -12235,5 +12235,45 @@
     "hasImage": true,
     "eventFingerprint": "b08746a8c3da3448b17e85c8",
     "timestamp": "2026-11-12T09:14:24.321Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1645,
+    "text": "An unlikely coalition is forming to dismantle Illinois' 0.2% digital asset tax.\n\nThe DOJ, the U.S. Chamber of Commerce, and SIFMA have joined forces with a crypto bloc led by a16z, Paradigm, and Uniswap. Together, they have filed briefs supporting a lawsuit that aims to strike down the state’s levy on crypto transactions.\n\nThe central argument challenges the constitutionality of the tax, citing federal preemption and potential disruptions to interstate commerce. While the DOJ’s involvement stems from concerns over federal regulatory authority, the industry coalition views the tax as a localized barrier to a borderless asset class.\n\nThis rare alignment of traditional banking lobbyists, federal prosecutors, and DeFi developers signals that the legal precedent set here could have significant implications for state-level crypto taxation nationwide.\n\n#Crypto",
+    "hasImage": true,
+    "eventFingerprint": "1433ee36bbce91d09e989f6b",
+    "timestamp": "2026-11-12T17:54:21.115Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1646,
+    "text": "Tech volatility is spilling over into crypto markets today.\n\nBitcoin is trading 0.7% lower, pressured by a sharp sell-off in Nvidia shares. The decline follows unconfirmed reports suggesting Nvidia's board may be considering the ousting of CEO Jensen Huang.\n\nThe broader risk-off sentiment is reflected in institutional flows as well. U.S. spot Bitcoin ETFs recorded their fifth consecutive day of net outflows, shedding another $299.9 million. \n\nMarkets remain sensitive to both macro sentiment and concentrated tech sector headlines.",
+    "hasImage": true,
+    "eventFingerprint": "e63986a920e8f5561d4776c3",
+    "timestamp": "2026-11-12T17:54:22.705Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1647,
+    "text": "Institutional liquidity is bridging the gap between BlackRock’s BUIDL fund and the Ethena ecosystem.\n\nSecuritize and Ethena Labs have launched a $100 million liquidity facility, enabling eligible BUIDL token holders to swap their holdings into USDC and other stablecoins on a 24/7 basis. \n\nThis infrastructure provides a pathway for real-world asset (RWA) holders to access immediate liquidity, effectively integrating BlackRock's tokenized treasury product with Ethena’s stablecoin architecture. \n\nThe facility is currently restricted to verified institutional participants.",
+    "hasImage": true,
+    "eventFingerprint": "b6e32ca3f8e68ca29d960457",
+    "timestamp": "2026-11-12T17:54:49.347Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1648,
+    "text": "Visa is integrating Anchorage Digital’s bank-custodied stablecoins to settle obligations on its network. \n\nThis move allows firms to leverage Western Union’s USDPT for direct settlements via VisaNet, marking another step toward bridging traditional payment rails with federally chartered digital asset infrastructure. \n\nInstitutional adoption is often measured by infrastructure readiness rather than price action. Does the integration of stablecoins into Visa’s core settlement layer signal the end of traditional correspondent banking for cross-border payments, or is this still a niche utility?\n\n#Crypto",
+    "hasImage": true,
+    "eventFingerprint": "ad09c8bfb8dc7eb12f1e1c88",
+    "timestamp": "2026-11-12T17:54:58.538Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1649,
+    "text": "Institutional adoption in the Middle East continues to quietly broaden its reach.\n\nIsrael Discount Bank is officially entering the crypto space. Starting November 26, eligible customers over 18 will be permitted to buy, hold, and sell Bitcoin and Ether directly through the bank’s mobile application.\n\nThe bank is partnering with infrastructure provider Fireblocks to manage institutional-grade custody for these assets. As an incentive for early adoption, the firm is offering a six-month waiver on trading fees for the service.",
+    "hasImage": true,
+    "eventFingerprint": "e24a766a13e97d5031b5372c",
+    "timestamp": "2026-11-12T17:55:02.896Z"
   }
 ]

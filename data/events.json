@@ -65080,5 +65080,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+    "link": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+    "summary": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/08/money-bitcoin-gID_7.jpg",
+    "publishedAt": "2026-11-12T17:46:02.000Z",
+    "collectedAt": "2026-11-12T17:54:05.056Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1433ee36bbce91d09e989f6b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-12T17:54:21.131Z",
+    "outcome": {
+      "event": {
+        "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+        "fingerprint": "1433ee36bbce91d09e989f6b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1645,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+    "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+    "summary": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/128bc68b867f06109625c6eae927136864633702-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-12T11:30:00.000Z",
+    "collectedAt": "2026-11-12T17:54:05.056Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e63986a920e8f5561d4776c3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T17:54:22.723Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+        "fingerprint": "e63986a920e8f5561d4776c3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1646,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+    "summary": "Securitize &amp; Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Blackrock2.jpg",
+    "publishedAt": "2026-11-12T14:00:00.000Z",
+    "collectedAt": "2026-11-12T17:54:05.056Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b6e32ca3f8e68ca29d960457",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T17:54:49.368Z",
+    "outcome": {
+      "event": {
+        "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+        "fingerprint": "b6e32ca3f8e68ca29d960457"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1647,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+    "link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+    "summary": "Visa and eligible companies can now use Western Union’s USDPT—issued and custodied by the federally chartered Anchorage Digital Bank—to settle VisaNet obligations.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg",
+    "publishedAt": "2026-11-12T16:01:03.000Z",
+    "collectedAt": "2026-11-12T17:54:05.056Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ad09c8bfb8dc7eb12f1e1c88",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T17:54:58.554Z",
+    "outcome": {
+      "event": {
+        "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+        "fingerprint": "ad09c8bfb8dc7eb12f1e1c88"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1648,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
+    "link": "https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26",
+    "summary": "Bitcoin Magazine\n\nIsrael Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26\nEligible customers 18 and older can buy, hold and sell bitcoin and ether from Nov. 26, with Fireblocks custody and a six-month fee waiver.\nThis post Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Israel-Discount-Bank-to-Let-Customers-Trade-Bitcoin-in-App-Starting-Nov.-26.jpg",
+    "publishedAt": "2026-11-12T16:45:00.000Z",
+    "collectedAt": "2026-11-12T17:54:05.056Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e24a766a13e97d5031b5372c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T17:55:02.910Z",
+    "outcome": {
+      "event": {
+        "title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
+        "fingerprint": "e24a766a13e97d5031b5372c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1649,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
