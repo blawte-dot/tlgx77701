@@ -12155,5 +12155,45 @@
     "hasImage": true,
     "eventFingerprint": "4846f37c8431baa36197c0c9",
     "timestamp": "2026-11-11T18:20:51.674Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1635,
+    "text": "Two entirely different markets are currently trading Bitcoin. \n\nOn-chain data from Glassnode covering the week through November 9 shows larger entities quietly absorbing supply, continuing a narrow accumulation trend. \n\nAt the same time, institutional products are moving in the opposite direction. Completed sessions through November 10 show ETF investors continuing to pull millions out of the market on a daily basis. \n\nWhen spot demand diverges from exchange-traded funds like this, price action tends to compress as supply shifts from public vehicles to private cold storage. \n\nWatch the daily ETF flow data against exchange inventory levels this week to see which side blinks first.",
+    "hasImage": true,
+    "eventFingerprint": "2c76a424d1d55d847d3893a9",
+    "timestamp": "2026-11-12T01:17:23.804Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1636,
+    "text": "Traditional banking giants are quietly building the infrastructure for the next cycle while retail focuses on spot volatility. \n\nDeutsche Bank just activated its digital asset custody platform alongside a multi-pronged agreement covering tokenized funds, crypto ETCs, and stablecoins. \n\nWhen institutions cement custody rails like this, does it accelerate institutional allocation into tokenized assets, or are we still years away from meaningful capital moving through traditional bank-backed crypto rails? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "7c1d67fff5b3d5135484cd8e",
+    "timestamp": "2026-11-12T01:17:24.849Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1637,
+    "text": "Wall Street's traditional guard just moved another inch closer to the asset class. \n\nDeutsche Bank has officially rolled out crypto custody for corporate and institutional clients, opening infrastructure for Bitcoin, Ether, and select stablecoins. \n\nUnder the new service, the bank handles wallet management and private keys directly. \n\nTraditional banking integration deepens as institutional rails continue to expand across major jurisdictions.",
+    "hasImage": true,
+    "eventFingerprint": "cd85949675c4e3794409177b",
+    "timestamp": "2026-11-12T01:17:25.922Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1638,
+    "text": "1 critical vulnerability is all it takes to ruin your Tuesday.\n\nNEAR AI just confirmed a security incident tied to an SGLang flaw in older deployments. \n\nThe team moved quickly to revoke the exposed API keys once the issue surfaced. \n\nLegacy code strikes again.",
+    "hasImage": true,
+    "eventFingerprint": "e4ed6d4e617798408dfb31a1",
+    "timestamp": "2026-11-12T01:17:27.007Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1639,
+    "text": "Wall Street is officially stepping into the stablecoin arena. \n\nGoldman Sachs, Citigroup, Santander, and Deutsche Bank have quietly committed $270 million to fund a joint stablecoin issuer for the next five years, according to Bloomberg reports. \n\nTraditional finance isn't just watching anymore—they are building the infrastructure themselves. \n\nAre legacy banks entering the ring late, or do they have the balance sheet to rewrite the rules of digital settlement? \n\n#Crypto",
+    "hasImage": true,
+    "eventFingerprint": "67f68b5258eeff9cbda570eb",
+    "timestamp": "2026-11-12T01:17:28.167Z"
   }
 ]

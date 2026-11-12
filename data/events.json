@@ -64670,5 +64670,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin whales stack coins while ETF investors dump millions daily",
+    "link": "https://cryptoslate.com/bitcoin-whales-stack-coins-while-etf-investors-dump-millions-daily/",
+    "summary": "Glassnode&#039;s seven-day observations through November 9 show narrow accumulation, while completed ETF sessions through November 10 still record withdrawals.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/tidal-whales.jpg",
+    "publishedAt": "2026-11-11T23:50:44.000Z",
+    "collectedAt": "2026-11-12T01:17:20.979Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2c76a424d1d55d847d3893a9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-12T01:17:23.814Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin whales stack coins while ETF investors dump millions daily",
+        "fingerprint": "2c76a424d1d55d847d3893a9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1635,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+    "link": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851",
+    "summary": "Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-11.27.09.png",
+    "publishedAt": "2026-11-11T11:46:34.000Z",
+    "collectedAt": "2026-11-12T01:17:20.979Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7c1d67fff5b3d5135484cd8e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T01:17:24.859Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+        "fingerprint": "7c1d67fff5b3d5135484cd8e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1636,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Deutsche Bank launches crypto custody for companies and institutions",
+    "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg",
+    "publishedAt": "2026-11-11T14:02:18.000Z",
+    "collectedAt": "2026-11-12T01:17:20.979Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cd85949675c4e3794409177b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T01:17:25.933Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank launches crypto custody for companies and institutions",
+        "fingerprint": "cd85949675c4e3794409177b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1637,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "NEAR AI Discloses SGLang Security Incident and Revokes Exposed API Keys",
+    "link": "https://www.newsbtc.com/security/near-ai-sglang-security-incident-agent-exposure/",
+    "summary": "NEAR AI has published a security incident report involving an SGLang vulnerability in legacy deployments. The company says it revoked exposed…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/N10-14_near-ai-sglang-security-incident-agent-exposure-750x422.png",
+    "publishedAt": "2026-11-11T07:00:00.000Z",
+    "collectedAt": "2026-11-12T01:17:20.979Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e4ed6d4e617798408dfb31a1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T01:17:27.018Z",
+    "outcome": {
+      "event": {
+        "title": "NEAR AI Discloses SGLang Security Incident and Revokes Exposed API Keys",
+        "fingerprint": "e4ed6d4e617798408dfb31a1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1638,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Goldman, Citi Among Banks Committing $270M to Fund Joint Stablecoin Issuer for Five Years",
+    "link": "https://cryptopotato.com/goldman-citi-among-banks-committing-270m-to-fund-joint-stablecoin-issuer-for-five-years/",
+    "summary": "Goldman Sachs and Citigroup are among the banks that have committed about $270 million to a joint stablecoin company, Bloomberg reported on Tuesday. Banco Santander and Deutsche Bank have also joined, according to people familiar with the matter. That money is meant to cover five years of operations at the new company, which will issue [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2022/01/Goldman_Sachs.jpg",
+    "publishedAt": "2026-11-11T06:58:48.000Z",
+    "collectedAt": "2026-11-12T01:17:20.979Z",
+    "corroboratingSources": 1,
+    "fingerprint": "67f68b5258eeff9cbda570eb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T01:17:28.177Z",
+    "outcome": {
+      "event": {
+        "title": "Goldman, Citi Among Banks Committing $270M to Fund Joint Stablecoin Issuer for Five Years",
+        "fingerprint": "67f68b5258eeff9cbda570eb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1639,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
