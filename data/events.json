@@ -64875,5 +64875,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+    "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
+    "publishedAt": "2026-11-12T05:54:48.000Z",
+    "collectedAt": "2026-11-12T09:14:15.079Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d67aad8933536e07b4b18f6b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-12T09:14:17.180Z",
+    "outcome": {
+      "event": {
+        "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+        "fingerprint": "d67aad8933536e07b4b18f6b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1640,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+    "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-crypto-job-interview-nearly-installed-malware-on-my-computer.jpg",
+    "publishedAt": "2026-11-12T05:07:11.000Z",
+    "collectedAt": "2026-11-12T09:14:15.079Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a0670bd379e9c2d618c077a1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-12T09:14:18.347Z",
+    "outcome": {
+      "event": {
+        "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+        "fingerprint": "a0670bd379e9c2d618c077a1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1641,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "$1.04B out of Bitcoin ETFs &#8211; Short term holders plunge into net unrealized losses",
+    "link": "https://ambcrypto.com/1-04b-out-of-bitcoin-etfs-short-term-holders-plunge-into-net-unrealized-losses/",
+    "summary": "Bitcoin market participants have multiple reasons to be bearish, such as heavy liquidations, ETF flows, and institutional holders selling.",
+    "image": null,
+    "publishedAt": "2026-11-12T05:00:41.000Z",
+    "collectedAt": "2026-11-12T09:14:15.079Z",
+    "corroboratingSources": 1,
+    "fingerprint": "89f4f7276a8c989723e57266",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-12T09:14:20.536Z",
+    "outcome": {
+      "event": {
+        "title": "$1.04B out of Bitcoin ETFs &#8211; Short term holders plunge into net unrealized losses",
+        "fingerprint": "89f4f7276a8c989723e57266"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1642,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+    "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77BC08M1JK1359QWDPVF1FQ/blackrock-2-billion.png",
+    "publishedAt": "2026-11-12T08:06:48.000Z",
+    "collectedAt": "2026-11-12T09:14:15.079Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6778fc02233c41f0f5d729de",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T09:14:21.909Z",
+    "outcome": {
+      "event": {
+        "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+        "fingerprint": "6778fc02233c41f0f5d729de"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1643,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Deutsche Bank Opens Digital Asset Custody to Paying Institutional Clients",
+    "link": "https://u.today/deutsche-bank-opens-digital-asset-custody-to-paying-institutional-clients",
+    "summary": "Deutsche Bank has launched digital asset custody for institutional clients.",
+    "image": null,
+    "publishedAt": "2026-11-11T10:18:43.000Z",
+    "collectedAt": "2026-11-12T09:14:15.079Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b08746a8c3da3448b17e85c8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-12T09:14:24.333Z",
+    "outcome": {
+      "event": {
+        "title": "Deutsche Bank Opens Digital Asset Custody to Paying Institutional Clients",
+        "fingerprint": "b08746a8c3da3448b17e85c8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1644,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

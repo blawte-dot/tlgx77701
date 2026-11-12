@@ -10670,5 +10670,40 @@
     "hasImage": true,
     "eventFingerprint": "67f68b5258eeff9cbda570eb",
     "timestamp": "2026-11-12T01:17:28.159Z"
+  },
+  {
+    "messageId": 1640,
+    "text": "South Korean regulators are drawing a hard legal line between exchange solvency and user safety. \n\nLocal platforms will soon be legally permitted to freeze crypto withdrawals immediately when facing credible hacking threats or security breaches. \n\nThe policy shift comes directly on the heels of recent incidents, including GOPAX suspending services and a $70,000 hot-wallet breach at Prabang. \n\nWhile temporary freezes frustrate users in the short term, regulators are prioritizing systemic containment over uninterrupted liquidity during active attacks. \n\n#SouthKorea",
+    "hasImage": true,
+    "eventFingerprint": "d67aad8933536e07b4b18f6b",
+    "timestamp": "2026-11-12T09:14:17.160Z"
+  },
+  {
+    "messageId": 1641,
+    "text": "Security foresight met harsh reality in the worst possible way. \n\nBack in July, Binance Chief Security Officer Jimmy Su mapped out a specific threat vector during an interview: attackers using fake coding assessments to compromise engineer devices and infiltrate internal systems. \n\nUnbeknownst to anyone at the time, that exact blueprint was quietly laying the groundwork for a record-breaking $6.3 billion exploit. \n\nThe foresight is documented, but the execution window caught the industry off guard. Investigation teams are still tracing how the blueprint went from theoretical interview talking point to devastating operational breach.",
+    "hasImage": true,
+    "eventFingerprint": "a0670bd379e9c2d618c077a1",
+    "timestamp": "2026-11-12T09:14:18.329Z"
+  },
+  {
+    "messageId": 1642,
+    "text": "Institutional capital is pulling back fast. \n\nSpot Bitcoin ETFs recorded $1.04 billion in net outflows over the latest stretch, marking one of the heaviest periods of institutional distribution in recent months. \n\nAt the same time, short-term holders have slipped firmly back into net unrealized losses. When recent buyers are underwater and products like IBIT and FBTC see sustained redemptions, macro pressure tends to build quickly across the order books. \n\nHeavy liquidations are compounding the move. Market participants are navigating a tightening liquidity window as spot demand cools and leveraged longs get flushed out.",
+    "hasImage": true,
+    "eventFingerprint": "89f4f7276a8c989723e57266",
+    "timestamp": "2026-11-12T09:14:20.515Z"
+  },
+  {
+    "messageId": 1643,
+    "text": "Are institutional appetite and the spot ETF narrative hitting a wall?\n\nUS spot Bitcoin ETFs just extended their withdrawal streak, with BlackRock's IBIT driving the recent pressure as multi-session outflows cross the $2 billion threshold. \n\nWednesday saw net withdrawals climb to nearly $300 million, accelerating from $95 million the prior session and pushing five-day industry outflows to $1.44 billion. \n\nMarkets are watching closely to see if this marks a structural pause in institutional accumulation or simply a routine rebalancing phase.",
+    "hasImage": true,
+    "eventFingerprint": "6778fc02233c41f0f5d729de",
+    "timestamp": "2026-11-12T09:14:21.889Z"
+  },
+  {
+    "messageId": 1644,
+    "text": "Traditional banking's digital asset wall just came down.\n\nDeutsche Bank is officially rolling out crypto custody services for institutional clients, moving past the testing phase into live commercial operations. \n\nThe move integrates digital asset storage directly into the German banking giant's core infrastructure. \n\nWall Street and European finance continue quietly building the rails for institutional capital, regardless of short-term retail sentiment.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "b08746a8c3da3448b17e85c8",
+    "timestamp": "2026-11-12T09:14:24.308Z"
   }
 ]
