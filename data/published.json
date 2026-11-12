@@ -12275,5 +12275,45 @@
     "hasImage": true,
     "eventFingerprint": "e24a766a13e97d5031b5372c",
     "timestamp": "2026-11-12T17:55:02.896Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1650,
+    "text": "State-sponsored hackers are pivoting to the memecoin mania to wash their digital loot.\n\nRecent analysis indicates that North Korean actors behind the Binance-linked exploits are now deploying custom memecoins to launder stolen assets through decentralized liquidity pools. By creating artificial volume and trading against their own illicit holdings, these groups are attempting to obfuscate the origin of funds that have been under heavy scrutiny by international investigators.\n\nIn parallel, traditional finance is further encroaching on the digital asset space.\n\nThe xStocks platform has announced plans to integrate hundreds of Hong Kong-listed equities over the coming weeks. This expansion aims to bridge the gap between regional equity markets and blockchain-based tokenization, potentially allowing users to trade blue-chip shares via a decentralized infrastructure.\n\nTwo distinct signals from Asia today: one highlighting the ongoing sophistication of illicit exploitation, the other signaling a maturation of institutional-grade RWA integration.",
+    "hasImage": true,
+    "eventFingerprint": "b100cc27ba5cd9f2891982d4",
+    "timestamp": "2026-11-12T23:10:48.292Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1651,
+    "text": "The U.S. government is reclaiming the digital battlefield.\n\nFederal authorities have dismantled the infrastructure behind \"FaceStealer,\" a sophisticated operation linked to North Korean state-sponsored actors. The campaign is tied to the theft of roughly $400 million in cryptocurrency, part of a broader crackdown on a $1.2 billion illicit portfolio.\n\nBy seizing domains and infrastructure used to facilitate these massive heists, the DOJ is attempting to sever the technical backbone of Pyongyang’s primary revenue stream. \n\nThis move follows a long string of high-profile attacks, including the infamous breach of Binance-related entities, as the U.S. shifts toward offensive disruption rather than mere monitoring. For the crypto ecosystem, the message is clear: the era of unchecked state-sponsored exploits is meeting a more aggressive, coordinated federal response.",
+    "hasImage": true,
+    "eventFingerprint": "14fe4a93c76f70b15c68b92d",
+    "timestamp": "2026-11-12T23:10:49.561Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1652,
+    "text": "Regulatory oversight for U.S. crypto markets faces a significant shakeup.\n\nPresident Trump has formally nominated four new commissioners to fill long-standing vacancies at the SEC and the CFTC. These appointments mark the first time in over a year that both agencies have seen an attempt to reach full staffing levels.\n\nThe shift is notable for the digital asset industry. The SEC and CFTC have frequently clashed over jurisdictional authority regarding crypto assets, and the composition of these boards often dictates the aggressive or accommodative posture of agency enforcement actions.\n\nMarkets will be watching for the confirmation hearings. The balance of power within these commissions directly impacts the regulatory framework for exchange operations, token classifications, and derivatives trading in the United States. ⚖️",
+    "hasImage": true,
+    "eventFingerprint": "3ea631f1b8d97a1a2c039d95",
+    "timestamp": "2026-11-12T23:10:50.892Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1653,
+    "text": "Is Wall Street finally betting on Solana’s throughput?\n\nThe Depository Trust & Clearing Corporation (DTCC) is expanding its tokenization roadmap, incorporating Solana into plans for tokenized stocks, ETFs, and U.S. Treasuries. \n\nWhile the infrastructure giant has previously focused on the Stellar and Arc networks, this move signals a broader institutional pivot toward high-performance chains. \n\nProjected for a 2027 rollout, the initiative aims to modernize settlement processes for traditional assets. The integration marks a significant validation of Solana’s capacity to handle regulated financial infrastructure at scale.",
+    "hasImage": true,
+    "eventFingerprint": "5d2bf713adf91d0089d0d4dc",
+    "timestamp": "2026-11-12T23:10:52.035Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1654,
+    "text": "A rare confluence of macro headwinds is testing the resolve of crypto bulls today.\n\nBitcoin has retreated below $72,000 as a wave of selling pressure washes over risk assets. The shift in sentiment follows a dual-pronged blow: a distinctly hawkish tone from the Federal Reserve and the unexpected resignation of Nvidia CEO Jensen Huang.\n\nEconomic data adds to the gloom. Existing home sales have cratered to their lowest level in 16 years, signaling deep structural weakness in the housing market even as interest rates continue to climb. \n\nMarkets are now recalibrating expectations for liquidity, with high-beta assets bearing the brunt of the repricing.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "cd7b1f517f01eb076a034822",
+    "timestamp": "2026-11-12T23:10:53.794Z"
   }
 ]

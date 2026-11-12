@@ -65285,5 +65285,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+    "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+    "publishedAt": "2026-11-12T22:29:58.000Z",
+    "collectedAt": "2026-11-12T23:10:45.896Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b100cc27ba5cd9f2891982d4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-12T23:10:48.303Z",
+    "outcome": {
+      "event": {
+        "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+        "fingerprint": "b100cc27ba5cd9f2891982d4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1650,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+    "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+    "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/801c568ca77ca8b74a5f2ebc71165d5955c34070-5307x3538.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-12T22:55:52.000Z",
+    "collectedAt": "2026-11-12T23:10:45.895Z",
+    "corroboratingSources": 1,
+    "fingerprint": "14fe4a93c76f70b15c68b92d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-12T23:10:49.572Z",
+    "outcome": {
+      "event": {
+        "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+        "fingerprint": "14fe4a93c76f70b15c68b92d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1651,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "U.S. President names CFTC, SEC nominees for first time in a year",
+    "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+    "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d9fac63bf692475387cdfb0b3e58fb851370fe8-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-12T22:47:41.000Z",
+    "collectedAt": "2026-11-12T23:10:45.895Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3ea631f1b8d97a1a2c039d95",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-12T23:10:50.905Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. President names CFTC, SEC nominees for first time in a year",
+        "fingerprint": "3ea631f1b8d97a1a2c039d95"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1652,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+    "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+    "summary": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-12T15:45:48.000Z",
+    "collectedAt": "2026-11-12T23:10:45.895Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5d2bf713adf91d0089d0d4dc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-12T23:10:52.045Z",
+    "outcome": {
+      "event": {
+        "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+        "fingerprint": "5d2bf713adf91d0089d0d4dc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1653,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+    "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+    "summary": "The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years.",
+    "image": null,
+    "publishedAt": "2026-11-12T09:15:04.000Z",
+    "collectedAt": "2026-11-12T23:10:45.895Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cd7b1f517f01eb076a034822",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-12T23:10:53.807Z",
+    "outcome": {
+      "event": {
+        "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+        "fingerprint": "cd7b1f517f01eb076a034822"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1654,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
