@@ -65900,5 +65900,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+    "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+    "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg",
+    "publishedAt": "2026-11-13T18:36:02.000Z",
+    "collectedAt": "2026-11-13T20:18:11.595Z",
+    "corroboratingSources": 1,
+    "fingerprint": "61933f8bde9fe64675f7eab8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-13T20:18:15.663Z",
+    "outcome": {
+      "event": {
+        "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+        "fingerprint": "61933f8bde9fe64675f7eab8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1664,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+    "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+    "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d6f178b9823ada860129fe771c32694011310c3-3524x1982.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-13T17:05:43.000Z",
+    "collectedAt": "2026-11-13T20:18:11.595Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d5c81aad4bd777de0e9d1663",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-13T20:18:18.012Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+        "fingerprint": "d5c81aad4bd777de0e9d1663"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1665,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Strategy Sends Crucial Message on Bitcoin's Quantum Security",
+    "link": "https://u.today/strategy-sends-crucial-message-on-bitcoins-quantum-security",
+    "summary": "Strategy, the world's largest corporate Bitcoin holder, has weighed in on the growing quantum computing threat, stressing that Bitcoin can adopt quantum-resistant security upgrades when necessary.",
+    "image": null,
+    "publishedAt": "2026-11-13T19:19:38.000Z",
+    "collectedAt": "2026-11-13T20:18:11.595Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7a135c09df4c19bc9965fe45",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-13T20:18:21.939Z",
+    "outcome": {
+      "event": {
+        "title": "Strategy Sends Crucial Message on Bitcoin's Quantum Security",
+        "fingerprint": "7a135c09df4c19bc9965fe45"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1666,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin dips below $70K &#8211; Will $455M in liquidations derail BTC&#8217;s price recovery?",
+    "link": "https://ambcrypto.com/bitcoin-dips-below-70k-will-455m-in-liquidations-derail-btcs-price-recovery/",
+    "summary": "Bitcoin falls below $70K as $856M in liquidations, weak demand, and ETF outflows deepen market pressure.",
+    "image": null,
+    "publishedAt": "2026-11-13T17:00:20.000Z",
+    "collectedAt": "2026-11-13T20:18:11.595Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6f260c5b635597d884b5173e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-13T20:18:24.765Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin dips below $70K &#8211; Will $455M in liquidations derail BTC&#8217;s price recovery?",
+        "fingerprint": "6f260c5b635597d884b5173e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1667,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+    "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+    "summary": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-11-13T20:16:03.000Z",
+    "collectedAt": "2026-11-13T20:18:11.595Z",
+    "corroboratingSources": 1,
+    "fingerprint": "87ee340a6f29761f4a7b1591",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-13T20:18:26.949Z",
+    "outcome": {
+      "event": {
+        "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+        "fingerprint": "87ee340a6f29761f4a7b1591"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1668,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -12387,5 +12387,45 @@
     "hasImage": true,
     "eventFingerprint": "b7fed03b7227476a5160744e",
     "timestamp": "2026-11-13T12:53:34.489Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1664,
+    "text": "The Federal Reserve is pivoting its focus toward a new, unpredictable variable: the inflationary impact of artificial intelligence.\n\nFed Governor Kevin Warsh has signaled that the central bank is actively investigating whether AI-driven productivity gains will act as a structural deflationary force or if the massive capital expenditure required to scale these systems will keep prices—and interest rates—higher for longer.\n\nThis isn’t just an academic exercise. If the Fed concludes that AI infrastructure spending contributes to sticky inflation, the \"higher for longer\" rate environment could persist, tightening liquidity conditions that typically act as a headwind for high-beta assets like Bitcoin. \n\nConversely, if AI drives a sustained surge in productivity, the Fed may find more room to cut rates, potentially favoring risk-on assets. \n\nFor crypto markets, the narrative is shifting from pure monetary policy to a complex debate over technological deflation. How the Fed balances this AI-driven supply shock against traditional demand-side inflation will likely dictate the next phase of the macro cycle.\n\n#Macro",
+    "hasImage": true,
+    "eventFingerprint": "61933f8bde9fe64675f7eab8",
+    "timestamp": "2026-11-13T20:18:15.650Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1665,
+    "text": "The Senate Banking Committee is fast-tracking a total overhaul of the SEC.\n\nLawmakers have scheduled confirmation hearings for President Trump’s nominees to the commission for next week, signaling an intent to shift the agency’s regulatory posture with unusual speed.\n\nThe committee’s rapid response indicates a coordinated effort to install new leadership before the end of the year. For the digital asset industry, this transition represents a pivotal window to exit the \"regulation by enforcement\" era that defined the previous term.\n\nWith the SEC’s top brass currently in flux, the incoming commissioners will face immediate pressure to clarify rules on staking, custody, and token classification. These hearings serve as the formal opening of that transition.",
+    "hasImage": true,
+    "eventFingerprint": "d5c81aad4bd777de0e9d1663",
+    "timestamp": "2026-11-13T20:18:18.000Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1666,
+    "text": "Quantum computing remains the single largest theoretical existential risk to Bitcoin’s cryptographic foundations.\n\nMicroStrategy, currently the world’s largest corporate holder of BTC, is pushing back against the narrative that these advances render the network obsolete. In a recent disclosure, the firm noted that Bitcoin’s protocol is not static. \n\nThe architecture allows for security upgrades, including the implementation of quantum-resistant algorithms, should the need arise. \n\nThe transition would theoretically require a soft or hard fork, a process that relies on network consensus. While the threat is years—or perhaps decades—from maturity, the firm's stance underscores a shift toward active long-term protocol maintenance rather than passive reliance on legacy security. \n\nThe underlying message is clear: Bitcoin is designed to evolve alongside the technology meant to compromise it.",
+    "hasImage": true,
+    "eventFingerprint": "7a135c09df4c19bc9965fe45",
+    "timestamp": "2026-11-13T20:18:21.922Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1667,
+    "text": "Bitcoin’s push to reclaim $70,000 has hit a sharp structural wall.\n\nLiquidations across the crypto market have surged to $856 million, with roughly $455 million attributed directly to Bitcoin longs caught offside as the asset retreated.\n\nThe selling pressure isn't isolated to leverage. Spot markets are seeing a clear cooling in demand, compounded by notable outflows from US-based Bitcoin ETFs. Institutional appetite, which served as the primary engine for recent price appreciation, appears to be hitting a period of consolidation.\n\nTechnically, the breakdown below the $70k psychological support level shifts the immediate burden of proof to buyers. Without a swift return of institutional inflows to offset the current deleveraging, the market may face a prolonged test of lower support zones. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "6f260c5b635597d884b5173e",
+    "timestamp": "2026-11-13T20:18:24.754Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1668,
+    "text": "Wall Street is no longer just observing the crypto ecosystem; it is actively integrating it into the core of its institutional portfolio.\n\nJPMorgan’s Q3 13F filing reveals the bank now holds approximately $981 million in crypto-linked assets. This figure covers exposure across spot Bitcoin ETFs, Bitcoin strategy products, and Coinbase equity.\n\nWhen factoring in additional holdings in Robinhood and various public mining firms, estimates suggest the total institutional position likely exceeds the $1 billion threshold.\n\nFor a firm that once labeled Bitcoin a \"fraud,\" this capital allocation signals a definitive shift in institutional risk appetite. JPMorgan is not just facilitating client trades; it is positioning its own balance sheet to capitalize on the maturation of digital asset markets.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "87ee340a6f29761f4a7b1591",
+    "timestamp": "2026-11-13T20:18:26.935Z"
   }
 ]
