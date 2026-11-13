@@ -65695,5 +65695,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Whale Alert: Four Traders Liquidated for More Than $10M Apiece",
+    "link": "https://cryptopotato.com/whale-alert-four-traders-liquidated-for-more-than-10m-apiece/",
+    "summary": "One wallet's liquidation records included more than 12,700 ETH and 536 BTC, exposing the scale of leveraged positions held by whales.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/09/killer-whales-591130_640-1.jpg",
+    "publishedAt": "2026-11-13T10:07:28.000Z",
+    "collectedAt": "2026-11-13T12:52:59.155Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cf32fe6617b7a06c11362831",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-13T12:53:21.391Z",
+    "outcome": {
+      "event": {
+        "title": "Whale Alert: Four Traders Liquidated for More Than $10M Apiece",
+        "fingerprint": "cf32fe6617b7a06c11362831"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1660,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
+    "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
+    "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-14.59.24.png",
+    "publishedAt": "2026-11-13T12:27:41.000Z",
+    "collectedAt": "2026-11-13T12:52:59.155Z",
+    "corroboratingSources": 1,
+    "fingerprint": "14b5883a80154fde9e6bc5ce",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-13T12:53:23.073Z",
+    "outcome": {
+      "event": {
+        "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
+        "fingerprint": "14b5883a80154fde9e6bc5ce"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1661,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+    "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+    "summary": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-12.11.30.png",
+    "publishedAt": "2026-11-13T09:59:16.000Z",
+    "collectedAt": "2026-11-13T12:52:59.155Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3f4251b34d691908e555e8a7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-13T12:53:31.177Z",
+    "outcome": {
+      "event": {
+        "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+        "fingerprint": "3f4251b34d691908e555e8a7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1662,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Nvidia Futures Top XRP in Crypto Liquidations as Jensen Huang’s Exit Sparks $2.14 Billion Surge",
+    "link": "https://u.today/nvidia-futures-top-xrp-in-crypto-liquidations-as-jensen-huangs-exit-sparks-214-billion-surge",
+    "summary": "Nvidia futures liquidations hit $40.86 million, almost double XRP’s, as NVDA trading on Hyperliquid reached a record $2.14 billion after Jensen Huang’s exit.",
+    "image": null,
+    "publishedAt": "2026-11-13T12:36:45.000Z",
+    "collectedAt": "2026-11-13T12:52:59.155Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b7fed03b7227476a5160744e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-13T12:53:34.504Z",
+    "outcome": {
+      "event": {
+        "title": "Nvidia Futures Top XRP in Crypto Liquidations as Jensen Huang’s Exit Sparks $2.14 Billion Surge",
+        "fingerprint": "b7fed03b7227476a5160744e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1663,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+    "summary": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b632a654251b193a137eced80be2bec14bb635-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-13T11:52:25.000Z",
+    "collectedAt": "2026-11-13T12:52:59.155Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6a527989347026d265a39b0d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-13T12:53:40.653Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+        "fingerprint": "6a527989347026d265a39b0d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "api_error",
+          "error": "request to https://api.telegram.org/bot8971140095:AAHUHsjDsXV0mO5jTtziIbRz1pDoZBb5uYc/sendPhoto failed, reason: "
+        }
+      }
+    }
   }
 ]

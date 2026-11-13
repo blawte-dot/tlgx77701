@@ -12355,5 +12355,37 @@
     "hasImage": true,
     "eventFingerprint": "dcbaca5bc8ee3a6be7fb37df",
     "timestamp": "2026-11-13T04:56:44.485Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1660,
+    "text": "Leverage has once again turned against the largest participants in the market.\n\nFour individual whale accounts were liquidated for over $10 million each in a single session, signaling a violent flush of over-extended positions.\n\nOne specific wallet liquidation reveals the sheer scale of the bets being placed: 12,700 ETH and 536 BTC were forcibly sold off as prices hit stop-loss triggers.\n\nData from CryptoPotato highlights that these weren't retail-sized entries, but institutional-grade positions that failed to survive the recent volatility. This level of liquidation suggests that even the deepest-pocketed traders were caught off guard by the latest price action, forcing the market to absorb massive sell pressure in a compressed timeframe.\n\nExpect heightened sensitivity as the market adjusts to the sudden removal of this liquidity.",
+    "hasImage": true,
+    "eventFingerprint": "cf32fe6617b7a06c11362831",
+    "timestamp": "2026-11-13T12:53:21.382Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1661,
+    "text": "Central banks are testing the infrastructure for a tokenized global financial system.\n\nMonetary authorities in the UK, Singapore, and Thailand have concluded a joint trial focused on cross-border foreign exchange settlement. The project utilized Partior’s synchronization prototype to bridge the gap between traditional banking ledgers and tokenized assets.\n\nThe findings highlight a shift toward \"atomic\" settlement—the near-instant exchange of assets and cash. By removing the reliance on correspondent banking intermediaries, the trial aimed to reduce the time and counterparty risk typically associated with multi-day FX clearing.\n\nWhile still in the experimentation phase, this collaboration signals a growing appetite among G7 and Asian regulators to integrate blockchain-based rails into legacy monetary frameworks. The focus is no longer on experimental pilot projects, but on solving the technical friction inherent in global capital flows.",
+    "hasImage": true,
+    "eventFingerprint": "14b5883a80154fde9e6bc5ce",
+    "timestamp": "2026-11-13T12:53:23.063Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1662,
+    "text": "JPMorgan is quietly building a significant position in the Bitcoin spot ETF market.\n\nNew regulatory filings reveal the banking giant increased its holdings in BlackRock’s iShares Bitcoin Trust (IBIT) to 11.4 million shares during the third quarter. This move cements the firm’s expanding footprint in digital asset infrastructure.\n\nData also shows a 36% rise in the bank's strategy share holdings, adding 224,545 shares over the same period. \n\nThese filings underscore a broader institutional trend: traditional finance continues to integrate crypto-linked products into their portfolios despite ongoing macroeconomic uncertainty. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "3f4251b34d691908e555e8a7",
+    "timestamp": "2026-11-13T12:53:31.169Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1663,
+    "text": "Nvidia is now a crypto-native volatility play.\n\nTrading volume for NVDA futures on the decentralized exchange Hyperliquid surged to a record $2.14 billion following news of Jensen Huang’s exit. The move has triggered significant market dislocation, with Nvidia futures liquidations reaching $40.86 million.\n\nTo put the scale into perspective, that figure is nearly double the liquidation volume seen in XRP over the same period. \n\nWhile the broader crypto market remains focused on native assets, the migration of traditional equity-based derivatives into the on-chain ecosystem is accelerating. This decoupling from standard broker hours has turned NVDA into a high-octane speculative vehicle for crypto traders, with liquidations serving as the primary indicator of retail exposure.",
+    "hasImage": true,
+    "eventFingerprint": "b7fed03b7227476a5160744e",
+    "timestamp": "2026-11-13T12:53:34.489Z"
   }
 ]
