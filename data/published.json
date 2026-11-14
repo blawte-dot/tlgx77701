@@ -12547,5 +12547,45 @@
     "hasImage": true,
     "eventFingerprint": "ea0cf94847385f2c418f6376",
     "timestamp": "2026-11-14T15:32:29.730Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1684,
+    "text": "Institutional capital has effectively hit pause on digital assets.\n\nU.S. spot crypto ETFs shed roughly $1.55 billion last week, marking the second consecutive seven-day period of heavy outflows exceeding $1 billion. \n\nOut of the fifteen distinct asset categories tracked by SoSoValue, fourteen registered net redemptions. The single exception was Avalanche funds, which managed a modest $227,000 in weekly inflows against the prevailing market trend. \n\nBitcoin products bore the brunt of the liquidations as broader macro uncertainty weighs on risk-on allocations. Volume figures indicate sustained distribution rather than panic selling, pointing to a broader portfolio rebalancing by institutional participants.",
+    "hasImage": true,
+    "eventFingerprint": "0f0ea16d569be459e44db4bf",
+    "timestamp": "2026-11-14T20:22:47.217Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1685,
+    "text": "31 prediction markets are at the center of a escalating showdown between state officials and federal regulators. ⚖️\n\nThe Louisiana Attorney General fired back at CFTC Chair Rostin Behnam on Friday, labeling the agency an \"obsequious standard bearer\" for the sector after the federal regulator filed a lawsuit against the state. \n\nThe move aims to block a local judge's order that had effectively banned platforms like Kalshi and Polymarket within Louisiana borders. \n\nJurisdictional lines between federal oversight and state authority are officially being drawn in real time.",
+    "hasImage": true,
+    "eventFingerprint": "1d829ea32f6f9289821e4485",
+    "timestamp": "2026-11-14T20:22:48.280Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1686,
+    "text": "A full month of absolute zero trading volume tells its own story about institutional appetite for Dogecoin right now. \n\nAs DOGE grinds lower and the broader market shifts focus elsewhere, those newly launched ETFs are sitting completely dormant. \n\nWhere does demand go from here when even speculative vehicles fail to register a single trade for thirty straight days? Let's hear your read on this in the comments.",
+    "hasImage": true,
+    "eventFingerprint": "7962c3c97c2cd9d4a4adbcf1",
+    "timestamp": "2026-11-14T20:22:50.187Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1687,
+    "text": "Index rebalancing forces tracking funds into automated selling, separating passive index churn from fundamental company distress or exchange delisting. \n\nWhen a major market index drops a holding, the resulting liquidity shift hits long before underlying fundamentals change. \n\nHow do you position your portfolio ahead of scheduled index rebalances, or do you view the resulting price dislocation purely as noise?",
+    "hasImage": true,
+    "eventFingerprint": "5abb4d8180cd1409802a03fc",
+    "timestamp": "2026-11-14T20:22:51.261Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1688,
+    "text": "Custody isn't just about cold storage anymore.\n\nCoinbase has secured final OCC clearance for its US trust company, locking in a federal regulatory framework for its institutional custody arm. \n\nThe charter follows conditional approval granted back in April. \n\nCrucially, the clearance does not grant commercial banking status. Instead, it establishes federal oversight specifically tailored to digital asset custody operations.",
+    "hasImage": true,
+    "eventFingerprint": "3f162baafd6c5d6713ad8985",
+    "timestamp": "2026-11-14T20:22:52.151Z"
   }
 ]

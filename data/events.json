@@ -66720,5 +66720,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+    "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+    "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
+    "publishedAt": "2026-11-14T17:50:41.000Z",
+    "collectedAt": "2026-11-14T20:22:45.280Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0f0ea16d569be459e44db4bf",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-14T20:22:47.228Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+        "fingerprint": "0f0ea16d569be459e44db4bf"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1684,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+    "link": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+    "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
+    "publishedAt": "2026-11-14T19:06:59.000Z",
+    "collectedAt": "2026-11-14T20:22:45.280Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1d829ea32f6f9289821e4485",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-14T20:22:48.289Z",
+    "outcome": {
+      "event": {
+        "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+        "fingerprint": "1d829ea32f6f9289821e4485"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1685,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Dogecoin ETFs Mark One Month of Zero Activity",
+    "link": "https://u.today/dogecoin-etfs-mark-one-month-of-zero-activity",
+    "summary": "Dogecoin ETFs have remained silent for the past month, recording zero trading activity over the period as Dogecoin's price continues to trend downward.",
+    "image": null,
+    "publishedAt": "2026-11-14T10:02:27.000Z",
+    "collectedAt": "2026-11-14T20:22:45.280Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7962c3c97c2cd9d4a4adbcf1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-14T20:22:50.198Z",
+    "outcome": {
+      "event": {
+        "title": "Dogecoin ETFs Mark One Month of Zero Activity",
+        "fingerprint": "7962c3c97c2cd9d4a4adbcf1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1686,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Who Sells Shares When a Stock Leaves a Market Index?",
+    "link": "https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index",
+    "summary": "An index change can prompt tracking funds to sell shares. That is different from exchange delisting—or a bitcoin-holding company selling its coins.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/059495e1e5d62fbf259c043afac58d210e874f8a-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-14T18:14:23.000Z",
+    "collectedAt": "2026-11-14T20:22:45.280Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5abb4d8180cd1409802a03fc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-14T20:22:51.270Z",
+    "outcome": {
+      "event": {
+        "title": "Who Sells Shares When a Stock Leaves a Market Index?",
+        "fingerprint": "5abb4d8180cd1409802a03fc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1687,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Coinbase Wins Final OCC Clearance for US Trust Company",
+    "link": "https://thedefiant.io/converge/cefi/coinbase-wins-final-occ-clearance-for-us-trust-company",
+    "summary": "The charter brings a federal framework to Coinbase’s custody business, following conditional approval in April. It does not make the exchange a commercial bank.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/3572b7ec4a13280ffd2eda30d69194a63a72dd99-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-13T21:11:54.000Z",
+    "collectedAt": "2026-11-14T20:22:45.280Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3f162baafd6c5d6713ad8985",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-14T20:22:52.161Z",
+    "outcome": {
+      "event": {
+        "title": "Coinbase Wins Final OCC Clearance for US Trust Company",
+        "fingerprint": "3f162baafd6c5d6713ad8985"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1688,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
