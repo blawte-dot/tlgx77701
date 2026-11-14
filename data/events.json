@@ -66310,5 +66310,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Is Not in Free Fall According to Bollinger Bands, Even After Nine Red Days",
+    "link": "https://u.today/xrp-is-not-in-free-fall-according-to-bollinger-bands-even-after-nine-red-days",
+    "summary": "XRP fell below $1 for the first time since August after nine red days, but weekly Bollinger Bands show no free fall and whale wallets hit a 2026 high.",
+    "image": null,
+    "publishedAt": "2026-11-14T04:00:00.000Z",
+    "collectedAt": "2026-11-14T08:32:40.480Z",
+    "corroboratingSources": 1,
+    "fingerprint": "731f5464da9f3a910b741cd6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-14T08:32:49.333Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Is Not in Free Fall According to Bollinger Bands, Even After Nine Red Days",
+        "fingerprint": "731f5464da9f3a910b741cd6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1674,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+    "link": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+    "summary": "Elizabeth Warren&#039;s next confrontation with crypto could put companies and regulators under serious pressure without changing a single law. With Democrats taking control of the Senate, she&#039;s expected to chair the Senate Banking Committee in January, giving her more say over which hearings it holds and what it investigates. She&#039;s already asked for crypto companies&#039;…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catal",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-custody-records-labyrinth.webp",
+    "publishedAt": "2026-11-14T08:10:11.000Z",
+    "collectedAt": "2026-11-14T08:32:40.480Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9ba940ddddbcbd9034f1ce2a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-14T08:32:50.806Z",
+    "outcome": {
+      "event": {
+        "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+        "fingerprint": "9ba940ddddbcbd9034f1ce2a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1675,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg",
+    "publishedAt": "2026-11-14T06:33:13.000Z",
+    "collectedAt": "2026-11-14T08:32:40.480Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6a6d922257e6f3ed7c3bd911",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-14T08:33:01.139Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+        "fingerprint": "6a6d922257e6f3ed7c3bd911"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1676,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+    "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220518_Meta-Facebook-Mark-Zuckerberg.jpg",
+    "publishedAt": "2026-11-14T05:40:00.000Z",
+    "collectedAt": "2026-11-14T08:32:40.480Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ea68a2f2c265d285af2f39c4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-14T08:33:12.154Z",
+    "outcome": {
+      "event": {
+        "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+        "fingerprint": "ea68a2f2c265d285af2f39c4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1677,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
+    "link": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
+    "summary": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/congress-outside-alt-e1576830696475.jpg",
+    "publishedAt": "2026-11-13T19:09:12.000Z",
+    "collectedAt": "2026-11-14T08:32:40.480Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ede67deb3fc3c7a2ac757a11",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-14T08:33:18.169Z",
+    "outcome": {
+      "event": {
+        "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
+        "fingerprint": "ede67deb3fc3c7a2ac757a11"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1678,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
