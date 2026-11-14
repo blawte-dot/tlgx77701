@@ -66515,5 +66515,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Binance Tightens Security With Zero-Knowledge Proof Upgrade",
+    "link": "https://u.today/binance-tightens-security-with-zero-knowledge-proof-upgrade",
+    "summary": "Binance draws attention to a major security upgrade that allows users to independently verify that their assets on the exchange are fully backed at a minimum 1:1 ratio.",
+    "image": null,
+    "publishedAt": "2026-11-14T13:02:11.000Z",
+    "collectedAt": "2026-11-14T15:31:23.809Z",
+    "corroboratingSources": 1,
+    "fingerprint": "06326f05c9f2860fbbb044cc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-14T15:31:32.703Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Tightens Security With Zero-Knowledge Proof Upgrade",
+        "fingerprint": "06326f05c9f2860fbbb044cc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1679,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+    "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg",
+    "publishedAt": "2026-11-14T10:34:06.000Z",
+    "collectedAt": "2026-11-14T15:31:23.809Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e9dcf651d58c13d2a04f970b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-14T15:31:33.804Z",
+    "outcome": {
+      "event": {
+        "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+        "fingerprint": "e9dcf651d58c13d2a04f970b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1680,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP ETFs Mark 1-Year Anniversary With 1.16 Billion XRP Accumulated",
+    "link": "https://u.today/xrp-etfs-mark-1-year-anniversary-with-116-billion-xrp-accumulated",
+    "summary": "XRP ETFs have marked one year since launch, boasting of impressive progress over the period as they have accumulated about 1.16 billion XRP since then.",
+    "image": null,
+    "publishedAt": "2026-11-14T11:43:59.000Z",
+    "collectedAt": "2026-11-14T15:31:23.809Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7c9a7c240de8a6a02ff05902",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-14T15:32:27.450Z",
+    "outcome": {
+      "event": {
+        "title": "XRP ETFs Mark 1-Year Anniversary With 1.16 Billion XRP Accumulated",
+        "fingerprint": "7c9a7c240de8a6a02ff05902"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1681,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+    "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+    "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png",
+    "publishedAt": "2026-11-13T21:36:03.000Z",
+    "collectedAt": "2026-11-14T15:31:23.809Z",
+    "corroboratingSources": 1,
+    "fingerprint": "849c6e5bb40eddbe34edc094",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-14T15:32:28.633Z",
+    "outcome": {
+      "event": {
+        "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+        "fingerprint": "849c6e5bb40eddbe34edc094"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1682,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+    "link": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+    "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+    "publishedAt": "2026-11-13T17:22:54.000Z",
+    "collectedAt": "2026-11-14T15:31:23.809Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ea0cf94847385f2c418f6376",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-14T15:32:29.745Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+        "fingerprint": "ea0cf94847385f2c418f6376"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1683,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

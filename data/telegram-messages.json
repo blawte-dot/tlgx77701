@@ -10943,5 +10943,40 @@
     "hasImage": true,
     "eventFingerprint": "ede67deb3fc3c7a2ac757a11",
     "timestamp": "2026-11-14T08:33:18.156Z"
+  },
+  {
+    "messageId": 1679,
+    "text": "Trust in centralized exchanges has become the primary currency of this cycle.\n\nBinance is rolling out a significant security upgrade centered on Zero-Knowledge Proofs (ZK-SNARKs). This technical shift allows users to independently verify that their assets held on the exchange are backed at a minimum 1:1 ratio.\n\nBy leveraging ZK-SNARKs, the exchange aims to provide cryptographic proof of solvency without compromising user privacy. It shifts the burden of proof from \"trust us\" to mathematical verification.\n\nWhile these tools improve transparency, the move highlights a broader industry trend: exchanges are under mounting pressure to prove their reserves in real-time. Whether this satisfies institutional demands for long-term auditability remains to be seen, but it represents a clear step toward technical accountability.",
+    "hasImage": true,
+    "eventFingerprint": "06326f05c9f2860fbbb044cc",
+    "timestamp": "2026-11-14T15:31:32.667Z"
+  },
+  {
+    "messageId": 1680,
+    "text": "Was the global Microsoft outage a result of a cyberattack?\n\nThe company has officially closed the book on that theory, confirming the disruption was caused by a network capacity upgrade issue. \n\nMicrosoft stated that the incident was not related to any security breach or AI-driven system failure. Systems are now reported to be back online and the root cause has been addressed.",
+    "hasImage": true,
+    "eventFingerprint": "e9dcf651d58c13d2a04f970b",
+    "timestamp": "2026-11-14T15:31:33.771Z"
+  },
+  {
+    "messageId": 1681,
+    "text": "One year on the market, exchange-traded funds holding XRP have pulled in roughly 1.16 billion tokens. \n\nThat accumulation rate reveals steady institutional absorption over the past twelve months, even as broader regulatory friction and choppy price action defined most of the timeline. \n\nDoes this scale of accumulation signal genuine long-term positioning by institutional players, or are these products simply soaking up early liquidity before a wider rotation? \n\nShare your read below.",
+    "hasImage": true,
+    "eventFingerprint": "7c9a7c240de8a6a02ff05902",
+    "timestamp": "2026-11-14T15:32:27.409Z"
+  },
+  {
+    "messageId": 1682,
+    "text": "Could federal officials soon be barred from betting on elections?\n\nA new House Oversight staff memorandum is urging Congress to weigh limits on prediction market trading by government personnel and military staff. \n\nThe recommendation follows concerns over suspicious trades on platforms like Kalshi and Polymarket involving individuals holding security clearances. \n\nLawmakers are now reviewing whether current ethics rules are enough to prevent potential insider wagering on policy outcomes.",
+    "hasImage": true,
+    "eventFingerprint": "849c6e5bb40eddbe34edc094",
+    "timestamp": "2026-11-14T15:32:28.602Z"
+  },
+  {
+    "messageId": 1683,
+    "text": "The summer rally has just been effectively erased.\n\nBitcoin touched a 12-week low earlier today, slipping back to levels last seen in August as macro pressure mounts across the board. \n\nSticky inflation prints and growing market conviction that the Federal Reserve isn't done raising rates yet are driving the broader risk-off move. \n\nAt the same time, persistent outflows from spot crypto exchange-traded products continue to weigh on spot liquidity. \n\nThe downside break leaves key technical support levels vulnerable as autumn trading volume kicks in.",
+    "hasImage": true,
+    "eventFingerprint": "ea0cf94847385f2c418f6376",
+    "timestamp": "2026-11-14T15:32:29.717Z"
   }
 ]
