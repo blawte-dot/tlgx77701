@@ -10873,5 +10873,40 @@
     "hasImage": true,
     "eventFingerprint": "87ee340a6f29761f4a7b1591",
     "timestamp": "2026-11-13T20:18:26.923Z"
+  },
+  {
+    "messageId": 1669,
+    "text": "Bitcoin is struggling to find a floor as the market braces for a liquidity shift.\n\nBTC is currently tracking toward its sixth consecutive weekly loss, down 21% year-to-date. The selling pressure is intensifying as investors pivot toward the blockbuster Anthropic IPO and react to leadership uncertainty at Nvidia.\n\nMacro headwinds are compounding the move. Expectations for future Federal Reserve rate cuts are cooling, drawing capital away from risk-on assets.\n\nFor now, the market is prioritizing liquidity for equity megacaps over digital assets. Monitor the $60k support level closely; a failure to hold could invite further downside volatility as institutional positioning shifts ahead of next week’s market events. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "dfdf1d79559d4f6b01f5742a",
+    "timestamp": "2026-11-14T01:15:20.899Z"
+  },
+  {
+    "messageId": 1670,
+    "text": "The industry is pivoting back to the physical vault.\n\nBlockstream has launched a new custody system in partnership with Thales, moving transaction signing onto dedicated, air-gapped hardware.\n\nCEO Adam Back is framing the move as a necessary return to basics, arguing that the complexity of modern software security is becoming a primary vector for systemic risk. \n\nBy isolating keys from internet-connected environments, the firm is betting that offline hardware remains the most reliable defense against sophisticated cyber threats.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "6700b4aaa1bdd70f586a6f04",
+    "timestamp": "2026-11-14T01:15:28.685Z"
+  },
+  {
+    "messageId": 1671,
+    "text": "A significant security breach may be unfolding at the world’s largest semiconductor manufacturer.\n\nUnconfirmed reports suggest that hackers are attempting to sell roughly 46,000 records allegedly belonging to TSMC employees. The actors are reportedly demanding a ransom of 3 BTC to prevent the public release of the sensitive data.\n\nWhile these claims have surfaced via third-party sources, they currently remain unverified. We are monitoring for official confirmation from TSMC regarding the integrity of their internal systems.\n\n#CyberSecurity",
+    "hasImage": true,
+    "eventFingerprint": "77913f719bc867f8b4b6eca6",
+    "timestamp": "2026-11-14T01:15:29.622Z"
+  },
+  {
+    "messageId": 1672,
+    "text": "$8.78 billion has been siphoned from the ecosystem this year, marking a new record for crypto exploits.\n\nTRON, Tether, and Chainalysis are now forming a joint task force to intercept illicit flows before they can be laundered. This collaborative shift marks a departure from the industry’s traditionally fragmented approach to security.\n\nWith hacks reaching an all-time high, do you believe centralized oversight by major infrastructure providers is the missing piece for market security, or does this cross a line into the decentralization ethos?\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "da621994e9d69aa16dd0cc8c",
+    "timestamp": "2026-11-14T01:15:38.409Z"
+  },
+  {
+    "messageId": 1673,
+    "text": "Summer is officially over and the market is dressing for a funeral.\n\nThe late summer rally has been fully liquidated, with Bitcoin slipping back toward bear market lows as the macro environment turns hostile.\n\nEquities are sliding alongside crypto, driven by a surging dollar and a Federal Reserve that has rediscovered its hawkish edge. The market expected a pivot; it got a reality check.\n\nLiquidity is tightening, and the relief rally is now just a memory.",
+    "hasImage": true,
+    "eventFingerprint": "2d775cf63e60988627b8fdac",
+    "timestamp": "2026-11-14T01:15:41.122Z"
   }
 ]

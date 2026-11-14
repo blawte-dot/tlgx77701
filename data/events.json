@@ -66105,5 +66105,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+    "summary": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b4d68fadf9f3b90acee75879d49cdd696b41c543-2268x1736.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-13T16:01:27.000Z",
+    "collectedAt": "2026-11-14T01:15:16.113Z",
+    "corroboratingSources": 2,
+    "fingerprint": "dfdf1d79559d4f6b01f5742a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-14T01:15:20.917Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+        "fingerprint": "dfdf1d79559d4f6b01f5742a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1669,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+    "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png",
+    "publishedAt": "2026-11-13T21:49:27.000Z",
+    "collectedAt": "2026-11-14T01:15:16.113Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6700b4aaa1bdd70f586a6f04",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-14T01:15:28.709Z",
+    "outcome": {
+      "event": {
+        "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+        "fingerprint": "6700b4aaa1bdd70f586a6f04"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1670,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "TSMC Confirms Employee Data Leak as Hackers Try to Sell 46,000 Records for Bitcoin",
+    "link": "https://cryptopotato.com/tsmc-confirms-employee-data-leak-as-hackers-try-to-sell-46000-records-for-bitcoin/",
+    "summary": "Hackers are reportedly demanding 3 Bitcoin for thousands of TSMC employee records, threatening to publish the data if nobody buys.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2023/09/Exploit_hack.jpg",
+    "publishedAt": "2026-11-13T22:42:27.000Z",
+    "collectedAt": "2026-11-14T01:15:16.113Z",
+    "corroboratingSources": 1,
+    "fingerprint": "77913f719bc867f8b4b6eca6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-14T01:15:29.637Z",
+    "outcome": {
+      "event": {
+        "title": "TSMC Confirms Employee Data Leak as Hackers Try to Sell 46,000 Records for Bitcoin",
+        "fingerprint": "77913f719bc867f8b4b6eca6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1671,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "TRON, Tether and Chainalysis launch task force as crypto hacks hit $8.78B",
+    "link": "https://ambcrypto.com/tron-tether-and-chainalysis-launch-task-force-as-crypto-hacks-hit-8-78b/",
+    "summary": "As 2026 becomes the year with the most crypto hacks, organizations are ramping up efforts to detect illicit activity before criminals move funds.",
+    "image": null,
+    "publishedAt": "2026-11-13T19:00:18.000Z",
+    "collectedAt": "2026-11-14T01:15:16.113Z",
+    "corroboratingSources": 1,
+    "fingerprint": "da621994e9d69aa16dd0cc8c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-14T01:15:38.428Z",
+    "outcome": {
+      "event": {
+        "title": "TRON, Tether and Chainalysis launch task force as crypto hacks hit $8.78B",
+        "fingerprint": "da621994e9d69aa16dd0cc8c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1672,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
+    "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+    "summary": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
+    "image": null,
+    "publishedAt": "2026-11-13T09:16:58.000Z",
+    "collectedAt": "2026-11-14T01:15:16.113Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2d775cf63e60988627b8fdac",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-14T01:15:41.141Z",
+    "outcome": {
+      "event": {
+        "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
+        "fingerprint": "2d775cf63e60988627b8fdac"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1673,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
