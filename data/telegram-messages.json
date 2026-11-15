@@ -11048,5 +11048,40 @@
     "hasImage": true,
     "eventFingerprint": "5359813912864d3fbc3e02e6",
     "timestamp": "2026-11-15T00:43:28.344Z"
+  },
+  {
+    "messageId": 1694,
+    "text": "When an emergency circuit breaker fails, the architecture behind the defense is usually what lets attackers through.\n\nUnconfirmed reports and post-mortems of a major exploit detail how Binance deposit routes continued feeding funds directly to a hacker's wallet even after automated halts were triggered. \n\nThe breakdown highlights a persistent vulnerability in cross-system communications during live incidents: while the user-facing UI and primary ledger can be frozen instantly, underlying automated routing scripts and smart contract authorizations often operate on independent execution queues. \n\nIf those background relays take minutes to flush or require manual intervention across isolated validator nodes, automated scripts can keep bridging assets straight into attacker control before the network fully responds.",
+    "hasImage": true,
+    "eventFingerprint": "aa2a510792c219b787e670b2",
+    "timestamp": "2026-11-15T07:30:34.873Z"
+  },
+  {
+    "messageId": 1695,
+    "text": "Institutional demand is reversing faster than the market can absorb the supply.\n\nUS spot Bitcoin ETFs have shed $1.91 billion across seven consecutive sessions, dragging prices down to a fresh four-month low. \n\nCoinbase exchange data shows current local lows resting 13.4% beneath the support levels recorded in mid-November. \n\nSustained outflows from regulated products continue to dictate the near-term trajectory as broader macro headwinds persist.",
+    "hasImage": true,
+    "eventFingerprint": "6fb269975bff7996df060746",
+    "timestamp": "2026-11-15T07:30:36.035Z"
+  },
+  {
+    "messageId": 1696,
+    "text": "Two billion dollars vanished from the books in a single session. \n\nCoinGlass data shows total liquidations topped $2.05 billion across major venues as a sudden market downswing caught leveraged traders off guard. \n\nBinance alone accounted for nearly $800 million of those wiped positions. Long contracts bore the brunt of the damage, taking over 90% of the forced closures as Bitcoin extended its slide below key support levels.",
+    "hasImage": true,
+    "eventFingerprint": "f669c6cad05c1381d94ac805",
+    "timestamp": "2026-11-15T07:30:37.280Z"
+  },
+  {
+    "messageId": 1697,
+    "text": "How much leverage is actually safe when volatility strikes without warning?\n\nAave executive Luigi D'Onorio DeMeo revealed that liquidations on the protocol hit roughly $18 million in a single day, followed by another $21 million shortly after. \n\nWhere is your threshold for risk when markets move this fast? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "ced6a073378f13dbbb47ba21",
+    "timestamp": "2026-11-15T07:30:38.137Z"
+  },
+  {
+    "messageId": 1698,
+    "text": "Billions recovered, yet billions more vanish in plain sight. \n\nThe DOJ just moved to seize $1.2 billion tied to past exchange exploits while separate operations like FaceStealer quietly drain hundreds of millions more from retail. \n\nLaw enforcement is clearly catching up to specific infrastructure, but the sheer scale of ongoing losses raises a hard question. \n\nWhere is the bottleneck right now — is it still exchange security, or user-level endpoint protection? \n\nDrop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "5dfa39decee8cca6dbfdc29d",
+    "timestamp": "2026-11-15T07:30:39.592Z"
   }
 ]

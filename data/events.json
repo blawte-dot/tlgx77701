@@ -67130,5 +67130,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Why Binance’s ‘kill switch’ couldn&#8217;t stop hackers from draining $6.3B — Explained!",
+    "link": "https://ambcrypto.com/why-binances-kill-switch-couldnt-stop-hackers-from-draining-6-3b-explained/",
+    "summary": "Binance’s deposit system kept sending funds straight to the hacker’s wallet, but how did this happen?",
+    "image": null,
+    "publishedAt": "2026-11-15T02:00:22.000Z",
+    "collectedAt": "2026-11-15T07:30:30.088Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aa2a510792c219b787e670b2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T07:30:34.894Z",
+    "outcome": {
+      "event": {
+        "title": "Why Binance’s ‘kill switch’ couldn&#8217;t stop hackers from draining $6.3B — Explained!",
+        "fingerprint": "aa2a510792c219b787e670b2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1694,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
+    "link": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
+    "summary": "US spot bitcoin funds shed $1.91 billion over seven sessions. Coinbase's new low was 13.4% below the low in The Defiant's Nov. 12 report.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/8d127883254471000ebcac2bc002e1cb0ce61edc-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-15T07:21:35.000Z",
+    "collectedAt": "2026-11-15T07:30:30.088Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6fb269975bff7996df060746",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T07:30:36.053Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
+        "fingerprint": "6fb269975bff7996df060746"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1695,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
+    "link": "https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks",
+    "summary": "CoinGlass recorded $2.05 billion in liquidations across tracked exchanges, overwhelmingly in bets on rising prices.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/d30335e57fe69dcafdc93cbb59319f75a4b2d5a2-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-15T01:24:59.000Z",
+    "collectedAt": "2026-11-15T07:30:30.088Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f669c6cad05c1381d94ac805",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T07:30:37.302Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
+        "fingerprint": "f669c6cad05c1381d94ac805"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1696,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Aave Executive Reports $39 Million in Liquidations",
+    "link": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
+    "summary": "Luigi D'Onorio DeMeo reported about $18 million for one day and $21 million so far the next.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/dcac34a938402dd03eb937403641a6f362eb96a5-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-15T03:09:50.000Z",
+    "collectedAt": "2026-11-15T07:30:30.088Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ced6a073378f13dbbb47ba21",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-15T07:30:38.162Z",
+    "outcome": {
+      "event": {
+        "title": "Aave Executive Reports $39 Million in Liquidations",
+        "fingerprint": "ced6a073378f13dbbb47ba21"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1697,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+    "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79YHRJXWCDNFHCS2S55SWJY/hi-the-things-the-dojs-latest-move-again-mcafee-have-taught-us-about.jpg",
+    "publishedAt": "2026-11-13T09:27:14.000Z",
+    "collectedAt": "2026-11-15T07:30:30.088Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5dfa39decee8cca6dbfdc29d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-15T07:30:39.611Z",
+    "outcome": {
+      "event": {
+        "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+        "fingerprint": "5dfa39decee8cca6dbfdc29d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1698,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
