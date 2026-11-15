@@ -67335,5 +67335,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+    "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+    "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
+    "publishedAt": "2026-11-15T14:01:02.000Z",
+    "collectedAt": "2026-11-15T15:17:06.669Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c7b4706d4d17a8623648f55e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-15T15:17:08.767Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+        "fingerprint": "c7b4706d4d17a8623648f55e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1699,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Almost $1.5 Billion Withdrawn From Bitcoin and Ethereum ETFs in a Single Week",
+    "link": "https://cryptopotato.com/almost-1-5-billion-withdrawn-from-bitcoin-and-ethereum-etfs-in-a-single-week/",
+    "summary": "The ETH ETFs are in a particularly painful streak, with another $400 million leaving the funds over the past five days.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Ethereum_ETF.jpg",
+    "publishedAt": "2026-11-15T12:52:47.000Z",
+    "collectedAt": "2026-11-15T15:17:06.669Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e7665220ef3f9fb3c2c7ba8b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T15:17:09.956Z",
+    "outcome": {
+      "event": {
+        "title": "Almost $1.5 Billion Withdrawn From Bitcoin and Ethereum ETFs in a Single Week",
+        "fingerprint": "e7665220ef3f9fb3c2c7ba8b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1700,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) ETFs Turn One: The Good, the Bad, and the Ugly",
+    "link": "https://cryptopotato.com/ripple-xrp-etfs-turn-one-the-good-the-bad-and-the-ugly/",
+    "summary": "Over a billion tokens were purchased from investors through the ETFs, but there's a massive elephant in the room.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/11/Ripple_XRP_ETF.jpg",
+    "publishedAt": "2026-11-15T07:58:32.000Z",
+    "collectedAt": "2026-11-15T15:17:06.669Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7126021c8048e899dca990db",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T15:17:11.411Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple (XRP) ETFs Turn One: The Good, the Bad, and the Ugly",
+        "fingerprint": "7126021c8048e899dca990db"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1701,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "AI helped hackers gain access at 10 unnamed organizations, researchers say",
+    "link": "https://cryptoslate.com/ai-helped-hackers-gain-access-at-10-organizations-researchers-say/",
+    "summary": "The November 12 investigation reports 25 operations against at least 19 organizations during August–September, with humans assigning targets and able to steer.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/cairn-member-records-exposure.webp",
+    "publishedAt": "2026-11-15T05:20:04.000Z",
+    "collectedAt": "2026-11-15T15:17:06.669Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9c8277eeaba65779ca56fdea",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-15T15:17:12.757Z",
+    "outcome": {
+      "event": {
+        "title": "AI helped hackers gain access at 10 unnamed organizations, researchers say",
+        "fingerprint": "9c8277eeaba65779ca56fdea"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1702,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+    "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+    "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5ebb4afb940e3439b9bd9944fc26aaedb49540b-2213x1011.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-15T02:50:57.000Z",
+    "collectedAt": "2026-11-15T15:17:06.669Z",
+    "corroboratingSources": 1,
+    "fingerprint": "55e65d1272956070593eb8b0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 3,
+    "processedAt": "2026-11-15T15:17:13.798Z",
+    "outcome": {
+      "event": {
+        "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "fingerprint": "55e65d1272956070593eb8b0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1703,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
