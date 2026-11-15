@@ -11013,5 +11013,40 @@
     "hasImage": true,
     "eventFingerprint": "3f162baafd6c5d6713ad8985",
     "timestamp": "2026-11-14T20:22:52.142Z"
+  },
+  {
+    "messageId": 1689,
+    "text": "Washington is quietly reshaping the regulatory architecture for digital assets. \n\nDonald Trump has officially nominated four key figures to lead the SEC and CFTC, drawing directly from the architects of the CLARITY Act negotiations. \n\nThe Senate Banking Committee has wasted no time, scheduling confirmation hearings for SEC nominees Kristin Johnson and Steven Levine for November 19. \n\nMarket participants are watching closely to see how these appointments translate into actual enforcement shifts and legislative momentum on Capitol Hill.",
+    "hasImage": true,
+    "eventFingerprint": "39b8bd674a5463bc4bd6b877",
+    "timestamp": "2026-11-15T00:43:23.449Z"
+  },
+  {
+    "messageId": 1690,
+    "text": "Social engineering just went enterprise-grade.\n\nUnconfirmed reports suggest North Korean state-sponsored hackers have targeted crypto executives in a sprawling $400M scheme. \n\nAccording to details shared by CryptoPotato, attackers allegedly hijacked legitimate Telegram and LinkedIn accounts. \n\nThey used the compromised profiles to send fake meeting invitations that appeared to come from trusted industry contacts. \n\nInvestigators claim the vector was deployed to deliver malicious payloads directly to high-value targets. \n\nFederal agencies have not yet verified the final attribution or total losses.",
+    "hasImage": true,
+    "eventFingerprint": "465d5774c661c15b4278d098",
+    "timestamp": "2026-11-15T00:43:24.517Z"
+  },
+  {
+    "messageId": 1691,
+    "text": "Traders are watching a heavy concentration of leveraged positions just below current market levels.\n\nZcash faces a notable cluster of long liquidations sitting near the $860 mark, according to recent market data. \n\nA sharp move downward could trigger cascading stops if price action tests this zone. \n\nMonitoring order book depth and open interest remains critical as volatility persists.",
+    "hasImage": true,
+    "eventFingerprint": "3e1d80077a518d4f66b3fea3",
+    "timestamp": "2026-11-15T00:43:26.252Z"
+  },
+  {
+    "messageId": 1692,
+    "text": "When platform security becomes an afterthought, users always pay the price first.\n\nTelegram has quietly restricted new in-app web features following a wave of security concerns tied to older client vulnerabilities. \n\nA Bot API contributor confirmed the rollout of the limits today, while researchers continue dissecting the exploit vectors. \n\nPavel Durov insists server-side patches have already neutralized the core risk. \n\nFull details on CryptoSlate.",
+    "hasImage": true,
+    "eventFingerprint": "e212978e674a89bcedd4929a",
+    "timestamp": "2026-11-15T00:43:27.212Z"
+  },
+  {
+    "messageId": 1693,
+    "text": "Never trust an oracle that's having an off day.\n\nKava Lend just learned that lesson the hard way. An inflated BUSD collateral glitch let attackers walk away with 55.2 million KAVA before anyone could hit the brakes. \n\nKorean exchanges immediately slammed the brakes on bridge withdrawals and transfers as the token plunged 47%. \n\nDeFi's favorite stress test strikes again. \n\n#Kava",
+    "hasImage": true,
+    "eventFingerprint": "5359813912864d3fbc3e02e6",
+    "timestamp": "2026-11-15T00:43:28.344Z"
   }
 ]

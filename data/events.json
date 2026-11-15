@@ -66925,5 +66925,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Trump Nominates 4 SEC and CFTC Picks, Including CLARITY Act Negotiators",
+    "link": "https://cryptopotato.com/trump-nominates-4-sec-and-cftc-picks-including-clarity-act-negotiators/",
+    "summary": "The Senate Banking Committee has scheduled a hearing for SEC nominees Kristin Johnson and Steven Levine on November 19.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/03/sec_cftc_cover.png",
+    "publishedAt": "2026-11-14T20:28:55.000Z",
+    "collectedAt": "2026-11-15T00:43:21.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "39b8bd674a5463bc4bd6b877",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-15T00:43:23.474Z",
+    "outcome": {
+      "event": {
+        "title": "Trump Nominates 4 SEC and CFTC Picks, Including CLARITY Act Negotiators",
+        "fingerprint": "39b8bd674a5463bc4bd6b877"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1689,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Crypto Executives Targeted in $400M North Korea Hacking Scheme: FBI",
+    "link": "https://cryptopotato.com/crypto-executives-targeted-in-400m-north-korea-hacking-scheme-fbi/",
+    "summary": "Hackers reportedly hijacked Telegram and LinkedIn accounts to make fake meeting invitations appear to come from trusted industry contacts.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2022/06/North_Korea.jpg",
+    "publishedAt": "2026-11-14T22:41:58.000Z",
+    "collectedAt": "2026-11-15T00:43:21.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "465d5774c661c15b4278d098",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-15T00:43:24.540Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Executives Targeted in $400M North Korea Hacking Scheme: FBI",
+        "fingerprint": "465d5774c661c15b4278d098"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1690,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Zcash (ZEC) Price Warning? Long Liquidation Cluster Sits at $860",
+    "link": "https://u.today/zcash-zec-price-warning-long-liquidation-cluster-sits-at-860",
+    "summary": "Zcash (ZEC) faces liquidation risk as major long cluster emerges near $860.",
+    "image": null,
+    "publishedAt": "2026-11-14T21:23:00.000Z",
+    "collectedAt": "2026-11-15T00:43:21.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3e1d80077a518d4f66b3fea3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T00:43:26.278Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash (ZEC) Price Warning? Long Liquidation Cluster Sits at $860",
+        "fingerprint": "3e1d80077a518d4f66b3fea3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1691,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Telegram curbs new in-chat apps amid a no-tap hacking scare",
+    "link": "https://cryptoslate.com/telegram-curbs-new-in-chat-apps-amid-a-no-tap-hacking-scare/",
+    "summary": "A Bot API contributor confirmed the restriction as researchers detailed older-client flaws and Pavel Durov asserted server-side remediation.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/telegram-html-widget-restriction.webp",
+    "publishedAt": "2026-11-15T00:40:48.000Z",
+    "collectedAt": "2026-11-15T00:43:21.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e212978e674a89bcedd4929a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-15T00:43:27.237Z",
+    "outcome": {
+      "event": {
+        "title": "Telegram curbs new in-chat apps amid a no-tap hacking scare",
+        "fingerprint": "e212978e674a89bcedd4929a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1692,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Kava Lend Exploit Drains Millions as KAVA Falls 47%",
+    "link": "https://thedefiant.io/news/hacks/kava-lend-exploit-drains-millions-as-kava-falls-47",
+    "summary": "Inflated BUSD collateral let attackers borrow 55.2 million KAVA. Bridge withdrawals and transfers at three Korean exchanges were suspended.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/99200bcab4e46323e3edc0e3971e1b184af46c4e-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-15T00:21:52.000Z",
+    "collectedAt": "2026-11-15T00:43:21.244Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5359813912864d3fbc3e02e6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-15T00:43:28.366Z",
+    "outcome": {
+      "event": {
+        "title": "Kava Lend Exploit Drains Millions as KAVA Falls 47%",
+        "fingerprint": "5359813912864d3fbc3e02e6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1693,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
