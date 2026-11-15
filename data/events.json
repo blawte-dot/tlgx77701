@@ -67540,5 +67540,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+    "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+    "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/03/20250305_MemeCoin_News_2.jpg",
+    "publishedAt": "2026-11-15T20:33:17.000Z",
+    "collectedAt": "2026-11-15T20:47:27.601Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f2de55db3a40e0e7d0c38533",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-15T20:47:30.004Z",
+    "outcome": {
+      "event": {
+        "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+        "fingerprint": "f2de55db3a40e0e7d0c38533"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1704,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Bitcoin ETFs Lose $2.35 Billion in Two Weeks as Outflow Streak Extends",
+    "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-etf-two-week-outflows-235-billion-november-2026/",
+    "summary": "US spot Bitcoin exchange-traded funds have now suffered two consecutive weeks of withdrawals exceeding $1 billion, a remarkable reversal for products often treated as the clearest gauge of institutional demand. The latest weekly tally also extends the run of daily redemptions to seven trading sessions.…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-02_cover-750x422.jpg",
+    "publishedAt": "2026-11-15T18:00:00.000Z",
+    "collectedAt": "2026-11-15T20:47:27.602Z",
+    "corroboratingSources": 2,
+    "fingerprint": "dec326a5c18b92fc17522f5b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-15T20:47:31.167Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETFs Lose $2.35 Billion in Two Weeks as Outflow Streak Extends",
+        "fingerprint": "dec326a5c18b92fc17522f5b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1705,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
+    "link": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/",
+    "summary": "Darkfost’s adjusted MVRV signal highlights lower valuation, while dated ETF withdrawals and an attributed SOPR reading leave recovery unconfirmed.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-valuation-depths.webp",
+    "publishedAt": "2026-11-15T15:35:58.000Z",
+    "collectedAt": "2026-11-15T20:47:27.602Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d2df13f2235d88cbd48e9aa9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T20:47:32.297Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
+        "fingerprint": "d2df13f2235d88cbd48e9aa9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1706,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Crypto Has Lost 57 Cents to Hackers for Every Dollar Earned: ARK",
+    "link": "https://cryptopotato.com/crypto-has-lost-57-cents-to-hackers-for-every-dollar-earned-ark/",
+    "summary": "Crypto revenue outpaced hacking losses for most years after 2020, until the Binance incident reversed the trend.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2020/12/hack_cover.jpg",
+    "publishedAt": "2026-11-15T18:40:24.000Z",
+    "collectedAt": "2026-11-15T20:47:27.602Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a80c9d082e1bffbc44234367",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T20:47:33.750Z",
+    "outcome": {
+      "event": {
+        "title": "Crypto Has Lost 57 Cents to Hackers for Every Dollar Earned: ARK",
+        "fingerprint": "a80c9d082e1bffbc44234367"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1707,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "AI Tops Financial Stability Risks Cited in Fed Survey",
+    "link": "https://thedefiant.io/frontier/ai/ai-tops-financial-stability-risks-cited-in-fed-survey",
+    "summary": "AI was cited by 87% of market contacts, up from 50% in the spring. The Fed separately traced how leases, guarantees and debt link the infrastructure buildout to lenders.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/3ce6f6d2e0df0908af6acf8866cf2f4a1ce38e7d-2816x1584.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-15T15:54:16.000Z",
+    "collectedAt": "2026-11-15T20:47:27.602Z",
+    "corroboratingSources": 1,
+    "fingerprint": "37945bcc4619c7a0caa2f5b1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-15T20:47:34.916Z",
+    "outcome": {
+      "event": {
+        "title": "AI Tops Financial Stability Risks Cited in Fed Survey",
+        "fingerprint": "37945bcc4619c7a0caa2f5b1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1708,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

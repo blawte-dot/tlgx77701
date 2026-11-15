@@ -11118,5 +11118,40 @@
     "hasImage": true,
     "eventFingerprint": "55e65d1272956070593eb8b0",
     "timestamp": "2026-11-15T15:17:13.778Z"
+  },
+  {
+    "messageId": 1704,
+    "text": "10 days. That was the window a group of traders exploited after spotting a public code change before anyone else.\n\nOn July 27, BitGo pushed an update to a public repository adding support for Cash Cat on Robinhood Chain. \n\nThe listing wasn't officially announced until August 6. \n\nBy monitoring open-source development activity rather than waiting for news, traders managed to frontrun the deployment and lock in roughly $6 million in profit. \n\nIt’s a stark reminder that in public blockchains and open-source infrastructure, code often speaks well ahead of official announcements. \n\n#Robinhood",
+    "hasImage": true,
+    "eventFingerprint": "f2de55db3a40e0e7d0c38533",
+    "timestamp": "2026-11-15T20:47:29.981Z"
+  },
+  {
+    "messageId": 1705,
+    "text": "The institutional bid for spot Bitcoin is facing its sternest test since the ETFs launched. \n\nUS products have now shed over $2.35 billion across two consecutive weeks of heavy redemptions. The outflow streak has extended to seven straight trading sessions, completely reversing the narrative of sticky institutional demand.\n\nWhen the primary bridge for traditional capital starts leaking at this scale, the broader market feels the friction. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "dec326a5c18b92fc17522f5b",
+    "timestamp": "2026-11-15T20:47:31.147Z"
+  },
+  {
+    "messageId": 1706,
+    "text": "A billion dollars just vanished from spot Bitcoin exchange-traded funds, yet on-chain metrics are flashing a counterintuitive signal.\n\nAnalyst Darkfost points to an adjusted MVRV reading suggesting the asset is currently undervalued. \n\nAt the same time, the Spent Output Profit Ratio presents a conflicting picture, leaving any near-term market recovery entirely unconfirmed. \n\nSource: CryptoSlate\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "d2df13f2235d88cbd48e9aa9",
+    "timestamp": "2026-11-15T20:47:32.274Z"
+  },
+  {
+    "messageId": 1707,
+    "text": "Are security breaches actually outpacing the fundamental economic output of the crypto industry?\n\nNew research from ARK Invest reveals a stark shift in the market's security balance. \n\nFor most years following 2020, network revenues comfortably outpaced total funds lost to exploits. That dynamic inverted recently, driven heavily by the scale of the Binance-related incident. \n\nAccording to the report, protocols and platforms have collectively lost 57 cents to malicious actors for every single dollar generated in revenue. \n\nThe findings highlight a persistent vulnerability vector even as on-chain activity and adoption scale globally.",
+    "hasImage": true,
+    "eventFingerprint": "a80c9d082e1bffbc44234367",
+    "timestamp": "2026-11-15T20:47:33.730Z"
+  },
+  {
+    "messageId": 1708,
+    "text": "Wall Street's obsession with artificial intelligence is becoming a systemic vulnerability. \n\nEighty-seven percent of market contacts flagged AI as a primary financial stability risk in the latest Federal Reserve survey, a sharp jump from just fifty percent this spring. \n\nCentral bank researchers are tracking direct transmission channels through equipment leases, corporate guarantees, and debt instruments binding the current data center buildout directly to traditional lenders. \n\n#Fed",
+    "hasImage": true,
+    "eventFingerprint": "37945bcc4619c7a0caa2f5b1",
+    "timestamp": "2026-11-15T20:47:34.890Z"
   }
 ]
