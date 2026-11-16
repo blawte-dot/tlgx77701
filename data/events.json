@@ -68155,5 +68155,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
+    "link": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+    "summary": "The Supreme Court has said it would not take up a Custodia Bank's challenge to secure a Federal Reserve master account.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/court-columns.jpg",
+    "publishedAt": "2026-11-16T17:15:10.000Z",
+    "collectedAt": "2026-11-16T17:53:23.343Z",
+    "corroboratingSources": 2,
+    "fingerprint": "f1fc2a2a16a2695a73f64c53",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-16T17:53:25.769Z",
+    "outcome": {
+      "event": {
+        "title": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
+        "fingerprint": "f1fc2a2a16a2695a73f64c53"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1719,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Supreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access",
+    "link": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master",
+    "summary": "Bitcoin Magazine\n\nSupreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access\nThe Supreme Court denied Custodia Bank's petition in No. 26-62 on Monday, leaving in place a Tenth Circuit ruling that Federal Reserve Banks may reject even eligible applicants for master accounts.\nThis post Supreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access first appeared on Bitcoin Maga",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Supreme-Court-Ends-Custodia-Banks-Fight-for-a-Fed-Master-Account-Leaving-the-Fed-Free-to-Deny-Crypto-Banks-Access.jpg",
+    "publishedAt": "2026-11-16T15:24:11.000Z",
+    "collectedAt": "2026-11-16T17:53:23.343Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b0b02c022a6605f1d5255367",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-16T17:53:27.412Z",
+    "outcome": {
+      "event": {
+        "title": "Supreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access",
+        "fingerprint": "b0b02c022a6605f1d5255367"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1720,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Canada’s National Bank Discloses XRP Position Through Bitwise",
+    "link": "https://u.today/canadas-national-bank-discloses-xrp-position-through-bitwise",
+    "summary": "A major Canadian bank reveals that it is joining the XRP ETF ecosystem through Bitwise in its latest 13F filing with the SEC.",
+    "image": null,
+    "publishedAt": "2026-11-16T15:54:40.000Z",
+    "collectedAt": "2026-11-16T17:53:23.343Z",
+    "corroboratingSources": 1,
+    "fingerprint": "70677a1e282b348ba7ae7dc7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-16T17:53:30.035Z",
+    "outcome": {
+      "event": {
+        "title": "Canada’s National Bank Discloses XRP Position Through Bitwise",
+        "fingerprint": "70677a1e282b348ba7ae7dc7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1721,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Major Wealth Advisor With $24 Billion in Assets Discloses XRP ETF Stake",
+    "link": "https://u.today/major-wealth-advisor-with-24-billion-in-assets-discloses-xrp-etf-stake",
+    "summary": "Major U.S. wealth management firm EP Wealth Advisors, which reported $24.4 billion in securities holdings, has increased its stake in an XRP ETF by 37%, according to its latest SEC filing.",
+    "image": null,
+    "publishedAt": "2026-11-16T08:04:28.000Z",
+    "collectedAt": "2026-11-16T17:53:23.343Z",
+    "corroboratingSources": 1,
+    "fingerprint": "80d71e0dfcc2bb01f4e4d6c4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-16T17:53:31.417Z",
+    "outcome": {
+      "event": {
+        "title": "Major Wealth Advisor With $24 Billion in Assets Discloses XRP ETF Stake",
+        "fingerprint": "80d71e0dfcc2bb01f4e4d6c4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1722,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Banks are banning AI agents over security... and competition concerns",
+    "link": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77N5CQZH7NKG0SY1V5FFCPB/magazineai-agents-will-kill-the-web-as-we-know-it.png",
+    "publishedAt": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T17:53:23.343Z",
+    "corroboratingSources": 1,
+    "fingerprint": "215e619f1f559e4595a69c4f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-16T17:53:32.635Z",
+    "outcome": {
+      "event": {
+        "title": "Banks are banning AI agents over security... and competition concerns",
+        "fingerprint": "215e619f1f559e4595a69c4f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1723,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
