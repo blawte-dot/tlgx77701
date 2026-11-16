@@ -67950,5 +67950,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "JPMorgan Filing Shows Bigger Strategy Stake and $540 Million in Bitcoin ETF Shares",
+    "link": "https://www.newsbtc.com/bitcoin-news/jpmorgan-13f-strategy-ibit-holdings-q3-2026/",
+    "summary": "A quarterly US securities filing has put fresh numbers around JPMorgan's exposure to crypto-linked investments. The filing shows larger reported positions in both Strategy, the Bitcoin treasury company, and BlackRock's spot Bitcoin ETF at the end of September. The figures are significant, but they need to…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-11_cover-750x422.jpg",
+    "publishedAt": "2026-11-16T03:00:00.000Z",
+    "collectedAt": "2026-11-16T07:37:08.493Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1d132fa243e47c865639a635",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-16T07:37:10.542Z",
+    "outcome": {
+      "event": {
+        "title": "JPMorgan Filing Shows Bigger Strategy Stake and $540 Million in Bitcoin ETF Shares",
+        "fingerprint": "1d132fa243e47c865639a635"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1714,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Senate Hearing Could Shape the SEC’s Next Chapter for Crypto Oversight",
+    "link": "https://www.newsbtc.com/regulation/us-senate-sec-nominees-november-19-hearing-crypto/",
+    "summary": "The US Senate Banking Committee is preparing to examine nominees for positions at the Securities and Exchange Commission, a development that could eventually influence the tone and priorities of crypto oversight. A hearing scheduled for Thursday, November 19, puts personnel decisions back in the spotlight…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-12_cover-750x422.jpg",
+    "publishedAt": "2026-11-16T04:00:00.000Z",
+    "collectedAt": "2026-11-16T07:37:08.493Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e8a35687471d6d285d725d64",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-16T07:37:11.576Z",
+    "outcome": {
+      "event": {
+        "title": "Senate Hearing Could Shape the SEC’s Next Chapter for Crypto Oversight",
+        "fingerprint": "e8a35687471d6d285d725d64"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1715,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Three Central Banks Test a Bridge Between Traditional FX and Tokenized Settlement",
+    "link": "https://www.newsbtc.com/news/blockchain/central-banks-meridian-fx-apac-tokenized-settlement-test/",
+    "summary": "The Bank of England, Monetary Authority of Singapore and Bank of Thailand have completed a cross-border foreign-exchange settlement experiment designed to connect existing payment infrastructure with tokenised systems. The project might sound technical, but it addresses a familiar financial problem: two…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-09_cover-750x422.jpg",
+    "publishedAt": "2026-11-16T01:00:00.000Z",
+    "collectedAt": "2026-11-16T07:37:08.493Z",
+    "corroboratingSources": 1,
+    "fingerprint": "52b6a7a48707e3b399db0402",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-16T07:37:12.630Z",
+    "outcome": {
+      "event": {
+        "title": "Three Central Banks Test a Bridge Between Traditional FX and Tokenized Settlement",
+        "fingerprint": "52b6a7a48707e3b399db0402"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1716,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Aster CEO Blames Liquidations for ASTER's Sharp Swing",
+    "link": "https://thedefiant.io/news/markets/aster-ceo-blames-liquidations-for-aster-s-sharp-swing",
+    "summary": "The token fell about 32% from its intraday spike on both Aster and Binance. Leonard called the liquidations 'likely malicious' and said the team was investigating.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/13e0b89aef9b3f60415cc2aca631a29a3a92f30b-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-16T01:20:30.000Z",
+    "collectedAt": "2026-11-16T07:37:08.493Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c0d71c1f908632d479fbc547",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-16T07:37:13.735Z",
+    "outcome": {
+      "event": {
+        "title": "Aster CEO Blames Liquidations for ASTER's Sharp Swing",
+        "fingerprint": "c0d71c1f908632d479fbc547"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1717,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Coinone Warns of Identity Theft After Support Breach",
+    "link": "https://thedefiant.io/news/hacks/coinone-warns-of-identity-theft-after-support-breach",
+    "summary": "Passwords, bank details and national ID numbers shared with support may be exposed. Coinone says it has found no evidence of direct intrusion into its account, trading or wallet systems.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/329dc6698b304b40388d2f6c60d9ceb5c1d15fd7-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-15T15:52:35.000Z",
+    "collectedAt": "2026-11-16T07:37:08.493Z",
+    "corroboratingSources": 2,
+    "fingerprint": "5c57ad0995c8b4c9ff7d9924",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4.5,
+    "processedAt": "2026-11-16T07:37:15.300Z",
+    "outcome": {
+      "event": {
+        "title": "Coinone Warns of Identity Theft After Support Breach",
+        "fingerprint": "5c57ad0995c8b4c9ff7d9924"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1718,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
