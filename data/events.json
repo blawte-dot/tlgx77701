@@ -67745,5 +67745,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Kava Lend Exploit Exposes a Dangerous Gap in DeFi Collateral Accounting",
+    "link": "https://www.newsbtc.com/news/defi/kava-lend-exploit-collateral-busd-market-55-million/",
+    "summary": "An exploit at Kava Lend has drained roughly 55 million KAVA tokens from the lending protocol, highlighting a class of DeFi vulnerability that can remain dormant until unusual market conditions make it dangerous. The incident did not involve an attacker magically creating unlimited tokens. Instead,…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-06_cover-750x422.jpg",
+    "publishedAt": "2026-11-15T22:00:00.000Z",
+    "collectedAt": "2026-11-16T00:42:57.030Z",
+    "corroboratingSources": 1,
+    "fingerprint": "722f68364df2db82e53202a3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-16T00:42:59.463Z",
+    "outcome": {
+      "event": {
+        "title": "Kava Lend Exploit Exposes a Dangerous Gap in DeFi Collateral Accounting",
+        "fingerprint": "722f68364df2db82e53202a3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1709,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Ether ETFs Approach an Unwanted Record After Seven Weeks of Outflows",
+    "link": "https://www.newsbtc.com/ethereum-news/ether-etfs-seventh-week-outflows-398-million-november-2026/",
+    "summary": "US spot Ether exchange-traded funds are edging toward an uncomfortable milestone. The category has now recorded seven consecutive weeks of net withdrawals, placing it one additional negative week away from matching the longest losing streak identified in the current dataset. That is an especially awkward…",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-05_cover-750x422.jpg",
+    "publishedAt": "2026-11-15T21:00:00.000Z",
+    "collectedAt": "2026-11-16T00:42:57.030Z",
+    "corroboratingSources": 1,
+    "fingerprint": "761d793f2e459226a43814c3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-16T00:43:00.669Z",
+    "outcome": {
+      "event": {
+        "title": "Ether ETFs Approach an Unwanted Record After Seven Weeks of Outflows",
+        "fingerprint": "761d793f2e459226a43814c3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1710,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "DTCC Adds Solana to Wall Street Tokenization Plans, Targeting 2027",
+    "link": "https://cryptopotato.com/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027/",
+    "summary": "DTCC's tokens run only on Canton and its own private Besu network today. Stellar is due first, in the first half of 2027, and Circle's Arc shares Solana's second-half slot.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2025/03/solana_news_cover.jpg",
+    "publishedAt": "2026-11-15T23:51:26.000Z",
+    "collectedAt": "2026-11-16T00:42:57.030Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0b65ce288f659ba9c9d76993",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-16T00:43:01.880Z",
+    "outcome": {
+      "event": {
+        "title": "DTCC Adds Solana to Wall Street Tokenization Plans, Targeting 2027",
+        "fingerprint": "0b65ce288f659ba9c9d76993"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1711,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Coinone warns of phishing, identity theft after customer data breach",
+    "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
+    "publishedAt": "2026-11-15T08:07:58.000Z",
+    "collectedAt": "2026-11-16T00:42:57.030Z",
+    "corroboratingSources": 2,
+    "fingerprint": "256f4495ca0379ae73b8942b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4.5,
+    "processedAt": "2026-11-16T00:43:03.138Z",
+    "outcome": {
+      "event": {
+        "title": "Coinone warns of phishing, identity theft after customer data breach",
+        "fingerprint": "256f4495ca0379ae73b8942b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1712,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Kraken Parent Payward Takes Revenue Hit as Q3 Adjusted EBITDA Falls 67%",
+    "link": "https://cryptopotato.com/kraken-parent-payward-takes-revenue-hit-as-q3-adjusted-ebitda-falls-67/",
+    "summary": "Payward recast its second-quarter adjusted revenue to $498 million, down from the $508 million it reported in August.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/10/Kraken_Blockchain.jpg",
+    "publishedAt": "2026-11-15T21:34:11.000Z",
+    "collectedAt": "2026-11-16T00:42:57.030Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1a5ff77bd3256f1b0b6d9c0c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-16T00:43:04.375Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken Parent Payward Takes Revenue Hit as Q3 Adjusted EBITDA Falls 67%",
+        "fingerprint": "1a5ff77bd3256f1b0b6d9c0c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1713,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

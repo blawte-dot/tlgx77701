@@ -11153,5 +11153,40 @@
     "hasImage": true,
     "eventFingerprint": "37945bcc4619c7a0caa2f5b1",
     "timestamp": "2026-11-15T20:47:34.890Z"
+  },
+  {
+    "messageId": 1709,
+    "text": "55 million KAVA tokens. \n\nThat is the scale of the damage following an exploit at Kava Lend that laid bare a critical vulnerability in how lending protocols handle collateral accounting. \n\nRather than an infinite-mint attack, the breach exploited internal accounting logic that remained entirely dormant until specific market conditions triggered it. \n\nIncidents of this nature underscore a persistent structural risk across decentralized finance: code can pass audits and operate for years before the right sequence of variables exposes a fatal flaw. \n\nMarkets are currently assessing the broader implications for liquidity and asset security across interconnected protocols.",
+    "hasImage": true,
+    "eventFingerprint": "722f68364df2db82e53202a3",
+    "timestamp": "2026-11-16T00:42:59.441Z"
+  },
+  {
+    "messageId": 1710,
+    "text": "Spot Ether ETFs are playing a game of chicken with their own historical data.\n\nSeven straight weeks of net outflows have brought the category to the brink of its longest recorded losing streak. One more negative week and the record is officially matched. \n\nWall Street wanted the ultrasound money. Right now, it's just generating an echo.",
+    "hasImage": true,
+    "eventFingerprint": "761d793f2e459226a43814c3",
+    "timestamp": "2026-11-16T00:43:00.650Z"
+  },
+  {
+    "messageId": 1711,
+    "text": "2027 is when Wall Street's largest clearinghouse plans to bring Solana into its tokenization pipeline.\n\nThe Depository Trust and Clearing Corporation mapped out its distributed ledger expansion, slotting Stellar for an H1 2027 rollout. \n\nSolana will follow later that year alongside Circle's Arc infrastructure, sharing a second-half debut. \n\nDTCC currently restricts its live token operations to Canton and a private Besu network. \n\n#Solana",
+    "hasImage": true,
+    "eventFingerprint": "0b65ce288f659ba9c9d76993",
+    "timestamp": "2026-11-16T00:43:01.857Z"
+  },
+  {
+    "messageId": 1712,
+    "text": "Could your identity documents and wallet addresses be sitting on a dark web forum right now?\n\nSouth Korean exchange Coinone has confirmed a major customer data breach, with exposed records including national IDs, bank account details, passwords, and crypto addresses. \n\nMultiple outlets are tracking the developing fallout. \n\nIf you have an active account with the platform, change your credentials immediately and monitor your linked bank accounts for unauthorized activity.",
+    "hasImage": true,
+    "eventFingerprint": "256f4495ca0379ae73b8942b",
+    "timestamp": "2026-11-16T00:43:03.119Z"
+  },
+  {
+    "messageId": 1713,
+    "text": "Crypto exchange operator Payward is feeling the pinch as margins compress across major trading venues.\n\nThe parent company of Kraken saw its third-quarter adjusted EBITDA plunge 67%, according to financial figures reviewed ahead of any potential public offering. \n\nSecond-quarter revenue figures were also revised downward to $498 million, trailing the $508 million initially reported in August. \n\nThe pullback highlights broader volume challenges facing centralized platforms as market participation shifts through the second half of the year.",
+    "hasImage": true,
+    "eventFingerprint": "1a5ff77bd3256f1b0b6d9c0c",
+    "timestamp": "2026-11-16T00:43:04.355Z"
   }
 ]
