@@ -68360,5 +68360,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Supreme Court Rejects Custodia’s Fed Account Appeal",
+    "link": "https://thedefiant.io/news/regulation/supreme-court-rejects-custodia-s-fed-account-appeal",
+    "summary": "A state charter does not guarantee a Fed account. Correspondent banking remains an alternative as the Fed develops a narrower payment-account model.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/34b97d68f58272549f34f36348216a739ffb6577-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-16T15:46:23.000Z",
+    "collectedAt": "2026-11-17T01:31:50.714Z",
+    "corroboratingSources": 2,
+    "fingerprint": "d420f4b411efd013e4bc8138",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T01:31:54.203Z",
+    "outcome": {
+      "event": {
+        "title": "Supreme Court Rejects Custodia’s Fed Account Appeal",
+        "fingerprint": "d420f4b411efd013e4bc8138"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1724,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+    "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg",
+    "publishedAt": "2026-11-16T22:54:57.000Z",
+    "collectedAt": "2026-11-17T01:31:50.714Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d1b27dec4a30b4bc51caa914",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T01:31:57.845Z",
+    "outcome": {
+      "event": {
+        "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+        "fingerprint": "d1b27dec4a30b4bc51caa914"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1725,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Analyzing XRP&#8217;s $44M liquidation imbalance &#8211; Is a market reset underway?",
+    "link": "https://ambcrypto.com/analyzing-xrps-44m-liquidation-imbalance-is-a-market-reset-underway/",
+    "summary": "XRP's derivatives market is cooling after a wave of forced liquidations, but persistent ETF withdrawals could limit any price recovery.",
+    "image": null,
+    "publishedAt": "2026-11-17T00:00:34.000Z",
+    "collectedAt": "2026-11-17T01:31:50.714Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9a38fc36eebf400aa300bb1a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T01:32:00.271Z",
+    "outcome": {
+      "event": {
+        "title": "Analyzing XRP&#8217;s $44M liquidation imbalance &#8211; Is a market reset underway?",
+        "fingerprint": "9a38fc36eebf400aa300bb1a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1726,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+    "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+    "summary": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-11-16T21:46:03.000Z",
+    "collectedAt": "2026-11-17T01:31:50.714Z",
+    "corroboratingSources": 1,
+    "fingerprint": "de276382a923f52370fd4581",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-17T01:32:04.177Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+        "fingerprint": "de276382a923f52370fd4581"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1727,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Harvard and Dartmouth Keep Bitcoin ETF Share Counts Steady as Q3 Values Rise",
+    "link": "https://www.newsbtc.com/bitcoin-news/harvard-dartmouth-bitcoin-etf-holdings-q3-2026/",
+    "summary": "Harvard and Dartmouth’s latest filings show stable Bitcoin ETF share counts, with higher quarter-end valuations and different choices elsewhere.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-16-N16-11_cover-750x422.jpg",
+    "publishedAt": "2026-11-17T01:00:00.000Z",
+    "collectedAt": "2026-11-17T01:31:50.714Z",
+    "corroboratingSources": 1,
+    "fingerprint": "228818478d51da5dbcad382f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-17T01:32:05.673Z",
+    "outcome": {
+      "event": {
+        "title": "Harvard and Dartmouth Keep Bitcoin ETF Share Counts Steady as Q3 Values Rise",
+        "fingerprint": "228818478d51da5dbcad382f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1728,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

@@ -11258,5 +11258,40 @@
     "hasImage": true,
     "eventFingerprint": "215e619f1f559e4595a69c4f",
     "timestamp": "2026-11-16T17:53:32.615Z"
+  },
+  {
+    "messageId": 1724,
+    "text": "The U.S. Supreme Court has effectively closed the door on Custodia Bank’s quest for a direct Federal Reserve master account.\n\nIn declining to hear the appeal, the court leaves intact lower rulings confirming that a state charter does not grant an automatic right to access the Fed’s payment rails. This is a definitive signal for crypto-native financial institutions: the regulatory perimeter remains firmly under the Fed’s discretion.\n\nFor the broader industry, this narrows the path forward. Firms looking to integrate with the traditional banking system must continue relying on correspondent banking relationships rather than seeking direct central bank settlement.\n\nWhile the Fed continues to refine its own, more restrictive payment-account models, this outcome confirms that the gatekeepers of the legacy financial system hold the ultimate veto power over who gains entry. The friction between digital asset innovation and federal oversight persists.",
+    "hasImage": true,
+    "eventFingerprint": "d420f4b411efd013e4bc8138",
+    "timestamp": "2026-11-17T01:31:54.177Z"
+  },
+  {
+    "messageId": 1725,
+    "text": "The Federal Reserve’s gatekeeper status just became untouchable.\n\nThe Supreme Court has declined to hear Custodia Bank’s appeal, effectively ending the firm's multi-year legal battle to secure direct access to the Fed’s master accounts. \n\nThis decision leaves a lower court ruling in place, confirming that the Federal Reserve has broad discretion to reject applications from crypto-focused depository institutions. \n\nFor the broader industry, the implications are clear: the path to direct integration with the central banking system remains firmly closed. Custodia, which sought to bridge digital assets with traditional payment rails, now faces a significant regulatory wall with no further legal recourse at the highest level.\n\nThe Fed’s autonomy in choosing its counter-parties remains the dominant standard. #CryptoPolicy",
+    "hasImage": true,
+    "eventFingerprint": "d1b27dec4a30b4bc51caa914",
+    "timestamp": "2026-11-17T01:31:57.821Z"
+  },
+  {
+    "messageId": 1726,
+    "text": "XRP is flashing clear signs of structural fatigue as over-leveraged positions face a brutal reality check.\n\nA $44 million liquidation imbalance has wiped out significant speculative interest, forcing a cooling period across the derivatives market. While the immediate pressure of these forced liquidations has eased, the broader outlook remains constrained by persistent outflows from XRP-related investment products.\n\nMarket participants are now testing support levels, but the absence of fresh institutional inflows suggests the path to recovery may be steeper than bulls anticipate. \n\nCurrent technical data indicates a classic deleveraging event. Until the selling pressure from ETF-linked vehicles stabilizes, any price consolidation is likely to remain fragile. Watch the volume profiles closely; the current lack of conviction is the primary barrier to a sustained trend reversal.",
+    "hasImage": true,
+    "eventFingerprint": "9a38fc36eebf400aa300bb1a",
+    "timestamp": "2026-11-17T01:32:00.241Z"
+  },
+  {
+    "messageId": 1727,
+    "text": "Market participants are recalibrating as $2 billion in liquidations hit the tape this weekend.\n\nBitcoin’s slide toward $62,100 wasn’t just a simple correction; it was a structural flush. A crowded options trade combined with a sudden wave of ETF outflows to amplify downward momentum, catching over-leveraged long positions off guard.\n\nThe $60,000 level has now moved to the center of the debate. It serves as the primary psychological floor for the bulls, but technical analysts are watching the volume profile to see if this support can hold under sustained pressure.\n\nInstitutional appetite remains a key variable. With net outflows reported from recent ETF sessions, the current price action reflects a shift in sentiment among larger allocators who are now playing defense rather than chasing the breakout. \n\nFor now, the market is in a period of consolidation. The question is whether the liquidations have sufficiently cleared the excess leverage needed for a structural move upward, or if further downside is required to reset the board.",
+    "hasImage": true,
+    "eventFingerprint": "de276382a923f52370fd4581",
+    "timestamp": "2026-11-17T01:32:04.153Z"
+  },
+  {
+    "messageId": 1728,
+    "text": "Ivy League endowments are quietly holding their ground on Bitcoin.\n\nNew 13F filings reveal that Harvard and Dartmouth kept their Bitcoin ETF share counts unchanged throughout the third quarter. While their positions remained stable in terms of volume, the total value of these holdings climbed as BTC price action boosted year-end portfolios.\n\nThe two institutions are approaching digital assets with a measured, long-term consistency. Unlike the aggressive rotations seen in some retail sectors, these endowments are treating Bitcoin exposure as a steady fixture rather than a tactical trade.\n\nElsewhere, the data shows divergent strategies. While Harvard and Dartmouth opted for stability, other institutional players continue to shift their weight across the broader ETF landscape. The trend underscores a growing institutional preference for direct exposure via regulated vehicles over speculative alternatives.",
+    "hasImage": true,
+    "eventFingerprint": "228818478d51da5dbcad382f",
+    "timestamp": "2026-11-17T01:32:05.646Z"
   }
 ]
