@@ -11293,5 +11293,40 @@
     "hasImage": true,
     "eventFingerprint": "228818478d51da5dbcad382f",
     "timestamp": "2026-11-17T01:32:05.646Z"
+  },
+  {
+    "messageId": 1729,
+    "text": "Institutional adoption of spot Bitcoin ETFs is accelerating within traditional banking balance sheets.\n\nWells Fargo has significantly increased its position in BlackRock’s iShares Bitcoin Trust (IBIT). Updated filings show the bank’s holdings reached $2.35 billion by the end of the third quarter, effectively doubling its exposure from previous reporting periods.\n\nThis position now accounts for roughly 28,000 BTC. \n\nThe move highlights a growing trend of major financial institutions incorporating digital assets into their portfolio strategies. While retail interest often drives volatility, these institutional inflows provide a different layer of market structure, marking a shift in how legacy firms treat crypto-asset exposure. \n\nThe data confirms that traditional capital is moving beyond exploratory interest and into substantive, multi-billion dollar allocations.",
+    "hasImage": true,
+    "eventFingerprint": "6eb021fdf9a9a03476bcb37e",
+    "timestamp": "2026-11-17T10:07:52.593Z"
+  },
+  {
+    "messageId": 1730,
+    "text": "Institutional appetite for Ethereum is firming up.\n\nGoldman Sachs has disclosed a $1.22 billion position in Ether ETFs as of Q3, marking a significant commitment to the asset class. The bank’s latest 13F filing reveals a surge in share counts for BlackRock’s ETHA, cementing its place among the largest holders of spot crypto products.\n\nWhile the firm scaled its Ether exposure, it simultaneously reshuffled its Bitcoin ETF portfolio. Goldman continues to rotate between providers, maintaining a strategic balance across its crypto holdings.\n\nThese filings confirm that major Wall Street players are moving beyond exploratory positions, opting instead for large-scale allocations as regulatory and custodial frameworks mature.",
+    "hasImage": true,
+    "eventFingerprint": "2f4e657ab298af8d45384c03",
+    "timestamp": "2026-11-17T10:07:53.950Z"
+  },
+  {
+    "messageId": 1731,
+    "text": "The legal boundary for MEV exploitation just shifted.\n\nA federal judge has acquitted brothers Anton and James Pepa-Rairda in the $25 million Ethereum MEV case, effectively ending the government's pursuit of the duo. \n\nThe ruling hinges on a failure to prove material misrepresentation. Prosecutors alleged the brothers orchestrated a sophisticated exploit of the blockchain’s transaction sequencing, but the defense successfully argued their actions did not constitute wire fraud under existing statutes.\n\nThis decision follows a previous jury deadlock last year and marks a significant setback for federal prosecutors attempting to apply traditional fraud frameworks to decentralized protocol interactions. \n\nThe acquittal highlights the ongoing ambiguity in how U.S. courts interpret MEV and algorithmic trading strategies. By failing to establish that the brothers’ specific manipulation of transaction ordering violated current wire fraud laws, the court has signaled a high bar for future enforcement actions involving blockchain-native mechanics.\n\n#CryptoLaw",
+    "hasImage": true,
+    "eventFingerprint": "cd5aaf57cdc1705139ef4d23",
+    "timestamp": "2026-11-17T10:07:55.459Z"
+  },
+  {
+    "messageId": 1732,
+    "text": "Brazil’s central bank is drawing lines in the sand on stablecoins.\n\nUnconfirmed reports suggest a senior official has compared the stablecoin market to the \"dólar-cabo\"—a notorious informal system used for laundering. The official claims legitimate capital effectively becomes \"tainted\" the moment it enters the stablecoin ecosystem.\n\nIf this sentiment reflects the regulator's official internal stance, is a severe crackdown on local fiat-to-crypto gateways inevitable?",
+    "hasImage": true,
+    "eventFingerprint": "33af947940f3692850349141",
+    "timestamp": "2026-11-17T10:07:56.695Z"
+  },
+  {
+    "messageId": 1733,
+    "text": "Bitcoin is dancing on a razor’s edge at $64,000.\n\nAfter touching $62,000—a level not seen since July—the market is struggling to regain momentum. Several headwinds are currently converging:\n\n* Macro pressure: Hotter-than-expected inflation data has shifted expectations toward another Fed rate hike in December.\n* Institutional cooling: U.S. spot Bitcoin ETFs have recorded net outflows for seven consecutive sessions, signaling a pause in conviction among institutional buyers.\n\nWhether this consolidation holds or gives way to a slide toward $58,000 depends on whether demand can absorb the current selling pressure. Watch the $62k support level closely as the week progresses.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "68c44233ba061e40a17d4d5b",
+    "timestamp": "2026-11-17T10:07:58.191Z"
   }
 ]

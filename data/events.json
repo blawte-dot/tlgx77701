@@ -68565,5 +68565,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+    "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+    "summary": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0a2bccf27d71bccd61bcb055118531547dc2957-8256x4644.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-17T05:37:23.000Z",
+    "collectedAt": "2026-11-17T10:07:49.160Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6eb021fdf9a9a03476bcb37e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T10:07:52.619Z",
+    "outcome": {
+      "event": {
+        "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+        "fingerprint": "6eb021fdf9a9a03476bcb37e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1729,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+    "link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M3NS6S1T6ZRE6SXTFKRZMG/hi-goldman-sachs-and-crypto-recap-1.jpg",
+    "publishedAt": "2026-11-17T09:08:32.000Z",
+    "collectedAt": "2026-11-17T10:07:49.160Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2f4e657ab298af8d45384c03",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T10:07:53.974Z",
+    "outcome": {
+      "event": {
+        "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+        "fingerprint": "2f4e657ab298af8d45384c03"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1730,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+    "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+    "summary": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png",
+    "publishedAt": "2026-11-17T09:27:29.000Z",
+    "collectedAt": "2026-11-17T10:07:49.160Z",
+    "corroboratingSources": 1,
+    "fingerprint": "cd5aaf57cdc1705139ef4d23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T10:07:55.484Z",
+    "outcome": {
+      "event": {
+        "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+        "fingerprint": "cd5aaf57cdc1705139ef4d23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1731,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+    "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+    "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\" system.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-16T15:54:11.000Z",
+    "collectedAt": "2026-11-17T10:07:49.160Z",
+    "corroboratingSources": 1,
+    "fingerprint": "33af947940f3692850349141",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-17T10:07:56.719Z",
+    "outcome": {
+      "event": {
+        "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+        "fingerprint": "33af947940f3692850349141"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1732,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Analysis: Is the Worst Over, or Is BTC Heading for $58K?",
+    "link": "https://cryptopotato.com/bitcoin-price-analysis-is-the-worst-over-or-is-btc-heading-for-58k/",
+    "summary": "Bitcoin is trying to stabilize around $64K after a week-long sell-off briefly pushed it to about $62,000, its lowest since July. Markets now expect the Fed to raise rates again in December, after hotter inflation data and hawkish comments from Fed officials. At the same time, U.S. spot Bitcoin ETFs recorded net outflows for seven [&#8230;]",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/11/BTC-D-6.jpg",
+    "publishedAt": "2026-11-16T12:20:32.000Z",
+    "collectedAt": "2026-11-17T10:07:49.160Z",
+    "corroboratingSources": 1,
+    "fingerprint": "68c44233ba061e40a17d4d5b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-17T10:07:58.221Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Analysis: Is the Worst Over, or Is BTC Heading for $58K?",
+        "fingerprint": "68c44233ba061e40a17d4d5b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1733,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
