@@ -68770,5 +68770,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+    "link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+    "summary": "In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4625d8a3291398fad638a6b7f9782fcf61505da9-4928x3264.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-17T10:48:12.000Z",
+    "collectedAt": "2026-11-17T19:35:06.328Z",
+    "corroboratingSources": 1,
+    "fingerprint": "45ad48d348f28813bc759047",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T19:35:09.286Z",
+    "outcome": {
+      "event": {
+        "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+        "fingerprint": "45ad48d348f28813bc759047"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1734,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
+    "link": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
+    "summary": "Bitwise's first non-crypto ETF, ZDAY, trades on the NYSE with a 0.75% fee, holding 10–30 AI security stocks like CrowdStrike and Palo Alto.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/bitwise.png",
+    "publishedAt": "2026-11-17T14:00:00.000Z",
+    "collectedAt": "2026-11-17T19:35:06.329Z",
+    "corroboratingSources": 1,
+    "fingerprint": "57200cb22bc5678565936064",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T19:35:10.986Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
+        "fingerprint": "57200cb22bc5678565936064"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1735,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+    "link": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png",
+    "publishedAt": "2026-11-17T17:39:41.000Z",
+    "collectedAt": "2026-11-17T19:35:06.329Z",
+    "corroboratingSources": 1,
+    "fingerprint": "008d2b2509ec0ea61c6b4b14",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T19:35:12.306Z",
+    "outcome": {
+      "event": {
+        "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+        "fingerprint": "008d2b2509ec0ea61c6b4b14"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1736,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Google uncovers AI hacking tool that turns security fixes into cyberattacks",
+    "link": "https://cryptoslate.com/google-uncovers-ai-hacking-tool-that-turns-security-fixes-into-cyberattacks/",
+    "summary": "Google says exploit_agent is configured to automate a patch-to-exploit pipeline; its report also describes stolen data on an exposed staging server.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/google-ai-patch-clues-key.webp",
+    "publishedAt": "2026-11-17T17:30:25.000Z",
+    "collectedAt": "2026-11-17T19:35:06.329Z",
+    "corroboratingSources": 1,
+    "fingerprint": "059f292088635baf4dba5bf8",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T19:35:14.266Z",
+    "outcome": {
+      "event": {
+        "title": "Google uncovers AI hacking tool that turns security fixes into cyberattacks",
+        "fingerprint": "059f292088635baf4dba5bf8"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1737,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "US Supreme Court Turns Down Custodia Bank Appeal Over Federal Reserve Master Account",
+    "link": "https://www.newsbtc.com/regulation/us-supreme-court-turns-down-custodia-bank-appeal-over-federal-reserve-master-account/",
+    "summary": "Custodia Bank has reached the end of a significant route through the US federal courts in its effort to obtain direct access to Federal Reserve payment services. On.",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-17-N17-04_us-supreme-court-turns-down-custodia-bank-appeal-over-federal-reserve-master-account-750x422.jpg",
+    "publishedAt": "2026-11-17T16:00:00.000Z",
+    "collectedAt": "2026-11-17T19:35:06.329Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5096247cac61b62472abf9ae",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-17T19:35:16.032Z",
+    "outcome": {
+      "event": {
+        "title": "US Supreme Court Turns Down Custodia Bank Appeal Over Federal Reserve Master Account",
+        "fingerprint": "5096247cac61b62472abf9ae"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1738,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

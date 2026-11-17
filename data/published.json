@@ -12947,5 +12947,45 @@
     "hasImage": true,
     "eventFingerprint": "68c44233ba061e40a17d4d5b",
     "timestamp": "2026-11-17T10:07:58.205Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1734,
+    "text": "Could automated financial agents destabilize the global banking system?\n\nFederal Reserve Governor Michael Barr issued a pointed warning today regarding the intersection of artificial intelligence and financial stability. Speaking at an event in Italy, Barr highlighted the risk of AI-driven systems triggering bank runs at unprecedented speeds.\n\nThe core concern centers on automated financial decision-making. Barr suggests that if AI agents react simultaneously to market data or negative sentiment, they could overwhelm liquidity buffers in a matter of minutes, leaving traditional banking safeguards ineffective.\n\nBeyond liquidity, the Governor raised alarms about \"black box\" risks, where AI systems might inadvertently bypass established security controls or behave in ways developers cannot predict. \n\nAs financial institutions accelerate the integration of these tools, regulators are increasingly signaling that current oversight frameworks may be ill-equipped for the velocity of machine-led exits.",
+    "hasImage": true,
+    "eventFingerprint": "45ad48d348f28813bc759047",
+    "timestamp": "2026-11-17T19:35:09.271Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1735,
+    "text": "The crypto asset manager is betting that the most dangerous software in the world is also the most profitable to defend.\n\nBitwise has officially launched its first non-crypto ETF, ZDAY, marking a strategic pivot toward the intersection of artificial intelligence and cybersecurity. The fund, which began trading today on the NYSE, carries a 0.75% expense ratio and focuses on a concentrated portfolio of 10–30 companies building AI-driven defense systems.\n\nHoldings include industry stalwarts like CrowdStrike and Palo Alto Networks. \n\nThe move signals a broader shift in institutional product strategy: as AI infrastructure expands, the demand for security protocols to protect that infrastructure is expected to scale in tandem. Bitwise is positioning ZDAY to capture this recurring security spend rather than the speculative growth of AI development itself.\n\n#AI",
+    "hasImage": true,
+    "eventFingerprint": "57200cb22bc5678565936064",
+    "timestamp": "2026-11-17T19:35:10.977Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1736,
+    "text": "The Federal Reserve is raising a red flag on the integration of traditional finance and blockchain.\n\nGovernor Christopher Waller issued a sharp critique yesterday, questioning how the financial system handles accountability when assets are tokenized. Using the Binance hack as a primary case study, he highlighted the lack of a clear legal framework for fixing \"code-is-law\" failures.\n\nThe core concern: Who bears the cost when private keys are compromised or smart contracts glitch? \n\nWaller argues that without a central authority to reverse transactions or restore lost assets, the efficiency gains of tokenization may not outweigh the systemic risk. For institutions eyeing blockchain migration, the path forward remains legally murky.",
+    "hasImage": true,
+    "eventFingerprint": "008d2b2509ec0ea61c6b4b14",
+    "timestamp": "2026-11-17T19:35:12.294Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1737,
+    "text": "Security patches are being weaponized against the very systems they were designed to protect.\n\nGoogle researchers have identified \"exploit_agent,\" an AI-driven tool capable of automating a dangerous patch-to-exploit pipeline. The software effectively scans for security fixes and immediately reverse-engineers them to craft functional cyberattacks.\n\nThe report also highlights a significant breach involving stolen data discovered on an exposed staging server, underscoring how quickly vulnerabilities are now being operationalized.\n\nAs automated offensive capabilities evolve, the window between a patch release and a potential exploit is narrowing to near-instantaneous speeds. Infrastructure security teams are now facing a race against machines that learn at scale.\n\n#CyberSecurity",
+    "hasImage": true,
+    "eventFingerprint": "059f292088635baf4dba5bf8",
+    "timestamp": "2026-11-17T19:35:14.254Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1738,
+    "text": "The Supreme Court has effectively closed the door on a specialized crypto bank’s bid to bypass the gatekeepers of the US financial system.\n\nCustodia Bank’s high-stakes legal battle to secure a Federal Reserve master account has reached a definitive end. The Supreme Court declined to hear the bank's appeal today, leaving intact lower court rulings that denied the firm direct access to the Fed’s payment infrastructure.\n\nThis outcome marks a significant setback for crypto-native institutions seeking parity with traditional commercial banks. Without a master account, firms like Custodia remain reliant on intermediary banks to process payments, keeping them at arm's length from the central bank’s core services.\n\nThe decision reinforces the Federal Reserve’s broad discretion in vetting applicants, signaling that crypto-focused entities will continue to face a steep uphill climb to integrate with the legacy settlement layer.",
+    "hasImage": true,
+    "eventFingerprint": "5096247cac61b62472abf9ae",
+    "timestamp": "2026-11-17T19:35:16.022Z"
   }
 ]
