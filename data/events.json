@@ -69180,5 +69180,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+    "link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
+    "publishedAt": "2026-11-18T09:17:18.000Z",
+    "collectedAt": "2026-11-18T11:04:07.093Z",
+    "corroboratingSources": 2,
+    "fingerprint": "a11a2fff9c4e0ead17004362",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9.5,
+    "processedAt": "2026-11-18T11:04:09.365Z",
+    "outcome": {
+      "event": {
+        "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+        "fingerprint": "a11a2fff9c4e0ead17004362"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1744,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+    "link": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q2P5HGE3ZFSJ3N0EK6V580/zcash-etf.png",
+    "publishedAt": "2026-11-18T10:33:07.000Z",
+    "collectedAt": "2026-11-18T11:04:07.093Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1c81ec01cb7946da21c6a57a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-18T11:04:10.945Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+        "fingerprint": "1c81ec01cb7946da21c6a57a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1745,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bitwise CEO Urges Americans to Hold Crypto as Banking Giants Go Down",
+    "link": "https://u.today/bitwise-ceo-urges-americans-to-hold-crypto-as-banking-giants-go-down",
+    "summary": "Bitwise CEO Hunter Horsley has urged Americans to consider holding crypto or stablecoins as a backup after widespread banking outages disrupted transactions and left thousands of customers unable to access their accounts.",
+    "image": null,
+    "publishedAt": "2026-11-18T05:49:02.000Z",
+    "collectedAt": "2026-11-18T11:04:07.093Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5c4def2e97252a6f93391207",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-18T11:04:14.026Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise CEO Urges Americans to Hold Crypto as Banking Giants Go Down",
+        "fingerprint": "5c4def2e97252a6f93391207"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1746,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion",
+    "link": "https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-etf-holdings",
+    "summary": "Bitcoin Magazine\n\nGoldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion\nGoldman Sachs' third-quarter 13F shows $1.28 billion in spot bitcoin ETFs at Sept. 30, up from about $580 million, led by a 52-fold jump in Fidelity's fund, while its Strategy stake fell about 52%.\nThis post Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/3.5-Trillion-Goldman-Sachs-Files-for-Bitcoin-Premium-Income-ETF.jpg",
+    "publishedAt": "2026-11-17T15:19:20.000Z",
+    "collectedAt": "2026-11-18T11:04:07.093Z",
+    "corroboratingSources": 2,
+    "fingerprint": "cd3fd3eead6f1f4b261381c0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-18T11:04:15.418Z",
+    "outcome": {
+      "event": {
+        "title": "Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion",
+        "fingerprint": "cd3fd3eead6f1f4b261381c0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1747,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+    "link": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
+    "summary": "Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+    "publishedAt": "2026-11-18T10:17:17.000Z",
+    "collectedAt": "2026-11-18T11:04:07.093Z",
+    "corroboratingSources": 2,
+    "fingerprint": "3cac1e3a4cb23d7656e8e1cb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6.5,
+    "processedAt": "2026-11-18T11:04:17.114Z",
+    "outcome": {
+      "event": {
+        "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+        "fingerprint": "3cac1e3a4cb23d7656e8e1cb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1748,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
