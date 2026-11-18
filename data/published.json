@@ -13067,5 +13067,45 @@
     "hasImage": true,
     "eventFingerprint": "3cac1e3a4cb23d7656e8e1cb",
     "timestamp": "2026-11-18T11:04:17.107Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1749,
+    "text": "Macro headwinds are intensifying as Bitcoin slips below the $63,000 mark.\n\nThe downward pressure follows comments from Federal Reserve Governor Chris Waller, who signaled for a second time that a 50 basis point rate hike remains on the table for the December meeting. \n\nMarkets are reacting with heightened sensitivity to the hawkish shift. \n\nStrategy’s STRC token has fallen to its lowest level since August, reflecting a broader retreat in risk appetite across the digital asset space.\n\nInvestors are now recalibrating expectations for year-end liquidity. With central bank policy firmly in the spotlight, volatility remains elevated as traders weigh the potential for a more aggressive tightening path than previously anticipated.",
+    "hasImage": true,
+    "eventFingerprint": "68a91bcaab53bd5e37e13a94",
+    "timestamp": "2026-11-18T19:56:27.632Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1750,
+    "text": "6 years in federal prison is the price for a $11.6 million crypto heist.\n\nA Scottish member of the notorious Scattered Spider hacking collective has been sentenced by a U.S. court following a multi-year phishing and SIM-swapping campaign. The operation targeted high-net-worth individuals to siphon millions in digital assets.\n\nThis sentencing marks a significant move by U.S. authorities to penetrate the infrastructure of Scattered Spider—a group long considered one of the most sophisticated threats to crypto security and enterprise networks.\n\nWhile the jail time serves as a deterrent, it underscores the persistent, evolving risk of social engineering. Even as on-chain security improves, the \"human layer\" remains the most vulnerable point of failure. Expect regulators to leverage this conviction as justification for stricter oversight on account recovery protocols and telecom security standards.",
+    "hasImage": true,
+    "eventFingerprint": "786baf2beb25dfbc22e2ea97",
+    "timestamp": "2026-11-18T19:56:31.168Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1751,
+    "text": "Is privacy making a backdoor comeback on Wall Street? \n\nBitwise has filed an application in Texas for a second U.S. exchange-traded fund tracking Zcash, signaling renewed institutional appetite for the legacy privacy coin. \n\nThe proposed product follows a similar filing trajectory to other alternative asset trusts, aiming to bring regulated exposure to traditional portfolios. \n\nHowever, regulatory compromise remains central to the design. \n\nReports indicate the fund will strictly utilize transparent addresses rather than Zcash's native zero-knowledge shielded transactions. \n\nThat distinction matters. \n\nWhile institutional vehicles provide liquidity and wider market access, omitting privacy features strips away the core utility that defined the asset's original thesis. \n\nMarkets are weighing whether wrapper demand can offset the removal of financial confidentiality. ZEC reacted with notable volatility following the filing news. \n\nAs asset managers test the boundaries of what regulators will approve, the tension between institutional compliance and user privacy deepens across the digital asset landscape.",
+    "hasImage": true,
+    "eventFingerprint": "db924c100180ae6b5e4a6b1f",
+    "timestamp": "2026-11-18T19:56:57.519Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1752,
+    "text": "Institutional adoption just crossed a threshold most traditional finance analysts didn't expect to see this year.\n\nThe World Bank Group is actively exploring blockchain-based settlement rails in a pilot initiative alongside Citigroup and Circle. \n\nThe test focuses on leveraging USDC for cross-border transactions and operational efficiency. \n\nThis is not another exploratory whitepaper or a minor sandbox experiment. Bringing a major multilateral development bank together with a global tier-one bank and a primary stablecoin issuer signals a structural shift in how legacy financial institutions view public chain infrastructure. \n\nRegulatory clarity remains the main friction point globally, but traditional finance giants are no longer waiting for permission to build the plumbing. \n\nIf successful, this trial creates a blueprint for sovereign and institutional integration that will force central banks worldwide to accelerate their own digital asset strategies.",
+    "hasImage": true,
+    "eventFingerprint": "508268847ff7fd61949ddf81",
+    "timestamp": "2026-11-18T19:57:03.676Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1753,
+    "text": "What happens when the tools that secure your network are outpaced by the algorithms trying to break it?\n\nAt Solana’s Breakpoint conference, security leadership from Anchorage Digital delivered a stark warning: artificial intelligence is about to radically alter the threat landscape for digital assets. \n\nThe core issue is asymmetry. Generative models and automated attack scripts are lowering the barrier to entry for sophisticated exploits, enabling bad actors to scale operations faster than ever before. \n\nCompounding the pressure, state-sponsored actors—notably North Korea's cyber units—continue shifting advanced resources toward protocol vulnerabilities and bridge infrastructure. \n\nDefenders are racing to deploy AI-driven countermeasures of their own. But as attack velocity accelerates, the margin for error across smart contracts and custody solutions is narrowing sharply.",
+    "hasImage": true,
+    "eventFingerprint": "2c69cd37c7c953cd784018e7",
+    "timestamp": "2026-11-18T19:57:10.022Z"
   }
 ]

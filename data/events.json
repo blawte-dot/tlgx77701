@@ -69385,5 +69385,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August",
+    "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+    "summary": "The Fed's Chris Waller, for a second time, called for the central bank to consider raising its benchmark interest rate by 50 basis points at its upcoming meeting in December.",
+    "image": null,
+    "publishedAt": "2026-11-18T07:27:48.000Z",
+    "collectedAt": "2026-11-18T19:56:11.642Z",
+    "corroboratingSources": 1,
+    "fingerprint": "68a91bcaab53bd5e37e13a94",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-18T19:56:27.648Z",
+    "outcome": {
+      "event": {
+        "title": "Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August",
+        "fingerprint": "68a91bcaab53bd5e37e13a94"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1749,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft",
+    "link": "https://bitcoinmagazine.com/news/scattered-spider-hacker-six-years-crypto-theft",
+    "summary": "Bitcoin Magazine\n\nScattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft\nA Scottish hacker tied to Scattered Spider was sentenced to six years in U.S. prison for a SIM-swap and phishing scheme that stole at least $11.6 million in crypto.\nThis post Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Scattered-Spider-Hacker-Gets-Six-Years-for-11.6-Million-Crypto-Theft.jpg",
+    "publishedAt": "2026-11-18T19:30:00.000Z",
+    "collectedAt": "2026-11-18T19:56:11.642Z",
+    "corroboratingSources": 3,
+    "fingerprint": "786baf2beb25dfbc22e2ea97",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-18T19:56:31.186Z",
+    "outcome": {
+      "event": {
+        "title": "Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft",
+        "fingerprint": "786baf2beb25dfbc22e2ea97"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1750,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "‘More Secret’ Version of Bitcoin: Zcash (ZEC) Eyes Another Wall Street ETF",
+    "link": "https://u.today/more-secret-version-of-bitcoin-zcash-zec-eyes-another-wall-street-etf",
+    "summary": "Privacy coin Zcash may get a second U.S. ETF as Bitwise files for a Texas listing, though the fund will not use shielded transactions.",
+    "image": null,
+    "publishedAt": "2026-11-18T16:11:25.000Z",
+    "collectedAt": "2026-11-18T19:56:11.642Z",
+    "corroboratingSources": 1,
+    "fingerprint": "db924c100180ae6b5e4a6b1f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-18T19:56:57.541Z",
+    "outcome": {
+      "event": {
+        "title": "‘More Secret’ Version of Bitcoin: Zcash (ZEC) Eyes Another Wall Street ETF",
+        "fingerprint": "db924c100180ae6b5e4a6b1f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1751,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "World Bank Group Eyes USDC Payments With Citi and Circle",
+    "link": "https://cryptopotato.com/world-bank-group-eyes-usdc-payments-with-citi-and-circle/",
+    "summary": "The World Bank Group is testing the idea of blockchain-based payments with Citi and Circle.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/01/USDC_Wallet.jpg",
+    "publishedAt": "2026-11-18T16:12:12.000Z",
+    "collectedAt": "2026-11-18T19:56:11.642Z",
+    "corroboratingSources": 3,
+    "fingerprint": "508268847ff7fd61949ddf81",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-18T19:57:03.695Z",
+    "outcome": {
+      "event": {
+        "title": "World Bank Group Eyes USDC Payments With Citi and Circle",
+        "fingerprint": "508268847ff7fd61949ddf81"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1752,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
+    "link": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec",
+    "summary": "Security chiefs at Solana's Breakpoint said AI is lowering the bar for hackers, as North Korea steps up its attacks on crypto firms.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-11-18T12:10:27.000Z",
+    "collectedAt": "2026-11-18T19:56:11.642Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2c69cd37c7c953cd784018e7",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-18T19:57:10.035Z",
+    "outcome": {
+      "event": {
+        "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
+        "fingerprint": "2c69cd37c7c953cd784018e7"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1753,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
