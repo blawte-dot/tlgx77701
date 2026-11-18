@@ -12987,5 +12987,45 @@
     "hasImage": true,
     "eventFingerprint": "5096247cac61b62472abf9ae",
     "timestamp": "2026-11-17T19:35:16.022Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1739,
+    "text": "Institutional capital is quietly carving out a position in the XRP ecosystem.\n\nBank of America’s latest Q3 SEC filing reveals a holding of 13,260 shares in the Volatility Shares XRP ETF. While the stake is modest—especially when measured against the bank’s $700 million exposure to various Bitcoin funds—it marks a notable inclusion for an asset that has faced years of regulatory scrutiny. \n\nThe disclosure signals a subtle shift in how traditional finance firms integrate crypto-assets beyond the primary market leaders. For BofA, this serves as a peripheral bet rather than a core portfolio driver, yet the presence of the filing confirms XRP is gaining formal institutional shelf space.",
+    "hasImage": true,
+    "eventFingerprint": "af90006a946bab9778570c38",
+    "timestamp": "2026-11-18T02:04:11.111Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1740,
+    "text": "The Federal Reserve is moving to claim custody of the tokenized future.\n\nGovernor Christopher Waller argued today that the central bank should serve as the primary infrastructure provider for tokenized assets and agentic AI. Rather than allowing private decentralized networks to capture the ecosystem, Waller suggests the Fed offer \"trusted rails\" for these emerging financial technologies.\n\nThe pitch centers on the idea that the Fed’s balance sheet is the ultimate settlement layer. By integrating tokenization directly into central bank systems, the Fed aims to neutralize the settlement risk often associated with private crypto assets.\n\nWaller’s stance signals a pivot from skepticism to proactive integration. The strategy is clear: if tokenization is the inevitable next step for global finance, the Fed intends to ensure the architecture remains firmly under its oversight. 🏛️",
+    "hasImage": true,
+    "eventFingerprint": "334e72be99f2412b778f7528",
+    "timestamp": "2026-11-18T02:04:12.713Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1741,
+    "text": "Is your software patch cycle fast enough to outrun an autonomous attacker?\n\nGoogle’s latest security report highlights a shift in the cyber threat landscape: hackers are now deploying AI agents to identify and exploit software vulnerabilities at machine speed.\n\nThe days of relying on manual security audits are closing. These automated tools drastically compress the window between a vulnerability being discovered and an exploit being launched, leaving IT teams with significantly less time to deploy critical patches. \n\nFor developers and infrastructure managers, this signals a transition toward AI-driven defense. If the attack surface is being scanned and exploited by autonomous agents, the response must inevitably be automated as well. \n\nThe barrier to entry for sophisticated exploits is lowering, making legacy patching timelines a growing liability.",
+    "hasImage": true,
+    "eventFingerprint": "575728800b8e8ff05ac639ca",
+    "timestamp": "2026-11-18T02:04:15.047Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1742,
+    "text": "AI concentration is becoming a systemic fault line for the broader economy.\n\nGary Gensler, the former SEC Chair, is highlighting a dangerous feedback loop within the technology sector. He argues that the industry’s \"herding\" behavior—where capital flows exclusively into a handful of dominant AI models—creates a fragile infrastructure prone to sudden shocks.\n\nHis outlook focuses on the debt burden carried by these firms. Gensler expects the \"neocloud\" providers to face the first wave of bankruptcies as the costs of maintaining massive compute clusters outpace actual revenue generation. \n\nThe concern isn't just about tech valuations; it’s about the ripple effects on credit markets when these highly leveraged firms hit a wall. If the current pace of AI-driven capital expenditure doesn't translate into measurable productivity gains, the resulting correction could serve as a catalyst for a broader recession.",
+    "hasImage": true,
+    "eventFingerprint": "225c9748825d7fa2612ab467",
+    "timestamp": "2026-11-18T02:04:18.035Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1743,
+    "text": "Institutional capital is shifting aggressively toward Bitcoin exposure.\n\nWells Fargo has more than doubled its holding in BlackRock’s IBIT ETF, bringing its total stake to 49.6 million shares valued at $2.35 billion as of the end of Q3.\n\nThe bank simultaneously pared back its position in the Bitcoin Strategy ETF by roughly 33%, signaling a clear pivot toward spot-backed vehicles.\n\nThis move underscores a broader trend of traditional finance giants consolidating their crypto exposure through regulated, liquid instruments. As major players adjust their balance sheets to include significant Bitcoin positions, the interplay between institutional demand and market liquidity is tightening. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "70d672f3e11a7f9e05a04d03",
+    "timestamp": "2026-11-18T02:04:19.379Z"
   }
 ]

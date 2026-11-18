@@ -68975,5 +68975,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Bank of America Joins XRP ETF Holders in New Q3 SEC Filing",
+    "link": "https://u.today/bank-of-america-joins-xrp-etf-holders-in-new-q3-sec-filing",
+    "summary": "Bank of America’s Q3 SEC filing shows 13,260 shares of the Volatility Shares XRP ETF, a small stake next to its $700 million in Bitcoin funds.",
+    "image": null,
+    "publishedAt": "2026-11-17T16:29:05.000Z",
+    "collectedAt": "2026-11-18T02:04:06.917Z",
+    "corroboratingSources": 1,
+    "fingerprint": "af90006a946bab9778570c38",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-18T02:04:11.125Z",
+    "outcome": {
+      "event": {
+        "title": "Bank of America Joins XRP ETF Holders in New Q3 SEC Filing",
+        "fingerprint": "af90006a946bab9778570c38"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1739,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+    "link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+    "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-17T17:00:05.000Z",
+    "collectedAt": "2026-11-18T02:04:06.917Z",
+    "corroboratingSources": 1,
+    "fingerprint": "334e72be99f2412b778f7528",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-18T02:04:12.728Z",
+    "outcome": {
+      "event": {
+        "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+        "fingerprint": "334e72be99f2412b778f7528"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1740,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Google says hackers use AI agents to find and exploit software flaws",
+    "link": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg",
+    "publishedAt": "2026-11-17T10:05:59.000Z",
+    "collectedAt": "2026-11-18T02:04:06.917Z",
+    "corroboratingSources": 1,
+    "fingerprint": "575728800b8e8ff05ac639ca",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-18T02:04:15.065Z",
+    "outcome": {
+      "event": {
+        "title": "Google says hackers use AI agents to find and exploit software flaws",
+        "fingerprint": "575728800b8e8ff05ac639ca"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1741,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Former SEC Chair Warns When the AI Boom Will Cause a Recession",
+    "link": "https://cryptopotato.com/former-sec-chair-warns-when-the-ai-boom-will-cause-a-recession/",
+    "summary": "As SEC chair in 2023, Gensler flagged herding around a few AI models as the crisis risk. Now he points at debt, expecting neoclouds to see bankruptcies first.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2023/01/Gary_Gensler.jpg",
+    "publishedAt": "2026-11-17T15:02:26.000Z",
+    "collectedAt": "2026-11-18T02:04:06.917Z",
+    "corroboratingSources": 1,
+    "fingerprint": "225c9748825d7fa2612ab467",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-18T02:04:18.048Z",
+    "outcome": {
+      "event": {
+        "title": "Former SEC Chair Warns When the AI Boom Will Cause a Recession",
+        "fingerprint": "225c9748825d7fa2612ab467"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1742,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion",
+    "link": "https://bitcoinmagazine.com/news/wells-fargo-ibit-stake-doubles-strategy-cut",
+    "summary": "Bitcoin Magazine\n\nWells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion\nWells Fargo's third-quarter 13F shows 49.6 million IBIT shares worth $2.35 billion at Sept. 30, up from 24.4 million, while its Strategy stake fell about 33% to 1.34 million shares.\nThis post Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Wells-Fargo-More-Than-Doubles-Its-Bitcoin-ETF-Stake-to-2.35-Billion.jpg",
+    "publishedAt": "2026-11-17T16:00:00.000Z",
+    "collectedAt": "2026-11-18T02:04:06.917Z",
+    "corroboratingSources": 2,
+    "fingerprint": "70d672f3e11a7f9e05a04d03",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-18T02:04:19.394Z",
+    "outcome": {
+      "event": {
+        "title": "Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion",
+        "fingerprint": "70d672f3e11a7f9e05a04d03"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1743,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
