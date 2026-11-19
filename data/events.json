@@ -69795,5 +69795,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Can AI Hack Smart Contracts? How AI Agents Are Changing Blockchain Security",
+    "link": "https://u.today/guides/can-ai-hack-smart-contracts-how-ai-agents-are-changing-blockchain-security",
+    "summary": "AI agents can already find and exploit smart contract vulnerabilities in tests, so DeFi teams need stronger defenses.",
+    "image": null,
+    "publishedAt": "2026-11-19T06:23:00.000Z",
+    "collectedAt": "2026-11-19T09:51:10.870Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c337fc71d630479ebee4d08c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-19T09:51:14.203Z",
+    "outcome": {
+      "event": {
+        "title": "Can AI Hack Smart Contracts? How AI Agents Are Changing Blockchain Security",
+        "fingerprint": "c337fc71d630479ebee4d08c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1759,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "BTCPay Server issues emergency update for 5 security flaws",
+    "link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBR8JPRT5JWCMRB1JZBYW5/update.jpg",
+    "publishedAt": "2026-11-19T08:04:37.000Z",
+    "collectedAt": "2026-11-19T09:51:10.870Z",
+    "corroboratingSources": 2,
+    "fingerprint": "14d87267a93283e222b58050",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8.5,
+    "processedAt": "2026-11-19T09:51:23.818Z",
+    "outcome": {
+      "event": {
+        "title": "BTCPay Server issues emergency update for 5 security flaws",
+        "fingerprint": "14d87267a93283e222b58050"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1760,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Binance Says ADGM Order Supports Recovery of Hack Funds",
+    "link": "https://thedefiant.io/news/hacks/binance-says-adgm-order-supports-recovery-of-hack-funds",
+    "summary": "Binance says it is pursuing frozen assets after committing more than $6.34 billion in company funds to cover losses from the hack.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/61197837a112bb203d4185cbc15eb37ee12e1347-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-18T19:03:48.000Z",
+    "collectedAt": "2026-11-19T09:51:10.871Z",
+    "corroboratingSources": 2,
+    "fingerprint": "f616419a5ce5a2ae02296380",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-19T09:51:27.116Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Says ADGM Order Supports Recovery of Hack Funds",
+        "fingerprint": "f616419a5ce5a2ae02296380"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1761,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SA53P2GHC309QBB97B4KW6/lost-bitcoins-etf-hack-hacking-falling-jeans-1.jpg",
+    "publishedAt": "2026-11-19T08:26:19.000Z",
+    "collectedAt": "2026-11-19T09:51:10.870Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aea250bf9d7bcb7af66a9e8d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-19T09:51:28.175Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+        "fingerprint": "aea250bf9d7bcb7af66a9e8d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1762,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Citi and Circle join World Bank in tests with USDC, unlocking a massive aid shift",
+    "link": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift/",
+    "summary": "Citi would connect the proposed settlement route to existing banking networks, and Circle would provide the infrastructure to issue and settle funds in USDC.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg",
+    "publishedAt": "2026-11-19T08:40:16.000Z",
+    "collectedAt": "2026-11-19T09:51:10.870Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1a3f771a7a13ebbf8f8b6c29",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-19T09:51:29.400Z",
+    "outcome": {
+      "event": {
+        "title": "Citi and Circle join World Bank in tests with USDC, unlocking a massive aid shift",
+        "fingerprint": "1a3f771a7a13ebbf8f8b6c29"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1763,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

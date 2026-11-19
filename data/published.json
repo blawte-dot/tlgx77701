@@ -13147,5 +13147,45 @@
     "hasImage": true,
     "eventFingerprint": "0f6bd26a80d6db9a7df76a20",
     "timestamp": "2026-11-19T01:44:12.314Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1759,
+    "text": "What happens when autonomous agents turn their processing power toward exploiting on-chain code?\n\nNew tests demonstrate that specialized AI agents can identify and execute smart contract exploits faster and more reliably than traditional static analysis tools. \n\nWhile still primarily observed in controlled testing environments, the capability points to a rapidly shifting threat model for decentralized finance. Protocol developers are racing to integrate automated defense agents of their own to patch vulnerabilities before adversaries deploy them.\n\nSecurity in DeFi is no longer just about human code review. It is becoming an automated arms race between machine-speed attackers and defenders.",
+    "hasImage": true,
+    "eventFingerprint": "c337fc71d630479ebee4d08c",
+    "timestamp": "2026-11-19T09:51:14.188Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1760,
+    "text": "Self-hosted doesn't mean self-defending. \n\nBTCPay Server has pushed an emergency patch for five critical vulnerabilities flagged by the European Union's cybersecurity service. \n\nThe most severe flaws could allow unauthenticated attackers to execute arbitrary code remotely on vulnerable instances. For a platform designed to handle censorship-resistant payments without intermediaries, infrastructure compromise is an existential risk. \n\nAdministrators running outdated instances need to patch immediately. Convenience is often the quietest attack vector in open-source finance.",
+    "hasImage": true,
+    "eventFingerprint": "14d87267a93283e222b58050",
+    "timestamp": "2026-11-19T09:51:23.798Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1761,
+    "text": "Frozen assets are rarely within reach after a nine-figure exploit—until now.\n\nBinance is actively pursuing a network of frozen funds tied to a major historical hack, backed by an Abu Dhabi Global Market court order. \n\nThe exchange has already committed over $6.34 billion in internal capital to absorb user losses from historical exploits, keeping insolvency pressure at bay. \n\nRecovering those frozen reserves isn't just about balance sheet cleanup. It sets a critical legal precedent for how cross-jurisdictional courts treat stolen crypto assets moving forward.",
+    "hasImage": true,
+    "eventFingerprint": "f616419a5ce5a2ae02296380",
+    "timestamp": "2026-11-19T09:51:27.102Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1762,
+    "text": "Wall Street wanted bitcoin on a discount, but they might be panicking at the register.\n\nUS spot ETFs bled another $306.4 million on Wednesday. That brings total net outflows past $2.5 billion for 2026, dragging combined assets down to $77.7 billion as BTC briefly slipped under $63k. \n\nPaper hands fold in the sixties while the macro machine keeps grinding.",
+    "hasImage": true,
+    "eventFingerprint": "aea250bf9d7bcb7af66a9e8d",
+    "timestamp": "2026-11-19T09:51:28.157Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1763,
+    "text": "The World Bank is quietly routing foreign aid through an Ethereum stablecoin.\n\nTraditional institutions spent a decade calling crypto a casino before realizing they needed a faster wire transfer. \n\nCiti is bridging legacy banking rails while Circle handles the USDC issuance for ongoing tests. \n\nWhen central bankers start optimizing their cross-border settlements with permissionless infrastructure, the ideological debate over digital assets effectively ends.",
+    "hasImage": true,
+    "eventFingerprint": "1a3f771a7a13ebbf8f8b6c29",
+    "timestamp": "2026-11-19T09:51:29.386Z"
   }
 ]
