@@ -70000,5 +70000,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "OmenX announces $2 million in funding from Informed Ventures and launches on-demand 30-second Bitcoin predictions",
+    "link": "https://www.newsbtc.com/news/omenx-announces-2-million-in-funding-from-informed-ventures-and-launches-on-demand-30-second-bitcoin-predictions/",
+    "summary": "The Base-native leveraged prediction market platform expands its offering across crypto, global financial assets, sports and esports. Toronto, November 19, 2026 – OmenX, a Base-native leveraged prediction market platform, today announced $2 million in funding from Informed Ventures alongside the launch of its on-demand, 30-second Bitcoin price prediction product. The new product lets users predict whether Bitcoin’s price will rise or fall over the next 30 seconds, with each trade starting its ow",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/64920c29395549da84c6cb9dc07034d3-750x500.jpg",
+    "publishedAt": "2026-11-19T10:29:05.000Z",
+    "collectedAt": "2026-11-19T18:50:06.271Z",
+    "corroboratingSources": 1,
+    "fingerprint": "948e241ec2802d72693424a0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-19T18:50:09.543Z",
+    "outcome": {
+      "event": {
+        "title": "OmenX announces $2 million in funding from Informed Ventures and launches on-demand 30-second Bitcoin predictions",
+        "fingerprint": "948e241ec2802d72693424a0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1764,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP Out at Royal Bank of Canada: Leveraged Fund Cut to Zero",
+    "link": "https://u.today/xrp-out-at-royal-bank-of-canada-leveraged-fund-cut-to-zero",
+    "summary": "Canada’s largest bank has no appetite for leveraged XRP and an amended SEC filing shows RBC’s stake in a 2x XRP ETF at zero.",
+    "image": null,
+    "publishedAt": "2026-11-19T13:19:40.000Z",
+    "collectedAt": "2026-11-19T18:50:06.271Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d7153e5b719406645682e1e2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-19T18:50:12.172Z",
+    "outcome": {
+      "event": {
+        "title": "XRP Out at Royal Bank of Canada: Leveraged Fund Cut to Zero",
+        "fingerprint": "d7153e5b719406645682e1e2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1765,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+    "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+    "summary": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
+    "publishedAt": "2026-11-19T10:25:05.000Z",
+    "collectedAt": "2026-11-19T18:50:06.271Z",
+    "corroboratingSources": 1,
+    "fingerprint": "5cd461c591be37c9d07fa5b1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-19T18:50:14.751Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+        "fingerprint": "5cd461c591be37c9d07fa5b1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1766,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+    "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+    "summary": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/62f74ec6452b6d450e9b40f533eae3445ab31f4e-1255x687.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-19T18:15:56.000Z",
+    "collectedAt": "2026-11-19T18:50:06.270Z",
+    "corroboratingSources": 1,
+    "fingerprint": "042c18ea4f551df70d66cd86",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-19T18:50:17.429Z",
+    "outcome": {
+      "event": {
+        "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+        "fingerprint": "042c18ea4f551df70d66cd86"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1767,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Bitwise Files SEC Registration for a Zcash ETF",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-files-sec-registration-for-a-zcash-etf",
+    "summary": "The proposed trust would hold Zcash to give shareholders exposure to its price, less expenses. Its registration statement is not yet effective.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/f5e09021da216a3f5d16b7b9aa5eb0aa2c14f3ac-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-19T17:57:01.000Z",
+    "collectedAt": "2026-11-19T18:50:06.271Z",
+    "corroboratingSources": 1,
+    "fingerprint": "334b9f26f15a23f48542fa24",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-19T18:50:19.651Z",
+    "outcome": {
+      "event": {
+        "title": "Bitwise Files SEC Registration for a Zcash ETF",
+        "fingerprint": "334b9f26f15a23f48542fa24"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1768,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
