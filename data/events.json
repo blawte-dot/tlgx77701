@@ -69590,5 +69590,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Gonka AI Hit by $1 Million Exploit as Hacker Drains Stablecoins",
+    "link": "https://u.today/gonka-ai-hit-by-1-million-exploit-as-hacker-drains-stablecoins",
+    "summary": "Decentralized AI network Gonka AI has reportedly suffered a $1.06 million exploit after a hacker compromised its Ethereum bridge.",
+    "image": null,
+    "publishedAt": "2026-11-18T21:27:10.000Z",
+    "collectedAt": "2026-11-19T01:43:40.527Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d71f0ac0195fbe38d52f3d23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-19T01:43:49.337Z",
+    "outcome": {
+      "event": {
+        "title": "Gonka AI Hit by $1 Million Exploit as Hacker Drains Stablecoins",
+        "fingerprint": "d71f0ac0195fbe38d52f3d23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1754,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Scattered Spider Hacker Gets Six Years for Crypto Theft",
+    "link": "https://thedefiant.io/news/security/scattered-spider-hacker-gets-six-years-for-crypto-theft",
+    "summary": "Prosecutors counted 32 crypto theft victims and said seized funds could compensate most or all of them. A restitution hearing is set for Dec. 11.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/ac5e506f5600ae790c324a823d03199f89f09cd3-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-18T10:31:11.000Z",
+    "collectedAt": "2026-11-19T01:43:40.528Z",
+    "corroboratingSources": 3,
+    "fingerprint": "eb61f0e97b618c7d92186c1c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-19T01:43:57.210Z",
+    "outcome": {
+      "event": {
+        "title": "Scattered Spider Hacker Gets Six Years for Crypto Theft",
+        "fingerprint": "eb61f0e97b618c7d92186c1c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1755,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "DBS Taps Circle&#8217;s USDC Infrastructure to Push Institutional Stablecoin Adoption in Asia",
+    "link": "https://cryptopotato.com/dbs-taps-circles-usdc-infrastructure-to-push-institutional-stablecoin-adoption-in-asia/",
+    "summary": "The partnership gives eligible DBS clients a direct way to mint and redeem USDC, thereby reducing reliance on secondary market liquidity.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/01/USDC_Wallet.jpg",
+    "publishedAt": "2026-11-18T23:45:51.000Z",
+    "collectedAt": "2026-11-19T01:43:40.527Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dee50990ebc2c58a70e228b1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-19T01:44:03.282Z",
+    "outcome": {
+      "event": {
+        "title": "DBS Taps Circle&#8217;s USDC Infrastructure to Push Institutional Stablecoin Adoption in Asia",
+        "fingerprint": "dee50990ebc2c58a70e228b1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1756,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Binance Says It Won Court Order to Recover Frozen Hack Funds",
+    "link": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
+    "summary": "Bitcoin Magazine\n\nBinance Says It Won Court Order to Recover Frozen Hack Funds\nBinance says it has a court order from Abu Dhabi Global Market to recover crypto frozen after the $6.3 billion hack.\nThis post Binance Says It Won Court Order to Recover Frozen Hack Funds first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg",
+    "publishedAt": "2026-11-18T18:47:30.000Z",
+    "collectedAt": "2026-11-19T01:43:40.527Z",
+    "corroboratingSources": 2,
+    "fingerprint": "c587690f9193a83adbace1ef",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-19T01:44:04.849Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Says It Won Court Order to Recover Frozen Hack Funds",
+        "fingerprint": "c587690f9193a83adbace1ef"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1757,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+    "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7RKGRPQNEY9GRK7X6FRXKBK/bitcoin-crypto-desk-graph-chart-fed-1.jpg",
+    "publishedAt": "2026-11-19T00:35:49.000Z",
+    "collectedAt": "2026-11-19T01:43:40.527Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0f6bd26a80d6db9a7df76a20",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-19T01:44:12.326Z",
+    "outcome": {
+      "event": {
+        "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+        "fingerprint": "0f6bd26a80d6db9a7df76a20"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1758,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

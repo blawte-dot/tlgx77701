@@ -13107,5 +13107,45 @@
     "hasImage": true,
     "eventFingerprint": "2c69cd37c7c953cd784018e7",
     "timestamp": "2026-11-18T19:57:10.022Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1754,
+    "text": "Bridges continue to be the primary battleground for high-value exploits. \n\nUnconfirmed reports indicate that decentralized AI network Gonka AI has suffered a loss of roughly $1.06 million following an alleged compromise of its Ethereum bridge. \n\nData circulating across analytics channels suggests the attacker managed to drain stablecoins from the protocol earlier today. \n\nTeam statements and on-chain forensics are still pending. We are tracking developments as more transaction data emerges.",
+    "hasImage": true,
+    "eventFingerprint": "d71f0ac0195fbe38d52f3d23",
+    "timestamp": "2026-11-19T01:43:49.326Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1755,
+    "text": "Six years behind bars is the price for targeting the digital asset economy's most vulnerable attack surface.\n\nA key member of the Scattered Spider hacking collective received a federal prison sentence today following a targeted cybercrime campaign that drained millions from thirty-two victims. \n\nFederal prosecutors confirmed that asset seizures secured during the investigation are sufficient to cover restitution for most, if not all, of those affected. \n\nA formal restitution hearing is scheduled for December 11 to finalize the recovery process. \n\nBeyond the courtroom, the case highlights a critical shift in law enforcement capabilities. Digital asset forensics are increasingly tracing sophisticated threat actors across blockchain rails, turning what was once considered untraceable loot into recoverable evidence.",
+    "hasImage": true,
+    "eventFingerprint": "eb61f0e97b618c7d92186c1c",
+    "timestamp": "2026-11-19T01:43:57.199Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1756,
+    "text": "How fast can traditional banking integrate native crypto rails when tier-one institutions decide to move?\n\nDBS Bank is partnering directly with Circle to enable institutional clients to mint and redeem USDC without touching secondary market liquidity. \n\nSingapore's largest lender is bypassing third-party exchanges to offer direct stablecoin infrastructure. \n\nEligible corporate clients gain direct access to Circle-issued USDC for cross-border settlements and treasury operations. \n\nThe move eliminates secondary market slippage and lowers counterparty risk for institutional market participants in Asia. \n\nTraditional finance continues building direct plumbing into digital asset infrastructure, shifting stablecoins from speculative trading pairs to core enterprise settlement rails.",
+    "hasImage": true,
+    "eventFingerprint": "dee50990ebc2c58a70e228b1",
+    "timestamp": "2026-11-19T01:44:03.266Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1757,
+    "text": "An Abu Dhabi court order has given Binance the legal backing to recover funds tied to a massive $6.3 billion exploit.\n\nThe ruling cuts through standard jurisdictional grey areas that usually trap frozen assets in limbo indefinitely.\n\nIf exchanges can routinely secure cross-border court orders to reclaim hacked capital, how much safer are centralized platforms against structural exploits moving forward?",
+    "hasImage": true,
+    "eventFingerprint": "c587690f9193a83adbace1ef",
+    "timestamp": "2026-11-19T01:44:04.734Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1758,
+    "text": "October’s rate pause was far more contentious inside the room than the final tally let on. \n\nNewly released FOMC minutes reveal the decision to hold rates steady was a much closer call than the 10–2 vote suggested, pointing to a deeper internal appetite to keep tightening policy. \n\nTraders have adjusted accordingly, with fed funds futures now actively pricing in a higher probability of a December hike. Risk assets are reacting to the shift in tone as borrowing costs threaten to stay elevated longer than anticipated.",
+    "hasImage": true,
+    "eventFingerprint": "0f6bd26a80d6db9a7df76a20",
+    "timestamp": "2026-11-19T01:44:12.314Z"
   }
 ]
