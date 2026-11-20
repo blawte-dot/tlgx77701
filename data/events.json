@@ -70410,5 +70410,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+    "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg",
+    "publishedAt": "2026-11-20T08:03:34.000Z",
+    "collectedAt": "2026-11-20T09:37:50.536Z",
+    "corroboratingSources": 1,
+    "fingerprint": "77db98aeef5ab8915ff3e442",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-20T09:37:52.426Z",
+    "outcome": {
+      "event": {
+        "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+        "fingerprint": "77db98aeef5ab8915ff3e442"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": false,
+          "reasons": [
+            "prohibited_language"
+          ]
+        },
+        "result": {
+          "published": false,
+          "reason": "failed_quality_gate"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP and Solana ETF Plans Abruptly Scrapped After Yearlong Wait",
+    "link": "https://u.today/xrp-and-solana-etf-plans-abruptly-scrapped-after-yearlong-wait",
+    "summary": "nvestment firm Roundhill has abruptly scrapped plans to launch two XRP and Solana ETFs after more than 13 months of regulatory delays.",
+    "image": null,
+    "publishedAt": "2026-11-19T15:27:56.000Z",
+    "collectedAt": "2026-11-20T09:37:50.536Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e35d3e3c966cb7467d1f5653",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-20T09:37:54.361Z",
+    "outcome": {
+      "event": {
+        "title": "XRP and Solana ETF Plans Abruptly Scrapped After Yearlong Wait",
+        "fingerprint": "e35d3e3c966cb7467d1f5653"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1774,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+    "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
+    "summary": "Bitcoin ETFs saw more than $300 million in outflows Wednesday, with attention now turning to Anthrophic's $100 billion IPO.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/78ddba1fdf70d875d5aa32a91e2feba988b0741f-1496x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-19T12:08:06.000Z",
+    "collectedAt": "2026-11-20T09:37:50.536Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c46218236a0c5114b57d740c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-20T09:37:55.599Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+        "fingerprint": "c46218236a0c5114b57d740c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1775,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+    "link": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+    "summary": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design on collision course.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8d3913996d8637f1c2bafb345532b4b1480c2275-1191x670.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-19T11:30:00.000Z",
+    "collectedAt": "2026-11-20T09:37:50.536Z",
+    "corroboratingSources": 1,
+    "fingerprint": "21ffa238e1678f9750408f70",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-20T09:37:57.250Z",
+    "outcome": {
+      "event": {
+        "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+        "fingerprint": "21ffa238e1678f9750408f70"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1776,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
+    "link": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+    "summary": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e87c2d1c3401c9d716f30b95b8ccef99c06082d2-2276x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-19T10:55:29.000Z",
+    "collectedAt": "2026-11-20T09:37:50.536Z",
+    "corroboratingSources": 1,
+    "fingerprint": "73d99ba37e30a03e925c9a5c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-20T09:37:58.154Z",
+    "outcome": {
+      "event": {
+        "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
+        "fingerprint": "73d99ba37e30a03e925c9a5c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1777,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
