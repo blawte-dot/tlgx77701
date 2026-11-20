@@ -70205,5 +70205,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Anthropic’s $1.5 trillion IPO exposes bankrupt FTX’s $40 billion missed fortune",
+    "link": "https://cryptoslate.com/anthropics-1-5-trillion-ipo-exposes-bankrupt-ftxs-40-billion-missed-fortune/",
+    "summary": "Anthropic shares owned by FTX and sold for around $2 billion would now be worth more than $40 billion as the artificial intelligence company finally goes public on Nov. 19. The difference highlights one of the largest missed windfalls from FTX&#039;s bankruptcy, after administrators and US authorities liquidated investments originally made by Sam Bankman-Fried and…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/anthropic-ipo-missed-ascent.webp",
+    "publishedAt": "2026-11-19T19:40:53.000Z",
+    "collectedAt": "2026-11-20T01:00:30.004Z",
+    "corroboratingSources": 1,
+    "fingerprint": "41448b23b9b3a9151d14fc3a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-20T01:00:32.849Z",
+    "outcome": {
+      "event": {
+        "title": "Anthropic’s $1.5 trillion IPO exposes bankrupt FTX’s $40 billion missed fortune",
+        "fingerprint": "41448b23b9b3a9151d14fc3a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1769,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+    "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png",
+    "publishedAt": "2026-11-19T21:01:42.000Z",
+    "collectedAt": "2026-11-20T01:00:30.003Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eed96fd9800b2ed6bafbabab",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-20T01:00:34.458Z",
+    "outcome": {
+      "event": {
+        "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+        "fingerprint": "eed96fd9800b2ed6bafbabab"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1770,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+    "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+    "summary": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-11-19T22:36:02.000Z",
+    "collectedAt": "2026-11-20T01:00:30.004Z",
+    "corroboratingSources": 1,
+    "fingerprint": "83b839dddc9320ed88aec9fb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-20T01:00:35.999Z",
+    "outcome": {
+      "event": {
+        "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+        "fingerprint": "83b839dddc9320ed88aec9fb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1771,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "A Bitcoin trade that doesn&#8217;t need prices to rise could beat Treasury bills in 2027",
+    "link": "https://cryptoslate.com/a-bitcoin-trade-that-doesnt-need-prices-to-rise-could-beat-treasury-bills-in-2027/",
+    "summary": "The bank expects renewed demand for leverage to lift Bitcoin carry after 67 consecutive days of negative funding in 2026.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-carry-clearance-1.webp",
+    "publishedAt": "2026-11-19T23:10:33.000Z",
+    "collectedAt": "2026-11-20T01:00:30.004Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ed94b6ef133deaddb2270101",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-20T01:00:37.899Z",
+    "outcome": {
+      "event": {
+        "title": "A Bitcoin trade that doesn&#8217;t need prices to rise could beat Treasury bills in 2027",
+        "fingerprint": "ed94b6ef133deaddb2270101"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1772,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "MEXC&#8217;s Hacken-Audited November 2026 Proof of Reserves Shows Reserve Ratios Above 100% Across Major Assets",
+    "link": "https://www.newsbtc.com/news/mexcs-hacken-audited-november-2026-proof-of-reserves-shows-reserve-ratios-above-100-across-major-assets/",
+    "summary": "Mutsamudu, Comoros, November 19, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has released its November 2026 Proof of Reserves (PoR) report, independently audited by Hacken. The report shows MEXC&#8217;s solid reserve position, with user assets in every major asset backed by reserves above 1:1, demonstrating MEXC&#8217;s ongoing commitment to safeguarding user assets. Spanning Proof of Liabilities, Proof of Ownership, Reserves Calculation, and Merkle Tree verification, Hacken’s Novembe",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/photo_2026-11-19_08-40-35-715x536.jpg",
+    "publishedAt": "2026-11-19T10:23:39.000Z",
+    "collectedAt": "2026-11-20T01:00:30.004Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ba70087cdf9dc0ec01a26249",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-20T01:00:39.530Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC&#8217;s Hacken-Audited November 2026 Proof of Reserves Shows Reserve Ratios Above 100% Across Major Assets",
+        "fingerprint": "ba70087cdf9dc0ec01a26249"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1773,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

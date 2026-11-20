@@ -13227,5 +13227,45 @@
     "hasImage": true,
     "eventFingerprint": "334b9f26f15a23f48542fa24",
     "timestamp": "2026-11-19T18:50:19.639Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1769,
+    "text": "What is the cost of liquidating too early?\n\nFTX’s bankruptcy estate offloaded its stake in Anthropic for roughly $2 billion to help repay creditors. \n\nWith the AI firm now eyeing a public debut at a staggering $1.5 trillion valuation, those exact shares are valued above $40 billion. \n\nAdministrators had to prioritize immediate liquidity under US oversight, turning what would have been a full recovery for victims into one of the largest missed windfalls in financial history. \n\nTiming is everything, even when forced.",
+    "hasImage": true,
+    "eventFingerprint": "41448b23b9b3a9151d14fc3a",
+    "timestamp": "2026-11-20T01:00:32.834Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1770,
+    "text": "What happens when a crypto payments unicorn applies for the same federal plumbing used by traditional Wall Street giants?\n\nMoonPay is seeking a national trust bank charter in the United States. \n\nIf approved by the OCC, the newly formed entity would handle stablecoin issuance, reserve management, and digital asset custody directly under federal oversight. \n\nIt marks a notable pivot for consumer-facing crypto apps attempting to bypass state-by-state licensing hurdles by embedding themselves deeper into the regulated banking apparatus. \n\nFederal supervision brings legitimacy and broader institutional access, but it also trades away the regulatory distance that early fintech innovators traditionally relied upon. \n\n#MoonPay",
+    "hasImage": true,
+    "eventFingerprint": "eed96fd9800b2ed6bafbabab",
+    "timestamp": "2026-11-20T01:00:34.432Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1771,
+    "text": "Who actually owns the liability when an autonomous algorithm makes a bad financial call?\n\nCitibank’s updated terms draw a sharp line. According to their new framework, retail customers remain fully liable for unauthorized transactions executed by outside AI agents, even in scenarios involving leaked credentials or external hacks. \n\nAs financial institutions increasingly integrate autonomous software handlers, the baseline assumption of consumer protection is shifting. If an AI agent you authorized goes rogue, the financial exposure lands on you. \n\nThe traditional boundaries of banking security are rewriting themselves around automated code. \n\n#Banking",
+    "hasImage": true,
+    "eventFingerprint": "83b839dddc9320ed88aec9fb",
+    "timestamp": "2026-11-20T01:00:35.986Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1772,
+    "text": "Getting paid to hold Bitcoin without betting on a price breakout sounds counterintuitive. Yet market mechanics are quietly lining up precisely that trade for the medium term.\n\nFollowing a grueling stretch of 67 consecutive days of negative funding rates through 2026, institutional forecasts suggest the landscape for crypto carry is shifting. \n\nThe thesis rests on a simple dynamic: as demand for leverage gradually returns to derivatives markets, the cost of borrowing capital shifts in favor of those holding spot inventory. \n\nAnalysts project this yield could comfortably outpace traditional short-term sovereign debt instruments by 2027. \n\nIt is a structural play on market demand rather than directional speculation—utilizing funding rates to generate yield while sidestepping spot price volatility. \n\nRead the full story on CryptoSlate",
+    "hasImage": true,
+    "eventFingerprint": "ed94b6ef133deaddb2270101",
+    "timestamp": "2026-11-20T01:00:37.881Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1773,
+    "text": "How do you actually prove solvency in a market built on trustless assumptions?\n\nMEXC just released its November 2026 Proof of Reserves report, audited independently by Hacken. \n\nThe numbers show user assets across every major holding backed at ratios exceeding 100%. \n\nVerification covers Proof of Liabilities, Proof of Ownership, and full Merkle Tree checks. \n\nTransparency standards continue to evolve across the exchange sector.",
+    "hasImage": true,
+    "eventFingerprint": "ba70087cdf9dc0ec01a26249",
+    "timestamp": "2026-11-20T01:00:39.515Z"
   }
 ]
