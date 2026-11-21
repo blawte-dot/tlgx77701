@@ -71230,5 +71230,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "BTCS Warns of Liquidation Risk on $54M Aave Debt",
+    "link": "https://thedefiant.io/news/defi/btcs-warns-of-liquidation-risk-on-54m-aave-debt",
+    "summary": "The Nasdaq-listed company reported about $10 million less debt over ten days, but its ETH-backed borrowing remains exposed to liquidation.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/431bef3be8bb058b3244bf8041a516a1dfe2303b-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-21T12:42:42.000Z",
+    "collectedAt": "2026-11-21T15:57:03.177Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dd943d93d2b014529f84f624",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-21T15:57:05.193Z",
+    "outcome": {
+      "event": {
+        "title": "BTCS Warns of Liquidation Risk on $54M Aave Debt",
+        "fingerprint": "dd943d93d2b014529f84f624"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1793,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+    "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+    "summary": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
+    "publishedAt": "2026-11-20T16:11:22.000Z",
+    "collectedAt": "2026-11-21T15:57:03.176Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9be16ae8eea09976e040e514",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-21T15:57:10.722Z",
+    "outcome": {
+      "event": {
+        "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+        "fingerprint": "9be16ae8eea09976e040e514"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1794,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
+    "publishedAt": "2026-11-20T19:37:27.000Z",
+    "collectedAt": "2026-11-21T15:57:03.176Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ed5777a2f93a30d5e0e73aa6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-21T15:57:12.816Z",
+    "outcome": {
+      "event": {
+        "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+        "fingerprint": "ed5777a2f93a30d5e0e73aa6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1795,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+    "link": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+    "summary": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-11-20T19:36:03.000Z",
+    "collectedAt": "2026-11-21T15:57:03.176Z",
+    "corroboratingSources": 1,
+    "fingerprint": "eb0b770a37d7c262495f4831",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-21T15:57:13.922Z",
+    "outcome": {
+      "event": {
+        "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+        "fingerprint": "eb0b770a37d7c262495f4831"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1796,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
+    "link": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
+    "summary": "&#9654;Bitcoin Magazine\n\nTracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom\nTracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today.\nThis post Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/8ZLlc6cnmDs/hqdefault.jpg",
+    "publishedAt": "2026-11-20T22:10:11.000Z",
+    "collectedAt": "2026-11-21T15:57:03.176Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1612ed1271fe3f76624d7bd9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-21T15:57:14.951Z",
+    "outcome": {
+      "event": {
+        "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
+        "fingerprint": "1612ed1271fe3f76624d7bd9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1797,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

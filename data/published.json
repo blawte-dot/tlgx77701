@@ -13419,5 +13419,45 @@
     "hasImage": true,
     "eventFingerprint": "54986cdb9c0a502745fa8d21",
     "timestamp": "2026-11-21T07:57:14.054Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1793,
+    "text": "How does a Nasdaq-listed firm justify holding $54 million in volatile debt while chipping away at it by just $10 million in ten days?\n\nBTCS remains exposed to a sharp ETH drawdown on Aave, even after trimming its liabilities. \n\nAt what point does corporate crypto borrowing cross the line from strategic leverage into an open liquidation gamble? Drop your take below.\n\n#DeFi",
+    "hasImage": true,
+    "eventFingerprint": "dd943d93d2b014529f84f624",
+    "timestamp": "2026-11-21T15:57:05.182Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1794,
+    "text": "Thirteen million dollars vanished from Wagyu in minutes. \n\nAn exploit drained the protocol's liquidity pools, sending XMR1 Wrapped Monero tumbling 99% in a sharp market drop. \n\nThe project's founder has publicly pledged to cover user losses and issue full refunds following the breach. \n\nTrading for the affected wrapped token remains severely disrupted as on-chain investigators trace the attacker's wallet movements.",
+    "hasImage": true,
+    "eventFingerprint": "9be16ae8eea09976e040e514",
+    "timestamp": "2026-11-21T15:57:10.712Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1795,
+    "text": "Liquidity is vanishing from wrapped privacy assets this morning.\n\nBitquery has flagged roughly $13.5 million in unauthorized sales tied to a wrapped Monero token crash that wiped 99.8% of its value. \n\nThe token's operator has pointed to a security breach behind the sell-off and pledged to compensate affected traders, though on-chain verification of those reimbursement plans is still pending.",
+    "hasImage": true,
+    "eventFingerprint": "ed5777a2f93a30d5e0e73aa6",
+    "timestamp": "2026-11-21T15:57:12.804Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1796,
+    "text": "Sam Bankman-Fried's early $500 million bet on Anthropic would be sitting at roughly $43 billion today if the estate had held rather than liquidated.\n\nThe massive figure surfaced just as Netflix released its new dramatization of the FTX collapse. \n\nCourt-appointed liquidators sold off the 8 percent stake in late 2023 to help plug the multibillion-dollar hole left by the exchange's bankruptcy. \n\nToday's valuation reflects Anthropic's explosive growth amid the broader AI infrastructure boom, turning one of crypto's most infamous liquidations into a historic counterfactual for creditors.",
+    "hasImage": true,
+    "eventFingerprint": "eb0b770a37d7c262495f4831",
+    "timestamp": "2026-11-21T15:57:13.911Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1797,
+    "text": "Are long-term store-of-value narratives holding up against macroeconomic pressure?\n\nMarket analyst Tracy Shuchart points out that despite Bitcoin's structural monetary scarcity, current price action is mirroring traditional risk assets as Federal Reserve rate expectations shift. \n\nSeparating the multi-year thesis from immediate trading behavior remains a core challenge for market participants as tightening cycles loom.",
+    "hasImage": true,
+    "eventFingerprint": "1612ed1271fe3f76624d7bd9",
+    "timestamp": "2026-11-21T15:57:14.941Z"
   }
 ]
