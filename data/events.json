@@ -71025,5 +71025,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+    "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+    "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
+    "publishedAt": "2026-11-20T15:42:51.000Z",
+    "collectedAt": "2026-11-21T07:57:06.719Z",
+    "corroboratingSources": 4,
+    "fingerprint": "b29656dc804f074f3addee33",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-21T07:57:09.313Z",
+    "outcome": {
+      "event": {
+        "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+        "fingerprint": "b29656dc804f074f3addee33"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1788,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+    "link": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+    "summary": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png",
+    "publishedAt": "2026-11-20T12:10:14.000Z",
+    "collectedAt": "2026-11-21T07:57:06.719Z",
+    "corroboratingSources": 2,
+    "fingerprint": "0f1d374a0626a68f5d1c3332",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-21T07:57:10.793Z",
+    "outcome": {
+      "event": {
+        "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+        "fingerprint": "0f1d374a0626a68f5d1c3332"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1789,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e801fab0ba43b1fac7d53b2dde06f85232d5e766-1506x830.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-21T05:59:19.000Z",
+    "collectedAt": "2026-11-21T07:57:06.719Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bf56f7b9e9db27c1cbc20323",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-21T07:57:11.748Z",
+    "outcome": {
+      "event": {
+        "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+        "fingerprint": "bf56f7b9e9db27c1cbc20323"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1790,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+    "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png",
+    "publishedAt": "2026-11-20T15:55:22.000Z",
+    "collectedAt": "2026-11-21T07:57:06.719Z",
+    "corroboratingSources": 4,
+    "fingerprint": "f4524910f56685b1107b646f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-21T07:57:12.996Z",
+    "outcome": {
+      "event": {
+        "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+        "fingerprint": "f4524910f56685b1107b646f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1791,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+    "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+    "summary": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-20T13:30:22.000Z",
+    "collectedAt": "2026-11-21T07:57:06.719Z",
+    "corroboratingSources": 1,
+    "fingerprint": "54986cdb9c0a502745fa8d21",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-21T07:57:14.067Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+        "fingerprint": "54986cdb9c0a502745fa8d21"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1792,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
