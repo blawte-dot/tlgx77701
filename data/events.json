@@ -70820,5 +70820,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
+    "link": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
+    "summary": "The Death Bets Act, which now heads to the House, would ban prediction market contracts tied to death, terrorism, assassination, and war.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Adam-Schiff.jpg",
+    "publishedAt": "2026-11-20T10:09:25.000Z",
+    "collectedAt": "2026-11-21T00:34:47.331Z",
+    "corroboratingSources": 4,
+    "fingerprint": "f7c56a057d07ec64f8f0952c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-21T00:34:50.190Z",
+    "outcome": {
+      "event": {
+        "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
+        "fingerprint": "f7c56a057d07ec64f8f0952c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1783,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Why is crypto down today? $582M in BTC ETF outflows, AI rotation, and more",
+    "link": "https://ambcrypto.com/why-is-crypto-down-today-582m-in-btc-etf-outflows-ai-rotation-and-more/",
+    "summary": "Spot ETF outflows, hawkish Fed minutes, and the Anthropic IPO pull capital away from crypto.",
+    "image": null,
+    "publishedAt": "2026-11-20T14:00:04.000Z",
+    "collectedAt": "2026-11-21T00:34:47.331Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0f8d6f74901dffb8c4caa5df",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-21T00:34:52.178Z",
+    "outcome": {
+      "event": {
+        "title": "Why is crypto down today? $582M in BTC ETF outflows, AI rotation, and more",
+        "fingerprint": "0f8d6f74901dffb8c4caa5df"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1784,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Clayton Links Tech Outages to Maintenance and Upgrades",
+    "link": "https://thedefiant.io/frontier/ai/clayton-links-tech-outages-to-maintenance-and-upgrades",
+    "summary": "The intelligence chief described separate outages linked to maintenance and technical changes. Mark Warner pointed to pressure to patch AI-found flaws.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/11487d9ef3340f8d7a1bd8a39646d8424d18b4cc-2816x1584.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-21T00:11:07.000Z",
+    "collectedAt": "2026-11-21T00:34:47.331Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a83696849dc62f7ba4b27f58",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-21T00:34:53.343Z",
+    "outcome": {
+      "event": {
+        "title": "Clayton Links Tech Outages to Maintenance and Upgrades",
+        "fingerprint": "a83696849dc62f7ba4b27f58"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1785,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+    "link": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+    "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
+    "publishedAt": "2026-11-20T20:36:54.000Z",
+    "collectedAt": "2026-11-21T00:34:47.331Z",
+    "corroboratingSources": 1,
+    "fingerprint": "dcf5ab8f47eb24c9b15bc800",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-21T00:34:54.466Z",
+    "outcome": {
+      "event": {
+        "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+        "fingerprint": "dcf5ab8f47eb24c9b15bc800"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1786,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal",
+    "link": "https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs",
+    "summary": "Bitcoin Magazine\n\nResearchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal\nBlockstream researchers published a 131-page security analysis of SHRINCS, a hash-based post-quantum signature scheme for Bitcoin, and are asking the community to review it for flaws.\nThis post Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Researchers-Publish-Security-Analysis-of-Bitcoins-Post-Quantum-SHRINCS-Proposal.jpg",
+    "publishedAt": "2026-11-20T16:55:00.000Z",
+    "collectedAt": "2026-11-21T00:34:47.331Z",
+    "corroboratingSources": 1,
+    "fingerprint": "e2a3d3009ab345adaa8ed3be",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-21T00:34:55.515Z",
+    "outcome": {
+      "event": {
+        "title": "Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal",
+        "fingerprint": "e2a3d3009ab345adaa8ed3be"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1787,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

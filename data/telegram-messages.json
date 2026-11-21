@@ -11671,5 +11671,40 @@
     "hasImage": true,
     "eventFingerprint": "e8124feffd29a556a34508ae",
     "timestamp": "2026-11-20T18:16:16.790Z"
+  },
+  {
+    "messageId": 1783,
+    "text": "Lawmakers are moving to draw a hard legal line around what human ingenuity can monetize.\n\nThe Senate just passed the Death Bets Act, advancing a sweeping legislative ban targeting prediction market contracts tied to war, terrorism, assassination, and mortality. The bill now heads to the House.\n\nFor decentralized finance and emerging derivatives platforms, the timing carries immediate weight. As prediction markets scale into mainstream financial infrastructure, regulators are no longer treating taboo wagering as a theoretical grey area. \n\nIf enacted, the legislation would force platforms operating in or accessible from the US to aggressively geofence or strip out entire categories of event contracts—testing the limits of censorship-resistant architecture against traditional jurisdictional enforcement.",
+    "hasImage": true,
+    "eventFingerprint": "f7c56a057d07ec64f8f0952c",
+    "timestamp": "2026-11-21T00:34:50.162Z"
+  },
+  {
+    "messageId": 1784,
+    "text": "When $582 million leaves spot Bitcoin ETFs in a single session, the broader market feels the friction. \n\nToday's downward pressure isn't happening in a vacuum. Fresh outflows compounded earlier macro jitters after recent Federal Reserve minutes signaled a more cautious stance on upcoming interest rate cuts. \n\nAt the same time, traditional risk capital is shifting. Strong institutional appetite for upcoming artificial intelligence public offerings, including anticipated moves by major players like Anthropic, is actively drawing liquidity away from digital assets toward equity sectors. \n\nShort-term volatility remains elevated as liquidity tightens across multiple fronts. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "0f8d6f74901dffb8c4caa5df",
+    "timestamp": "2026-11-21T00:34:52.153Z"
+  },
+  {
+    "messageId": 1785,
+    "text": "Infrastructure strain is becoming a systemic risk we can no longer patch over with routine maintenance. \n\nIntelligence officials are linking a growing wave of recent tech outages directly to active system upgrades and maintenance work. \n\nBehind the scenes, lawmakers like Mark Warner point to a compounding pressure: engineering teams are rushing to deploy emergency fixes for vulnerabilities unmasked by automated AI tools. \n\nWhen the race to secure code outpaces basic operational stability, the entire stack starts to wobble. \n\n#CyberSecurity",
+    "hasImage": true,
+    "eventFingerprint": "a83696849dc62f7ba4b27f58",
+    "timestamp": "2026-11-21T00:34:53.316Z"
+  },
+  {
+    "messageId": 1786,
+    "text": "Can a single regulatory probe derail the undisputed king of the AI trade?\n\nNvidia shares dropped roughly 13% to a fresh 52-week low following reports that SEC enforcement staff are investigating potential accounting practices at the chipmaker. \n\nThe scrutiny compounds mounting pressure on the firm, arriving shortly after the unexpected resignation of CEO Jensen Huang. \n\nMarkets are now weighing whether this inquiry represents a routine regulatory check or the unraveling of a foundational pillar in the broader tech rally.",
+    "hasImage": true,
+    "eventFingerprint": "dcf5ab8f47eb24c9b15bc800",
+    "timestamp": "2026-11-21T00:34:54.441Z"
+  },
+  {
+    "messageId": 1787,
+    "text": "What happens to Bitcoin when quantum computers finally break standard cryptography?\n\nBlockstream researchers have just dropped a massive 131-page security evaluation examining SHRINCS, a hash-based signature scheme designed to future-proof the network. \n\nRather than pushing code changes, the team is opening the proposal up to community-wide peer review to hunt for undiscovered flaws. \n\nSecuring a decentralized ledger against an unproven technological threat requires years of rigorous scrutiny before any consensus upgrade ever reaches the mainnet. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "e2a3d3009ab345adaa8ed3be",
+    "timestamp": "2026-11-21T00:34:55.485Z"
   }
 ]
