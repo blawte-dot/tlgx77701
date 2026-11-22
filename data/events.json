@@ -72050,5 +72050,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+    "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "summary": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aeeabe28669425a95b4918b55a4680c3e968c1c7-6002x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-22T14:00:00.000Z",
+    "collectedAt": "2026-11-22T17:35:47.587Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4d688ad8603b028282f9844d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-22T17:35:49.779Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+        "fingerprint": "4d688ad8603b028282f9844d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1813,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin&#8217;s $60,000 breakdown puts December Fed decision under the spotlight",
+    "link": "https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/",
+    "summary": "Bitcoin fell below $60,000 on Friday for the first time since July, with US spot Bitcoin funds recording withdrawals and short-term Treasury bills offering investors more than 4% a year. That creates a problem for the Federal Reserve&#039;s December meeting: traders expect a quarter-point rate increase, while Governor Christopher Waller has argued that persistent inflation…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-broken-price-support.webp",
+    "publishedAt": "2026-11-22T12:00:04.000Z",
+    "collectedAt": "2026-11-22T17:35:47.587Z",
+    "corroboratingSources": 1,
+    "fingerprint": "944392f99014c957f1430d90",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-22T17:35:51.582Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin&#8217;s $60,000 breakdown puts December Fed decision under the spotlight",
+        "fingerprint": "944392f99014c957f1430d90"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1814,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
+    "link": "https://bitcoinmagazine.com/news/sec-freezes-crypto-560-million-ponzi",
+    "summary": "Bitcoin Magazine\n\nSEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme\nThe SEC obtained an asset freeze against Backward Hat Capital and its founders, alleging a $560 million Ponzi scheme sold as AI-driven FX trading funded through crypto. Prosecutors and the CFTC filed parallel cases.\nThis post SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/SEC-Freezes-Assets-in-560-Million-Crypto-Trading-Ponzi-Scheme.jpg",
+    "publishedAt": "2026-11-20T19:15:56.000Z",
+    "collectedAt": "2026-11-22T17:35:47.587Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bdb4eb3ccabd2dcb35c28abd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-22T17:35:52.356Z",
+    "outcome": {
+      "event": {
+        "title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
+        "fingerprint": "bdb4eb3ccabd2dcb35c28abd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": false,
+          "reasons": [
+            "ai_meta_response_leak"
+          ]
+        },
+        "result": {
+          "published": false,
+          "reason": "failed_quality_gate"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+    "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
+    "summary": "From Nov. 22, Russian exchanges can begin trading Bitcoin once the central bank approves the rules, but customers still can&#039;t use it to pay for anything. Moscow Exchange plans a Dec. 1 pilot through a US-sanctioned clearinghouse, with ordinary investors limited to 300,000 rubles in annual purchases per intermediary. The central bank&#039;s retail purchase rules…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/moex-bitcoin-trading-gate.webp",
+    "publishedAt": "2026-11-21T19:40:03.000Z",
+    "collectedAt": "2026-11-22T17:35:47.587Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0e68e2fb3cf38cdaa865170e",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-22T17:35:53.772Z",
+    "outcome": {
+      "event": {
+        "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+        "fingerprint": "0e68e2fb3cf38cdaa865170e"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1815,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Cardano Founder's Midnight Secures Major Japan Payments Deal",
+    "link": "https://u.today/cardano-founders-midnight-secures-major-japan-payments-deal",
+    "summary": "Charles Hoskinson’s Cardano-linked blockchain Midnight has secured a major payments deal in Japan as it pushes deeper into traditional finance.",
+    "image": null,
+    "publishedAt": "2026-11-20T20:05:58.000Z",
+    "collectedAt": "2026-11-22T17:35:47.587Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ec7e07f338da7937f839619a",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-22T17:35:56.033Z",
+    "outcome": {
+      "event": {
+        "title": "Cardano Founder's Midnight Secures Major Japan Payments Deal",
+        "fingerprint": "ec7e07f338da7937f839619a"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1816,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

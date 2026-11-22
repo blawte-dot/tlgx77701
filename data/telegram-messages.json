@@ -11881,5 +11881,33 @@
     "hasImage": true,
     "eventFingerprint": "9d32ecd4a28600c4a4b18305",
     "timestamp": "2026-11-22T09:18:46.670Z"
+  },
+  {
+    "messageId": 1813,
+    "text": "Quantum computing is no longer a theoretical threat to the crypto ecosystem.\n\nWhile Bitcoin’s base layer remains secure for now, the transition to quantum-resistant infrastructure is becoming a critical long-term bottleneck.\n\nLeo Fan warns that the logistical challenge of upgrading the entire network—specifically migrating funds across bridges and custodial services—could take significantly longer than anticipated.\n\nThe risk isn't an immediate collapse, but rather the massive operational friction involved in upgrading millions of coins before quantum capabilities evolve.\n\nInfrastructure readiness remains the primary variable to watch as the industry approaches a post-quantum landscape. ⚠️",
+    "hasImage": true,
+    "eventFingerprint": "4d688ad8603b028282f9844d",
+    "timestamp": "2026-11-22T17:35:49.756Z"
+  },
+  {
+    "messageId": 1814,
+    "text": "The $60,000 floor has given way, and the macroeconomic squeeze is tightening.\n\nBitcoin dipped below $60,000 on Friday for the first time since July, pressured by sustained outflows from U.S. spot ETFs. The shift reflects a growing preference for risk-off assets as short-term Treasury bills now offer yields exceeding 4%.\n\nThis decline places the Federal Reserve’s December policy meeting in a difficult position. While markets are currently pricing in a quarter-point rate cut, Governor Christopher Waller has signaled caution, citing persistent inflation data.\n\nA high-rate environment remains a persistent headwind for liquidity-sensitive assets like crypto. Watch for how the Fed reconciles cooling market sentiment with sticky price growth in the coming weeks.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "944392f99014c957f1430d90",
+    "timestamp": "2026-11-22T17:35:51.562Z"
+  },
+  {
+    "messageId": 1815,
+    "text": "Russia is officially integrating Bitcoin into its state-sanctioned financial infrastructure.\n\nStarting November 22, exchanges can list Bitcoin under Central Bank oversight, with the Moscow Exchange targeting a December 1 pilot through a sanctioned clearinghouse. While retail access remains strictly capped at 300,000 rubles annually and payments remain prohibited, the state’s formal entry into the market is now moving forward.\n\nThis pivot marks a significant shift in how sanctioned economies attempt to utilize crypto for institutional liquidity. \n\nDoes this move signal a genuine effort to bypass traditional financial restrictions, or will the strict regulatory caps render this pilot too restrictive for real market impact?",
+    "hasImage": true,
+    "eventFingerprint": "0e68e2fb3cf38cdaa865170e",
+    "timestamp": "2026-11-22T17:35:53.751Z"
+  },
+  {
+    "messageId": 1816,
+    "text": "Institutional adoption is moving away from speculative narratives and toward infrastructure utility.\n\nCharles Hoskinson’s Midnight has officially secured a major payments partnership in Japan, signaling a clear push to integrate blockchain solutions into the legacy financial framework. This isn't just another ecosystem expansion; it is a play for real-world transaction volume within a highly regulated market.\n\nWith traditional finance giants increasingly testing private or hybrid blockchain networks for settlements, does this deal move the needle for you on Cardano’s long-term utility, or is the market overestimating the immediate impact of these infrastructure partnerships?",
+    "hasImage": true,
+    "eventFingerprint": "ec7e07f338da7937f839619a",
+    "timestamp": "2026-11-22T17:35:56.014Z"
   }
 ]
