@@ -11811,5 +11811,40 @@
     "hasImage": true,
     "eventFingerprint": "7361a625e506358fca4ef9d9",
     "timestamp": "2026-11-21T21:29:13.970Z"
+  },
+  {
+    "messageId": 1803,
+    "text": "Fewer than 18 billion SHIB tokens moved to exchange addresses over the latest tracking period.\n\nThat sharp drop in exchange netflows points to a temporary cooling of sell-side pressure, even as broader metrics remain in negative territory. \n\nWhile lower inflows reduce immediate liquidation risks, market participants continue to monitor whether the broader bearish trend will hold its ground.",
+    "hasImage": true,
+    "eventFingerprint": "23bcc8504ae78ff1899fd3fe",
+    "timestamp": "2026-11-22T01:52:58.224Z"
+  },
+  {
+    "messageId": 1804,
+    "text": "Cross-chain protocols are learning the hard way that complexity remains DeFi's biggest attack surface.\n\nChainflip has temporarily halted all swaps, deposits, withdrawals, and quotes following a security alert. \n\nIndependent monitors flagged suspicious Ethereum vault outflows valued at approximately $4.86 million. \n\nCore contributors are currently investigating the incident. Further updates are expected as the team audits the bridge infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "068223e0197e6e0d08ecdd8d",
+    "timestamp": "2026-11-22T01:52:59.871Z"
+  },
+  {
+    "messageId": 1805,
+    "text": "Check your leverage before the market checks it for you.\n\nBitcoin just dropped 8%, wiping out $2.38 billion in a single session. \n\nOver 343,000 traders got caught on the wrong side of the move, with longs making up 92.6% of the total wipeout. \n\nGravity remains undefeated.",
+    "hasImage": true,
+    "eventFingerprint": "7235d2f1c04f5c987fc115e0",
+    "timestamp": "2026-11-22T01:53:00.789Z"
+  },
+  {
+    "messageId": 1806,
+    "text": "Who buys Bitcoin at 24 grand CAD while the rest of the market sleeps? \n\nKraken confirmed this week's bizarre flash crash down to $24,250 Canadian dollars on its CAD pairs is standing, meaning lucky limit orders actually filled. \n\nConsecutive 15-minute intervals printed identical lows across multiple Canadian dollar pairs. \n\nNo rollbacks. Just an expensive lesson in thin order books and the hazards of automated trading during low-liquidity hours.",
+    "hasImage": true,
+    "eventFingerprint": "284bd96f48db0f9cbc6a5e62",
+    "timestamp": "2026-11-22T01:53:01.889Z"
+  },
+  {
+    "messageId": 1807,
+    "text": "A $54 million DeFi position is feeling the heat from falling ETH prices. ⚠️\n\nEther treasury firm BTCS has notified the SEC that its substantial borrowing on Aave remains vulnerable to liquidation, despite trimming its debt by roughly $10 million over a ten-day stretch. \n\nMarkets are watching closely as the ongoing collateral squeeze tests corporate balance sheets heavily exposed to decentralized lending protocols.",
+    "hasImage": true,
+    "eventFingerprint": "9e6ba09c4599f62170540847",
+    "timestamp": "2026-11-22T01:53:02.806Z"
   }
 ]

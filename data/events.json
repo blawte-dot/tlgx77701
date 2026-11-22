@@ -71640,5 +71640,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Just 18 Billion SHIB: Shiba Inu Netflow Signals Market Ease",
+    "link": "https://u.today/just-18-billion-shib-shiba-inu-netflow-signals-market-ease",
+    "summary": "Shiba Inu’s netflow has stayed bearish but provided a relief signal as the number of tokens moved to exchanges for sale has dropped substantially.",
+    "image": null,
+    "publishedAt": "2026-11-21T21:47:00.000Z",
+    "collectedAt": "2026-11-22T01:52:55.765Z",
+    "corroboratingSources": 1,
+    "fingerprint": "23bcc8504ae78ff1899fd3fe",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-22T01:52:58.246Z",
+    "outcome": {
+      "event": {
+        "title": "Just 18 Billion SHIB: Shiba Inu Netflow Signals Market Ease",
+        "fingerprint": "23bcc8504ae78ff1899fd3fe"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1803,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Chainflip Halts Swaps Over Potential Vault Exploit",
+    "link": "https://thedefiant.io/news/security/chainflip-halts-swaps-over-potential-vault-exploit",
+    "summary": "Deposits, withdrawals and quotes are disabled. A security monitor flagged Ethereum vault outflows it valued at about $4.86 million.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/00c8c30ab5f824bd2e60407bee86374cfe403827-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-21T09:48:32.000Z",
+    "collectedAt": "2026-11-22T01:52:55.765Z",
+    "corroboratingSources": 1,
+    "fingerprint": "068223e0197e6e0d08ecdd8d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-22T01:52:59.892Z",
+    "outcome": {
+      "event": {
+        "title": "Chainflip Halts Swaps Over Potential Vault Exploit",
+        "fingerprint": "068223e0197e6e0d08ecdd8d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1804,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Bitcoin Falls 8% as Liquidations Reach $2.38 Billion",
+    "link": "https://thedefiant.io/news/markets/bitcoin-falls-8-as-liquidations-reach-2-38-billion",
+    "summary": "Long positions accounted for 92.6% of CoinGlass's rolling 24-hour liquidation total, with 343,889 traders liquidated.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/7351773a0fb29424dc0014965e654bd882fd9333-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-21T05:12:26.000Z",
+    "collectedAt": "2026-11-22T01:52:55.765Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7235d2f1c04f5c987fc115e0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-22T01:53:00.810Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Falls 8% as Liquidations Reach $2.38 Billion",
+        "fingerprint": "7235d2f1c04f5c987fc115e0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1805,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Kraken says trades stand after Bitcoin sold at $24,250 Canadian",
+    "link": "https://cryptoslate.com/kraken-says-trades-stand-after-bitcoin-sold-at-24250-canadian/",
+    "summary": "Kraken’s Canadian-dollar Bitcoin pair hit nearly identical lows in consecutive 15-minute intervals. Other CAD pairs also posted unusually low prices.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/kraken-canadian-bitcoin-low.webp",
+    "publishedAt": "2026-11-21T13:30:47.000Z",
+    "collectedAt": "2026-11-22T01:52:55.765Z",
+    "corroboratingSources": 2,
+    "fingerprint": "284bd96f48db0f9cbc6a5e62",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4.5,
+    "processedAt": "2026-11-22T01:53:01.909Z",
+    "outcome": {
+      "event": {
+        "title": "Kraken says trades stand after Bitcoin sold at $24,250 Canadian",
+        "fingerprint": "284bd96f48db0f9cbc6a5e62"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1806,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+    "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0b9c77ef2096d8c4905fefac8edbe280eb49ff3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-21T12:30:00.000Z",
+    "collectedAt": "2026-11-22T01:52:55.765Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9e6ba09c4599f62170540847",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-22T01:53:02.826Z",
+    "outcome": {
+      "event": {
+        "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+        "fingerprint": "9e6ba09c4599f62170540847"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1807,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
