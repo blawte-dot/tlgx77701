@@ -13539,5 +13539,45 @@
     "hasImage": true,
     "eventFingerprint": "9e6ba09c4599f62170540847",
     "timestamp": "2026-11-22T01:53:02.815Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1808,
+    "text": "Is your CYBER exposure at risk?\n\nSouth Korean exchanges have halted all transfers of the CYBER token following reports of an apparent bridge exploit. \n\nThe protocol detected unauthorized minting of CYBER on the Solana network, which was immediately followed by a suspicious outflow of tokens from the project's Ethereum bridge lockbox.\n\nThe team has launched an investigation into the discrepancy. Users are advised to exercise extreme caution and monitor official announcements as the situation develops.",
+    "hasImage": true,
+    "eventFingerprint": "a66548064018a88d4f1405d4",
+    "timestamp": "2026-11-22T09:18:39.321Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1809,
+    "text": "BlackRock’s spot Bitcoin ETF just saw its largest single-day outflow since inception.\n\nThe fund, which has been a primary driver of institutional demand, faced significant pressure as investors rotated out of the sector.\n\nBitcoin is now down for the third consecutive session, tracking a broader sell-off in Asian technology equities.\n\nMarket participants remain on edge as risk-off sentiment deepens across global markets.",
+    "hasImage": true,
+    "eventFingerprint": "620e78a2dc53e34d1a7774a5",
+    "timestamp": "2026-11-22T09:18:41.389Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1810,
+    "text": "Is Cathie Wood pivoting from crypto staking toward the AI arms race?\n\nArk Invest just moved $90 million into Anthropic shares while simultaneously trimming its exposure to Ethereum and Solana staking ETFs. \n\nThe move suggests a shifting priority within the fund's portfolio, prioritizing pure-play AI infrastructure over yield-bearing crypto assets. \n\nDoes this rotation signal a loss of confidence in the short-term utility of crypto staking, or is it simply a rebalancing act to capture the current AI hype cycle?",
+    "hasImage": true,
+    "eventFingerprint": "df2ca990cdf81f8d860f6aa0",
+    "timestamp": "2026-11-22T09:18:43.417Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1811,
+    "text": "A massive $600 million trail of stolen ETH is being laundered in real-time.\n\nOn-chain data tracks the Binance hackers moving these funds over the last 48 hours, aggressively cycling assets through fresh wallets. \n\nThe perpetrators are leveraging cross-chain protocols, specifically THORChain and Chainflip, to obscure the transaction history and evade tracking. \n\nThe funds remain on the move as investigators continue to monitor the routing.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "fc2711928b1254bc9a00f350",
+    "timestamp": "2026-11-22T09:18:44.880Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1812,
+    "text": "Custody is the new loyalty test.\n\nVanEck is shaking up its ETF lineup, filing to end Gemini’s role as a custodian for three of its crypto funds by February 2027. Coinbase remains the primary anchor in the deal.\n\nThe move marks a quiet consolidation of institutional trust. While Gemini exits the ETF custody rotation, the infrastructure stakes for the remaining incumbents only tighten. \n\nInstitutional capital prefers fewer doors to walk through.",
+    "hasImage": true,
+    "eventFingerprint": "9d32ecd4a28600c4a4b18305",
+    "timestamp": "2026-11-22T09:18:46.683Z"
   }
 ]
