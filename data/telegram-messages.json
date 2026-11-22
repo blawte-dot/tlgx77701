@@ -11909,5 +11909,40 @@
     "hasImage": true,
     "eventFingerprint": "ec7e07f338da7937f839619a",
     "timestamp": "2026-11-22T17:35:56.014Z"
+  },
+  {
+    "messageId": 1817,
+    "text": "The Senate is officially closing the door on betting against human life.\n\nBipartisan legislation passed today effectively codifies a ban on election, war, and assassination contracts within prediction markets. While federal rules have prohibited these specific types of bets since 2011, the Commodity Futures Trading Commission (CFTC) sparked industry concern in June by proposing a shift toward case-by-case reviews. \n\nLawmakers have now overruled that path, removing the possibility for platforms to seek approval for contracts involving terrorism, war, or political violence. \n\nThe move represents a major regulatory pivot for the decentralized prediction market sector. As platforms like Polymarket see record-breaking volume during the current election cycle, this bill draws a sharp line in the sand regarding what constitutes a legal derivative. \n\nFor the industry, the uncertainty of a case-by-case regulatory regime has been replaced by a clear, federal prohibition. The long-term impact on market liquidity and product innovation remains to be seen.",
+    "hasImage": true,
+    "eventFingerprint": "43a391c50a97c92937fb91e6",
+    "timestamp": "2026-11-22T23:11:42.151Z"
+  },
+  {
+    "messageId": 1818,
+    "text": "$1 billion has left spot Bitcoin ETFs every full week this November.\n\nThe consistent outflows are beginning to define the month's price action, showing a clear shift in institutional sentiment compared to the inflows observed earlier this year. With Ethereum ETFs mirroring this trend, the appetite for exposure at current price levels appears to be cooling.\n\nAre these outflows a structural exit from institutional investors, or is this simply a rotation of capital ahead of year-end rebalancing?",
+    "hasImage": true,
+    "eventFingerprint": "f2cbb0ff5e82bb20f4ebcf28",
+    "timestamp": "2026-11-22T23:11:43.093Z"
+  },
+  {
+    "messageId": 1819,
+    "text": "CYBER holders should exercise caution as exchange-specific risks emerge.\n\nBithumb has officially suspended all deposits and withdrawals for CYBER, citing a suspected security issue. Trading on the platform remains active for now, which may create localized price discrepancies or liquidity traps.\n\nSeparately, Kraken has issued an alert regarding potential delays for CYBER deposits processed via the Optimism network. \n\nIf you are currently moving funds or planning to trade the asset, verify your exchange's status before initiating any transactions. Cross-platform arbitrage and transfers remain high-risk while these technical issues persist.",
+    "hasImage": true,
+    "eventFingerprint": "54e30cf7c8db7b708476f594",
+    "timestamp": "2026-11-22T23:11:44.572Z"
+  },
+  {
+    "messageId": 1820,
+    "text": "Is OKXICE scaling back its ambitions or simply opting for a more cautious rollout?\n\nThe platform’s latest notice confirms the launch of six stock tokens. This is a sharp contrast to earlier reports that suggested a pipeline of over 70 assets, including 59 Direxion ETFs. \n\nWhether this represents a regulatory hurdle, a change in risk management, or a tactical shift in product strategy remains unclear.\n\nHow do you read this pivot—is a focused list a sign of maturity, or does it signal that the initial expansion plans were overly optimistic?",
+    "hasImage": true,
+    "eventFingerprint": "7c5e2a633a8b30d6943171cb",
+    "timestamp": "2026-11-22T23:11:45.792Z"
+  },
+  {
+    "messageId": 1821,
+    "text": "The U.S. Treasury is testing the boundaries of state-level stablecoin regulation.\n\nA new proposal outlines that state-licensed firms may continue issuing stablecoins past the January 18 deadline, provided they qualify for specific federal waivers. \n\nThe move acknowledges the ongoing struggle to reconcile state charters with federal oversight. New York regulators are now seeking formal clarity on how this affects their local issuers, as the clock ticks toward the implementation date.\n\n#Stablecoins",
+    "hasImage": true,
+    "eventFingerprint": "41f9cfb50434a3109b6b37a6",
+    "timestamp": "2026-11-22T23:11:46.954Z"
   }
 ]

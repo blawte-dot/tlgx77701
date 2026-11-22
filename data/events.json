@@ -72255,5 +72255,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "US Senate Passes DEATH BETS Act to Ban Prediction Market Contracts on War and Death",
+    "link": "https://cryptopotato.com/us-senate-passes-death-bets-act-to-ban-prediction-market-contracts-on-war-and-death/",
+    "summary": "Federal rules have banned war, terrorism, and assassination contracts outright since 2011. The CFTC proposed in June to swap that ban for case-by-case reviews, while judging war contracts highly likely to fail them.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/07/prediction_markets_cover.png",
+    "publishedAt": "2026-11-22T19:48:41.000Z",
+    "collectedAt": "2026-11-22T23:11:39.070Z",
+    "corroboratingSources": 5,
+    "fingerprint": "43a391c50a97c92937fb91e6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-22T23:11:42.176Z",
+    "outcome": {
+      "event": {
+        "title": "US Senate Passes DEATH BETS Act to Ban Prediction Market Contracts on War and Death",
+        "fingerprint": "43a391c50a97c92937fb91e6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1817,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week",
+    "link": "https://cryptopotato.com/bitcoin-and-ethereum-etf-outflows-stay-in-the-billions-for-another-week/",
+    "summary": "The BTC ETFs have lost over $1 billion in all full weeks in November.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2024/09/Bitcoin_Ethereum_ETF-1.jpg",
+    "publishedAt": "2026-11-22T18:15:03.000Z",
+    "collectedAt": "2026-11-22T23:11:39.070Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f2cbb0ff5e82bb20f4ebcf28",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-22T23:11:43.114Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week",
+        "fingerprint": "f2cbb0ff5e82bb20f4ebcf28"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1818,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bithumb halts CYBER deposits and withdrawals while trading stays open",
+    "link": "https://cryptoslate.com/bithumb-halts-cyber-deposits-and-withdrawals-while-trading-stays-open/",
+    "summary": "Bithumb cited a suspected security issue, while Kraken separately warned of possible delays for CYBER deposits sent via Optimism.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bithumb-cyber-transfer-shutter.webp",
+    "publishedAt": "2026-11-22T23:05:26.000Z",
+    "collectedAt": "2026-11-22T23:11:39.070Z",
+    "corroboratingSources": 1,
+    "fingerprint": "54e30cf7c8db7b708476f594",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-22T23:11:44.594Z",
+    "outcome": {
+      "event": {
+        "title": "Bithumb halts CYBER deposits and withdrawals while trading stays open",
+        "fingerprint": "54e30cf7c8db7b708476f594"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1819,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "OKXICE's Latest Launch Notice Lists Six Stock Tokens",
+    "link": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-s-latest-launch-notice-lists-six-stock-tokens",
+    "summary": "The latest public notice lists six stock tokens for launch, compared with an earlier announcement anticipating more than 70 assets, including 59 Direxion ETFs.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/278adb9e4cafd75295d2417ba0dd8f8d1818b822-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-22T20:01:26.000Z",
+    "collectedAt": "2026-11-22T23:11:39.070Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7c5e2a633a8b30d6943171cb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 5,
+    "processedAt": "2026-11-22T23:11:45.813Z",
+    "outcome": {
+      "event": {
+        "title": "OKXICE's Latest Launch Notice Lists Six Stock Tokens",
+        "fingerprint": "7c5e2a633a8b30d6943171cb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1820,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Senators want state-licensed firms to keep issuing stablecoins after Jan. 18",
+    "link": "https://cryptoslate.com/senators-want-state-licensed-firms-to-keep-issuing-stablecoins-after-jan-18/",
+    "summary": "Treasury’s proposal recognizes waivers for eligible federal applicants, leaving New York asking for clarity on its own issuers.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/state-stablecoin-certification-path.webp",
+    "publishedAt": "2026-11-22T22:05:49.000Z",
+    "collectedAt": "2026-11-22T23:11:39.070Z",
+    "corroboratingSources": 1,
+    "fingerprint": "41f9cfb50434a3109b6b37a6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4,
+    "processedAt": "2026-11-22T23:11:46.975Z",
+    "outcome": {
+      "event": {
+        "title": "Senators want state-licensed firms to keep issuing stablecoins after Jan. 18",
+        "fingerprint": "41f9cfb50434a3109b6b37a6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1821,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
