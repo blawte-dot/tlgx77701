@@ -72665,5 +72665,160 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+    "link": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
+    "summary": "LendingUSA and Cross River launch bitcoin-secured loans of $10,000 to $250,000 with 30%, 50% or 70% LTV, so borrowers can keep their BTC.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251229_Bitcoin_News_3.jpg",
+    "publishedAt": "2026-11-23T12:05:02.000Z",
+    "collectedAt": "2026-11-23T17:18:35.756Z",
+    "corroboratingSources": 3,
+    "fingerprint": "7e8d3146e2a3cbedc6731405",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-23T17:18:58.177Z",
+    "outcome": {
+      "event": {
+        "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+        "fingerprint": "7e8d3146e2a3cbedc6731405"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+    "link": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+    "summary": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-23T16:39:03.000Z",
+    "collectedAt": "2026-11-23T17:18:35.756Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bfa3d475717f2b46d7980a8c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-23T17:19:16.092Z",
+    "outcome": {
+      "event": {
+        "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+        "fingerprint": "bfa3d475717f2b46d7980a8c"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "ECB to let banks pledge more tokenized securities as collateral",
+    "link": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg",
+    "publishedAt": "2026-11-23T11:49:38.000Z",
+    "collectedAt": "2026-11-23T17:18:35.756Z",
+    "corroboratingSources": 1,
+    "fingerprint": "55862cd3328bcb3abe9ecda4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-23T17:20:00.696Z",
+    "outcome": {
+      "event": {
+        "title": "ECB to let banks pledge more tokenized securities as collateral",
+        "fingerprint": "55862cd3328bcb3abe9ecda4"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+    "link": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp",
+    "publishedAt": "2026-11-23T16:51:17.000Z",
+    "collectedAt": "2026-11-23T17:18:35.756Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3f19fdc8f28afbe6129d1345",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-23T17:20:29.863Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+        "fingerprint": "3f19fdc8f28afbe6129d1345"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
+    "link": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
+    "summary": "The Intercontinental Exchange-backed venture said it has confirmed 113 assets for listing as trading begins, following a wave of objections from companies initially picked for inclusion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5edaabfa8b7541835109ec0ac755c451f9b8f2c4-2760x1518.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-23T13:49:44.000Z",
+    "collectedAt": "2026-11-23T17:18:35.756Z",
+    "corroboratingSources": 1,
+    "fingerprint": "75b2015268140d5311dbf4ff",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-23T17:22:21.601Z",
+    "outcome": {
+      "event": {
+        "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
+        "fingerprint": "75b2015268140d5311dbf4ff"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
   }
 ]
