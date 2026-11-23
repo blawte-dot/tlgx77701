@@ -72460,5 +72460,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+    "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "Markets and economists widely expect the US Federal Reserve to raise interest rates by 25 basis points in its December meeting.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8341FZ3Y20X594GP00EB6TG/hi-what-the-feds-rate-cut-means-for-crypto-markets-2.jpg",
+    "publishedAt": "2026-11-23T02:47:39.000Z",
+    "collectedAt": "2026-11-23T05:38:37.060Z",
+    "corroboratingSources": 1,
+    "fingerprint": "63f0d58b565e6257886ff2b5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-23T05:38:39.788Z",
+    "outcome": {
+      "event": {
+        "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+        "fingerprint": "63f0d58b565e6257886ff2b5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1822,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Market rout kills 50 basis points December Fed rate hike bets",
+    "link": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+    "summary": "Traders have removed the possibility of a 50-basis-point December Fed rate hike after last week’s market rout.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-23T04:45:47.000Z",
+    "collectedAt": "2026-11-23T05:38:37.060Z",
+    "corroboratingSources": 1,
+    "fingerprint": "94bae0d3f63a6a70a8ffebd6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-23T05:38:41.723Z",
+    "outcome": {
+      "event": {
+        "title": "Market rout kills 50 basis points December Fed rate hike bets",
+        "fingerprint": "94bae0d3f63a6a70a8ffebd6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1823,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoPotato",
+    "title": "Spot XRP ETFs Hit Negative Record as SOL Funds Finally Break Their Streak",
+    "link": "https://cryptopotato.com/spot-xrp-etfs-hit-negative-record-as-sol-funds-finally-break-their-streak/",
+    "summary": "Despite the contrasting performances of the ETFs, both underlying assets tanked hard last week.",
+    "image": "https://cryptopotato.com/wp-content/uploads/2026/01/Ripple_ETF.jpg",
+    "publishedAt": "2026-11-23T05:10:57.000Z",
+    "collectedAt": "2026-11-23T05:38:37.060Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f712db10278c2ebaff95e249",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-23T05:38:49.814Z",
+    "outcome": {
+      "event": {
+        "title": "Spot XRP ETFs Hit Negative Record as SOL Funds Finally Break Their Streak",
+        "fingerprint": "f712db10278c2ebaff95e249"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1824,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+    "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+    "summary": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ChatGPT-Image-Nov-22-2026-06_14_06-PM_clean.png",
+    "publishedAt": "2026-11-22T23:17:08.000Z",
+    "collectedAt": "2026-11-23T05:38:37.060Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d894c99ae87fc214c4dfa536",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-23T05:38:51.177Z",
+    "outcome": {
+      "event": {
+        "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+        "fingerprint": "d894c99ae87fc214c4dfa536"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1825,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Bitcoin Core fixes a bug that can stall nodes, leaving 29.x users to upgrade",
+    "link": "https://cryptoslate.com/bitcoin-core-fixes-a-bug-that-can-stall-nodes-leaving-29-x-users-to-upgrade/",
+    "summary": "Maintenance updates cover affected 30.x and 31.x releases, and operators on the retired 29.x line need to move to a newer line.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-core-node-repair.webp",
+    "publishedAt": "2026-11-23T05:05:37.000Z",
+    "collectedAt": "2026-11-23T05:38:37.060Z",
+    "corroboratingSources": 2,
+    "fingerprint": "19c187748d56e0545d9b2a6d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 4.5,
+    "processedAt": "2026-11-23T05:38:53.118Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Core fixes a bug that can stall nodes, leaving 29.x users to upgrade",
+        "fingerprint": "19c187748d56e0545d9b2a6d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1826,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

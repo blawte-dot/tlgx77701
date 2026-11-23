@@ -13651,5 +13651,45 @@
     "hasImage": true,
     "eventFingerprint": "41f9cfb50434a3109b6b37a6",
     "timestamp": "2026-11-22T23:11:46.964Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1822,
+    "text": "The Federal Reserve is heading toward a policy error this December, according to billionaire investor Bill Ackman.\n\nMarket consensus currently favors a 25-basis-point rate hike at the upcoming FOMC meeting. Ackman argues that the Fed’s persistence with tightening, despite signs of economic cooling, risks overtightening and unnecessary damage to the labor market.\n\nThe skepticism centers on whether the central bank is relying on lagging data rather than adjusting to real-time shifts in inflation and growth.\n\nInvestors are watching closely. If the Fed ignores these warnings and moves forward with the hike, the resulting market volatility could test the resilience of recent asset price rallies. \n\nFor now, the policy path remains fixed, but the friction between institutional investors and the Fed’s messaging is reaching a new peak.",
+    "hasImage": true,
+    "eventFingerprint": "63f0d58b565e6257886ff2b5",
+    "timestamp": "2026-11-23T05:38:39.773Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1823,
+    "text": "The market’s recent volatility has effectively forced the Federal Reserve’s hand. \n\nTraders have completely abandoned bets for a 50-basis-point rate hike in December. Following last week’s sharp sell-off across risk assets, the prevailing consensus has shifted entirely toward a more conservative 25-basis-point adjustment.\n\nThe repricing reflects a growing anxiety regarding economic stability. With liquidity tightening and volatility indices spiking, the market is signaling that the Fed lacks the headroom for aggressive tightening without risking a more significant systemic breakdown. \n\nFor now, the expectation of a \"soft landing\" is being weighed against the reality of cooling growth. All eyes turn to upcoming labor and inflation data to determine if this cautious stance holds.",
+    "hasImage": true,
+    "eventFingerprint": "94bae0d3f63a6a70a8ffebd6",
+    "timestamp": "2026-11-23T05:38:41.709Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1824,
+    "text": "Institutional flows are diverging sharply while the broader market bleeds.\n\nSpot XRP ETFs just posted their worst weekly outflows on record, signaling a cooling of institutional interest following the asset's recent price volatility. The exodus highlights a shift in appetite as regulatory uncertainty and market pressure weigh on investor sentiment.\n\nConversely, Solana-based investment products have finally snapped their own losing streak, recording modest inflows even as price action remains suppressed. It is a rare moment of decoupling in the alternative asset space, though the broader trend remains bearish.\n\nBoth XRP and SOL saw significant drawdowns last week, proving that even with shifting fund flows, underlying assets are currently beholden to the broader macro environment rather than specific product performance. Investors appear to be recalibrating exposure across the board.",
+    "hasImage": true,
+    "eventFingerprint": "f712db10278c2ebaff95e249",
+    "timestamp": "2026-11-23T05:38:49.794Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1825,
+    "text": "Can a $50 trade turn into $17,700 in minutes? ⚠️\n\nFusionist’s ACE bridge is currently the site of a chaotic $3.7 million exploit. \n\nWhat began as a $2 million security breach quickly spiraled into a free-for-all as traders rushed to drain remaining liquidity. \n\nOn-chain data analyzed by The Block confirms that opportunistic actors successfully exploited the bridge vulnerabilities, with some participants seeing massive returns from negligible initial capital. \n\nSecurity teams are currently investigating the protocol's bridge architecture.",
+    "hasImage": true,
+    "eventFingerprint": "d894c99ae87fc214c4dfa536",
+    "timestamp": "2026-11-23T05:38:51.164Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1826,
+    "text": "Check your node version before the network does it for you.\n\nBitcoin Core just patched a bug capable of stalling nodes across the 30.x and 31.x releases. If you are still running 29.x, you are effectively on a retired line and need to migrate immediately to stay synced.\n\nSoftware maintenance isn't glamorous, but it is the baseline for a decentralized network. If you aren't running an updated client, you’re just a spectator waiting for a disconnect. \n\nUpdate your stack.",
+    "hasImage": true,
+    "eventFingerprint": "19c187748d56e0545d9b2a6d",
+    "timestamp": "2026-11-23T05:38:53.103Z"
   }
 ]
