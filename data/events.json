@@ -73025,5 +73025,200 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+    "link": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86VV86WEBASNMG35FPTXVR5/hi-switzerland-crypto-valley-crypto-regulation2.jpg",
+    "publishedAt": "2026-11-24T13:57:56.000Z",
+    "collectedAt": "2026-11-24T14:30:44.926Z",
+    "corroboratingSources": 1,
+    "fingerprint": "6b6377b56b10e46849acb95f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-24T14:30:48.698Z",
+    "outcome": {
+      "event": {
+        "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+        "fingerprint": "6b6377b56b10e46849acb95f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1832,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Bitcoin ETF flows turn negative for the second straight November — What&#8217;s changed?",
+    "link": "https://ambcrypto.com/bitcoin-etf-flows-turn-negative-for-the-second-straight-november-whats-changed/",
+    "summary": "November 2026 has been another difficult month for Bitcoin ETFs.",
+    "image": null,
+    "publishedAt": "2026-11-24T04:00:37.000Z",
+    "collectedAt": "2026-11-24T14:30:44.926Z",
+    "corroboratingSources": 1,
+    "fingerprint": "77a51cba2636824a264e4980",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-24T14:30:51.046Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF flows turn negative for the second straight November — What&#8217;s changed?",
+        "fingerprint": "77a51cba2636824a264e4980"
+      },
+      "x": null,
+      "telegram": {
+        "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
+    "link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+    "summary": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png",
+    "publishedAt": "2026-11-24T12:40:47.000Z",
+    "collectedAt": "2026-11-24T14:30:44.926Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7ba414298009a29ab69e7c5d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-24T14:30:52.572Z",
+    "outcome": {
+      "event": {
+        "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
+        "fingerprint": "7ba414298009a29ab69e7c5d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1833,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
+    "link": "https://bitcoinmagazine.com/news/doj-forfeit-usdc-binance-hack",
+    "summary": "Bitcoin Magazine\n\nDOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack\nThe Justice Department filed to forfeit more than $1.1 billion in USDC stolen from Binance by North Korean hackers, and Circle agreed to issue replacement tokens.\nThis post DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Moves-to-Forfeit-1.1-Billion-in-USDC-Stolen-in-Binance-Hack.jpg",
+    "publishedAt": "2026-11-24T14:30:00.000Z",
+    "collectedAt": "2026-11-24T14:30:44.926Z",
+    "corroboratingSources": 1,
+    "fingerprint": "aa48e029bef074c617456de9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-24T14:30:55.259Z",
+    "outcome": {
+      "event": {
+        "title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
+        "fingerprint": "aa48e029bef074c617456de9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1834,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Slips to $60,000 as November ETF Outflows Hit Record\nThe bitcoin price slipped back to near $60,000 Tuesday as the Nvidia stock rally cooled and spot bitcoin ETFs pushed November outflows to a record $4.71 billion.\nThis post Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Slips-to-60000-as-November-ETF-Outflows-Hit-Record.jpg",
+    "publishedAt": "2026-11-24T13:47:18.000Z",
+    "collectedAt": "2026-11-24T14:30:44.926Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a2ef0ed251936d33976775cb",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-24T14:30:57.275Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record",
+        "fingerprint": "a2ef0ed251936d33976775cb"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1835,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

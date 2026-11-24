@@ -12014,5 +12014,33 @@
     "hasImage": true,
     "eventFingerprint": "efbc8cec002d043ad6a54811",
     "timestamp": "2026-11-24T03:46:51.539Z"
+  },
+  {
+    "messageId": 1832,
+    "text": "Tokenized central bank money is no longer just a theoretical exercise for academic papers. \n\nThe Swiss National Bank, UBS, and SIX Digital Exchange are launching a joint study to test whether a shared ledger can bring central bank funds, commercial money, and securities onto a single platform. \n\nIf successful, the infrastructure trial could lay the groundwork for institutional-grade tokenized settlement at scale. \n\nTraditional finance continues quietly building the plumbing behind the scenes, long before retail markets price in the shift. #Tokenization",
+    "hasImage": true,
+    "eventFingerprint": "6b6377b56b10e46849acb95f",
+    "timestamp": "2026-11-24T14:30:48.669Z"
+  },
+  {
+    "messageId": 1833,
+    "text": "The narrative of permanently locked Bitcoin is taking a hit on-chain.\n\nNew data shows roughly 245,000 BTC has quietly moved out of nearly 10,000 wallets long presumed abandoned since 2018. \n\nThat amounts to about $14.7 billion in supply waking up from dormancy. \n\nThe finding undercuts arguments central to an ongoing legal battle attempting to seize lost coins on the premise that prolonged silence equals abandonment. \n\nWhile the majority of early supply remains stationary, these outflows demonstrate that cold storage isn't always a permanent black hole.",
+    "hasImage": true,
+    "eventFingerprint": "7ba414298009a29ab69e7c5d",
+    "timestamp": "2026-11-24T14:30:52.536Z"
+  },
+  {
+    "messageId": 1834,
+    "text": "How do you freeze and replace over a billion dollars in stolen crypto before it vanishes into privacy mixers?\n\nThe U.S. Department of Justice just moved to forfeit roughly $1.1 billion in USDC tied to a major 2022 Binance breach orchestrated by North Korean threat actors. \n\nWhat makes this recovery operation unusual is the issuer's active role. Circle has agreed to issue replacement tokens for the frozen funds, essentially executing a centralized rollback of stolen stablecoins on-chain. \n\nIt is a rare instance where law enforcement coordination and private-sector smart contract control intersected to intercept state-sponsored laundering before it hit the broader market.\n\n#CryptoSecurity",
+    "hasImage": true,
+    "eventFingerprint": "aa48e029bef074c617456de9",
+    "timestamp": "2026-11-24T14:30:55.230Z"
+  },
+  {
+    "messageId": 1835,
+    "text": "Are institutional allocators quietly stepping away from Bitcoin, or is this just a routine macro flush?\n\nBTC slid back toward the $60,000 level today. \n\nSpot exchange-traded funds registered a record $4.71 billion in net outflows over the course of November. \n\nAt the same time, momentum across traditional tech bellwethers like Nvidia began to cool. \n\nThe convergence of institutional capital retreat and broader risk-off sentiment in equities has put immediate pressure on spot prices. \n\nMarket participants are now watching key technical support levels to see if buyers defend the current range.",
+    "hasImage": true,
+    "eventFingerprint": "a2ef0ed251936d33976775cb",
+    "timestamp": "2026-11-24T14:30:57.243Z"
   }
 ]
