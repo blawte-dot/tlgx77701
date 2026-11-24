@@ -73220,5 +73220,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "$9 Billion Wealth Manager Discloses XRP ETF Stake",
+    "link": "https://u.today/9-billion-wealth-manager-discloses-xrp-etf-stake",
+    "summary": "Arkadios Wealth Advisors, an Atlanta investment adviser managing $8.79 billion, disclosed an XRP ETF stake in its third-quarter filing, according to BankXRP. Susquehanna ended the quarter with $27.2 million across three XRP funds.",
+    "image": null,
+    "publishedAt": "2026-11-24T18:53:27.000Z",
+    "collectedAt": "2026-11-24T23:44:19.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "84d70bbeb1a4bdc0382d9b12",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-24T23:44:21.409Z",
+    "outcome": {
+      "event": {
+        "title": "$9 Billion Wealth Manager Discloses XRP ETF Stake",
+        "fingerprint": "84d70bbeb1a4bdc0382d9b12"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1836,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Hong Kong wants banks to secure new approval before holding customers&#8217; crypto",
+    "link": "https://cryptoslate.com/hong-kong-wants-banks-to-secure-new-approval-before-holding-customers-crypto/",
+    "summary": "Standalone custodians would generally need a license, while banks would need registration alongside existing custody standards.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/hong-kong-custody-key.webp",
+    "publishedAt": "2026-11-24T19:00:30.000Z",
+    "collectedAt": "2026-11-24T23:44:19.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a852f2c83369ba31d6664bb2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-24T23:44:22.627Z",
+    "outcome": {
+      "event": {
+        "title": "Hong Kong wants banks to secure new approval before holding customers&#8217; crypto",
+        "fingerprint": "a852f2c83369ba31d6664bb2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1837,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "MEXC Releases September–October Security Report: Guardian Fund Adds 1,000 BTC, Reserve Ratios Exceed 100%",
+    "link": "https://www.newsbtc.com/news/mexc-releases-september-october-security-report-guardian-fund-adds-1000-btc-reserve-ratios-exceed-100/",
+    "summary": "Mutsamudu, Comoros, November 24, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has released its September–October 2026 security report. The report shows that the MEXC Guardian Fund increased its BTC holdings to 2,000 BTC, while reserve ratios for four major assets—BTC, ETH, USDT, and USDC—remained above 100%. &#160; The crypto industry faces security challenges across multiple points of exposure. The report recorded 196 security incidents in September–October, with total asset losses ex",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/photo_2026-11-24_06-25-53-750x438.jpg",
+    "publishedAt": "2026-11-24T10:05:11.000Z",
+    "collectedAt": "2026-11-24T23:44:19.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9bd2eaf4828d51195c04f341",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-24T23:44:23.896Z",
+    "outcome": {
+      "event": {
+        "title": "MEXC Releases September–October Security Report: Guardian Fund Adds 1,000 BTC, Reserve Ratios Exceed 100%",
+        "fingerprint": "9bd2eaf4828d51195c04f341"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1838,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "New York Enacts Five-Year Ban on AI Companion Toys",
+    "link": "https://thedefiant.io/frontier/regulation/new-york-enacts-five-year-ban-on-ai-companion-toys",
+    "summary": "The ban takes effect February 22, 2027, leaving this holiday season outside the moratorium. It covers children's toys with embedded or integrated AI companions.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/e9f13542cd4ae9b9e5ed294e7c86662d17c3620e-2816x1584.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-24T22:56:03.000Z",
+    "collectedAt": "2026-11-24T23:44:19.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "207094581a9cd2b5271754c4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-24T23:44:24.881Z",
+    "outcome": {
+      "event": {
+        "title": "New York Enacts Five-Year Ban on AI Companion Toys",
+        "fingerprint": "207094581a9cd2b5271754c4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1839,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+    "link": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+    "summary": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2291187154-scaled-e1795518401292.jpg",
+    "publishedAt": "2026-11-24T18:35:02.000Z",
+    "collectedAt": "2026-11-24T23:44:19.116Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0e56db9adc43d1e7fe6a2608",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-24T23:44:25.745Z",
+    "outcome": {
+      "event": {
+        "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+        "fingerprint": "0e56db9adc43d1e7fe6a2608"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1840,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

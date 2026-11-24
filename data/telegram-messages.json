@@ -12042,5 +12042,40 @@
     "hasImage": true,
     "eventFingerprint": "a2ef0ed251936d33976775cb",
     "timestamp": "2026-11-24T14:30:57.243Z"
+  },
+  {
+    "messageId": 1836,
+    "text": "Is institutional capital quietly positioning for altcoin ETFs?\n\nArkadios Wealth Advisors has reported an XRP ETF position in its latest Q3 filing. The Atlanta-based firm manages roughly $8.79 billion in client assets. \n\nData from the same filing cycle shows Susquehanna holding $27.2 million across three separate XRP funds by the end of the quarter. \n\nWhile retail sentiment focuses on price action, traditional advisory firms continue to establish baseline exposure through regulated products.",
+    "hasImage": true,
+    "eventFingerprint": "84d70bbeb1a4bdc0382d9b12",
+    "timestamp": "2026-11-24T23:44:21.386Z"
+  },
+  {
+    "messageId": 1837,
+    "text": "Traditional banking corridors and digital asset custody are drawing tighter lines in Asia.\n\nHong Kong regulators are moving to require explicit approval for licensed banks holding customer cryptocurrency, raising the compliance bar across the jurisdiction. Under the proposed framework, standalone digital asset custodians will face a direct licensing mandate. Traditional lenders, meanwhile, must secure formal registration while adhering to existing custody baselines.\n\nThe shift signals a clear intent to institutionalize oversight rather than curb participation. \n\nAs compliance frameworks harden around institutional gateways, execution costs and onboarding timelines for traditional financial players deserve close watching.\n\n#CryptoRegulations",
+    "hasImage": true,
+    "eventFingerprint": "a852f2c83369ba31d6664bb2",
+    "timestamp": "2026-11-24T23:44:22.608Z"
+  },
+  {
+    "messageId": 1838,
+    "text": "196 security breaches across the broader crypto ecosystem in just two months underscore why verifiable proof of reserves remains non-negotiable for centralized exchanges.\n\nMEXC's September-October security report shows the platform's Guardian Fund expanded by 1,000 BTC, bringing its total holdings to 2,000 BTC. \n\nMeanwhile, independent accounting for major assets—including BTC, ETH, USDT, and USDC—held steady above 100% reserve ratios during the period. \n\nAs exploit volume persists industry-wide, transparency reports are shifting from a marketing luxury to an operational baseline.",
+    "hasImage": true,
+    "eventFingerprint": "9bd2eaf4828d51195c04f341",
+    "timestamp": "2026-11-24T23:44:23.874Z"
+  },
+  {
+    "messageId": 1839,
+    "text": "Lawmakers are officially drawing a line in the digital nursery. \n\nNew York just enacted a five-year moratorium targeting children's toys equipped with embedded AI companions. \n\nThe ban formally takes effect on February 22, 2027. That gives manufacturers and retailers a runway that notably keeps the upcoming holiday season entirely outside the restriction window. \n\nRegulators are increasingly scrutinizing how continuous data collection and synthetic attachment models interact with child development. \n\nAs autonomous systems move deeper into consumer hardware, state-level friction is becoming the primary battleground for AI deployment limits.",
+    "hasImage": true,
+    "eventFingerprint": "207094581a9cd2b5271754c4",
+    "timestamp": "2026-11-24T23:44:24.862Z"
+  },
+  {
+    "messageId": 1840,
+    "text": "Crypto exchanges are trying to out-wallet traditional fintech.\n\nKraken operator Payward just opened a waitlist for two U.S. credit card products targeted for an early 2027 rollout.\n\nThe lineup includes a standard card with bitcoin cashback and a secured option backed by USDC collateral.\n\nSource: The Block",
+    "hasImage": true,
+    "eventFingerprint": "0e56db9adc43d1e7fe6a2608",
+    "timestamp": "2026-11-24T23:44:25.727Z"
   }
 ]
