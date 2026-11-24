@@ -11979,5 +11979,40 @@
     "hasImage": true,
     "eventFingerprint": "19c187748d56e0545d9b2a6d",
     "timestamp": "2026-11-23T05:38:53.089Z"
+  },
+  {
+    "messageId": 1827,
+    "text": "Institutional banking just took another step toward the Bitcoin standard.\n\nCross River Bank is officially launching Bitcoin-backed lending, offering loans between $10,000 and $250,000 through the platform LendingUSA. \n\nThe mechanism is straightforward: borrowers use their BTC as collateral to secure liquidity without triggering a taxable event or selling their position.\n\nThis is a significant signal for market maturity. While crypto-native firms have long offered collateralized loans, the entry of a chartered US bank signals a shift in how traditional finance views digital assets as legitimate, durable collateral. \n\nIt marks the beginning of a bridge where Bitcoin holders can leverage their holdings within the regulated banking ecosystem. Watch for whether other regional lenders follow this model to capture the growing demand for BTC-backed liquidity.",
+    "hasImage": true,
+    "eventFingerprint": "8bef5cb586c0c3f0c3a41306",
+    "timestamp": "2026-11-24T03:46:31.912Z"
+  },
+  {
+    "messageId": 1828,
+    "text": "Billions in stolen crypto are back in the crosshairs of US prosecutors.\n\nFederal authorities have moved to seize $1.1 billion in USDC linked to a massive hack attributed to North Korean operatives. The filing targets funds tied to a high-profile breach of Binance, marking a significant escalation in efforts to track state-sponsored illicit activity.\n\nTracing the trail remains a complex hurdle. Blockchain analytics firm Elliptic reports that the attackers have already laundered at least $247 million through various Bitcoin mixers to obscure the source of the assets.\n\nThe move signals a growing technical sophistication in how regulators attempt to freeze and recover stolen digital assets before they vanish into privacy protocols. Investigations into the laundering infrastructure remain ongoing.",
+    "hasImage": true,
+    "eventFingerprint": "a69912e6bbbb02946b383b9b",
+    "timestamp": "2026-11-24T03:46:33.283Z"
+  },
+  {
+    "messageId": 1829,
+    "text": "South Korean exchanges are tightening the screws on SKY and USDS.\n\nUpbit and Bithumb have both issued warnings for these assets, citing investment risk. Upbit has already suspended deposits, while Bithumb has scheduled a halt for upcoming blocks.\n\nThese flags are a recurring mechanism in the Korean market. Exchanges typically place assets under \"caution\" when they observe abnormal trading volume or concerns regarding technical stability.\n\nThe status is fluid: the exchanges could lift these warnings if the projects meet compliance demands, or move toward full delisting if concerns remain unaddressed. For now, liquidity for these pairs on KRW-based platforms is effectively frozen or under extreme scrutiny.",
+    "hasImage": true,
+    "eventFingerprint": "c4a20761a4f033f901b12cd2",
+    "timestamp": "2026-11-24T03:46:47.268Z"
+  },
+  {
+    "messageId": 1830,
+    "text": "Security alert: The Fusionist ACE bridge has been targeted in a suspected exploit.\n\nPreliminary estimates from SlowMist suggest total losses could reach $5.7 million, though these figures remain unconfirmed at this stage. The incident reportedly involves two distinct stages of unauthorized activity.\n\nTracing indicates roughly $1.87 million in illicit proceeds moved to the attacker, while an additional 53.7 million ACE tokens—valued at approximately $3.7 million—were allegedly withdrawn through the bridge mechanism.\n\nBithumb suspended trading for ACE on November 23, citing the discovery of abnormally issued tokens entering the exchange ecosystem. \n\nFusionist has yet to release a full reconciliation of the event. We are monitoring for official confirmation regarding the scope of the breach and the status of the bridge.",
+    "hasImage": true,
+    "eventFingerprint": "b0f1b7bf6a09dab0fb7d81a5",
+    "timestamp": "2026-11-24T03:46:48.749Z"
+  },
+  {
+    "messageId": 1831,
+    "text": "$14.7 billion is a lot of money to lose in the couch cushions.\n\nFinCEN is calling out a massive shadow banking network linked to Iran, spanning front companies and opaque cross-border transfers. \n\nThe report notably keeps the crypto portion of the pie chart blank for now. Whether that’s a lack of evidence or just the regulators catching up remains to be seen. \n\nFor once, the \"everything is crypto\" narrative took a backseat to old-school ledger loopholes.\n\n#Markets",
+    "hasImage": true,
+    "eventFingerprint": "efbc8cec002d043ad6a54811",
+    "timestamp": "2026-11-24T03:46:51.539Z"
   }
 ]

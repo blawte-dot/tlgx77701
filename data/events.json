@@ -72820,5 +72820,210 @@
         "error": "Gemini API error (400) on gemini-3.8-flash-lite-tts: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Developer instruction is not enabled for this model\",\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+    "link": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg",
+    "publishedAt": "2026-11-23T16:23:37.000Z",
+    "collectedAt": "2026-11-24T03:46:23.532Z",
+    "corroboratingSources": 3,
+    "fingerprint": "8bef5cb586c0c3f0c3a41306",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-24T03:46:31.962Z",
+    "outcome": {
+      "event": {
+        "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+        "fingerprint": "8bef5cb586c0c3f0c3a41306"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1827,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+    "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M852ASST1D3G389ZE09VJZTA/hi-how-binance-plans-to-bring-tokenized-us-stocks-1.png",
+    "publishedAt": "2026-11-23T21:04:03.000Z",
+    "collectedAt": "2026-11-24T03:46:23.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "a69912e6bbbb02946b383b9b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-24T03:46:33.304Z",
+    "outcome": {
+      "event": {
+        "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+        "fingerprint": "a69912e6bbbb02946b383b9b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1828,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Upbit, Bithumb Flag SKY and USDS for Trading Caution",
+    "link": "https://thedefiant.io/news/cefi/upbit-bithumb-flag-sky-and-usds-for-trading-caution",
+    "summary": "Upbit halted deposits and Bithumb scheduled a halt. The warnings could be lifted, extended or followed by delisting.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/abf909ce31ed3b8f65b6b39c74f197a67376b1f5-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-24T03:12:27.000Z",
+    "collectedAt": "2026-11-24T03:46:23.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c4a20761a4f033f901b12cd2",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-24T03:46:47.295Z",
+    "outcome": {
+      "event": {
+        "title": "Upbit, Bithumb Flag SKY and USDS for Trading Caution",
+        "fingerprint": "c4a20761a4f033f901b12cd2"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1829,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Fusionist ACE Bridge Exploit: $5.7M Loss Estimate, Bithumb Freezes Trading",
+    "link": "https://www.newsbtc.com/news/fusionist-ace-bridge-exploit-5-7m-loss-estimate-bithumb-freezes-trading/",
+    "summary": "Key takeaways The Fusionist ACE bridge exploit is estimated at $5.7 million across two stages, according to SlowMist, which is not an audited final total. About $1.87 million in proceeds was traced to the attacker, while 53.7 million genuine ACE tokens, valued near $3.7 million, were reportedly withdrawn through the bridge. Bithumb halted ACE trading on November 23 after finding signs that abnormally issued ACE had entered exchanges. In the material reviewed, Fusionist has not published a reconc",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/Fusionist-Bridge-Exploit-750x422.jpeg",
+    "publishedAt": "2026-11-23T06:40:19.000Z",
+    "collectedAt": "2026-11-24T03:46:23.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b0f1b7bf6a09dab0fb7d81a5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-24T03:46:48.774Z",
+    "outcome": {
+      "event": {
+        "title": "Fusionist ACE Bridge Exploit: $5.7M Loss Estimate, Bithumb Freezes Trading",
+        "fingerprint": "b0f1b7bf6a09dab0fb7d81a5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1830,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "FinCEN Flags $14.7 Billion in Potential Iran Shadow Banking",
+    "link": "https://thedefiant.io/converge/regulation/fincen-flags-14-7-billion-in-potential-iran-shadow-banking",
+    "summary": "The analysis highlights front companies and cross-border bank transfers, but does not quantify a crypto or stablecoin share of the potentially Iran-linked activity.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/f50076bf09462bef6d5e45ccb7da589a865c7e67-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-23T22:18:49.000Z",
+    "collectedAt": "2026-11-24T03:46:23.532Z",
+    "corroboratingSources": 1,
+    "fingerprint": "efbc8cec002d043ad6a54811",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-24T03:46:51.559Z",
+    "outcome": {
+      "event": {
+        "title": "FinCEN Flags $14.7 Billion in Potential Iran Shadow Banking",
+        "fingerprint": "efbc8cec002d043ad6a54811"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1831,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
