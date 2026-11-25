@@ -73425,5 +73425,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "US banks want access to Fed funding on holidays as Wall Street prepares for longer settlement hours",
+    "link": "https://cryptoslate.com/feds-survey-finds-demand-for-a-holiday-cash-backstop/",
+    "summary": "Thirty-five of 56 domestic banks surveyed valued Sunday and weekday-holiday loan access, while CME’s Thanksgiving schedule shows where Bitcoin futures margin waits.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/fed-holiday-discount-window.webp",
+    "publishedAt": "2026-11-25T04:20:06.000Z",
+    "collectedAt": "2026-11-25T06:53:33.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "4f5a9fdf5e912d6c8d5c1e36",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-25T06:53:36.036Z",
+    "outcome": {
+      "event": {
+        "title": "US banks want access to Fed funding on holidays as Wall Street prepares for longer settlement hours",
+        "fingerprint": "4f5a9fdf5e912d6c8d5c1e36"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1841,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "Chainflip’s post-hack refunds leave liquidity providers facing a second financial problem",
+    "link": "https://cryptoslate.com/chainflips-post-hack-refunds-leave-liquidity-providers-facing-a-second-financial-problem/",
+    "summary": "Liquidity providers can check designated wallets on five networks, while assets in open positions may remain in their Chainflip accounts.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/chainflip-refund-detachable-slip.webp",
+    "publishedAt": "2026-11-25T06:50:47.000Z",
+    "collectedAt": "2026-11-25T06:53:33.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "1342eaa42e6119226719d3e5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-25T06:53:37.364Z",
+    "outcome": {
+      "event": {
+        "title": "Chainflip’s post-hack refunds leave liquidity providers facing a second financial problem",
+        "fingerprint": "1342eaa42e6119226719d3e5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1842,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+    "summary": "In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1407982664.jpg",
+    "publishedAt": "2026-11-25T05:15:00.000Z",
+    "collectedAt": "2026-11-25T06:53:33.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "01b9bb1ae9c94f37af64ef6b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-25T06:53:38.877Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+        "fingerprint": "01b9bb1ae9c94f37af64ef6b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1843,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+    "link": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jpg",
+    "publishedAt": "2026-11-24T23:48:16.000Z",
+    "collectedAt": "2026-11-25T06:53:33.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "85b75c5ce107d18d422d1482",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-25T06:53:40.166Z",
+    "outcome": {
+      "event": {
+        "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+        "fingerprint": "85b75c5ce107d18d422d1482"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1844,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
+    "link": "https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw",
+    "summary": "Bitcoin Magazine\n\nColdcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts\nCoinkite published its full Coldcard postmortem, saying a five-year firmware flaw weakened wallet seeds and that about 242 customer accounts have reported losses.\nThis post Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Coldcard-Postmortem-Says-Weak-Seeds-Not-Hacked-Devices-Drove-Bitcoin-Thefts.jpg",
+    "publishedAt": "2026-11-24T16:20:00.000Z",
+    "collectedAt": "2026-11-25T06:53:33.431Z",
+    "corroboratingSources": 1,
+    "fingerprint": "3fa9250c8e3e454c38c5f15c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-25T06:53:41.448Z",
+    "outcome": {
+      "event": {
+        "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
+        "fingerprint": "3fa9250c8e3e454c38c5f15c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "breaking_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1845,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

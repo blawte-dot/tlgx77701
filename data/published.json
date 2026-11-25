@@ -13803,5 +13803,45 @@
     "hasImage": true,
     "eventFingerprint": "0e56db9adc43d1e7fe6a2608",
     "timestamp": "2026-11-24T23:44:25.735Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1841,
+    "text": "35 major US banks just told the Fed they need emergency cash lines open on Sundays and holidays.\n\nWall Street is quietly preparing for round-the-clock settlement hours. Traditional finance is finally waking up to the reality that capital markets never sleep. \n\nCrypto has operated 24/7/365 for over a decade. Now the plumbing of legacy finance is racing to catch up, exposing the friction points between traditional banking schedules and continuous trading. \n\nTake CME's Thanksgiving schedule: Bitcoin futures margin desks shut down while spot markets grind on, creating structural lag between TradFi leverage and crypto's continuous price discovery. \n\nAs settlement windows expand, the structural divide between digital assets and traditional banking narrows.\n\n#Macro",
+    "hasImage": true,
+    "eventFingerprint": "4f5a9fdf5e912d6c8d5c1e36",
+    "timestamp": "2026-11-25T06:53:36.022Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1842,
+    "text": "Getting your hacked funds back shouldn't create a brand new tax and accounting headache, yet that is precisely what Chainflip’s recovery plan has handed to liquidity providers.\n\nThe cross-chain protocol has opened designated wallets across five separate networks for affected users to claim refunds. \n\nHowever, sorting through the fallout reveals a messy reality: while some assets are recoverable through these specific addresses, funds previously tied up in open liquidity positions remain scattered inside individual Chainflip accounts. \n\nFor LPs navigating the fragmented multi-chain landscape, verifying balances now means manually checking multiple networks just to reconstruct their actual portfolio positions.",
+    "hasImage": true,
+    "eventFingerprint": "1342eaa42e6119226719d3e5",
+    "timestamp": "2026-11-25T06:53:37.351Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1843,
+    "text": "Is regulatory clarity finally outweighing security overhead for institutional portfolios?\n\nThe CFTC just extended financial recognition to bitcoin and ether holdings, while the Ethereum Foundation simultaneously doubled down on its security infrastructure to counter emerging AI vulnerabilities. \n\nRegulatory acceptance and technical fortification are moving at the same pace. \n\nHow are you adjusting your risk models to account for these shifting baselines? Drop your read below.",
+    "hasImage": true,
+    "eventFingerprint": "01b9bb1ae9c94f37af64ef6b",
+    "timestamp": "2026-11-25T06:53:38.863Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1844,
+    "text": "National security infrastructure is facing an unprecedented wave of compromises. \n\nUnconfirmed reports indicate hackers have breached a CIA intelligence network, marking the latest in a string of high-profile US federal cyberattacks. \n\nThe incident follows similar breaches targeting the FBI, Department of Homeland Security, and Department of Agriculture. \n\nFederal investigators have not yet attributed the attacks to a specific state actor or criminal group. \n\nSource: Cointelegraph",
+    "hasImage": true,
+    "eventFingerprint": "85b75c5ce107d18d422d1482",
+    "timestamp": "2026-11-25T06:53:40.154Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1845,
+    "text": "Coinkite has released its full postmortem on the Coldcard security breach, pointing the finger squarely at a five-year-old firmware flaw rather than compromised hardware.\n\nThe vulnerability compromised wallet seed generation across roughly 242 reported customer loss incidents. \n\nUsers are advised to review the official findings and immediately migrate funds to newly generated seeds if their devices fall within the affected firmware parameters.",
+    "hasImage": true,
+    "eventFingerprint": "3fa9250c8e3e454c38c5f15c",
+    "timestamp": "2026-11-25T06:53:41.435Z"
   }
 ]
