@@ -73630,5 +73630,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+    "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+    "summary": "Franklin Templeton's Crypto Index ETF (EZPZ) will add Hyperliquid's HYPE token effective Dec. 1, according to an SEC prospectus supplement.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1152518454-scaled.jpg",
+    "publishedAt": "2026-11-25T16:54:15.000Z",
+    "collectedAt": "2026-11-25T17:46:43.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b24a787826fb4a5320330180",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-25T17:46:45.504Z",
+    "outcome": {
+      "event": {
+        "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+        "fingerprint": "b24a787826fb4a5320330180"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1846,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+    "link": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
+    "summary": "X secured a default judgment against two defendants in its lawsuit over an alleged $271,000 creator-payout scheme.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2297775036-scaled.jpg",
+    "publishedAt": "2026-11-25T12:14:27.000Z",
+    "collectedAt": "2026-11-25T17:46:43.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "09d6484ea4fd79f9fc4cd74c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-25T17:46:47.594Z",
+    "outcome": {
+      "event": {
+        "title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+        "fingerprint": "09d6484ea4fd79f9fc4cd74c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1847,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Ripple Custody Partners With Major Private Bank in Türkiye",
+    "link": "https://u.today/ripple-custody-partners-with-major-private-bank-in-turkiye",
+    "summary": "Türkiye’s biggest private bank has integrated Ripple’s custody solutions to tighten security and properly secure funds held on its crypto trading platform.",
+    "image": null,
+    "publishedAt": "2026-11-25T11:03:28.000Z",
+    "collectedAt": "2026-11-25T17:46:43.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f941242cf49f1b48fc60d4e9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-25T17:46:49.478Z",
+    "outcome": {
+      "event": {
+        "title": "Ripple Custody Partners With Major Private Bank in Türkiye",
+        "fingerprint": "f941242cf49f1b48fc60d4e9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1848,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "US Growth Revised to 4.3% Ahead of Fed Rate Decision",
+    "link": "https://thedefiant.io/news/markets/us-growth-revised-to-4-3-ahead-of-fed-rate-decision",
+    "summary": "Stronger investment and consumer spending drove the GDP upgrade as core PCE inflation topped forecasts ahead of the Fed’s Dec. 8–9 meeting.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+    "publishedAt": "2026-11-25T14:54:35.000Z",
+    "collectedAt": "2026-11-25T17:46:43.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7010ea086c152ec06b8adace",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-25T17:46:54.458Z",
+    "outcome": {
+      "event": {
+        "title": "US Growth Revised to 4.3% Ahead of Fed Rate Decision",
+        "fingerprint": "7010ea086c152ec06b8adace"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1849,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
+    "link": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
+    "summary": "HSBC, Standard Chartered, Bank of China (Hong Kong), DBS, and six other banks are the platform’s first direct participants.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/hong-kong-unsplash-crop-scaled.jpg",
+    "publishedAt": "2026-11-25T10:05:40.000Z",
+    "collectedAt": "2026-11-25T17:46:43.519Z",
+    "corroboratingSources": 1,
+    "fingerprint": "45dfd2f3a492a24ba211defa",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-25T17:46:55.591Z",
+    "outcome": {
+      "event": {
+        "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
+        "fingerprint": "45dfd2f3a492a24ba211defa"
+      },
+      "x": null,
+      "telegram": {
+        "format": "engagement_question",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1850,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

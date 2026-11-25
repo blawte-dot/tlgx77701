@@ -13843,5 +13843,45 @@
     "hasImage": true,
     "eventFingerprint": "3fa9250c8e3e454c38c5f15c",
     "timestamp": "2026-11-25T06:53:41.435Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1846,
+    "text": "Traditional asset management is quietly expanding its perimeter into layer-1 derivatives infrastructure.\n\nFranklin Templeton has updated its Crypto Index ETF prospectus to include Hyperliquid’s HYPE token.\n\nEffective December 1, the asset joins an existing basket that includes Bitcoin and Ether. \n\nThe inclusion marks a notable shift for a major institutional fund, bringing decentralized perpetuals volume directly into a regulated ETF product.\n\nDetails emerged via an SEC filing published this week.",
+    "hasImage": true,
+    "eventFingerprint": "b24a787826fb4a5320330180",
+    "timestamp": "2026-11-25T17:46:45.492Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1847,
+    "text": "When a billion-dollar platform takes civil action against engagement fraud, the broader ecosystem pays attention.\n\nX has reportedly secured a default judgment in its ongoing lawsuit targeting an alleged $271,000 creator-payout scheme tied to coordinated bitcoin content farming. \n\nUnconfirmed reports suggest the legal victory centers on automated networks exploiting monetization features through deceptive crypto-related engagement. \n\nElon Musk publicly addressed the outcome with a brief warning to bad actors operating on the network. \n\nWhile civil default judgments rarely set sweeping legal precedents, platform operators are increasingly taking direct aim at the infrastructure behind automated crypto scams and engagement manipulation.",
+    "hasImage": true,
+    "eventFingerprint": "09d6484ea4fd79f9fc4cd74c",
+    "timestamp": "2026-11-25T17:46:47.583Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1848,
+    "text": "Could traditional banking infrastructure finally be making institutional crypto custody standard practice in emerging markets?\n\nTürkiye’s largest private bank has integrated Ripple’s custody technology to secure digital assets held on its proprietary crypto trading platform. \n\nThe move marks a notable expansion for Ripple’s enterprise tooling outside of traditional payment corridors, focusing specifically on bank-grade security for digital asset storage. \n\nAs regulatory frameworks evolve globally, major financial institutions continue positioning themselves to handle client crypto holdings directly rather than relying solely on third-party custodians.",
+    "hasImage": true,
+    "eventFingerprint": "f941242cf49f1b48fc60d4e9",
+    "timestamp": "2026-11-25T17:46:49.469Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1849,
+    "text": "The US economy grew at a 4.3% annualized rate in the third quarter, topping previous estimates on the back of resilient consumer spending and stronger business investment.\n\nThat headline GDP upgrade comes with a catch for markets bracing for next week's Federal Reserve rate decision.\n\nCore PCE inflation also ran hot relative to forecasts, complicating the math for policymakers meeting December 8–9. \n\nRisk assets have largely leaned into rate-cut expectations, but robust growth paired with sticky price pressures leaves little room for error as liquidity conditions hang in the balance. \n\n#Macro",
+    "hasImage": true,
+    "eventFingerprint": "7010ea086c152ec06b8adace",
+    "timestamp": "2026-11-25T17:46:54.445Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1850,
+    "text": "Traditional finance isn't just watching tokenization from the sidelines anymore. \n\nThe Hong Kong Monetary Authority just brought ten major institutions—including HSBC, Standard Chartered, and Bank of China—onto its new digital asset platform for tokenized debt. \n\nWhen institutional heavyweights build direct rails for tokenized securities like this, does it accelerate mainstream adoption, or just create walled gardens separate from public networks? \n\n#RWA",
+    "hasImage": true,
+    "eventFingerprint": "45dfd2f3a492a24ba211defa",
+    "timestamp": "2026-11-25T17:46:55.580Z"
   }
 ]
