@@ -74245,5 +74245,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Monero’s Delisting Nightmare Continues: XMR Price Plunges 15%",
+    "link": "https://www.newsbtc.com/news/monero-xmr/monero-xmr-price-crash-kucoin-delisting/",
+    "summary": "Key takeaways Monero fell about 15% on Thursday, from $525.36 to $446.54 per BitInfoCharts, after KuCoin announced it will delist XMR. KuCoin will end all four XMR spot pairs on November 30 at 08:00 UTC; deposits are already suspended and withdrawals stay open until December 31. XMR will also stop being accepted as collateral for VIP loans, so borrowers may need to add other collateral to avoid liquidation. KuCoin is the most active XMR venue (about $62.6 million in 24-hour volume on XMR/USDT pe",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/monero-kucoin-vault-cover-750x422.jpg",
+    "publishedAt": "2026-11-26T18:13:51.000Z",
+    "collectedAt": "2026-11-26T19:57:56.358Z",
+    "corroboratingSources": 1,
+    "fingerprint": "04dbd1ca8757c439558c5fb1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T19:57:59.482Z",
+    "outcome": {
+      "event": {
+        "title": "Monero’s Delisting Nightmare Continues: XMR Price Plunges 15%",
+        "fingerprint": "04dbd1ca8757c439558c5fb1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1860,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "PEPE Whales Are Sitting On $21 Million In Tokens, And One Wallet Keeps Getting Bigger",
+    "link": "https://www.newsbtc.com/altcoin-news/pepe-whales-21-million-accumulation/",
+    "summary": "Key takeaways Lookonchain reports PEPE whales hold more than six trillion tokens, about $21.16 million, most of it in one wallet (0x5011) that has been buying since November 17. That wallet holds 5.15 trillion PEPE, roughly $18.28 million and about 1.22% of total supply; a second wallet (0x6246) holds 868.16 billion PEPE, about $2.88 million. Not all large holders agree: Deep Blue Alpha data shows withdrawals were only about 36% of tracked whale transfers over seven days, so exchange deposits ou",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/pepe-whale-emerald-coin-750x422.jpg",
+    "publishedAt": "2026-11-26T17:23:52.000Z",
+    "collectedAt": "2026-11-26T19:57:56.358Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7e20f130e761b202b71275a5",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T19:58:00.901Z",
+    "outcome": {
+      "event": {
+        "title": "PEPE Whales Are Sitting On $21 Million In Tokens, And One Wallet Keeps Getting Bigger",
+        "fingerprint": "7e20f130e761b202b71275a5"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1861,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken",
+    "link": "https://www.newsbtc.com/altcoin-news/zcash-whale-kraken-nine-years/",
+    "summary": "Key takeaways Lookonchain reports a Zcash whale moved 15,750 ZEC, about $11.39 million, to Kraken after nine years. The whale reportedly bought 23,412 ZEC in 2017 at about $215 (just over $5 million). The deposit is roughly two-thirds of that position. At about $723 per ZEC, the coins are worth around $8 million more than their estimated cost, a gain of roughly 236%. A deposit to an exchange is not proof of a sale, and the acquisition price is an estimate, not a verified record. More early holde",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/zcash-coin-timeworn-vault-750x422.jpg",
+    "publishedAt": "2026-11-26T13:25:20.000Z",
+    "collectedAt": "2026-11-26T19:57:56.358Z",
+    "corroboratingSources": 1,
+    "fingerprint": "465009eb53d6eb51680c3965",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": true
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T19:58:02.279Z",
+    "outcome": {
+      "event": {
+        "title": "Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken",
+        "fingerprint": "465009eb53d6eb51680c3965"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1862,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Monero (XMR) Drops 15% as KuCoin Sets Delisting Date",
+    "link": "https://u.today/monero-xmr-drops-15-as-kucoin-sets-delisting-date",
+    "summary": "After MEXC's exit earlier in November, KuCoin sets Nov. 30 for its Monero delisting, and XMR drops almost 15% within four hours.",
+    "image": null,
+    "publishedAt": "2026-11-26T15:08:05.000Z",
+    "collectedAt": "2026-11-26T19:57:56.358Z",
+    "corroboratingSources": 1,
+    "fingerprint": "827c5b8d1139f544125eb117",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T19:58:04.093Z",
+    "outcome": {
+      "event": {
+        "title": "Monero (XMR) Drops 15% as KuCoin Sets Delisting Date",
+        "fingerprint": "827c5b8d1139f544125eb117"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1863,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "AMBCrypto",
+    "title": "Fidelity files for Spot Chainlink ETF as LINK climbs 5.5% &#8211; Details",
+    "link": "https://ambcrypto.com/fidelity-files-for-spot-chainlink-etf-as-link-climbs-5-5-details/",
+    "summary": "November's bearish trend across ETFs raises questions about whether now is the right time for Fidelity to enter the LINK ETF market.",
+    "image": null,
+    "publishedAt": "2026-11-26T19:00:10.000Z",
+    "collectedAt": "2026-11-26T19:57:56.358Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c4831b973c28b313a08a48a6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-26T19:58:05.517Z",
+    "outcome": {
+      "event": {
+        "title": "Fidelity files for Spot Chainlink ETF as LINK climbs 5.5% &#8211; Details",
+        "fingerprint": "c4831b973c28b313a08a48a6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1864,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

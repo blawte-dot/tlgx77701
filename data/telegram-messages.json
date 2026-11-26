@@ -12210,5 +12210,40 @@
     "hasImage": true,
     "eventFingerprint": "c8fc468cb91e504f4416665f",
     "timestamp": "2026-11-26T10:25:22.957Z"
+  },
+  {
+    "messageId": 1860,
+    "text": "15 percent. \n\nThat is the immediate toll on Monero after KuCoin became the latest major exchange to pull the plug on privacy coins. \n\nXMR slid from above $525 down to roughly $446 on Thursday following the announcement. \n\nHere is what is changing on the platform:\n- Spot trading across all four XMR pairs ends November 30.\n- Deposits are halted immediately.\n- Withdrawals remain open through December 31.\n- Borrowers using XMR as VIP loan collateral face potential liquidation calls if they fail to rebalance.\n\nAs KuCoin handles the lion's share of XMR volume—pulling in over $62 million in 24-hour turnover on the XMR/USDT pair alone—the loss of this liquidity pipeline presents a structural hurdle for the asset's market access.\n\n#Monero",
+    "hasImage": true,
+    "eventFingerprint": "04dbd1ca8757c439558c5fb1",
+    "timestamp": "2026-11-26T19:57:59.453Z"
+  },
+  {
+    "messageId": 1861,
+    "text": "Are single-entity accumulation trends signaling confidence or setting up a concentrated exit point for the broader market?\n\nOn-chain data highlights a distinct divergence among PEPE whales over the past week. \n\nLookonchain tracking shows whale addresses currently hold over six trillion tokens, valued near $21.16 million. \n\nThe vast majority sits in a single wallet, 0x5011, which has steadily expanded its position since November 17 to hold 1.22% of the total circulating supply. \n\nYet, wider network data reveals a different sentiment. Deep Blue Alpha figures indicate that whale exchange deposits outpaced withdrawals over a seven-day window, with inbound transfers making up roughly 64% of tracked volume. \n\nConcentrated buying in one corner, steady distribution in another. \n\n#PEPE",
+    "hasImage": true,
+    "eventFingerprint": "7e20f130e761b202b71275a5",
+    "timestamp": "2026-11-26T19:58:00.874Z"
+  },
+  {
+    "messageId": 1862,
+    "text": "Nine years of total silence ended today for one early Zcash address.\n\nUnconfirmed reports from on-chain analytics firm Lookonchain suggest a dormant wallet transferred 15,750 ZEC—valued at roughly $11.39 million—to Kraken earlier this session. \n\nThe coins were reportedly accumulated back in 2017 when prices hovered near $215. \n\nWhile exchange deposits of this scale frequently spark speculation about impending sell pressure, moving assets to an order book is not confirmation of a trade. The initial acquisition cost and exact entry timing also remain estimates rather than verified on-chain records. \n\nWith Zcash currently trading around $723, any realized exit would represent a substantial multiple on the original position. Market participants are watching order books closely to see if the transfer materializes into spot liquidity.",
+    "hasImage": true,
+    "eventFingerprint": "465009eb53d6eb51680c3965",
+    "timestamp": "2026-11-26T19:58:02.251Z"
+  },
+  {
+    "messageId": 1863,
+    "text": "The privacy sector is absorbing another major structural blow.\n\nKuCoin has officially set a November 30 deadline to delist Monero, following MEXC's exit from privacy assets earlier this month. \n\nThe market reaction was immediate. XMR dropped nearly 15% within a four-hour window following the announcement, reflecting shrinking on-ramp liquidity as centralized exchanges continue to pull back from algorithmic privacy coins.\n\nAs regulatory pressure forces top-tier venues to restrict trading pairs, price discovery for privacy assets is shifting rapidly toward decentralized alternatives and peer-to-peer liquidity channels.",
+    "hasImage": true,
+    "eventFingerprint": "827c5b8d1139f544125eb117",
+    "timestamp": "2026-11-26T19:58:04.063Z"
+  },
+  {
+    "messageId": 1864,
+    "text": "Fidelity is pressing forward with altcoin expansion despite a brutal month for institutional inflows.\n\nThe asset manager has officially filed for a spot Chainlink ETF, arriving just as LINK marks a 5.5% daily advance. \n\nThe filing tests whether growing product diversification can offset broader macroeconomic headwinds currently weighing on crypto investment vehicles. November has otherwise tested conviction across the board, with widespread net outflows dampening enthusiasm for new crypto-linked products.\n\nRegulators now face another test case for spot altcoin exposure outside of Bitcoin and Ethereum. No timeline has been confirmed for a formal review decision.",
+    "hasImage": true,
+    "eventFingerprint": "c4831b973c28b313a08a48a6",
+    "timestamp": "2026-11-26T19:58:05.492Z"
   }
 ]
