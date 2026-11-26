@@ -74040,5 +74040,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+    "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg",
+    "publishedAt": "2026-11-26T09:18:15.000Z",
+    "collectedAt": "2026-11-26T10:25:09.475Z",
+    "corroboratingSources": 1,
+    "fingerprint": "2a4723c08d826c109d9a40f6",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T10:25:11.834Z",
+    "outcome": {
+      "event": {
+        "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+        "fingerprint": "2a4723c08d826c109d9a40f6"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1856,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+    "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B66VX8B7TPTQ4GVF2CXSJF/blockchainweekuk-fca-1.jpg",
+    "publishedAt": "2026-11-26T05:53:08.000Z",
+    "collectedAt": "2026-11-26T10:25:09.475Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9698e0f79054039434ca3bc1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T10:25:13.173Z",
+    "outcome": {
+      "event": {
+        "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+        "fingerprint": "9698e0f79054039434ca3bc1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1857,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "AI Projects Lead Trading in MEXC&#8217;s October Listings; Top 10 Gainers Average 1,168% at Their Peaks",
+    "link": "https://www.newsbtc.com/news/ai-projects-lead-trading-in-mexcs-october-listings-top-10-gainers-average-1168-at-their-peaks/",
+    "summary": "Mutsamudu, Comoros, November 26, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has released trading data for its October listings. Three of the five new tokens with the highest Spot trading volume were AI projects. Among the 10 new tokens with the largest price gains, the average peak gain was 1,168%. The gainers spanned sectors including GameFi, AI, infrastructure, and memecoins. October&#8217;s Spot trading volumes show how interest in AI translated into trading activity. AXIS, CLAUDI",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/photo_2026-11-26_07-20-12-715x536.jpg",
+    "publishedAt": "2026-11-26T10:10:14.000Z",
+    "collectedAt": "2026-11-26T10:25:09.475Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0724163384e2222189501d9b",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T10:25:19.867Z",
+    "outcome": {
+      "event": {
+        "title": "AI Projects Lead Trading in MEXC&#8217;s October Listings; Top 10 Gainers Average 1,168% at Their Peaks",
+        "fingerprint": "0724163384e2222189501d9b"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1858,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Fidelity Files for Chainlink ETF. What Does It Mean for LINK?",
+    "link": "https://www.newsbtc.com/altcoin-news/fidelity-chainlink-etf-filing-investor-demand/",
+    "summary": "Key takeaways Fidelity has filed to launch a Chainlink ETF (ticker FLNK) that would hold LINK directly and list on Nasdaq, but the filing is preliminary with no launch date or final fee. The fund would not stake its LINK, so shareholders would not receive staking rewards. Fidelity would enter a market that already has Grayscale (GLNK) and Bitwise (CLNK) LINK funds, and Charles Schwab offers direct LINK trading. A new listing does not automatically mean new LINK buying: only sustained net creatio",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/Chainlink-Hexagon-in-Glass-Vault-1-750x422.png",
+    "publishedAt": "2026-11-26T03:58:10.000Z",
+    "collectedAt": "2026-11-26T10:25:09.475Z",
+    "corroboratingSources": 1,
+    "fingerprint": "53ae4701dde1854037c99d69",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T10:25:21.129Z",
+    "outcome": {
+      "event": {
+        "title": "Fidelity Files for Chainlink ETF. What Does It Mean for LINK?",
+        "fingerprint": "53ae4701dde1854037c99d69"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": false,
+          "reason": "api_error",
+          "error": "Bad Request: failed to get HTTP URL content"
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+    "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg",
+    "publishedAt": "2026-11-26T09:42:34.000Z",
+    "collectedAt": "2026-11-26T10:25:09.475Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c8fc468cb91e504f4416665f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-26T10:25:22.975Z",
+    "outcome": {
+      "event": {
+        "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+        "fingerprint": "c8fc468cb91e504f4416665f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1859,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

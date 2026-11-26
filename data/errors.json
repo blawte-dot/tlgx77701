@@ -38,5 +38,10 @@
     "where": "publishToTelegram",
     "message": "request to https://api.telegram.org/bot8971140095:AAHUHsjDsXV0mO5jTtziIbRz1pDoZBb5uYc/sendPhoto failed, reason: ",
     "timestamp": "2026-11-13T12:53:40.652Z"
+  },
+  {
+    "where": "publishToTelegram",
+    "message": "Bad Request: failed to get HTTP URL content",
+    "timestamp": "2026-11-26T10:25:21.128Z"
   }
 ]

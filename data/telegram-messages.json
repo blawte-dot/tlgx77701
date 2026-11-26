@@ -12182,5 +12182,33 @@
     "hasImage": true,
     "eventFingerprint": "0b0e067fe5e0330f7ab22b54",
     "timestamp": "2026-11-26T01:30:42.698Z"
+  },
+  {
+    "messageId": 1856,
+    "text": "True institutional adoption looks less like a headline-grabbing splash and more like quiet, boring infrastructure.\n\nSwitzerland just crossed a notable line. \n\nIts first true spot Bitcoin exchange-traded fund ticked up 0.6 percent in its opening hour of trading this morning. \n\nUnlike older European crypto products structured as debt notes or derivatives, this vehicle is backed directly by physical Bitcoin held in cold storage inside a regulated Swiss banking vault. \n\nIt is a subtle shift in legal plumbing, but an important one for asset managers who couldn't touch paper claims. \n\nThe product trades under a conventional framework, bridging traditional banking architecture with on-chain assets without the counterparty risk of intermediary debt instruments. \n\nSlowly, the rails are being laid.",
+    "hasImage": true,
+    "eventFingerprint": "2a4723c08d826c109d9a40f6",
+    "timestamp": "2026-11-26T10:25:11.817Z"
+  },
+  {
+    "messageId": 1857,
+    "text": "DeFi is about to learn what regulatory gravity feels like. \n\nLondon is drafting tighter oversight for decentralized finance, pointing directly to a familiar vulnerability. \n\nReports indicate UK watchdogs are sharpening their rules following revelations that North Korea-linked actors funneled millions through DeFi protocols to launder funds tied to a major Binance exploit. \n\nCross-border enforcement is also accelerating. \n\nU.S. prosecutors are simultaneously moving to seize more than $1.1 billion in illicitly linked crypto assets, underscoring how aggressively Western authorities are tracking on-chain movements. \n\nProtocol developers and cross-chain liquidity providers should expect the compliance spotlight to burn significantly brighter in the months ahead.",
+    "hasImage": true,
+    "eventFingerprint": "9698e0f79054039434ca3bc1",
+    "timestamp": "2026-11-26T10:25:13.158Z"
+  },
+  {
+    "messageId": 1858,
+    "text": "Retail capital continues to hunt for narrative velocity wherever it can find it. \n\nExchange data from MEXC covering October listings shows AI tokens capturing a dominant share of spot volume, alongside a broader cohort of new assets posting an average peak gain of 1,168%. \n\nVolume followed attention. While speculative excess remains high across GameFi, infrastructure, and memecoins, the concentration of liquidity in artificial intelligence assets points to persistent sector rotation rather than random dispersion. \n\nMarkets are rewarding thematic narratives with immediate liquidity, though sustainability past the initial listing window remains an open question.",
+    "hasImage": true,
+    "eventFingerprint": "0724163384e2222189501d9b",
+    "timestamp": "2026-11-26T10:25:19.849Z"
+  },
+  {
+    "messageId": 1859,
+    "text": "US spot Bitcoin ETFs just suffered their heaviest monthly drain on record while one Wall Street giant moved in the exact opposite direction.\n\nOutflows across the broader fund category topped $5.39 billion in November as institutional capital pulled back across the board. \n\nBucking the wider market trend, the Morgan Stanley Bitcoin Trust managed to pull in $114.1 million in net monthly inflows through Wednesday. \n\nThe divergence highlights a growing split in institutional behavior, with broad risk reduction sitting alongside targeted accumulation by major legacy wealth managers.",
+    "hasImage": true,
+    "eventFingerprint": "c8fc468cb91e504f4416665f",
+    "timestamp": "2026-11-26T10:25:22.957Z"
   }
 ]
