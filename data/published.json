@@ -13883,5 +13883,45 @@
     "hasImage": true,
     "eventFingerprint": "45dfd2f3a492a24ba211defa",
     "timestamp": "2026-11-25T17:46:55.580Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1851,
+    "text": "Elizabeth Warren just opened a new front against the SEC's digital asset agenda.\n\nSens. Warren and Van Hollen fired off two letters to Chair Atkins this week, demanding the immediate repeal of both Regulation Crypto and the agency's recent innovation exemption. \n\nThe lawmakers argue the frameworks bypass congressional intent and grant unchecked relief to digital asset firms. \n\nAtkins faces an early test on how the agency balances regulatory relief with legislative oversight.",
+    "hasImage": true,
+    "eventFingerprint": "b5fdff8c388dd6ab40e298c0",
+    "timestamp": "2026-11-26T01:30:28.767Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1852,
+    "text": "Institutional crypto products are moving past the top two assets faster than anticipated. \n\nFidelity has officially submitted a filing with the SEC for a spot Chainlink ETF, targeting a listing on the Nasdaq. \n\nThe move marks a significant escalation in traditional finance seeking exposure to decentralized oracle infrastructure, moving beyond simple layer-1 tokens. \n\nWhile regulatory approval remains an open question, the filing signals that major asset managers are actively expanding their institutional product pipelines deeper into utility-driven crypto infrastructure.",
+    "hasImage": true,
+    "eventFingerprint": "c188079bca60dc34342dea2f",
+    "timestamp": "2026-11-26T01:30:32.780Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1853,
+    "text": "Three major threat groups are now weaponizing an AI framework named Artex.\n\nAccording to Microsoft, state-backed hackers and cybercriminals are leveraging the tool to automate intrusions against high-profile targets, including the recent breach of a US intelligence agency contractor.\n\nInstead of manual exploitation, Artex agents scan networks, identify known vulnerabilities, and execute attacks at machine speed. \n\nDefenders are facing a structural disadvantage. When automation meets legacy security architecture, incident response windows shrink from hours to mere seconds.",
+    "hasImage": true,
+    "eventFingerprint": "82c5ffc414dde990159c78a4",
+    "timestamp": "2026-11-26T01:30:36.179Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1854,
+    "text": "Your exchange data might be far more exposed than initially thought.\n\nA follow-up review from Bithumb reveals that an October security breach was significantly worse than the initial disclosure suggested. \n\nThe incident compromised passports, bank accounts, and cryptocurrency wallet addresses for a broader pool of users than previously admitted. \n\nInvestigators found the unauthorized access window lasted roughly 15 days before containment. \n\nExchanges remain primary targets for sophisticated intrusions, highlighting the ongoing risks of centralized custody models.",
+    "hasImage": true,
+    "eventFingerprint": "d1adc42e9e887d6137d7e238",
+    "timestamp": "2026-11-26T01:30:39.098Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1855,
+    "text": "Wall Street keeps finding new ways to put retail bags into an index.\n\nFranklin Templeton is officially adding Hyperliquid's HYPE to its crypto index ETF on December 1, bringing the portfolio up to eight assets. \n\nBecause nothing says decentralized finance quite like a traditional asset manager rebalancing your exposure.\n\n#HYPE",
+    "hasImage": true,
+    "eventFingerprint": "0b0e067fe5e0330f7ab22b54",
+    "timestamp": "2026-11-26T01:30:42.711Z"
   }
 ]

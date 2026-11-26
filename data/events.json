@@ -73835,5 +73835,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+    "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+    "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/gettyimages-2305951485-594x594-1.jpg",
+    "publishedAt": "2026-11-25T22:20:02.000Z",
+    "collectedAt": "2026-11-26T01:30:22.031Z",
+    "corroboratingSources": 1,
+    "fingerprint": "b5fdff8c388dd6ab40e298c0",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T01:30:28.779Z",
+    "outcome": {
+      "event": {
+        "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+        "fingerprint": "b5fdff8c388dd6ab40e298c0"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1851,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+    "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+    "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1341548354.jpg",
+    "publishedAt": "2026-11-25T19:32:42.000Z",
+    "collectedAt": "2026-11-26T01:30:22.031Z",
+    "corroboratingSources": 2,
+    "fingerprint": "c188079bca60dc34342dea2f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T01:30:32.795Z",
+    "outcome": {
+      "event": {
+        "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+        "fingerprint": "c188079bca60dc34342dea2f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1852,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+    "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+    "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
+    "publishedAt": "2026-11-25T20:06:03.000Z",
+    "collectedAt": "2026-11-26T01:30:22.031Z",
+    "corroboratingSources": 1,
+    "fingerprint": "82c5ffc414dde990159c78a4",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T01:30:36.190Z",
+    "outcome": {
+      "event": {
+        "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+        "fingerprint": "82c5ffc414dde990159c78a4"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1853,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
+    "link": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
+    "summary": "Bitcoin Magazine\n\nBithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses\nBithumb said a follow-up review found its October breach exposed more people and data, including passports and wallet addresses, and lasted about 15 days.\nThis post Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bithumb-Seeks-Asset-Freeze-to-Recover-Bitcoin-From-40-Billion-Payout-Error.jpg",
+    "publishedAt": "2026-11-25T18:15:00.000Z",
+    "collectedAt": "2026-11-26T01:30:22.031Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d1adc42e9e887d6137d7e238",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-26T01:30:39.109Z",
+    "outcome": {
+      "event": {
+        "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
+        "fingerprint": "d1adc42e9e887d6137d7e238"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1854,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Franklin Templeton's Crypto ETF to Add Hyperliquid: Will HYPE Price Recover?",
+    "link": "https://u.today/franklin-crypto-etf-to-add-hyperliquid-will-hype-price-recover",
+    "summary": "Franklin Templeton's Crypto Index ETF will add Hyperliquid's HYPE token on Dec. 1, expanding its cryptocurrency portfolio to eight assets.",
+    "image": null,
+    "publishedAt": "2026-11-25T18:04:22.000Z",
+    "collectedAt": "2026-11-26T01:30:22.031Z",
+    "corroboratingSources": 2,
+    "fingerprint": "0b0e067fe5e0330f7ab22b54",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7.5,
+    "processedAt": "2026-11-26T01:30:42.726Z",
+    "outcome": {
+      "event": {
+        "title": "Franklin Templeton's Crypto ETF to Add Hyperliquid: Will HYPE Price Recover?",
+        "fingerprint": "0b0e067fe5e0330f7ab22b54"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1855,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
