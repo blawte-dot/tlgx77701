@@ -74655,5 +74655,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+    "link": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+    "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-27T10:51:27.000Z",
+    "collectedAt": "2026-11-27T11:43:50.394Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7f8c8c1f6a32454e880a532f",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-27T11:43:52.897Z",
+    "outcome": {
+      "event": {
+        "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+        "fingerprint": "7f8c8c1f6a32454e880a532f"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1870,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+    "link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "The partnership comes weeks after a third-party data breach exposed hundreds of thousands of customer email addresses belonging to two Japanese crypto exchanges.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DPYBXC89VZD6RYR0TH6TY2/hi-sponsored-of-nexo-2.jpg",
+    "publishedAt": "2026-11-27T05:22:36.000Z",
+    "collectedAt": "2026-11-27T11:43:50.394Z",
+    "corroboratingSources": 1,
+    "fingerprint": "802acaf4134b5a5dca994df3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-27T11:43:54.567Z",
+    "outcome": {
+      "event": {
+        "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+        "fingerprint": "802acaf4134b5a5dca994df3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1871,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+    "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+    "summary": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3ef28cb03d1dfa1b5ac880553d00076f4153845-874x492.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-27T11:22:42.000Z",
+    "collectedAt": "2026-11-27T11:43:50.394Z",
+    "corroboratingSources": 1,
+    "fingerprint": "feb7013d6deaeac7f9d7a813",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-27T11:43:55.692Z",
+    "outcome": {
+      "event": {
+        "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+        "fingerprint": "feb7013d6deaeac7f9d7a813"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1872,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Injective asks SEC to allow order books for tokenized stock trading",
+    "link": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+    "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0aa4d73f62167c3ec9a89974f03437b819bb2f-541x304.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-27T11:07:17.000Z",
+    "collectedAt": "2026-11-27T11:43:50.394Z",
+    "corroboratingSources": 1,
+    "fingerprint": "19fbb7ef7acb30a393d1350d",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-27T11:43:57.174Z",
+    "outcome": {
+      "event": {
+        "title": "Injective asks SEC to allow order books for tokenized stock trading",
+        "fingerprint": "19fbb7ef7acb30a393d1350d"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1873,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’",
+    "link": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059",
+    "summary": "Japan’s central bank warned that stablecoins and tokenized deposits need safeguards to prevent fragmentation across the financial system.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-9.png",
+    "publishedAt": "2026-11-27T10:45:02.000Z",
+    "collectedAt": "2026-11-27T11:43:50.394Z",
+    "corroboratingSources": 1,
+    "fingerprint": "c4f8270335e4c430de831e28",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 8,
+    "processedAt": "2026-11-27T11:43:58.207Z",
+    "outcome": {
+      "event": {
+        "title": "Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’",
+        "fingerprint": "c4f8270335e4c430de831e28"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1874,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
