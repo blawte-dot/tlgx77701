@@ -75475,5 +75475,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "The Fed&#8217;s Sunday payments plan reveals why 24/7 finance needs more than faster technology",
+    "link": "https://cryptoslate.com/fed-sunday-fedwire-hours-bank-borrowing/",
+    "summary": "Suppose a customer asks a bank on a Sunday to wire $100 million and has the money in the account. The bank&#039;s treasurer has a second balance to check, because the bank settles the payment by moving money out of its own account at the Fed and into the receiving bank&#039;s account there. Banks use…\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/sunday-bank-funding-gap.webp",
+    "publishedAt": "2026-11-28T16:30:23.000Z",
+    "collectedAt": "2026-11-28T20:43:17.412Z",
+    "corroboratingSources": 1,
+    "fingerprint": "ab45505c4d8201cc82b44579",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-28T20:43:19.521Z",
+    "outcome": {
+      "event": {
+        "title": "The Fed&#8217;s Sunday payments plan reveals why 24/7 finance needs more than faster technology",
+        "fingerprint": "ab45505c4d8201cc82b44579"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1890,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "XRP NFT Platform Hit by Security Exploit, Key Wallet Disclosure Made",
+    "link": "https://u.today/xrp-nft-platform-hit-by-security-exploit-key-wallet-disclosure-made",
+    "summary": "XRP ledger based NFT platform reveals details of Launchpad exploit in fresh security update.",
+    "image": null,
+    "publishedAt": "2026-11-28T14:30:00.000Z",
+    "collectedAt": "2026-11-28T20:43:17.412Z",
+    "corroboratingSources": 1,
+    "fingerprint": "9f55169cbc602b68eeaa08a1",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 10,
+    "processedAt": "2026-11-28T20:43:22.069Z",
+    "outcome": {
+      "event": {
+        "title": "XRP NFT Platform Hit by Security Exploit, Key Wallet Disclosure Made",
+        "fingerprint": "9f55169cbc602b68eeaa08a1"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1891,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "The Block",
+    "title": "CZ says Netflix’s ‘The Altruists’ is ‘basically defamation,’ says he is talking to lawyers",
+    "link": "https://www.theblock.co/news/business/2026-11-28-cz-says-netflixs-the-altruists-is-basically-defamation-says-he-is-talking-to-lawyers-447599",
+    "summary": "Zhao said the show may be trying to shift public perception ahead of a possible pardon push for convicted FTX founder Sam Bankman-Fried.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Tech-Conference-Speaker-on-CELO-Binance-Stage-unmarker.jpg",
+    "publishedAt": "2026-11-28T15:16:48.000Z",
+    "collectedAt": "2026-11-28T20:43:17.411Z",
+    "corroboratingSources": 1,
+    "fingerprint": "02f6855a872528338e6dc862",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T20:43:23.507Z",
+    "outcome": {
+      "event": {
+        "title": "CZ says Netflix’s ‘The Altruists’ is ‘basically defamation,’ says he is talking to lawyers",
+        "fingerprint": "02f6855a872528338e6dc862"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1892,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "Bank of Japan Explores Bringing Stablecoins and Tokenized Finance Into Traditional Banking",
+    "link": "https://decrypt.co/384221/bank-of-japan-stablecoins-tokenized-finance-banking",
+    "summary": "Japan’s central bank is exploring how blockchain-based money could work with conventional payment systems, as officials weigh the risks of stablecoins and the potential benefits of faster settlement between banks.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/digital-yen-decrypt-style-gID_7.jpg",
+    "publishedAt": "2026-11-28T17:01:02.000Z",
+    "collectedAt": "2026-11-28T20:43:17.411Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f89dfe6a7737fe7f50751482",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T20:43:24.501Z",
+    "outcome": {
+      "event": {
+        "title": "Bank of Japan Explores Bringing Stablecoins and Tokenized Finance Into Traditional Banking",
+        "fingerprint": "f89dfe6a7737fe7f50751482"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1893,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CryptoSlate",
+    "title": "What a 12-cent Bitcoin ETF option reveals about crash protection",
+    "link": "https://cryptoslate.com/what-a-12-cent-bitcoin-etf-option-reveals-about-crash-protection/",
+    "summary": "The March IBIT put offered a $12 hedge against severe ETF downside, with a payoff that leaves the odds of an AI-driven signature break unknown.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-options-risk-gauge.webp",
+    "publishedAt": "2026-11-28T14:40:50.000Z",
+    "collectedAt": "2026-11-28T20:43:17.412Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f16a7c5628a0b5254c57ce32",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T20:43:25.551Z",
+    "outcome": {
+      "event": {
+        "title": "What a 12-cent Bitcoin ETF option reveals about crash protection",
+        "fingerprint": "f16a7c5628a0b5254c57ce32"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1894,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]

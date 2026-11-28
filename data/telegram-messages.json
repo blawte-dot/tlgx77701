@@ -12420,5 +12420,40 @@
     "hasImage": true,
     "eventFingerprint": "d562fa0a48266054ed1508f9",
     "timestamp": "2026-11-28T12:41:11.541Z"
+  },
+  {
+    "messageId": 1890,
+    "text": "Instant payment rails mean nothing if the plumbing behind them is closed for the weekend.\n\nFederal Reserve systems operate on business hours, creating a structural bottleneck for 24/7 financial technology. When a corporate client initiates a massive weekend wire, the underlying settlement layer often remains frozen. \n\nFaster front-end apps can move retail balances instantly. But institutional movement still relies on central bank accounts that close their doors outside standard working days. \n\nTrue continuous finance requires liquidity management that never sleeps, not just faster consumer interfaces.",
+    "hasImage": true,
+    "eventFingerprint": "ab45505c4d8201cc82b44579",
+    "timestamp": "2026-11-28T20:43:19.498Z"
+  },
+  {
+    "messageId": 1891,
+    "text": "Another day, another protocol breach.\n\nAn XRP Ledger-based NFT platform has published a post-mortem detailing a recent launchpad exploit, confirming that a key wallet was compromised during the incident. \n\nDevelopers say the vulnerability allowed unauthorized access to project funds before the vector was patched. \n\nWhile the exact financial impact is still being tallied, the disclosure underscores the ongoing security challenges facing alternative layer-1 ecosystems. \n\nFull transparency is welcome, but preventative controls remain the industry's weakest link.",
+    "hasImage": true,
+    "eventFingerprint": "9f55169cbc602b68eeaa08a1",
+    "timestamp": "2026-11-28T20:43:22.049Z"
+  },
+  {
+    "messageId": 1892,
+    "text": "Who had \"CZ suing Netflix over SBF propaganda\" on their 2024 bingo card?\n\nChangpeng Zhao isn't laughing at the streaming giant's latest production. \n\nHe’s called *The Altruists* \"basically defamation\" and confirmed legal counsel is already reviewing the show. \n\nThe underlying concern isn't just bad television. \n\nAccording to Zhao, the series looks suspiciously like a soft PR campaign designed to massage public opinion ahead of a potential pardon push for Sam Bankman-Fried.\n\nHollywood versus crypto courtroom drama just got a sequel.",
+    "hasImage": true,
+    "eventFingerprint": "02f6855a872528338e6dc862",
+    "timestamp": "2026-11-28T20:43:23.484Z"
+  },
+  {
+    "messageId": 1893,
+    "text": "3 major shifts are lining up inside Japan's central bank. \n\nThe Bank of Japan is actively investigating how stablecoins and tokenized assets can integrate with traditional banking infrastructure. \n\nOfficials are weighing the operational risks against the clear advantages of faster interbank settlement times. \n\nMomentum toward institutional blockchain adoption in Asia continues to build.",
+    "hasImage": true,
+    "eventFingerprint": "f89dfe6a7737fe7f50751482",
+    "timestamp": "2026-11-28T20:43:24.482Z"
+  },
+  {
+    "messageId": 1894,
+    "text": "When twelve cents is all it costs to insure your Bitcoin ETF against a total wipeout, you have to wonder what kind of apocalypse the options market is actually pricing in.\n\nA March IBIT put just traded at that exact nominal price. \n\nIt is a cheap lottery ticket on a severe downside event. Whether that tail risk stems from traditional market stress or some unforeseen AI-driven liquidity cascade remains entirely unmapped territory. \n\nMarkets rarely price catastrophe this cheaply unless nobody believes it can happen—or everyone is too busy looking the other way.\n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "f16a7c5628a0b5254c57ce32",
+    "timestamp": "2026-11-28T20:43:25.531Z"
   }
 ]
