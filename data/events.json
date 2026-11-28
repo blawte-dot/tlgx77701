@@ -75065,5 +75065,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "The Defiant",
+    "title": "Argentina’s Central Bank Flags MEP, USDT Trades: Report",
+    "link": "https://thedefiant.io/news/regulation/argentina-s-central-bank-flags-mep-usdt-trades-report",
+    "summary": "Industry executives told iProUP the central bank made informal recommendations to some wallets and crypto platforms. They said trading continued as usual.",
+    "image": "https://cdn.sanity.io/images/6oftkxoa/production/bec917e9eb43ad80b9742f311f6e1303854ec95c-2048x1152.webp?fm=webp&q=85",
+    "publishedAt": "2026-11-27T16:36:48.000Z",
+    "collectedAt": "2026-11-28T03:03:33.607Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d904818d33d9b5e469fc43dd",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 7,
+    "processedAt": "2026-11-28T03:03:35.614Z",
+    "outcome": {
+      "event": {
+        "title": "Argentina’s Central Bank Flags MEP, USDT Trades: Report",
+        "fingerprint": "d904818d33d9b5e469fc43dd"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1880,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+    "link": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+    "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-27T07:33:01.000Z",
+    "collectedAt": "2026-11-28T03:03:33.607Z",
+    "corroboratingSources": 1,
+    "fingerprint": "40b5bfd1b07a74b26db2ad87",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T03:03:36.569Z",
+    "outcome": {
+      "event": {
+        "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+        "fingerprint": "40b5bfd1b07a74b26db2ad87"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1881,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "CoinDesk",
+    "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+    "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+    "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "publishedAt": "2026-11-27T04:45:47.000Z",
+    "collectedAt": "2026-11-28T03:03:33.607Z",
+    "corroboratingSources": 1,
+    "fingerprint": "bd81bbe12d5e0864c13de860",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T03:03:37.671Z",
+    "outcome": {
+      "event": {
+        "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+        "fingerprint": "bd81bbe12d5e0864c13de860"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1882,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Cointelegraph",
+    "title": "China sets March 2027 rollout for blockchain identity regulations",
+    "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EVTBT6HP6DPAEHWFE95N9V/stronger-china-flag-overlay.jpeg",
+    "publishedAt": "2026-11-27T17:37:23.000Z",
+    "collectedAt": "2026-11-28T03:03:33.607Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f254dae2f02c25e58fcdcfc3",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T03:03:38.659Z",
+    "outcome": {
+      "event": {
+        "title": "China sets March 2027 rollout for blockchain identity regulations",
+        "fingerprint": "f254dae2f02c25e58fcdcfc3"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1883,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Decrypt",
+    "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+    "link": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+    "summary": "The ChatGPT maker’s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the AI-device race.",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png",
+    "publishedAt": "2026-11-27T21:46:03.000Z",
+    "collectedAt": "2026-11-28T03:03:33.607Z",
+    "corroboratingSources": 1,
+    "fingerprint": "004e4f8a5d50047892a3adad",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T03:03:39.942Z",
+    "outcome": {
+      "event": {
+        "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+        "fingerprint": "004e4f8a5d50047892a3adad"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1884,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
