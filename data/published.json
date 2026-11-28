@@ -14155,5 +14155,45 @@
     "hasImage": true,
     "eventFingerprint": "004e4f8a5d50047892a3adad",
     "timestamp": "2026-11-28T03:03:39.933Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1885,
+    "text": "Institutional capital is reversing course at a scale not seen in months. \n\nUS spot Bitcoin ETFs just wrapped up an eight-session outflow streak totaling roughly $3.44 billion between November 17 and 27. \n\nThe pressure is heavily concentrated in a single vehicle. BlackRock’s IBIT accounted for about $2.79 billion of those redemptions—roughly 81% of the total market exit. \n\nEven Friday's shortened holiday session failed to stem the tide, pulling $389 million across the sector with IBIT alone shedding $327.2 million. \n\nMarket participants should note the mechanical reality here: these ETF redemptions reflect investor exits, not BlackRock liquidating underlying Bitcoin reserves.",
+    "hasImage": true,
+    "eventFingerprint": "7e7d2852b490acbf38c67dfc",
+    "timestamp": "2026-11-28T12:40:43.969Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1886,
+    "text": "Solana mainnet operators have been told to upgrade immediately, and the reason is currently under wraps.\n\nAnza issued an urgent notice for validators to adopt the Agave client version 4.4.2 as soon as possible. \n\nDevelopers emphasized that the network continues to operate normally, noting that the emergency release does not point to an active exploit, attack, or outage. \n\nThe precise technical trigger behind the rapid patch has not yet been fully disclosed. \n\nValidator directory data indicates a mixed distribution of software versions across the network, though verified adoption metrics for v4.4.2 remain unavailable at this stage.",
+    "hasImage": true,
+    "eventFingerprint": "0a40d19a6c8321eedde4d74c",
+    "timestamp": "2026-11-28T12:40:46.284Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1887,
+    "text": "Recovery efforts rarely move faster than the hackers clearing the trail.\n\nBinance confirms all withdrawal suspensions tied to the October 29 breach have officially ended, a month after a massive $6.3 billion security incident. \n\nOn-chain analysis shows the stolen funds are already active in North Korean laundering channels, complicating asset recovery efforts as platform operations return to normal.\n\n#Binance",
+    "hasImage": true,
+    "eventFingerprint": "f402136d807966c989c80e23",
+    "timestamp": "2026-11-28T12:40:53.992Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1888,
+    "text": "State-backed integration is accelerating faster than most Western markets are pricing in.\n\nRussia's second-largest lender, VTB, rolled out bitcoin trading for qualified investors in its app on Friday. \n\nThe move lands just a day after the Bank of Russia finalized the mandatory knowledge test required for retail participants. \n\nMeanwhile, SPB Exchange is scheduled to launch formal spot crypto trading on December 1. \n\nSanctions-driven isolation continues to push traditional financial institutions directly into digital asset rails. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "adcfdea818448022fcb4b4ce",
+    "timestamp": "2026-11-28T12:41:02.569Z"
+  },
+  {
+    "platform": "telegram",
+    "postId": 1889,
+    "text": "Your calendar is lying to you, because the math on the next Bitcoin halving just crossed the 500-day mark.\n\nIgnore the noise. \n\nWhile crypto Twitter spends the next year and a half arguing over macro data and moving averages, the block reward countdown keeps ticking in the background regardless of sentiment. \n\n#Bitcoin",
+    "hasImage": true,
+    "eventFingerprint": "d562fa0a48266054ed1508f9",
+    "timestamp": "2026-11-28T12:41:11.562Z"
   }
 ]

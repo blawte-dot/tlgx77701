@@ -75270,5 +75270,210 @@
         }
       }
     }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "BlackRock Bitcoin ETF Loses $2.8 Billion in Eight Consecutive Trading Sessions",
+    "link": "https://www.newsbtc.com/bitcoin-news/blackrock-bitcoin-etf-outflows-november-2026/",
+    "summary": "Key takeaways US spot Bitcoin ETFs recorded net outflows in eight straight sessions from November 17 to 27, totaling about $3.44 billion. BlackRock&#8217;s IBIT accounted for about $2.79 billion of that, roughly 81%. Friday&#8217;s shortened session still saw $389 million leave the funds, including $327.2 million from IBIT. IBIT&#8217;s Friday outflow was barely below Wednesday&#8217;s $329.7 million, despite the shorter trading window. ETF redemptions are not BlackRock selling its own Bitcoin, ",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/blackrock-bitcoin-etf-outflows-featured-750x422.jpg",
+    "publishedAt": "2026-11-28T08:59:59.000Z",
+    "collectedAt": "2026-11-28T12:40:40.682Z",
+    "corroboratingSources": 1,
+    "fingerprint": "7e7d2852b490acbf38c67dfc",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-28T12:40:43.979Z",
+    "outcome": {
+      "event": {
+        "title": "BlackRock Bitcoin ETF Loses $2.8 Billion in Eight Consecutive Trading Sessions",
+        "fingerprint": "7e7d2852b490acbf38c67dfc"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1885,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "NewsBTC",
+    "title": "Solana News: Developers Issue Urgent Upgrade Notice to Mainnet Validators",
+    "link": "https://www.newsbtc.com/altcoin-news/solana-news-urgent-validator-upgrade/",
+    "summary": "Key takeaways Anza told Solana mainnet operators, staked and unstaked, to install Agave validator client v4.4.2 immediately. The developers said the network was continuing to operate normally; the release does not by itself indicate an outage, exploit or attack. The exact technical issue behind the urgent release has not been fully established. Validator directory data shows mixed software versions, but no verified breakdown of v4.4.2 adoption is available yet. The notice is aimed at node operat",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/solana-validator-upgrade-featured-750x422.jpg",
+    "publishedAt": "2026-11-28T07:34:40.000Z",
+    "collectedAt": "2026-11-28T12:40:40.682Z",
+    "corroboratingSources": 1,
+    "fingerprint": "0a40d19a6c8321eedde4d74c",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 9,
+    "processedAt": "2026-11-28T12:40:46.293Z",
+    "outcome": {
+      "event": {
+        "title": "Solana News: Developers Issue Urgent Upgrade Notice to Mainnet Validators",
+        "fingerprint": "0a40d19a6c8321eedde4d74c"
+      },
+      "x": null,
+      "telegram": {
+        "format": "deep_dive",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1886,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+    "link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+    "summary": "Bitcoin Magazine\n\nBinance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack\nBinance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fully lifted, as researchers track North Korean launderers moving the stolen funds.\nThis post Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg",
+    "publishedAt": "2026-11-27T18:00:00.000Z",
+    "collectedAt": "2026-11-28T12:40:40.682Z",
+    "corroboratingSources": 1,
+    "fingerprint": "f402136d807966c989c80e23",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T12:40:54.006Z",
+    "outcome": {
+      "event": {
+        "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+        "fingerprint": "f402136d807966c989c80e23"
+      },
+      "x": null,
+      "telegram": {
+        "format": "market_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1887,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "Bitcoin Magazine",
+    "title": "Russia&#8217;s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
+    "link": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
+    "summary": "Bitcoin Magazine\n\nRussia&#8217;s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test\nVTB began letting qualified investors trade bitcoin in its app on Friday, a day after the Bank of Russia approved the knowledge test every crypto buyer must pass. SPB Exchange plans to open spot trading Dec. 1.\nThis post Russia&#8217;s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/U.S.-Sanctioned-Moscow-Exchange-Will-List-Bitcoin-on-Dec.-1-as-Russia-Pulls-Crypto-Trading-Home.jpg",
+    "publishedAt": "2026-11-27T17:06:12.000Z",
+    "collectedAt": "2026-11-28T12:40:40.682Z",
+    "corroboratingSources": 1,
+    "fingerprint": "adcfdea818448022fcb4b4ce",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T12:41:02.581Z",
+    "outcome": {
+      "event": {
+        "title": "Russia&#8217;s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
+        "fingerprint": "adcfdea818448022fcb4b4ce"
+      },
+      "x": null,
+      "telegram": {
+        "format": "risk_alert",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "article",
+        "result": {
+          "published": true,
+          "messageId": 1888,
+          "hasImage": true
+        }
+      }
+    }
+  },
+  {
+    "kind": "news",
+    "source": "U.Today",
+    "title": "Only 500 Days Left Until Bitcoin’s Big Halving, What to Watch",
+    "link": "https://u.today/only-500-days-left-until-bitcoins-big-halving-what-to-watch",
+    "summary": "The next Bitcoin halving is drawing closer, with the countdown reaching 500 days.",
+    "image": null,
+    "publishedAt": "2026-11-28T10:00:34.000Z",
+    "collectedAt": "2026-11-28T12:40:40.682Z",
+    "corroboratingSources": 1,
+    "fingerprint": "d562fa0a48266054ed1508f9",
+    "verification": {
+      "sourceTrusted": true,
+      "hasContent": true,
+      "isFresh": true,
+      "isRumor": false
+    },
+    "verified": true,
+    "importance": 6,
+    "processedAt": "2026-11-28T12:41:11.582Z",
+    "outcome": {
+      "event": {
+        "title": "Only 500 Days Left Until Bitcoin’s Big Halving, What to Watch",
+        "fingerprint": "d562fa0a48266054ed1508f9"
+      },
+      "x": null,
+      "telegram": {
+        "format": "meme_take",
+        "validation": {
+          "pass": true,
+          "reasons": []
+        },
+        "image": "chart",
+        "result": {
+          "published": true,
+          "messageId": 1889,
+          "hasImage": true
+        }
+      }
+    }
   }
 ]
